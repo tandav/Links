@@ -6,5 +6,8 @@
 * [Квантовая механика — Lurkmore](http://lurkmore.to/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0)
 * [Теория относительности в картинках / Хабрахабр](https://habrahabr.ru/post/169347/)
 
+## Math
+* [No bullshit guide to linear algebra – v2 | Hacker News](https://news.ycombinator.com/item?id=14115685)
+
 ## Biology
 * [vivekiitkgp/awesome-biology: Curated list of resources for Biology.](https://github.com/vivekiitkgp/awesome-biology)
