@@ -41,6 +41,7 @@
 * [Idnan/bash-guide: A guide to learn bash](https://github.com/Idnan/bash-guide)
 * [k4m4/terminals-are-sexy: 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.](https://github.com/k4m4/terminals-are-sexy)
 * [0nn0/terminal-mac-cheatsheet: List of my most used commands and shortcuts in the terminal for Mac](https://github.com/0nn0/terminal-mac-cheatsheet)
+* [Переход с bash на zsh / Хабрахабр](https://habrahabr.ru/post/326580/)
 
 ## Git
 * [tiimgreen/github-cheat-sheet: A list of cool features of Git and GitHub.](https://github.com/tiimgreen/github-cheat-sheet)
@@ -55,6 +56,7 @@
 * [equinusocio/material-theme: Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino](https://github.com/equinusocio/material-theme)
 * [titoBouzout/BufferScroll: Remember, restore and sync scroll, bookmarks, marks, folds and cursors. keys: multiple columns one buffer, follow mode, split, screen, pages, synchronize vertical and typewriter scrolling](https://github.com/titoBouzout/BufferScroll)
 * [hachesilva/Comment-Snippets: Several snippets to create fancy PHP, CSS and HTML comments.](https://github.com/hachesilva/Comment-Snippets)
+* [filter1/Sublime-Text-Plugins-for-Frontend-Web-Development: A Collection of Plugins for Frontend Web Development](https://github.com/filter1/Sublime-Text-Plugins-for-Frontend-Web-Development)
 
 ## macOS
 * [nikitavoloboev/my-mac-os:  a list of applications, alfred workflows and various tools that make my macOS experience even more amazing](https://github.com/nikitavoloboev/my-mac-os)

@@ -19,6 +19,7 @@
 * [Medium](https://medium.com/)
 * freecodecamp
 * hackernoon
+* [Popular on YouTube](https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA)
 
 ## Science and Tech
 * [Scientific American](https://www.scientificamerican.com/)
