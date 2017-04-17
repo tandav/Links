@@ -20,6 +20,7 @@
 * freecodecamp
 * hackernoon
 * [Popular on YouTube](https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA)
+* [dev.to() => The Practical Dev](https://dev.to/)
 
 ## Science and Tech
 * [Scientific American](https://www.scientificamerican.com/)
