@@ -1,3 +1,3 @@
 # Tools
-* Workflowy
+* Workflowy, Dynalist
 * Github
