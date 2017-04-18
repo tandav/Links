@@ -37,9 +37,3 @@
 ## Other
 * [Popular Music Videos - YouTube](https://www.youtube.com/playlist?list=PLFgquLnL59alCl_2TQvOiD5Vgm1hCaGSI)
 * [VICE - Оригинальные репортажи и документальные фильмы о всём важном в мире.](https://www.vice.com/ru)
-
-## Frontend
-* [Designmodo: Web Design Blog and Shop](https://designmodo.com/)
-* [CSS-Tricks](https://css-tricks.com/)
-* [Design Shack](https://designshack.net/)
-* [Smashing Magazine](https://www.smashingmagazine.com/)

@@ -6,6 +6,12 @@
 * [kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2017](https://github.com/kamranahmedse/developer-roadmap)
 * [Debugging Tips and Tricks | CSS-Tricks](https://css-tricks.com/debugging-tips-tricks/)
 
+## News
+* [Designmodo: Web Design Blog and Shop](https://designmodo.com/)
+* [CSS-Tricks](https://css-tricks.com/)
+* [Design Shack](https://designshack.net/)
+* [Smashing Magazine](https://www.smashingmagazine.com/)
+
 ## HTML
 * [HTML Reference](http://htmlreference.io/)
 * [Getting Started – Pug](https://pugjs.org/api/getting-started.html)
