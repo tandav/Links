@@ -17,18 +17,17 @@
 * [research.googleblog.com](https://research.googleblog.com/)
 * [Product Hunt](https://www.producthunt.com/)
 * [Medium](https://medium.com/)
-* freecodecamp
-* hackernoon
+* [freeCodeCamp](https://medium.freecodecamp.com/)
+* [Hacker Noon](https://hackernoon.com/)
 * [Popular on YouTube](https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA)
 * [dev.to() => The Practical Dev](https://dev.to/)
 
 ## Science and Tech
 * [Scientific American](https://www.scientificamerican.com/)
-* quantamagazine
-* nautilus
-* theverge
-* thenextweb
-* motherboard / vice
+* [Quanta Magazine](https://www.quantamagazine.org/)
+* [Nautilus](http://nautil.us/)
+* [The Verge](http://www.theverge.com/)
+* [Motherboard](https://motherboard.vice.com/en_us)
 * [Элементы](http://elementy.ru/)
 * [N+1](https://nplus1.ru/)
 * [Lenta.ru: Наука и техника](https://lenta.ru/rubrics/science/)
