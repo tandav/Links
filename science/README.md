@@ -1,4 +1,6 @@
 # Science
+* [КОВЧЕГ ИДЕЙ - YouTube](https://www.youtube.com/playlist?list=PL0S_wSs_HtCszBiXr0iwbZBuA6LdJ7Sap)
+
 ## Physics
 * [Quantum mechanics - Wikipedia](https://en.wikipedia.org/wiki/Quantum_mechanics)
 * [Badges - Physics Stack Exchange](http://physics.stackexchange.com/help/badges)
@@ -7,6 +9,7 @@
 * [Теория относительности в картинках / Хабрахабр](https://habrahabr.ru/post/169347/)
 * [Квантовый компьютер - Википедия](https://ru.wikipedia.org/wiki/Квантовый_компьютер)
 * [Часть 21 из 74 - Хокинг Стивен. Краткая история времени от большого взрыва до черных дыр](http://www.x-libri.ru/elib/hwkng000/00000021.htm#a7)
+* [Мифы о Теории Относительности - YouTube](https://www.youtube.com/watch?v=Lb0cFfsZ7Ag&t=0s)
 
 ## Math
 * [No bullshit guide to linear algebra – v2 | Hacker News](https://news.ycombinator.com/item?id=14115685)
