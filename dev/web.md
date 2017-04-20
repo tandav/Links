@@ -36,6 +36,7 @@
 * [facebookincubator/create-react-app: Create React apps with no build configuration.](https://github.com/facebookincubator/create-react-app)
 * [markerikson/react-redux-links: Curated tutorial and resource links I've collected on React, Redux, ES6, and more](https://github.com/markerikson/react-redux-links)
 * [kriasoft/react-starter-kit: React Starter Kit — isomorphic web app boilerplate (Node.js, Express, GraphQL, React.js, Babel, PostCSS, Webpack, Browsersync)](https://github.com/kriasoft/react-starter-kit)
+* [markerikson/react-redux-links: Curated tutorial and resource links I've collected on React, Redux, ES6, and more](https://github.com/markerikson/react-redux-links)
 
 ### Vue
 * [vuejs/vue: A progressive, incrementally-adoptable JavaScript framework for building UI on the web.](https://github.com/vuejs/vue)
