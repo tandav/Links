@@ -1,5 +1,5 @@
 # Science
-* [Physics](physics.md)
+* [Physics](physics)
 * [Math](math.md) 
 * [Biology, Evolution, Physiology](biology.md)
 
