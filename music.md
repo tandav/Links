@@ -13,3 +13,4 @@ Here I store my music library.
 
 ## Raw
 * Diplo and Friends Podcast // various music, mostly nervous (but groovy)
+* Aeoliah (new age) + check out music theory
