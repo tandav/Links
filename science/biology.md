@@ -2,7 +2,8 @@
 * [The Origin of Life - Abiogenesis - Dr. Jack Szostak - YouTube](https://www.youtube.com/watch?v=U6QYDdgP9eg)
 * [vivekiitkgp/awesome-biology: Curated list of resources for Biology.](https://github.com/vivekiitkgp/awesome-biology)
 * [Вы неправильно пишете животных / Хабрахабр](https://habrahabr.ru/post/254473/)
-* [Без Эйнштейна мы разбирались бы с гравитацией ещё десятки лет / Geektimes](https://geektimes.ru/post/287800/)
+* [Tears | Hacker News](https://news.ycombinator.com/item?id=13917032)
+* [Вызов: Попробуй НЕ ЗЕВАТЬ, пока смотришь это видео (Ellgin) - YouTube](https://www.youtube.com/watch?v=7rdrO1DSe9k)
 
 ## Александр Марков
 * [macroevolution](http://macroevolution.livejournal.com/)
