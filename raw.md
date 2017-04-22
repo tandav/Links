@@ -1,4 +1,5 @@
 # Raw Good Links
+* [Ask HN: What's your favorite tech talk? | Hacker News](https://news.ycombinator.com/item?id=12637239)
 * [Cheng Lou - On the Spectrum of Abstraction at react-europe 2016 - YouTube](https://www.youtube.com/watch?v=mVVNJKv9esE)
 
 ## Some GitHub Music Repos

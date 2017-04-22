@@ -6,3 +6,4 @@
 * [0nn0/terminal-mac-cheatsheet: List of my most used commands and shortcuts in the terminal for Mac](https://github.com/0nn0/terminal-mac-cheatsheet)
 * [Переход с bash на zsh / Хабрахабр](https://habrahabr.ru/post/326580/)
 * [My favorite command-line utilities](https://hackernoon.com/macbook-my-command-line-utilities-f8a121c3b019)
+* [linux - Understanding UNIX permissions and their attributes - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/183994/understanding-unix-permissions-and-their-attributes)

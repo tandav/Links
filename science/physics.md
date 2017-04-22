@@ -3,6 +3,7 @@
 * [Quantum mechanics - Wikipedia](https://en.wikipedia.org/wiki/Quantum_mechanics)
 * [Квантовая механика — Lurkmore](http://lurkmore.to/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0)
 * [Квантовый компьютер - Википедия](https://ru.wikipedia.org/wiki/Квантовый_компьютер)
+* [quantum mechanics - Hacker News Search](https://hn.algolia.com/?query=quantum%20mechanics&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 * [Часть 21 из 74 - Хокинг Стивен. Краткая история времени от большого взрыва до черных дыр](http://www.x-libri.ru/elib/hwkng000/00000021.htm#a7)
 
 ## Relativity

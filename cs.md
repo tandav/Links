@@ -10,6 +10,7 @@
 * [kdn251/interviews: Everything you need to know to get the job.](https://github.com/kdn251/interviews)
 * [MaximAbramchuck/awesome-interview-questions: A curated awesome list of lists of interview questions. Feel free to contribute!](https://github.com/MaximAbramchuck/awesome-interview-questions)
 * [10 papers every programmer should read - Google Search](https://www.google.ru/search?q=10+papers+every+programmer+should+read&ie=UTF-8&)
+* [Весь гарвардский курс по основам программирования](https://tjournal.ru/43510-ves-garvardskii-kurs-po-osnovam-programmirovaniya)
 
 ## Books
 * Gödel, Escher, Bach - Must Read, [related stuff](https://news.ycombinator.com/item?id=13995609)
