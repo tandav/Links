@@ -5,6 +5,7 @@
 * [Quora](https://www.quora.com/)
 * [Stack Exchange](http://stackexchange.com/sites)
 * [reddit](https://www.reddit.com/)
+* [Who I follow on Twitter](https://twitter.com/tandavaya/following)
 
 ## News
 * [TJournal.ru](https://tjournal.ru/)

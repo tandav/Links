@@ -15,3 +15,4 @@
 
 ## Books
 * Gödel, Escher, Bach - Must Read, [related stuff](https://news.ycombinator.com/item?id=13995609)
+* [Top Hacker News Books of All Time](http://hackernewsbooks.com/top-books-on-hacker-news)

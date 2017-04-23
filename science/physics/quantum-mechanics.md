@@ -15,8 +15,10 @@
 * [Building the Bits and Qubits - YouTube](https://www.youtube.com/watch?v=F8U1d2Hqark)
 * [You don't know how Quantum Computers work! - YouTube](https://www.youtube.com/watch?v=ZoT82NDpcvQ)
 * [Quantum Computing 'Magic' - Computerphile - YouTube](https://www.youtube.com/watch?v=BYx04e35Xso)
+* [Quantum Cooling to (Near) Absolute Zero - YouTube](https://www.youtube.com/watch?v=7jT5rbE69ho)
 
 ## Deep Level
+* [Quantum Computation and Quantum Information: Nielsen, Chuang](https://www.amazon.com/Quantum-Computation-Information-10th-Anniversary/dp/1107002176)
 * [Understanding the Bloch sphere - Physics Stack Exchange](https://physics.stackexchange.com/questions/204090/understanding-the-bloch-sphere)
 * [Intuition behind the Hadamard gate - Computer Science Stack Exchange](https://cs.stackexchange.com/questions/63859/intuition-behind-the-hadamard-gate)
 * [Understanding the Hadamard gate on the Bloch sphere - Physics Stack Exchange](https://physics.stackexchange.com/questions/313959/understanding-the-hadamard-gate-on-the-bloch-sphere)
