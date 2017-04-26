@@ -24,7 +24,8 @@
 * [Александр Марков - Психогенетика: как гены влияют на наше поведение - YouTube](https://www.youtube.com/watch?v=JLwa_1iMwFM&list=PL4qBE1-4ZNC3eiJxEUrwUIhswl_mAHX_B&index=7)
 * [Александр Марков: Эволюционные корни добра и зла - YouTube](https://www.youtube.com/watch?v=YIIJ-NjKKbA&index=7&list=PL4qBE1-4ZNC3eiJxEUrwUIhswl_mAHX_B)
 * [Александр Марков - Эволюционная биология любви - YouTube](https://www.youtube.com/watch?v=A5XPRrUkAZc&index=14&list=PL4qBE1-4ZNC3eiJxEUrwUIhswl_mAHX_B)
-* [Илья Колмановский, Александр Марков: Бушмен внутри нас - YouTube](https://www.youtube.com/watch?v=l9MAWLXyaeg&index=11&list=PL4qBE1-4ZNC3eiJxEUrwUIhswl_mAHX_B)
+* [Илья Колмановский, Александр Марков: Бушмен внутри нас - YouTube](https://www.youtube.com/watch?v=l9MAWLXyaeg)
+* [Мир Науки Эволюция человека - вершина или этап? - YouTube](https://www.youtube.com/watch?v=3socdCZZZOY)
 
 ## Гормоны
 - [Гормоны, часть первая: андрогены / Блог компании «Атлас» / Geektimes](https://geektimes.ru/company/atlasbiomed/blog/281572/)

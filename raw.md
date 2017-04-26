@@ -2,6 +2,7 @@
 * [Ask HN: What's your favorite tech talk? | Hacker News](https://news.ycombinator.com/item?id=12637239)
 * [Cheng Lou - On the Spectrum of Abstraction at react-europe 2016 - YouTube](https://www.youtube.com/watch?v=mVVNJKv9esE)
 * [Archive | Melting Asphalt](http://www.meltingasphalt.com/archive/) `Good Blog`
+* [Here are 250 Ivy League courses you can take online right now for free](https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869)
 
 ## Some GitHub Music Repos
 * [ciconia/awesome-music: Awesome Music Projects](https://github.com/ciconia/awesome-music)

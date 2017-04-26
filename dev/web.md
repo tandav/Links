@@ -5,6 +5,7 @@
 * [mdo/code-guide: Standards for flexible, durable, and sustainable HTML and CSS.](https://github.com/mdo/code-guide)
 * [kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2017](https://github.com/kamranahmedse/developer-roadmap)
 * [Debugging Tips and Tricks | CSS-Tricks](https://css-tricks.com/debugging-tips-tricks/)
+* [gothinkster/realworld: A Collection & Specification for Exemplary Frontend and Backend Codebases 🏅](https://github.com/gothinkster/realworld?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
 
 ## News
 * [Designmodo: Web Design Blog and Shop](https://designmodo.com/)
@@ -37,6 +38,7 @@
 * [markerikson/react-redux-links: Curated tutorial and resource links I've collected on React, Redux, ES6, and more](https://github.com/markerikson/react-redux-links)
 * [kriasoft/react-starter-kit: React Starter Kit — isomorphic web app boilerplate (Node.js, Express, GraphQL, React.js, Babel, PostCSS, Webpack, Browsersync)](https://github.com/kriasoft/react-starter-kit)
 * [markerikson/react-redux-links: Curated tutorial and resource links I've collected on React, Redux, ES6, and more](https://github.com/markerikson/react-redux-links)
+* [When Does a Project Need React? | CSS-Tricks](https://css-tricks.com/project-need-react/)
 
 ### Vue
 * [vuejs/vue: A progressive, incrementally-adoptable JavaScript framework for building UI on the web.](https://github.com/vuejs/vue)

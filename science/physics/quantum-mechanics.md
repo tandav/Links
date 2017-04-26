@@ -16,6 +16,7 @@
 * [You don't know how Quantum Computers work! - YouTube](https://www.youtube.com/watch?v=ZoT82NDpcvQ)
 * [Quantum Computing 'Magic' - Computerphile - YouTube](https://www.youtube.com/watch?v=BYx04e35Xso)
 * [Quantum Cooling to (Near) Absolute Zero - YouTube](https://www.youtube.com/watch?v=7jT5rbE69ho)
+* [Quantum computers for beginners · sergey-tikhomirov/Quantum-Computing Wiki](https://github.com/sergey-tikhomirov/Quantum-Computing/wiki/Quantum-computers-for-beginners)
 
 ## Deep Level
 * [Quantum Computation and Quantum Information: Nielsen, Chuang](https://www.amazon.com/Quantum-Computation-Information-10th-Anniversary/dp/1107002176)
