@@ -7,3 +7,5 @@
 * [filter1/Sublime-Text-Plugins-for-Frontend-Web-Development: A Collection of Plugins for Frontend Web Development](https://github.com/filter1/Sublime-Text-Plugins-for-Frontend-Web-Development)
 * [Little trick I use to navigate source code better – Nikita Voloboev – Medium](https://medium.com/@NikitaVoloboev/little-trick-i-use-to-navigate-source-code-better-bc958ccd821)
 * [Atom treasures – freeCodeCamp](https://medium.freecodecamp.com/atom-treasures-82a64ac391c#.fn6ia0ho7)
+* [jfilter/Sublime-Text-Plugins-for-Frontend-Web-Development: 📝 A Collection of Plugins for Frontend Web Development](https://github.com/jfilter/Sublime-Text-Plugins-for-Frontend-Web-Development#administrative)
+* [aziz/SublimeFileBrowser: Ditch sidebar and browse your files in a normal tab with keyboard, like a pro!](https://github.com/aziz/SublimeFileBrowser)

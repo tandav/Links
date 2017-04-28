@@ -19,6 +19,7 @@
 * [danigb/tonal: A functional music theory library for Javascript](https://github.com/danigb/tonal)
 * [gluon/AbletonLive9_RemoteScripts: Unofficial repository for Ableton Live 9 MIDI Remote Scripts by Julien Bayle](https://github.com/gluon/AbletonLive9_RemoteScripts)
 * [cuthbertLab/music21: music21 is a Toolkit for Computational Musicology](https://github.com/cuthbertLab/music21)
+* [Show HN: An attempt to rethink a music sequencer design | Hacker News](https://news.ycombinator.com/item?id=14212054)
 
 ## Sites w/ probably good content
 * [Aeon | a world of ideas](https://aeon.co/)

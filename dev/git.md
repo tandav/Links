@@ -30,6 +30,7 @@
 * [Most Used Git Commands - Google Search](https://www.google.com/search?q=Most+Used+Git+Commands&oq=Most+Used+Git+Commands)
 * [Git-Game](https://www.git-game.com/)
 * [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+* [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/docs/git/)
 
 ## Todo
 - git aliases (google some boilerplates)

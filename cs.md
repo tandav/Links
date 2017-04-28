@@ -13,6 +13,7 @@
 * [Весь гарвардский курс по основам программирования](https://tjournal.ru/43510-ves-garvardskii-kurs-po-osnovam-programmirovaniya)
 * [Proof That Computers Can't Do Everything (The Halting Problem) - YouTube](https://www.youtube.com/watch?v=92WHN-pAFCs)
 * [MITP on Nautilus: The Outer Limits of Reason](http://mitp.nautil.us/feature/148/the-outer-limits-of-reason)
+* [best algorithms - Google Search](https://www.google.ru/search?q=best+algorithms)
 
 ## Books
 * Gödel, Escher, Bach - Must Read, [related stuff](https://news.ycombinator.com/item?id=13995609)

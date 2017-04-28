@@ -6,6 +6,8 @@
 * [kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2017](https://github.com/kamranahmedse/developer-roadmap)
 * [Debugging Tips and Tricks | CSS-Tricks](https://css-tricks.com/debugging-tips-tricks/)
 * [gothinkster/realworld: A Collection & Specification for Exemplary Frontend and Backend Codebases 🏅](https://github.com/gothinkster/realworld?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
+* [Progressive Web Apps Training  |  Web  |  Google Developers](https://developers.google.com/web/ilt/pwa/)
+* [tuvttran/project-based-learning: Curated list of project-based tutorials](https://github.com/tuvttran/project-based-learning)
 
 ## News
 * [Designmodo: Web Design Blog and Shop](https://designmodo.com/)
