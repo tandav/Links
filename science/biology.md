@@ -9,7 +9,7 @@
 * [macroevolution](http://macroevolution.livejournal.com/)
 * [Марков Александр - Проблемы происхождения жизни. Абиогенез - YouTube](https://www.youtube.com/watch?v=3YTkFsWw4_4&index=1&list=WL&t=1988s)
 * [Александр Марков | Происхождение жизни - YouTube](https://www.youtube.com/watch?v=D4eWLxyyS2o&index=4&list=WL)
-* [Александра Маркова | Происхождение разума, эмоций, морали - YouTube](https://www.youtube.com/watch?v=Tl4lT6zKq1Y&list=WL&index=4)
+* [Александр Марков. Происхождение разума, эмоций, морали - YouTube](https://www.youtube.com/watch?v=3UxUzqQi03s)
 * [Александр Марков, биолог: Сомневаться в теории эволюции - абсурд - YouTube](https://www.youtube.com/watch?v=sNHo8h6qQRs&index=2&list=PL4qBE1-4ZNC3eiJxEUrwUIhswl_mAHX_B)
 * [Александр Марков: "Происхождение жизни" - YouTube](https://www.youtube.com/watch?v=awDHwbjdVxc&index=3&list=PL4qBE1-4ZNC3eiJxEUrwUIhswl_mAHX_B)
 * [Александр Марков - Эволюционная психология - YouTube](https://www.youtube.com/watch?v=VBA1_R2k6AU&list=PL4qBE1-4ZNC3eiJxEUrwUIhswl_mAHX_B&index=3)
@@ -26,6 +26,9 @@
 * [Александр Марков - Эволюционная биология любви - YouTube](https://www.youtube.com/watch?v=A5XPRrUkAZc&index=14&list=PL4qBE1-4ZNC3eiJxEUrwUIhswl_mAHX_B)
 * [Илья Колмановский, Александр Марков: Бушмен внутри нас - YouTube](https://www.youtube.com/watch?v=l9MAWLXyaeg)
 * [Мир Науки Эволюция человека - вершина или этап? - YouTube](https://www.youtube.com/watch?v=3socdCZZZOY)
+* [«Медицина в контексте». Тема: «Мозг и эволюция», гость — Александр Марков. - YouTube](https://www.youtube.com/watch?v=CWJmRdatUvI)
+* [«Медицина в контексте», тема: «Эволюционное религиоведение». Гость — Александр Марков. - YouTube](https://www.youtube.com/watch?v=3TG-bSP8JzY&index=41&list=LLbgKryv4gdpJJ7_Rg5i2xyg)
+* [Авторская программа «Медицина в контексте». Тема: «Эволюция альтруизма». Гость — Александр Марков. - YouTube](https://www.youtube.com/watch?v=Ly6RMB6Ftuk)
 
 ## Гормоны
 - [Гормоны, часть первая: андрогены / Блог компании «Атлас» / Geektimes](https://geektimes.ru/company/atlasbiomed/blog/281572/)

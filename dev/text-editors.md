@@ -1,4 +1,5 @@
-## Text Editors
+# Text Editors
+## Sublime Text
 * [saadq/Materialize: Elegant themes for Sublime Text 3](https://github.com/saadq/Materialize)
 * [dreikanter/sublime-bookmarks: Sublime Text essential plugins and resources](https://github.com/dreikanter/sublime-bookmarks)
 * [equinusocio/material-theme: Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino](https://github.com/equinusocio/material-theme)
@@ -9,3 +10,8 @@
 * [Atom treasures – freeCodeCamp](https://medium.freecodecamp.com/atom-treasures-82a64ac391c#.fn6ia0ho7)
 * [jfilter/Sublime-Text-Plugins-for-Frontend-Web-Development: 📝 A Collection of Plugins for Frontend Web Development](https://github.com/jfilter/Sublime-Text-Plugins-for-Frontend-Web-Development#administrative)
 * [aziz/SublimeFileBrowser: Ditch sidebar and browse your files in a normal tab with keyboard, like a pro!](https://github.com/aziz/SublimeFileBrowser)
+
+## Emacs
+* [My emacs cheat sheet](https://gist.github.com/dherman/3238368)
+* [online org-mode editor - Google Search](https://www.google.com/search?q=online+org-mode+editor)
+* [orgmode online - Google Search](https://www.google.com/search?q=orgmode+online)

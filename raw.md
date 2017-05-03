@@ -7,7 +7,7 @@
 ## Some GitHub Music Repos
 * [ciconia/awesome-music: Awesome Music Projects](https://github.com/ciconia/awesome-music)
 * [googlecreativelab/aiexperiments-ai-duet: A piano that responds to you.](https://github.com/googlecreativelab/aiexperiments-ai-duet)
-* [csound/csound: Main repository for Csound](https://github.com/csound/csound)
+* csound: [website](http://csound.github.io/) [github](https://github.com/csound/csound) [wiki](https://en.wikipedia.org/wiki/Csound)
 * [googlecreativelab/chrome-music-lab: A collection of experiments for exploring how music works, all built with the Web Audio API.](https://github.com/googlecreativelab/chrome-music-lab)
 * [audiokit/AudioKit: Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS](https://github.com/audiokit/AudioKit)
 * [kshaffer/musicianshipResources](https://github.com/kshaffer/musicianshipResources)
