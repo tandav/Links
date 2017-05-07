@@ -16,3 +16,5 @@ Here I store my music library.
 * Diplo and Friends Podcast // various music, mostly nervous (but groovy)
 * Aeoliah (new age) + check out music theory
 * Karunesh
+* Astral Projection `good psytrance`
+* Astrix `good psytrance`
