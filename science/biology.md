@@ -2,6 +2,7 @@
 * [The Origin of Life - Abiogenesis - Dr. Jack Szostak - YouTube](https://www.youtube.com/watch?v=U6QYDdgP9eg)
 * [vivekiitkgp/awesome-biology: Curated list of resources for Biology.](https://github.com/vivekiitkgp/awesome-biology)
 * [Вы неправильно пишете животных / Хабрахабр](https://habrahabr.ru/post/254473/)
+* [Какие ошибки с точки зрения архитектуры и здравого смысла допущены в строении тела человека? — TheQuestion](https://thequestion.ru/questions/91879/kakie-oshibki-s-tochki-zreniya-arkhitektury-i-zdravogo-smysla-dopusheny-v-stroenii-tela-cheloveka)
 * [Tears | Hacker News](https://news.ycombinator.com/item?id=13917032)
 * [Вызов: Попробуй НЕ ЗЕВАТЬ, пока смотришь это видео (Ellgin) - YouTube](https://www.youtube.com/watch?v=7rdrO1DSe9k)
 

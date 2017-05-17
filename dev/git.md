@@ -32,6 +32,9 @@
 * [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 * [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/docs/git/)
 * [git - sync files without commiting? - Stack Overflow](http://stackoverflow.com/questions/4885653/sync-files-without-commiting)
+* [Move existing, uncommited work to a new branch in Git - Stack Overflow](http://stackoverflow.com/questions/1394797/move-existing-uncommited-work-to-a-new-branch-in-git)
 
 ## Todo
-- git aliases (google some boilerplates)
+- git aliases (google some boilerplates) | DONE: oh-my-zsh aliases
+- learn all about `.gitignore` and `.gitattributes` and optionaly `git submodule`
+
