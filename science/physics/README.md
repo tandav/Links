@@ -8,5 +8,5 @@
 * [Без Эйнштейна мы разбирались бы с гравитацией ещё десятки лет / Geektimes](https://geektimes.ru/post/287800/)
 * 
 
-## Physics
+## Raw
 * [Badges - Physics Stack Exchange](http://physics.stackexchange.com/help/badges)

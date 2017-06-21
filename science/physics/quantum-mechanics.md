@@ -20,6 +20,7 @@
 * [Quantum computers for beginners · sergey-tikhomirov/Quantum-Computing Wiki](https://github.com/sergey-tikhomirov/Quantum-Computing/wiki/Quantum-computers-for-beginners)
 * [Quantum Computing Concepts - YouTube](https://www.youtube.com/playlist?list=PL50XnIfJxPDWDyea8EbbLe8GHfXkWU7W_)
 * [Quantum Around You - YouTube](https://www.youtube.com/playlist?list=PLHSIfioizVW1sXAjY3aYCugtKDFPTNztl)
+* [Veritasium: Так ли выглядит квантовая механика? - YouTube](https://youtu.be/tJCKfZkcE1k)
 
 ## Deep Level
 * [Quantum Computation and Quantum Information: Nielsen, Chuang](https://www.amazon.com/Quantum-Computation-Information-10th-Anniversary/dp/1107002176)

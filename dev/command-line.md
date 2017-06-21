@@ -12,3 +12,4 @@
 * [zsh tutorial - Google Search](https://www.google.ru/search?q=zsh+tutorial)
 * [zsh - HN Search](https://hn.algolia.com/?query=zsh&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 * [Переход с bash на zsh / Хабрахабр](https://habrahabr.ru/post/326580/)
+* [bhilburn/powerlevel9k: The most awesome Powerline theme for ZSH around!](https://github.com/bhilburn/powerlevel9k)

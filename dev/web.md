@@ -8,6 +8,7 @@
 * [gothinkster/realworld: A Collection & Specification for Exemplary Frontend and Backend Codebases 🏅](https://github.com/gothinkster/realworld?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
 * [Progressive Web Apps Training  |  Web  |  Google Developers](https://developers.google.com/web/ilt/pwa/)
 * [tuvttran/project-based-learning: Curated list of project-based tutorials](https://github.com/tuvttran/project-based-learning)
+* [freeCodeCamp - YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/playlists?app=desktop)
 
 ## News
 * [Designmodo: Web Design Blog and Shop](https://designmodo.com/)

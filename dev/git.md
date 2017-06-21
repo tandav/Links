@@ -35,6 +35,7 @@
 * [Move existing, uncommited work to a new branch in Git - Stack Overflow](http://stackoverflow.com/questions/1394797/move-existing-uncommited-work-to-a-new-branch-in-git)
 * [Git - Git Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
 * [git-tips/tips: Most commonly used git tips and tricks.](https://github.com/git-tips/tips)
+* [GitHub Services - Resources](https://services.github.com/resources/)
 
 ## Todo
 - git aliases (google some boilerplates) | DONE: oh-my-zsh aliases

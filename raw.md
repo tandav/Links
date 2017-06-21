@@ -6,6 +6,11 @@
 * [sp4ke/awesome-explorables: A curated list of awesome explorable explanations.](https://github.com/sp4ke/awesome-explorables)
 * [Тут справа есть разделы знаний / наук](https://en.wikipedia.org/wiki/Science)
 * [53+ Free Image Sources For Your Blog and Social Media Posts](https://stories.buffer.com/53-free-image-sources-for-your-blog-and-social-media-posts-af805b755d48#.wrqamqmw8)
+* [Life is totally meaningless. We live. We die. So what's the point? - Quora](https://www.quora.com/Life-is-totally-meaningless-We-live-We-die-So-whats-the-point)
+* [How an obscure oriental cult converted a vast, pagan Roman empire | Aeon Essays](https://aeon.co/essays/how-an-obscure-oriental-cult-converted-a-vast-pagan-roman-empire)
+* [HN Search powered by Algolia](https://hn.algolia.com/?query=ask%20HN&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
+* [Classic Papers: Articles That Have Stood the Test of Time | Hacker News](https://news.ycombinator.com/item?id=14575501)
+* [Ask HN: Which websites do you visit? | Hacker News](https://news.ycombinator.com/item?id=14378536)
 
 ## Some Music Projects
 * [Get started | Learning Music (Beta)](https://learningmusic.ableton.com/)
@@ -26,6 +31,7 @@
 * [cuthbertLab/music21: music21 is a Toolkit for Computational Musicology](https://github.com/cuthbertLab/music21)
 * [Show HN: An attempt to rethink a music sequencer design | Hacker News](https://news.ycombinator.com/item?id=14212054)
 * [Sonic Pi - The Live Coding Music Synth for Everyone](http://sonic-pi.net/)
+* [bayandin/awesome-awesomeness: A curated list of awesome awesomeness](https://github.com/bayandin/awesome-awesomeness)
 
 ## Sites w/ probably good content
 * [Aeon | a world of ideas](https://aeon.co/)

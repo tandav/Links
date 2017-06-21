@@ -11,10 +11,14 @@
 * [MaximAbramchuck/awesome-interview-questions: A curated awesome list of lists of interview questions. Feel free to contribute!](https://github.com/MaximAbramchuck/awesome-interview-questions)
 * [10 papers every programmer should read - Google Search](https://www.google.ru/search?q=10+papers+every+programmer+should+read&ie=UTF-8&)
 * [Весь гарвардский курс по основам программирования](https://tjournal.ru/43510-ves-garvardskii-kurs-po-osnovam-programmirovaniya)
+* [Гарвардский курс CS50 на русском. Все серии / Блог компании Vert Dider / Geektimes](https://geektimes.ru/company/vertdider/blog/289043/)
 * [Proof That Computers Can't Do Everything (The Halting Problem) - YouTube](https://www.youtube.com/watch?v=92WHN-pAFCs)
 * [MITP on Nautilus: The Outer Limits of Reason](http://mitp.nautil.us/feature/148/the-outer-limits-of-reason)
 * [best algorithms - Google Search](https://www.google.ru/search?q=best+algorithms)
+* [leandromoreira/digital_video_introduction: A hands-on introduction to video technology: image, video, codec (av1, h264, h265) and more (ffmpeg encoding).](https://github.com/leandromoreira/digital_video_introduction)
 
 ## Books
 * Gödel, Escher, Bach - Must Read, [related stuff](https://news.ycombinator.com/item?id=13995609)
+	* [godel escher bach review - Google Search](https://www.google.com/search?q=godel+escher+bach+review)
+	* [what is godel escher bach about - Google Search](https://www.google.com/search?q=what+is+godel+escher+bach+about)
 * [Top Hacker News Books of All Time](http://hackernewsbooks.com/top-books-on-hacker-news)

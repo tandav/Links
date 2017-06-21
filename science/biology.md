@@ -35,3 +35,8 @@
 - [Гормоны, часть первая: андрогены / Блог компании «Атлас» / Geektimes](https://geektimes.ru/company/atlasbiomed/blog/281572/)
 - [Гормоны, часть вторая: эстрогены / Блог компании «Атлас» / Geektimes](https://geektimes.ru/company/atlasbiomed/blog/281846/)
 - [Гормоны, часть третья: стресс и любовь / Блог компании «Атлас» / Geektimes](https://geektimes.ru/company/atlasbiomed/blog/282110/)
+- [Роберт Сапольски «Биология поведения человека» - YouTube](https://www.youtube.com/playlist?list=PL8YZyma552VcePhq86dEkohvoTpWPuauk)
+
+## Raw, Unhandled
+* [Интервью с Робертом Сапольски / Блог компании Vert Dider / Geektimes](https://geektimes.ru/company/vertdider/blog/289887/)
+* [Гипотеза «Общая теория эволюции» / Geektimes](https://geektimes.ru/post/289881/)
