@@ -33,3 +33,6 @@
 * [Is Heisenberg's Uncertainty Principle a fundamental truth of the Universe, or are we just incapable of measuring both position and momentum? - Quora](https://www.quora.com/Is-Heisenbergs-Uncertainty-Principle-a-fundamental-truth-of-the-Universe-or-are-we-just-incapable-of-measuring-both-position-and-momentum)
 * [Could Heisenberg's uncertainty principle disappear if scientists discover another method to measure the position and momentum of particles without using a photon? - Quora](https://www.quora.com/Could-Heisenbergs-uncertainty-principle-disappear-if-scientists-discover-another-method-to-measure-the-position-and-momentum-of-particles-without-using-a-photon)
 * [What is the current state of quantum computers? - Quora](https://www.quora.com/What-is-the-current-state-of-quantum-computers)
+* [quantum eraser at home - Google Search](https://www.google.ru/search?q=quantum+eraser+at+home)
+* quantum eraser
+* [Квантовое стирание - настоящая магия](http://m.pikabu.ru/story/kvantovoe_stiranie__nastoyashchaya_magiya_4176048)
