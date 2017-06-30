@@ -7,7 +7,12 @@
 * [Ask HN: Favorite HN comment(s) | Hacker News](https://news.ycombinator.com/item?id=14396104)
 * [sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 * [nushackers/notes-to-cs-freshmen-from-the-future: Notes to (NUS) Computer Science Freshmen, From The Future (Original by @ejamesc)](https://github.com/nushackers/notes-to-cs-freshmen-from-the-future)
+* [ssh crash course - Google Search](https://www.google.ru/search?q=ssh+crash+course)
+* Learn Docker
+* Design Patterns [как вар](https://github.com/kamranahmedse/design-patterns-for-humans)
 
 ## Literate Programming
 * [Литературное программирование / Хабрахабр](https://habrahabr.ru/post/105371/)
 * Литературное программирование / Literate Programming - search everywhere + orgmode
+* ["Literate Programming etc."-Алексей Пирогов, Kazan Python DevDay, 2014 - YouTube](https://www.youtube.com/watch?v=3bjEMJPZ9jI&list=WL&index=107)
+* [Литературное Программирование - YouTube](https://www.youtube.com/watch?v=8Z9NXypMiac&index=106&list=WL)

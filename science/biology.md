@@ -40,3 +40,8 @@
 ## Raw, Unhandled
 * [Интервью с Робертом Сапольски / Блог компании Vert Dider / Geektimes](https://geektimes.ru/company/vertdider/blog/289887/)
 * [Гипотеза «Общая теория эволюции» / Geektimes](https://geektimes.ru/post/289881/)
+* [Александр Марков: "Открытия в эволюции. Итоги 2016 года." - YouTube](https://www.youtube.com/watch?v=0Bcd7LkqBrQ&index=36&list=WL)
+* [Возможна ли жизнь без воды и жизнь без углерода? – Лекторий Политеха - YouTube](https://www.youtube.com/watch?v=n79xVJur1Q8&index=6&list=WL)
+* [Происхождение жизни на Земле (рассказывает биолог Михаил Никитин) - YouTube](https://www.youtube.com/watch?v=QyBQAwMPBWY&index=7&list=WL)
+* [Михаил Никитин «Зарождение жизни на Земле и других планетах» - YouTube](https://www.youtube.com/watch?v=dcJ4vcLy4lA&index=7&list=WL)
+* [Роберт Сапольски о науке, морали, религии и биологии поведения человека [Vert Dider] 2017 - YouTube](https://www.youtube.com/watch?v=-9KHru0w8Ic&list=WL&index=99)

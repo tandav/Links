@@ -41,3 +41,8 @@
 - git aliases (google some boilerplates) | DONE: oh-my-zsh aliases
 - learn all about `.gitignore` and `.gitattributes` and optionaly `git submodule`
 
+## raw shit
+* [Git Cozy - GitHub Universe Training Day 2016 - YouTube](https://www.youtube.com/watch?v=cd-g06nA3ns&index=6&list=WL)
+* [Git From the Bits Up - YouTube](https://www.youtube.com/watch?v=MYP56QJpDr4&list=WL&index=159)
+* [Advanced Git: Graphs, Hashes, and Compression, Oh My! - YouTube](https://www.youtube.com/watch?v=ig5E8CcdM9g&list=WL&index=160)
+
