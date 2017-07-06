@@ -12,6 +12,7 @@
 * [Classic Papers: Articles That Have Stood the Test of Time | Hacker News](https://news.ycombinator.com/item?id=14575501)
 * [Ask HN: Which websites do you visit? | Hacker News](https://news.ycombinator.com/item?id=14378536)
 * [DmitriyLanchakov/cheatsheets.pdf: 📚 Various cheat sheets in PDF](https://github.com/DmitriyLanchakov/cheatsheets.pdf)
+* [GitHub Issues as Blog](https://github.com/lukego/blog/issues)
 
 ## Some Music Projects
 * [Get started | Learning Music (Beta)](https://learningmusic.ableton.com/)

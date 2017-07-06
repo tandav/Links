@@ -1,6 +1,6 @@
 # Awesome Sites
 ## Basics
-* [Hacker News](https://news.ycombinator.com/) `// best website ever created`
+* [Hacker News](https://news.ycombinator.com/) | [HN Search](https://hn.algolia.com/?query=&sort=byPopularity&prefix&page=0&dateRange=all&type=story) `// best website ever created`
 * [sindresorhus/awesome: Curated list of awesome lists](https://github.com/sindresorhus/awesome) `// future of google search`
 * [Quora](https://www.quora.com/)
 * [Stack Exchange](http://stackexchange.com/sites)

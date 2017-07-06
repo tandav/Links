@@ -28,6 +28,7 @@
 * [Intuition behind the Hadamard gate - Computer Science Stack Exchange](https://cs.stackexchange.com/questions/63859/intuition-behind-the-hadamard-gate)
 * [Understanding the Hadamard gate on the Bloch sphere - Physics Stack Exchange](https://physics.stackexchange.com/questions/313959/understanding-the-hadamard-gate-on-the-bloch-sphere)
 * [hilbert space explanation - Google Search](https://www.google.ru/search?q=hilbert+space+explanation)
+* [MIT 8.04 Quantum Physics I, Spring 2016 - YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G)
 
 ## Raw Links
 * [Is Heisenberg's Uncertainty Principle a fundamental truth of the Universe, or are we just incapable of measuring both position and momentum? - Quora](https://www.quora.com/Is-Heisenbergs-Uncertainty-Principle-a-fundamental-truth-of-the-Universe-or-are-we-just-incapable-of-measuring-both-position-and-momentum)
@@ -51,3 +52,8 @@
 * [Visualization of Quantum Physics (Quantum Mechanics) - YouTube](https://www.youtube.com/watch?v=p7bzE1E5PMY&index=39&list=WL)
 * [Теорема о запрете клонирования - YouTube](https://www.youtube.com/watch?v=pDZLtR99Sm4&list=WL&index=58)
 * [Quantum Physics for 7 Year Olds | Dominic Walliman | TEDxEastVan - YouTube](https://www.youtube.com/watch?v=ARWBdfWpDyc&list=WL&index=53)
+* [How the Quantum Eraser Rewrites the Past | Space Time | PBS Digital Studios - YouTube](https://www.youtube.com/watch?v=8ORLN_KwAgs&index=90&list=WL)
+* [Awesome Homemade Quantum Eraser experiment - YouTube](https://www.youtube.com/watch?v=R-6St1rDbzo&list=WL&index=91)
+* [Delayed Choice Quantum Eraser Explained - YouTube](https://www.youtube.com/watch?v=U7Z_TIw9InA&list=WL&index=91)
+* [Delayed Choice Quantum Eraser - Quantum Physics - YouTube](https://www.youtube.com/watch?v=SzAQ36b9dzs&index=91&list=WL)
+* [The Original Double Slit Experiment - YouTube](https://www.youtube.com/watch?v=Iuv6hY6zsd0&index=91&list=WL)

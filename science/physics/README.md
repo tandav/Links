@@ -7,7 +7,9 @@
 * [Мифы о Теории Относительности - YouTube](https://www.youtube.com/watch?v=Lb0cFfsZ7Ag&t=0s)
 * [Без Эйнштейна мы разбирались бы с гравитацией ещё десятки лет / Geektimes](https://geektimes.ru/post/287800/)
 * [Специальная теория относительности - YouTube](https://www.youtube.com/watch?v=4eFRC_bwtXU&list=WL&index=5)
+* [The Original Double Slit Experiment - YouTube](https://www.youtube.com/watch?v=Iuv6hY6zsd0&index=91&list=WL)
 
 ## Raw
 * [Badges - Physics Stack Exchange](http://physics.stackexchange.com/help/badges)
 * [Science show. Выпуск № 63. Успехи Теории Большого Взрыва - YouTube](https://www.youtube.com/watch?v=jBcBAg6Xkwc&list=WL&index=6)
+* [Waves: Light, Sound, and the nature of Reality - YouTube](https://www.youtube.com/watch?v=Io-HXZTepH4&index=36&list=WL)

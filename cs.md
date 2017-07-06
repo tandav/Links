@@ -16,6 +16,7 @@
 * [MITP on Nautilus: The Outer Limits of Reason](http://mitp.nautil.us/feature/148/the-outer-limits-of-reason)
 * [best algorithms - Google Search](https://www.google.ru/search?q=best+algorithms)
 * [leandromoreira/digital_video_introduction: A hands-on introduction to video technology: image, video, codec (av1, h264, h265) and more (ffmpeg encoding).](https://github.com/leandromoreira/digital_video_introduction)
+* [algorithm - What are the differences between NP, NP-Complete and NP-Hard? - Stack Overflow](https://stackoverflow.com/questions/1857244/what-are-the-differences-between-np-np-complete-and-np-hard/1857342#1857342)
 
 ## Books
 * Gödel, Escher, Bach - Must Read, [related stuff](https://news.ycombinator.com/item?id=13995609)
