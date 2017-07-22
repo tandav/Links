@@ -1,4 +1,6 @@
 # Text Editors
+* [Почему, ну почему, эти #?@! придурки используют vi? / Хабрахабр](https://habrahabr.ru/post/307084/#comment_9732826)
+
 ## Sublime Text
 * [saadq/Materialize: Elegant themes for Sublime Text 3](https://github.com/saadq/Materialize)
 * [dreikanter/sublime-bookmarks: Sublime Text essential plugins and resources](https://github.com/dreikanter/sublime-bookmarks)
@@ -15,3 +17,7 @@
 * [My emacs cheat sheet](https://gist.github.com/dherman/3238368)
 * [online org-mode editor - Google Search](https://www.google.com/search?q=online+org-mode+editor)
 * [orgmode online - Google Search](https://www.google.com/search?q=orgmode+online)
+
+## Nano
+* [Nano: И всё-таки его придётся выучить [1] / Хабрахабр](https://habrahabr.ru/post/106471/)
+* [Два в одном: как пользоваться Vim и Nano? / Хабрахабр](https://habrahabr.ru/post/331600/)

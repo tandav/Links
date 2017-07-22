@@ -22,6 +22,7 @@
 * [Hacker Noon](https://hackernoon.com/)
 * [Popular on YouTube](https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA)
 * [dev.to() => The Practical Dev](https://dev.to/)
+* [Hackaday | Fresh hacks every day](http://hackaday.com/)
 
 ## Science and Tech
 * [Scientific American](https://www.scientificamerican.com/)

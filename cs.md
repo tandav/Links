@@ -17,6 +17,8 @@
 * [best algorithms - Google Search](https://www.google.ru/search?q=best+algorithms)
 * [leandromoreira/digital_video_introduction: A hands-on introduction to video technology: image, video, codec (av1, h264, h265) and more (ffmpeg encoding).](https://github.com/leandromoreira/digital_video_introduction)
 * [algorithm - What are the differences between NP, NP-Complete and NP-Hard? - Stack Overflow](https://stackoverflow.com/questions/1857244/what-are-the-differences-between-np-np-complete-and-np-hard/1857342#1857342)
+* [p vs np explained - Google Search](https://www.google.ru/search?q=p+vs+np+explained)
+* [The real 10 algorithms that dominate our world – Marcos Otero – Medium](https://medium.com/@_marcos_otero/the-real-10-algorithms-that-dominate-our-world-e95fa9f16c04)
 
 ## Books
 * Gödel, Escher, Bach - Must Read, [related stuff](https://news.ycombinator.com/item?id=13995609)

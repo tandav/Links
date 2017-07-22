@@ -10,6 +10,8 @@
 * [ssh crash course - Google Search](https://www.google.ru/search?q=ssh+crash+course)
 * Learn Docker
 * Design Patterns [как вар](https://github.com/kamranahmedse/design-patterns-for-humans)
+* [Kristories/awesome-guidelines: A curated list of high quality coding style conventions and standards.](https://github.com/Kristories/awesome-guidelines)
+* [aloisdg/awesome-regex: A curated collection of awesome Regex libraries, tools, frameworks and software](https://github.com/aloisdg/awesome-regex)
 
 ## Literate Programming
 * [Литературное программирование / Хабрахабр](https://habrahabr.ru/post/105371/)
