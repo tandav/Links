@@ -7,6 +7,8 @@
 * [My favorite command-line utilities](https://hackernoon.com/macbook-my-command-line-utilities-f8a121c3b019)
 * [linux - Understanding UNIX permissions and their attributes - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/183994/understanding-unix-permissions-and-their-attributes)
 * [alexanderepstein/Bash-Snippets: A collection of small bash scripts for heavy terminal users](https://github.com/alexanderepstein/Bash-Snippets?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
+* [denysdovhan/bash-handbook: For those who wanna learn Bash](https://github.com/denysdovhan/bash-handbook)
+- sed: google, hn, youtube
 
 ## Zsh
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) | [docs](https://github.com/robbyrussell/oh-my-zsh/wiki)

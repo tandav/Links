@@ -101,3 +101,12 @@ add this url to your browser bookmarks. Then click on it anytime you wand to get
 `javascript:var text='['+document.title+']('+location.href+')';window.prompt("Copy to clipboard: Ctrl+C, Enter",text);void(0);`
 
 ---
+
+[`this is code`](https://this_is_url/)
+
+---
+
+### `<a>` inside `<pre>`
+<pre>
+  <a href="http://htmlreference.io">HTML Reference</a>
+</pre>

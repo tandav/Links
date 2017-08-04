@@ -17,6 +17,7 @@
 * [My emacs cheat sheet](https://gist.github.com/dherman/3238368)
 * [online org-mode editor - Google Search](https://www.google.com/search?q=online+org-mode+editor)
 * [orgmode online - Google Search](https://www.google.com/search?q=orgmode+online)
+* emacs python mode
 
 ## Nano
 * [Nano: И всё-таки его придётся выучить [1] / Хабрахабр](https://habrahabr.ru/post/106471/)
