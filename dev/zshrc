@@ -8,7 +8,9 @@ export ZSH=/Users/tandav/.oh-my-zsh
 # it'll load a random theme each time that oh-my-zsh is loaded.
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 
-ZSH_THEME="powerlevel9k/powerlevel9k"
+#ZSH_THEME=robbyrussell
+ZSH_THEME=tandav
+#ZSH_THEME="powerlevel9k/powerlevel9k"
 POWERLEVEL9K_MODE='nerdfont-complete'
 POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(context dir dir_writable vcs)
 POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status virtualenv)
@@ -17,6 +19,13 @@ POWERLEVEL9K_SHORTEN_STRATEGY="truncate_middle"
 POWERLEVEL9K_SHORTEN_DIR_LENGTH=3
 DEFAULT_USER='tandav'
 # POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(icons_test)
+
+# Add this separator after each output:
+function echo_blank() {
+  #echo "------------------------------------------------------------"
+  echo
+}
+precmd_functions+=echo_blank
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
@@ -102,25 +111,26 @@ alias doc="cd ~/Documents/"
 alias u="cd ~/Documents/Ultrasonic-Stethoscope"
 alias nt="cd ~/Documents/Notes"
 alias parsers="cd ~/Documents/parsers && source .venv/bin/activate"
-alias uv="cd ~/Documents/Ultrasonic-Stethoscope/arduino && source ~/.venvs/ultrasonic-steth/bin/activate"
+alias uv="cd ~/Documents/Ultrasonic-Stethoscope/arduino && source ../ultrasonic-steth/bin/activate"
 alias dt="cd ~/Desktop"
 alias dw="cd ~/Downloads"
-alias a3="cd ~/Documents/a3"
-alias doll="cd ~/Documents/doll-vanilla-react"
 
 # apps & tools
 alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
 alias emacs="emacs -nw"
-# alias net="sudo tshark -i en0 -T fields -e frame.time -e ip.src -e dns.qry.name -Y "dns.flags.response eq 0""
+alias net="sudo tshark -i en0 -T fields -e frame.time -e ip.src -e dns.qry.name -Y "dns.flags.response eq 0""
 # alias net="sudo tshark -i en0 -T fields -e frame.number -e frame.time -e ip.src -e dns.qry.name -Y "dns.flags.response eq 0""
-alias net="sudo tshark -i en0 -T fields -e frame.number -e ip.src -e dns.qry.name -Y "dns.flags.response eq 0""
+# alias net="sudo tshark -i en0 -T fields -e frame.number -e ip.src -e dns.qry.name -Y "dns.flags.response eq 0""
 alias termdown="termdown -b"
 alias weather="finger voronezh@graph.no"
 alias wttr="curl wttr.in/voronezh"
+alias speedtest="curl -s  https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py | python"
 
 # shortcuts
-# alias n="subl ~/Documents/Notes"
+alias n="subl ~/Documents/Notes"
 alias ns="subl ~/Documents/Notes"
+alias kn="subl ~/Documents/knowledge-map"
+
 alias o="open"
 alias python="python3.6"
 alias p3="python3.6"
@@ -128,7 +138,6 @@ alias s="subl"
 alias rc="subl ~/.zshrc"
 
 # websites
-alias vk="open https://vk.com/im"
 alias wm="open https://www.youtube.com/playlist\?list\=PL4qBE1-4ZNC0Wam6r8MaZoUfZ8ektEVYe"
 alias gist="open https://gist.github.com/tandav"
 alias wf="open https://workflowy.com"

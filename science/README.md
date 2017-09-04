@@ -8,3 +8,4 @@
 * [Hardbound](https://www.hardbound.co/) `very interesting app`
 * [Wait But Why](http://waitbutwhy.com/)
 * [КОВЧЕГ ИДЕЙ - YouTube](https://www.youtube.com/playlist?list=PL0S_wSs_HtCszBiXr0iwbZBuA6LdJ7Sap)
+* [The Transcension Hypothesis, John M. Smart, 2011](http://accelerating.org/articles/transcensionhypothesis.html)

@@ -9,6 +9,10 @@
 * [alexanderepstein/Bash-Snippets: A collection of small bash scripts for heavy terminal users](https://github.com/alexanderepstein/Bash-Snippets?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
 * [denysdovhan/bash-handbook: For those who wanna learn Bash](https://github.com/denysdovhan/bash-handbook)
 - sed: google, hn, youtube
+- [HN Search powered by Algolia](https://hn.algolia.com/?query=awk&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
+- [All commands sorted by votes | commandlinefu.com](http://www.commandlinefu.com/commands/browse/sort-by-votes)
+- [good intro to shell - Блокчейн и майнинг своими руками](https://tjournal.ru/45977-blokchein-i-maining-svoimi-rukami)
+- [10 приёмов работы в терминале Linux, о которых мало кто знает / Блог компании RUVDS.com / Хабрахабр](https://habrahabr.ru/company/ruvds/blog/336060/)
 
 ## Zsh
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) | [docs](https://github.com/robbyrussell/oh-my-zsh/wiki)

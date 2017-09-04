@@ -15,6 +15,10 @@
 - Pair programming (maybe)
 - [Pair Programming - An Extremely Agile Practice | 101 Ways](http://www.101ways.com/pair-programming-an-extremely-agile-practice/)
 - [zeeshanu/learn-regex: Learn regex the easy way](https://github.com/zeeshanu/learn-regex)
+- [Home · angrave/SystemProgramming Wiki](https://github.com/angrave/SystemProgramming/wiki)
+- [Advice to Aimless, Excited Programmers](http://prog21.dadgum.com/80.html)
+- [20 controversial programming opinions « Software Engineering Stack Exchange Blog](http://programmers.blogoverflow.com/2012/08/20-controversial-programming-opinions/)
+- i3wm
 
 ## Literate Programming
 - [Литературное программирование / Хабрахабр](https://habrahabr.ru/post/105371/)

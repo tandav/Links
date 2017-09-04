@@ -36,6 +36,8 @@
 * [Git - Git Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
 * [git-tips/tips: Most commonly used git tips and tricks.](https://github.com/git-tips/tips)
 * [GitHub Services - Resources](https://services.github.com/resources/)
+- monorepo
+- [Как я использую git / Хабрахабр](https://habrahabr.ru/post/336708/)
 
 ## Todo
 - git aliases (google some boilerplates) | DONE: oh-my-zsh aliases

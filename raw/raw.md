@@ -11,7 +11,7 @@
 * [Classic Papers: Articles That Have Stood the Test of Time | Hacker News](https://news.ycombinator.com/item?id=14575501)
 * [DmitriyLanchakov/cheatsheets.pdf: 📚 Various cheat sheets in PDF](https://github.com/DmitriyLanchakov/cheatsheets.pdf)
 * [GitHub Issues as Blog](https://github.com/lukego/blog/issues)
-
+* [sindresorhus/amas: Awesome & Marvelous Amas](https://github.com/sindresorhus/amas)
 
 ## Sites w/ probably good content
 * [Aeon | a world of ideas](https://aeon.co/)
