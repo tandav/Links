@@ -19,6 +19,7 @@
 - [Advice to Aimless, Excited Programmers](http://prog21.dadgum.com/80.html)
 - [20 controversial programming opinions « Software Engineering Stack Exchange Blog](http://programmers.blogoverflow.com/2012/08/20-controversial-programming-opinions/)
 - i3wm
+- Code Complete / совершенный код book
 
 ## Literate Programming
 - [Литературное программирование / Хабрахабр](https://habrahabr.ru/post/105371/)
