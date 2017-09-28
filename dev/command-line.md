@@ -13,6 +13,7 @@
 - [All commands sorted by votes | commandlinefu.com](http://www.commandlinefu.com/commands/browse/sort-by-votes)
 - [good intro to shell - Блокчейн и майнинг своими руками](https://tjournal.ru/45977-blokchein-i-maining-svoimi-rukami)
 - [10 приёмов работы в терминале Linux, о которых мало кто знает / Блог компании RUVDS.com / Хабрахабр](https://habrahabr.ru/company/ruvds/blog/336060/)
+- [Interesting commands for the Linux shell | Hacker News](https://news.ycombinator.com/item?id=15246302)
 
 ## Zsh
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) | [docs](https://github.com/robbyrussell/oh-my-zsh/wiki)

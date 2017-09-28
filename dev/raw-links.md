@@ -20,6 +20,8 @@
 - [20 controversial programming opinions « Software Engineering Stack Exchange Blog](http://programmers.blogoverflow.com/2012/08/20-controversial-programming-opinions/)
 - i3wm
 - Code Complete / совершенный код book
+- contribute to open-source
+- answer on stack overflow
 
 ## Literate Programming
 - [Литературное программирование / Хабрахабр](https://habrahabr.ru/post/105371/)
