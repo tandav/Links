@@ -11,9 +11,10 @@
 * [[Перевод] Революция Искусственного Интеллекта – Материалы иностранных СМИ и блогов на русском языке](https://interpreted.d3.ru/perevod-revoliutsiia-iskusstvennogo-intellekta-684922/?sorting=rating)
 
 ## Machine Learning / Data Science
-* [caesar0301/awesome-public-datasets: An awesome list of high-quality open datasets in public domains (on-going). By everyone, for everyone!](https://github.com/caesar0301/awesome-public-datasets)
-* [Over 150 of the Best Machine Learning, NLP, and Python Tutorials I’ve Found](https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78)
-* [aymericdamien/TensorFlow-Examples: TensorFlow Tutorial and Examples for beginners](https://github.com/aymericdamien/TensorFlow-Examples?utm_source=hackernewsletter&utm_medium=email&utm_term=data)
+- [caesar0301/awesome-public-datasets: An awesome list of high-quality open datasets in public domains (on-going). By everyone, for everyone!](https://github.com/caesar0301/awesome-public-datasets)
+- [Over 150 of the Best Machine Learning, NLP, and Python Tutorials I’ve Found](https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78)
+- [aymericdamien/TensorFlow-Examples: TensorFlow Tutorial and Examples for beginners](https://github.com/aymericdamien/TensorFlow-Examples?utm_source=hackernewsletter&utm_medium=email&utm_term=data)
+- salary: why use median instead of mean
 
 ## Tools
 * [tensorflow/tensorflow: Computation using data flow graphs for scalable machine learning](https://github.com/tensorflow/tensorflow)

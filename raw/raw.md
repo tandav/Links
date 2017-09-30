@@ -15,3 +15,6 @@
 
 ## Sites w/ probably good content
 * [Aeon | a world of ideas](https://aeon.co/)
+
+## RAW
+- git as backup system; git remove old commits; git as database;

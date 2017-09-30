@@ -22,6 +22,7 @@
 - Code Complete / совершенный код book
 - contribute to open-source
 - answer on stack overflow
+- [Подборка профессиональных приложений для Macbook Pro](https://vc.ru/26567-macbook-apps)
 
 ## Literate Programming
 - [Литературное программирование / Хабрахабр](https://habrahabr.ru/post/105371/)
