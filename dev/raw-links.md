@@ -19,10 +19,16 @@
 - [Advice to Aimless, Excited Programmers](http://prog21.dadgum.com/80.html)
 - [20 controversial programming opinions « Software Engineering Stack Exchange Blog](http://programmers.blogoverflow.com/2012/08/20-controversial-programming-opinions/)
 - i3wm
+    - [Amethyst | ianyh](http://ianyh.com/amethyst/)
+    - [MacOS for an i3 guy? : unixporn](https://www.reddit.com/r/unixporn/comments/6dfr3t/macos_for_an_i3_guy/)
+    - [kwm: Tiling window manager with focus follows mouse for OSX](https://github.com/koekeishiya/kwm)
 - Code Complete / совершенный код book
+- code complete vs pragmatic programmer
 - contribute to open-source
 - answer on stack overflow
 - [Подборка профессиональных приложений для Macbook Pro](https://vc.ru/26567-macbook-apps)
+- [Необразованная молодёжь / Хабрахабр](https://habrahabr.ru/post/339022/)
+- [Archives - Eli Bendersky's website](https://eli.thegreenplace.net/archives/all)
 
 ## Literate Programming
 - [Литературное программирование / Хабрахабр](https://habrahabr.ru/post/105371/)
