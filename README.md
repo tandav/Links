@@ -1,4 +1,4 @@
-# My Life Algorithm
+# My Life
 my life is simple:
 <pre>
                 ┌── <a href="placeholder.md">ai: learn, think, build, r&d</a> ─┐
