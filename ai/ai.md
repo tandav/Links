@@ -9,6 +9,7 @@
 * [kailashahirwar/cheatsheets-ai: Essential Cheat Sheets for deep learning and machine learning researchers](https://github.com/kailashahirwar/cheatsheets-ai)
 * [YConf talk - Google Slides](https://docs.google.com/presentation/d/119VW6ueBGLQXsw-jGMboGP2-WuOnyMAOYLgd44SL6xM/preview?slide=id.p)
 * [[Перевод] Революция Искусственного Интеллекта – Материалы иностранных СМИ и блогов на русском языке](https://interpreted.d3.ru/perevod-revoliutsiia-iskusstvennogo-intellekta-684922/?sorting=rating)
+* [AI overview | Блог Хеллера](http://heller.ru/blog/2016/05/soon/#comment-168489)
 
 ## Machine Learning / Data Science
 - [caesar0301/awesome-public-datasets: An awesome list of high-quality open datasets in public domains (on-going). By everyone, for everyone!](https://github.com/caesar0301/awesome-public-datasets)
