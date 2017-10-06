@@ -6,6 +6,9 @@
 - [Comprehensions in Python the Jedi way](https://gist.github.com/bearfrieze/a746c6f12d8bada03589)
 - [A "Best of the Best Practices" (BOBP) guide to developing in Python.](https://gist.github.com/sloria/7001839)
 - [Transforming Code into Beautiful, Idiomatic Python: notes from Raymond Hettinger's talk at pycon US 2013. The code examples and direct quotes are all from Raymond's talk. I've reproduced them here for my own edification and the hopes that others will find them as handy as I have!](https://gist.github.com/JeffPaine/6213790)
+- [Greg Ward - How to Write Reusable Code - PyCon 2015 - YouTube](https://www.youtube.com/watch?v=r9cnHO15YgU)
+- [Writing Awesome Command-Line Programs in Python - YouTube](https://www.youtube.com/watch?v=gR73nLbbgqY)
+- [Al Sweigart, "Automating Your Browser and Desktop Apps", PyBay2016 - YouTube](https://www.youtube.com/watch?v=dZLyfbSQPXI)
 
 # Goolge Search
 - glob.glob python 3

@@ -20,7 +20,7 @@
 * [p vs np explained - Google Search](https://www.google.ru/search?q=p+vs+np+explained)
 * [The real 10 algorithms that dominate our world – Marcos Otero – Medium](https://medium.com/@_marcos_otero/the-real-10-algorithms-that-dominate-our-world-e95fa9f16c04)
 - karatsuba multiplication
-- https://github.com/mr-mig/every-programmer-should-know/blob/master/README.md
+- [every-programmer-should-know: A collection of (mostly) technical things every software developer should know](https://github.com/mr-mig/every-programmer-should-know)
 
 ## Books
 * Gödel, Escher, Bach - Must Read, [related stuff](https://news.ycombinator.com/item?id=13995609)

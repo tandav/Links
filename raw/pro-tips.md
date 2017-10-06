@@ -17,12 +17,13 @@ Am I set up on track?
 * stackoverflow and stackexchange most voted answers on some tag
 * quora
 * [hacker news](https://hn.algolia.com)
-* reddit~
+* reddit
 * medium ([freeCodeCamp](https://medium.freecodecamp.org/search) and [Hacker Noon](https://hackernoon.com/search))
 * If sb writes a good answer on stackowerflow/quora -> check their github/twitter/other answers
 * Reddit / Quora / StackExchange - Top Q&A
     - Чуваков которые дают крутые ответы пробивать (их другие ответы, их гитхаб, твиттер)
-    
+* habrahabr / geektimes
+
 ---
 
 Using 2FA on GitHub causes some troubles with pushing to gist via GitHub Desktop or via https-clone. So clone via SSH. Then you can add it to GitHub Desktop.

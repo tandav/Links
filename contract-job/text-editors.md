@@ -1,5 +1,4 @@
 # Text Editors
-* [Почему, ну почему, эти #?@! придурки используют vi? / Хабрахабр](https://habrahabr.ru/post/307084/#comment_9732826)
 
 ## Sublime Text
 * [saadq/Materialize: Elegant themes for Sublime Text 3](https://github.com/saadq/Materialize)
@@ -28,3 +27,5 @@
 
 ## Vim
 - [Vim shortcuts](https://gist.github.com/awidegreen/3854277)
+- [How to Learn Vim: A Four Week Plan | Hacker News](https://news.ycombinator.com/item?id=15414544)
+- [Почему, ну почему, эти #?@! придурки используют vi? / Хабрахабр](https://habrahabr.ru/post/307084/#comment_9732826) 
