@@ -15,6 +15,7 @@
 * [vc.ru](https://vc.ru/)
 * [The GitHub Blog](https://github.com/blog/category/all)
 * [GitHub Trending](https://github.com/trending)
+* [Discover Starred gists](https://gist.github.com/starred)
 * [Google Blog](https://blog.google/)
 * [research.googleblog.com](https://research.googleblog.com/)
 * [Product Hunt](https://www.producthunt.com/)

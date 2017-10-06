@@ -36,3 +36,11 @@ run shell scripts from string: `sudo sh -c “softwareupdate -ia && reboot”`
 - [How to boot your Mac in Verbose Mode](http://www.idownloadblog.com/2015/08/17/how-to-boot-your-mac-in-verbose-mode/)
 
 ---
+
+`touch test_{1..13}.txt`
+
+---
+
+- [Syntax highlighting in nano on Mac OS X](https://gist.github.com/BlakeGardner/5587269)
+
+---

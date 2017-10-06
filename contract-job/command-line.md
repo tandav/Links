@@ -14,6 +14,13 @@
 - [good intro to shell - Блокчейн и майнинг своими руками](https://tjournal.ru/45977-blokchein-i-maining-svoimi-rukami)
 - [10 приёмов работы в терминале Linux, о которых мало кто знает / Блог компании RUVDS.com / Хабрахабр](https://habrahabr.ru/company/ruvds/blog/336060/)
 - [Interesting commands for the Linux shell | Hacker News](https://news.ycombinator.com/item?id=15246302)
+- [grep, awk and sed – three VERY useful command-line utilities](http://www-users.york.ac.uk/~mijp1/teaching/4th_year_HPC/guides/grep_awk_sed.pdf)
+- [Sed Cheatsheet](https://gist.github.com/sergeyklay/4641c7665b262680f8b9cf38de923af1)
+- [grep cheat sheet](https://gist.github.com/superDross/7b32fbb6b1cb6dffd703f6b9823b721a)
+- [Bash CheatSheet for UNIX Systems](https://gist.github.com/LeCoupa/122b12050f5fb267e75f)
+- [Unix tricks](https://gist.github.com/stoutbeard/c27f4c3a0f4452037b8a)
+- [tmux shortcuts & cheatsheet](https://gist.github.com/MohamedAlaa/2961058)
+- [Automation For The People](https://gist.github.com/classam/9e07a36aa63624ca2dda75a1367a53c6)
 
 ## Zsh
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) | [docs](https://github.com/robbyrussell/oh-my-zsh/wiki)

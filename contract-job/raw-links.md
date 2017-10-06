@@ -29,11 +29,15 @@
 - [Подборка профессиональных приложений для Macbook Pro](https://vc.ru/26567-macbook-apps)
 - [Необразованная молодёжь / Хабрахабр](https://habrahabr.ru/post/339022/)
 - [Archives - Eli Bendersky's website](https://eli.thegreenplace.net/archives/all)
-
+- [Backend Architectures Keywords and References](https://gist.github.com/ragingwind/5840075)
+- [tmux shortcuts & cheatsheet](https://gist.github.com/MohamedAlaa/2961058)
+- [tmux cheatsheet](https://gist.github.com/henrik/1967800)
 ## Literate Programming
 - [Литературное программирование / Хабрахабр](https://habrahabr.ru/post/105371/)
 - Литературное программирование / Literate Programming - search everywhere + orgmode
 - ["Literate Programming etc."-Алексей Пирогов, Kazan Python DevDay, 2014 - YouTube](https://www.youtube.com/watch?v=3bjEMJPZ9jI&list=WL&index=107)
 - [Литературное Программирование - YouTube](https://www.youtube.com/watch?v=8Z9NXypMiac&index=106&list=WL)
+- [Business models based on the compiled list at http://news.ycombinator.com/item?id=4924647. I find the link very hard to browse, so I made a simple version in Markdown instead.](https://gist.github.com/ndarville/4295324)
+- [My answers to over 100 Google interview questions](https://gist.github.com/amaxwell01/3728155)
 
 ---

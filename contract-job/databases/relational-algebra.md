@@ -4,3 +4,4 @@
 - [Highest Voted 'relational-algebra' Questions - Stack Overflow](https://stackoverflow.com/questions/tagged/relational-algebra)
 - [Relational Algebra - Some Standford PDF](http://infolab.stanford.edu/~ullman/fcdb/aut07/slides/ra.pdf)
 - [Relational algebra - Wikipedia](https://en.wikipedia.org/wiki/Relational_algebra)
+- [Relational Algebra - Some Toronto PDF](http://www.cs.toronto.edu/~faye/343/f07/lectures/wk3/03_RAlgebra.pdf)

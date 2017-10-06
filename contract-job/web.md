@@ -34,6 +34,9 @@
 * [andrew--r/channels: A collection of useful YouTube channels for javascript developers and web designers](https://github.com/andrew--r/channels)
 * [d3/d3: Bring data to life with SVG, Canvas and HTML.](https://github.com/d3/d3)
 * [HugoGiraudel/SJSJ: Simplified JavaScript Jargon](https://github.com/HugoGiraudel/SJSJ)
+* [Vanilla JavaScript Quick Reference / Cheatsheet](https://gist.github.com/thegitfather/9c9f1a927cd57df14a59c268f118ce86)
+* [JavaScript statistical functions for arrays: max, min, range, midrange, sum, mean / average, median, modes, variance, standard deviation, mean absolute deviation, z scores](https://gist.github.com/Daniel-Hug/7273430)
+* [URI Parsing with Javascript](https://gist.github.com/jlong/2428561)
 
 ### React
 * [enaqx/awesome-react: A collection of awesome things regarding React ecosystem.](https://github.com/enaqx/awesome-react)

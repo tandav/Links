@@ -9,3 +9,5 @@
 - [Disk Inventory X - Screenshots](http://www.derlien.com/screenshots/index.html)
 - [GrandPerspective](http://grandperspectiv.sourceforge.net/)
 - orgmode
+- Terminall.app is much faster than iTerm
+- [Install most of my Apps with homebrew & cask](https://gist.github.com/t-io/8255711)

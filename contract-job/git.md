@@ -38,6 +38,10 @@
 * [GitHub Services - Resources](https://services.github.com/resources/)
 - monorepo
 - [Как я использую git / Хабрахабр](https://habrahabr.ru/post/336708/)
+- [git-tricks-common.md](https://gist.github.com/eyecatchup/e94ab1294f6293cf3274c34589744514)
+- [GitHub Standard Fork & Pull Request Workflow](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
+- [Git Submodules basic explanation](https://gist.github.com/gitaarik/8735255)
+- [My simply Git Cheatsheet](https://gist.github.com/hofmannsven/6814451)
 
 ## Todo
 - git aliases (google some boilerplates) | DONE: oh-my-zsh aliases

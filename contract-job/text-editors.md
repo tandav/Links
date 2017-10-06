@@ -14,11 +14,17 @@
 * [aziz/SublimeFileBrowser: Ditch sidebar and browse your files in a normal tab with keyboard, like a pro!](https://github.com/aziz/SublimeFileBrowser)
 
 ## Emacs
-* [My emacs cheat sheet](https://gist.github.com/dherman/3238368)
-* [online org-mode editor - Google Search](https://www.google.com/search?q=online+org-mode+editor)
-* [orgmode online - Google Search](https://www.google.com/search?q=orgmode+online)
-* emacs python mode
+- [My emacs cheat sheet](https://gist.github.com/dherman/3238368)
+- [online org-mode editor - Google Search](https://www.google.com/search?q=online+org-mode+editor)
+- [orgmode online - Google Search](https://www.google.com/search?q=orgmode+online)
+- emacs python mode
+- [Spacemacs cheatsheet](https://gist.github.com/526avijitgupta/fd058b3f61a5d23df667)
+- [This is a cheat sheet for Emacs org-mode... in org-mode format!](https://gist.github.com/drj42/1755992)
 
 ## Nano
-* [Nano: И всё-таки его придётся выучить [1] / Хабрахабр](https://habrahabr.ru/post/106471/)
-* [Два в одном: как пользоваться Vim и Nano? / Хабрахабр](https://habrahabr.ru/post/331600/)
+- [Nano: И всё-таки его придётся выучить [1] / Хабрахабр](https://habrahabr.ru/post/106471/)
+- [Два в одном: как пользоваться Vim и Nano? / Хабрахабр](https://habrahabr.ru/post/331600/)
+- [Syntax highlighting in nano on Mac OS X](https://gist.github.com/BlakeGardner/5587269)
+
+## Vim
+- [Vim shortcuts](https://gist.github.com/awidegreen/3854277)

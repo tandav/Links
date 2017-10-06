@@ -11,3 +11,4 @@
 * [Как писать нормальные тексты на английском, не будучи носителем языка / Блог компании Нетология / Хабрахабр](https://habrahabr.ru/company/netologyru/blog/335836/)
 * [10 советов, как преодолеть страх общения с носителем английского языка / Блог компании EnglishDom / Geektimes](https://geektimes.ru/company/englishdom/blog/293347/)
 * [Why do Americans pronounce 't' as 'r'? - Quora](https://www.quora.com/Why-do-Americans-pronounce-t-as-r)
+* read aloud english texts
