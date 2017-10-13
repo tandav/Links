@@ -13,6 +13,9 @@
 ---
 
 
-## JDBC vs Hibernate
+## JDBC vs Hibernate vs JPA
 - JDBC - более low lev. Нужно все вручную делать. 
 - Hibernate - hi-lev (easier, simpler, faster to start). JPA=guidelines, Hibernate implements JPA guidelines
+- jpa vs jdbc
+- [java - JPA or JDBC, how are they different? - Stack Overflow](https://stackoverflow.com/questions/11881548/jpa-or-jdbc-how-are-they-different)
+- [java - Hibernate or JPA or JDBC or? - Stack Overflow](https://stackoverflow.com/questions/2560500/hibernate-or-jpa-or-jdbc-or)

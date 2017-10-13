@@ -6,6 +6,10 @@
     - left join vs left outer join (they're equal `OUTER` is optional)
 - [SQL for Web Nerds](http://philip.greenspun.com/sql/)
 - [sql - Inner join vs Where - Stack Overflow](https://stackoverflow.com/questions/121631/inner-join-vs-where)
+- sql cheat sheet
+- sql exercises
+- varchar vs text
+
 
 ## Deep
 - [Why Uber Engineering Switched from Postgres to MySQL | Hacker News](https://news.ycombinator.com/item?id=12166585)
@@ -13,3 +17,4 @@
 - [PostgreSQL command line cheatsheet](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546)
 - [My simply MySQL Command Line Cheatsheet](https://gist.github.com/hofmannsven/9164408)
 - [Useful PostgreSQL Queries and Commands](https://gist.github.com/rgreenjr/3637525)
+- oracle sql performance tips

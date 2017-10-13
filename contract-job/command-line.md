@@ -21,6 +21,10 @@
 - [Unix tricks](https://gist.github.com/stoutbeard/c27f4c3a0f4452037b8a)
 - [tmux shortcuts & cheatsheet](https://gist.github.com/MohamedAlaa/2961058)
 - [Automation For The People](https://gist.github.com/classam/9e07a36aa63624ca2dda75a1367a53c6)
+- unix environment variables tutorial
+- google: `bin sbin /usr/bin /usr/sbin`
+- [macos - What functionality do 'marks' offer in the El Capitan Terminal? - Ask Different](https://apple.stackexchange.com/questions/209635/what-functionality-do-marks-offer-in-the-el-capitan-terminal#209907)
+- Makefile, Makefile tutorial, [HN Search](https://hn.algolia.com/?query=makefile&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 
 ## Zsh
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) | [docs](https://github.com/robbyrussell/oh-my-zsh/wiki)

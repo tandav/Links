@@ -29,3 +29,7 @@
 - [Vim shortcuts](https://gist.github.com/awidegreen/3854277)
 - [How to Learn Vim: A Four Week Plan | Hacker News](https://news.ycombinator.com/item?id=15414544)
 - [Почему, ну почему, эти #?@! придурки используют vi? / Хабрахабр](https://habrahabr.ru/post/307084/#comment_9732826) 
+- [3.2. Режимы : Джефф Раскин : programming-lang.com](http://programming-lang.com/ru/comp_programming/raskin/0/j38.html)
+- [Киллер фича Vim / Хабрахабр](https://habrahabr.ru/post/339908/)
+- vim org-mode
+- neovim vs vim
