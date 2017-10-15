@@ -64,6 +64,10 @@
 - [Нейросетевая игра в имитацию / Блог компании Open Data Science / Хабрахабр](https://habrahabr.ru/company/ods/blog/322514/)
 - [How can beginners in machine learning, who have finished their MOOCs in machine learning and deep learning, take it to the next level and get to the point of being able to read research papers & productively contribute in an industry? - Quora](https://www.quora.com/How-can-beginners-in-machine-learning-who-have-finished-their-MOOCs-in-machine-learning-and-deep-learning-take-it-to-the-next-level-and-get-to-the-point-of-being-able-to-read-research-papers-productively-contribute-in-an-industry)
 - [Достижения в глубоком обучении за последний год / Блог компании Mail.Ru Group / Хабрахабр](https://habrahabr.ru/company/mailru/blog/338248/)
+- [Deep Learning | NVIDIA Developer](https://developer.nvidia.com/deep-learning)
+- [О конференции Strata AI: будущее искусственного интеллекта / Блог компании ГК ЛАНИТ / Хабрахабр](https://habrahabr.ru/company/lanit/blog/339874/)
+- [На пути к естественному интеллекту / Блог компании JUG.ru Group / Хабрахабр](https://habrahabr.ru/company/jugru/blog/339806/)
+
 
 ## Raw Good
 - [Deep Learning - Ian Goodfellow Book](http://www.deeplearningbook.org/)

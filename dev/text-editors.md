@@ -33,3 +33,8 @@
 - [Киллер фича Vim / Хабрахабр](https://habrahabr.ru/post/339908/)
 - vim org-mode
 - neovim vs vim
+- [Graphical vi-vim Cheat Sheet and Tutorial](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
+- [Используем редактор Vim. Минимальный набор команд. Часть 1. - YouTube](https://www.youtube.com/watch?v=pWuRYwlbNaI)
+- [Hexlet Webinar #3: редактор VIM - YouTube](https://www.youtube.com/watch?v=79OWQ1qJwto)
+- [Киллер фича Vim / Хабрахабр](https://habrahabr.ru/post/339908/#comment_10468798)
+- [vi - What is your most productive shortcut with Vim? - Stack Overflow](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118)

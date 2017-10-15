@@ -6,4 +6,14 @@
 - [Matrix Algebra - Linear Algebra for Deep Learning (Part 2) | QuantStart](https://www.quantstart.com/articles/matrix-algebra-linear-algebra-for-deep-learning-part-2)
 - [A Concrete Introduction to Probability (using Python)](http://nbviewer.jupyter.org/url/norvig.com/ipython/Probability.ipynb)
 - [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/)
+- [Highest Voted Questions - Cross Validated](https://stats.stackexchange.com/questions?sort=votes)
+- [ensemble - Bagging, boosting and stacking in machine learning - Cross Validated](https://stats.stackexchange.com/questions/18891/bagging-boosting-and-stacking-in-machine-learning)
+- [Что такое «сигма»? • Физика элементарных частиц • LHC на «Элементах»](http://elementy.ru/LHC/HEP/study/errors/sigma)
+
+
+## Standard Deviation vs Abs Deviation
 - meaning square error vs abs
+- [Revisiting a 90-year-old debate: the advantages of the mean deviation](https://www.leeds.ac.uk/educol/documents/00003759.htm)
+- [distributions - Mean absolute deviation vs. standard deviation - Cross Validated](https://stats.stackexchange.com/questions/81986/mean-absolute-deviation-vs-standard-deviation)
+- [definition - Why square the difference instead of taking the absolute value in standard deviation? - Cross Validated](https://stats.stackexchange.com/questions/118/why-square-the-difference-instead-of-taking-the-absolute-value-in-standard-devia?noredirect=1&lq=1)
+- [HN Search powered by Algolia](https://hn.algolia.com/?query=mean%20deviation&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
