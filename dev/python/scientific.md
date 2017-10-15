@@ -16,8 +16,14 @@
 - [How to Make Python Faster Without Trying That Much – Blog ~ Saulius Lukauskas](http://lukauskas.co.uk/articles/2014/02/12/how-to-make-python-faster-without-trying-that-much/)
 - [Intel® Distribution for Python* | Intel® Software](https://software.intel.com/en-us/distribution-for-python)
 - [Numpy/Scipy with Intel® MKL and Intel® Compilers | Intel® Software](https://software.intel.com/en-us/articles/numpyscipy-with-intel-mkl)
+- [Intel® Distribution for Python - development environment setting for Jupyter* notebook and Pycharm* | Intel® Software](https://software.intel.com/en-us/articles/intel-distribution-for-python-development-environment-setting-for-jupyter-notebook-and)
 - [Anaconda 2.5 Release – now with MKL Optimizations | Anaconda](https://www.anaconda.com/blog/developer-blog/anaconda-25-release-now-mkl-optimizations/)
 - anaconda vs intel python, intel distribution for python vs anaconda
 - python multiprocessing
     - python multiprocessing intell
     - python threading
+- [2.4. Optimizing code — Scipy lecture notes](http://www.scipy-lectures.org/advanced/optimizing/index.html)
+- HN: fast python, python performance
+- [Seven Things You Might Not Know about Numba | Parallel Forall](https://devblogs.nvidia.com/parallelforall/seven-things-numba/)
+- [Numba: High-Performance Python with CUDA Acceleration | Parallel Forall](https://devblogs.nvidia.com/parallelforall/numba-python-cuda-acceleration/)
+- [New Optimizations Improve Deep Learning Frameworks For CPUs](https://www.nextplatform.com/2017/10/13/new-optimizations-improve-deep-learning-frameworks-cpus/)

@@ -39,5 +39,6 @@
 - [Литературное Программирование - YouTube](https://www.youtube.com/watch?v=8Z9NXypMiac&index=106&list=WL)
 - [Business models based on the compiled list at http://news.ycombinator.com/item?id=4924647. I find the link very hard to browse, so I made a simple version in Markdown instead.](https://gist.github.com/ndarville/4295324)
 - [My answers to over 100 Google interview questions](https://gist.github.com/amaxwell01/3728155)
+- [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
 
 ---

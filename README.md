@@ -1,9 +1,9 @@
 # My Life
 my life is simple:
 <pre>
-                ┌── <a href="placeholder.md">ai: learn, think, build, r&d</a> ─┐
+                ┌── <a href="ai">ai: learn, think, build, r&d</a> ─┐
                 │                                 │
-            ┌── big goal ────────────────────────────┐
+            ┌── work on big goal ────────────────────┐
 today's me ─┤                                        ├─> <a href="placeholder.md">new horizons</a>
             └── maintain myself ─────────────────────┘
                 │                                 │
@@ -16,6 +16,6 @@ today's me ─┤                                        ├─> <a href="placeh
                 ├── gtd ──────────────────────────┤
                 ├── <a href="english.md">english</a> ──────────────────────┤
                 └── emotional ballance ───────────┘
-                    ├── music ────────┤
+                    ├── <a href="music">music</a> ────────┤
                     └── <a href="surfing.md">web-surfing</a> ──┘
 </pre>

@@ -7,6 +7,7 @@
 - [SQL for Web Nerds](http://philip.greenspun.com/sql/)
 - [sql - Inner join vs Where - Stack Overflow](https://stackoverflow.com/questions/121631/inner-join-vs-where)
 - sql cheat sheet
+    - [SQL (Structured Query Language) in one page : SQL.SU](http://www.cheat-sheets.org/sites/sql.su/)
 - sql exercises
 - varchar vs text
 
