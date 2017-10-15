@@ -14,3 +14,4 @@ Tryna move human consciousness from biological/protein hardware to computer/sili
 - [Syringe-injectable electronics : Nature Nanotechnology : Nature Research](http://www.nature.com/nnano/journal/v10/n7/full/nnano.2015.115.html?foxtrotcallback=true)
 - [BAM - http://www.nature.com/nnano/journal/v10/n7/full/nnano.2015.115.html AFAIK... | Hacker News](https://news.ycombinator.com/item?id=13972989)
 - [DARPA заказало разработку мозговых имплантатов высокого разрешения для интерфейса «мозг-компьютер» / Geektimes](https://geektimes.ru/post/290983/)
+- [Медиамагнат Дмитрий Ицков планирует жить вечно, загрузив свою личность в робота / Geektimes](https://geektimes.ru/post/272674/)

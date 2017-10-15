@@ -46,3 +46,6 @@ Learning what people invented in AI field
 - [My Curated List of AI and Machine Learning Resources from Around the Web](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
 - [Выход из «Китайской комнаты» или может ли машина думать / Geektimes](https://geektimes.ru/post/291991/)
 - [Забудьте про Илона – прогноз для бизнеса на основе искусственного интеллекта не такой уж и страшный / Geektimes](https://geektimes.ru/post/294357/)
+- conscious is an illusion
+- [Становясь умнее, машины начинают обучаться почти так же, как мы / Geektimes](https://geektimes.ru/post/286432/)
+- [Искусственный интеллект и призрак в машине / Geektimes](https://geektimes.ru/post/286554/)
