@@ -27,3 +27,6 @@
 	* [godel escher bach review - Google Search](https://www.google.com/search?q=godel+escher+bach+review)
 	* [what is godel escher bach about - Google Search](https://www.google.com/search?q=what+is+godel+escher+bach+about)
 * [Top Hacker News Books of All Time](http://hackernewsbooks.com/top-books-on-hacker-news)
+
+## OOP
+- HN-search: `oop for beginners`, `oop basics`, `oop`

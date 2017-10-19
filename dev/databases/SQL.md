@@ -10,7 +10,8 @@
     - [SQL (Structured Query Language) in one page : SQL.SU](http://www.cheat-sheets.org/sites/sql.su/)
 - sql exercises
 - varchar vs text
-
+- awesome sql
+- [Почему SQL одерживает верх над NoSQL, и к чему это приведет в будущем / Блог компании Alconost / Хабрахабр](https://habrahabr.ru/company/alconost/blog/340372/)
 
 ## Deep
 - [Why Uber Engineering Switched from Postgres to MySQL | Hacker News](https://news.ycombinator.com/item?id=12166585)

@@ -1,4 +1,6 @@
 # Text Editors
+* [Atom treasures – freeCodeCamp](https://medium.freecodecamp.com/atom-treasures-82a64ac391c#.fn6ia0ho7)
+
 
 ## Sublime Text
 * [saadq/Materialize: Elegant themes for Sublime Text 3](https://github.com/saadq/Materialize)
@@ -8,7 +10,6 @@
 * [hachesilva/Comment-Snippets: Several snippets to create fancy PHP, CSS and HTML comments.](https://github.com/hachesilva/Comment-Snippets)
 * [filter1/Sublime-Text-Plugins-for-Frontend-Web-Development: A Collection of Plugins for Frontend Web Development](https://github.com/filter1/Sublime-Text-Plugins-for-Frontend-Web-Development)
 * [Little trick I use to navigate source code better – Nikita Voloboev – Medium](https://medium.com/@NikitaVoloboev/little-trick-i-use-to-navigate-source-code-better-bc958ccd821)
-* [Atom treasures – freeCodeCamp](https://medium.freecodecamp.com/atom-treasures-82a64ac391c#.fn6ia0ho7)
 * [jfilter/Sublime-Text-Plugins-for-Frontend-Web-Development: 📝 A Collection of Plugins for Frontend Web Development](https://github.com/jfilter/Sublime-Text-Plugins-for-Frontend-Web-Development#administrative)
 * [aziz/SublimeFileBrowser: Ditch sidebar and browse your files in a normal tab with keyboard, like a pro!](https://github.com/aziz/SublimeFileBrowser)
 
@@ -31,6 +32,7 @@
 - [Почему, ну почему, эти #?@! придурки используют vi? / Хабрахабр](https://habrahabr.ru/post/307084/#comment_9732826) 
 - [3.2. Режимы : Джефф Раскин : programming-lang.com](http://programming-lang.com/ru/comp_programming/raskin/0/j38.html)
 - [Киллер фича Vim / Хабрахабр](https://habrahabr.ru/post/339908/)
+- [Киллерфича в vim — это режимы? Серьёзно? / Хабрахабр](https://habrahabr.ru/post/340376/)
 - vim org-mode
 - neovim vs vim
 - [Graphical vi-vim Cheat Sheet and Tutorial](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
@@ -38,3 +40,8 @@
 - [Hexlet Webinar #3: редактор VIM - YouTube](https://www.youtube.com/watch?v=79OWQ1qJwto)
 - [Киллер фича Vim / Хабрахабр](https://habrahabr.ru/post/339908/#comment_10468798)
 - [vi - What is your most productive shortcut with Vim? - Stack Overflow](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118)
+- [notepad - VIM: Doesn't VIM 'replace' use of CTRL with ESC? - Stack Overflow](https://stackoverflow.com/questions/8017899/vim-doesnt-vim-replace-use-of-ctrl-with-esc?noredirect=1&lq=1)
+- vim caps lock ctrl
+- [How to Learn Vim: A Four Week Plan | Hacker News](https://news.ycombinator.com/item?id=15414544&utm_term=comment)
+- [Vim after 15 Years | Hacker News](https://news.ycombinator.com/item?id=15491553)
+- buffers vs tabs (наверное buffers)

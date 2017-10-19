@@ -58,3 +58,4 @@
 * [Delayed Choice Quantum Eraser - Quantum Physics - YouTube](https://www.youtube.com/watch?v=SzAQ36b9dzs&index=91&list=WL)
 * [The Original Double Slit Experiment - YouTube](https://www.youtube.com/watch?v=Iuv6hY6zsd0&index=91&list=WL)
 * [Поглотит ли квантовая механика реальность? / Geektimes](https://geektimes.ru/post/291013/)
+* [Saturday Morning Breakfast Cereal - The Talk](https://www.smbc-comics.com/comic/the-talk-3)

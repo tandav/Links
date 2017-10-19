@@ -4,3 +4,5 @@
 - java annotations
 - for now Learn **Maven** instead of Gradle
 - java logging
+- abstract class vs interface (+ java8 interfaces default methods)
+- [Alibaba-Java-Coding-Guidelines](https://alibaba.github.io/Alibaba-Java-Coding-Guidelines/)
