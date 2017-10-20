@@ -27,3 +27,4 @@
 - [Seven Things You Might Not Know about Numba | Parallel Forall](https://devblogs.nvidia.com/parallelforall/seven-things-numba/)
 - [Numba: High-Performance Python with CUDA Acceleration | Parallel Forall](https://devblogs.nvidia.com/parallelforall/numba-python-cuda-acceleration/)
 - [New Optimizations Improve Deep Learning Frameworks For CPUs](https://www.nextplatform.com/2017/10/13/new-optimizations-improve-deep-learning-frameworks-cpus/)
+- cython, cython tutorial

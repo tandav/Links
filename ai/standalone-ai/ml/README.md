@@ -23,6 +23,8 @@
 - [The Non-Technical Guide to Machine Learning & Artificial Intelligence](https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0)
 - [Machine Learning in a Week – Learning New Stuff – Medium](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850)
 - [Machine Learning Top 10 in September](https://medium.mybridge.co/machine-learning-top-10-in-september-6838169e9ee7)
+- [Learning Machine Learning and NLP from 187 Quora Questions](https://unsupervisedmethods.com/learning-machine-learning-and-nlp-from-185-quora-questions-cebe42e47da8)
+- [Big Picture Machine Learning: Classifying Text with Neural Networks and TensorFlow](https://medium.freecodecamp.org/big-picture-machine-learning-classifying-text-with-neural-networks-and-tensorflow-d94036ac2274)
 - [Гид по машинному обучению для нетехнологических специалистов: блоги, новости, проекты и влиятельные персоны](https://vc.ru/20156-nontechnical-ml-guide)
 - [A Visual and Interactive Guide to the Basics of Neural Networks – J Alammar – Explorations in touchable pixels and intelligent androids](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
 - markov chain
@@ -67,7 +69,7 @@
 - [Deep Learning | NVIDIA Developer](https://developer.nvidia.com/deep-learning)
 - [О конференции Strata AI: будущее искусственного интеллекта / Блог компании ГК ЛАНИТ / Хабрахабр](https://habrahabr.ru/company/lanit/blog/339874/)
 - [На пути к естественному интеллекту / Блог компании JUG.ru Group / Хабрахабр](https://habrahabr.ru/company/jugru/blog/339806/)
-
+- [How Machines Learn: A Practical Guide – freeCodeCamp](https://medium.freecodecamp.org/how-machines-learn-a-practical-guide-203aae23cafb)
 
 ## Raw Good
 - [Deep Learning - Ian Goodfellow Book](http://www.deeplearningbook.org/)

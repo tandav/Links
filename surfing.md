@@ -10,7 +10,6 @@
 
 ## News
 * [TJournal.ru](https://tjournal.ru/)
-* [Meduza.io](https://meduza.io/)
 * [TM Feed](http://tmfeed.ru/)
 * [vc.ru](https://vc.ru/)
 * [The GitHub Blog](https://github.com/blog/category/all)

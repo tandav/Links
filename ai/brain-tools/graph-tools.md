@@ -1,0 +1,82 @@
+# Knowledge Graph Tools
+- brain computer interface
+- системы мозг - компьютер
+- Биологическая обратная связь / Biofeedback
+- Нейрокомпьютерный интерфейс
+- Письменность
+- [Список языков по системам письма — Википедия](https://ru.wikipedia.org/wiki/Список_языков_по_системам_письма)
+- [Universal Character Set characters - Wikipedia](https://en.wikipedia.org/wiki/Universal_Character_Set_characters)
+- искусственные языки
+- [Constructed language - Wikipedia](https://en.wikipedia.org/wiki/Constructed_language)
+- [Writing system outdated - Google Search](https://www.google.com/search?newwindow=1&q=Writing+system+outdated)
+- современная лингвистика
+- будущее языков
+- Идеограмма
+- [Writing system - Wikipedia](https://en.wikipedia.org/wiki/Writing_system)
+- [Why Your Mind Is Always Wandering -- Science of Us](http://nymag.com/scienceofus/2017/01/why-your-mind-is-always-wandering.html?mid=facebook_scienceofus)
+- writing systems concepts
+- future of writing systems
+- remote mouse ios
+- [Тим Кук сказал, что дополненная реальность — настолько же большая идея, как смартфон / Geektimes](https://geektimes.ru/post/285788/)
+- [David Mumford | Grammar isn't merely part of language](http://www.dam.brown.edu/people/mumford/blog/2016/grammar.html)
+- [8 Free Mind Map Tools & How to Best Use Them](http://www.makeuseof.com/tag/8-free-mind-map-tools-best-use/)
+- [Failed to open page](safari-resource:/ErrorPage.html)
+- [Nested Treemap - bl.ocks.org](https://bl.ocks.org/mbostock/911ad09bdead40ec0061)
+- audio vr
+- audio social network
+- [Рабочий дневник программиста / Хабрахабр](https://habrahabr.ru/post/324320/)
+- [Gallery of Data Visualization: the Best and Worst of Statistical Graphics | Hacker News](https://news.ycombinator.com/item?id=14883292)
+- code folding editor
+- vim folding
+- Structure editor
+- Folding editor
+- vim folding
+- [leo-editor/leo-editor: The main line of development for the leo-editor project](https://github.com/leo-editor/leo-editor)
+- vim code folding
+- [The idea maze of personal logging](http://pcmonk.me/2016/10/13/logging-idea-maze.html)
+- [Why Don't We Have a General-Purpose Tree Editor? (2014) | Hacker News](https://news.ycombinator.com/item?id=13578256)
+- vim outline mode
+- vim outline mode
+- voom vim
+- [WuTheFWasThat/vimflowy: An open source productivity tool drawing inspiration from workflowy and vim](https://github.com/WuTheFWasThat/vimflowy)
+- [Markup - The Org Manual](http://orgmode.org/manual/Markup.html)
+- [orgmode.org/orgcard.txt](http://orgmode.org/orgcard.txt)
+- [Org-Mode Reference Card](http://orgmode.org/worg/orgcard.html)
+- [Highest Voted 'org-mode' Questions - Stack Overflow](https://stackoverflow.com/questions/tagged/org-mode)
+- [orgmode - YouTube](https://www.youtube.com/results?search_query=orgmode)
+- [literate programming - YouTube](https://www.youtube.com/results?search_query=literate+programming)
+- [Handling links - The Org Manual](https://www.gnu.org/software/emacs/manual/html_node/org/Handling-links.html)
+- [External links - The compact Org-mode Guide](http://orgmode.org/guide/External-links.html)
+- vim folding
+- [folding - Fold function in vim - Stack Overflow](https://stackoverflow.com/questions/2362914/fold-function-in-vim)
+- [Apple Dylan IDE | Hacker News](https://news.ycombinator.com/item?id=14478942)
+- [XMind Online Library](https://www.xmind.net/share/)
+- [Clean view - The Org Manual](http://orgmode.org/manual/Clean-view.html)
+- [Org Mode for Emacs – Your Life in Plain Text | Hacker News](https://news.ycombinator.com/item?id=11386590)
+- [Created By You - Coggle](https://coggle.it/)
+- [treevis.net](http://treevis.net/)
+
+
+## D3.js trees
+- [D3 Source Treemap - bl.ocks.org](https://bl.ocks.org/mbostock/8fe6fa6ed1fa976e5dd76cfa4d816fec)
+- [Force-Directed Tree II - bl.ocks.org](https://bl.ocks.org/mbostock/9a8124ccde3a4e9625bc413b48f14b30)
+- [Treemap by Count - bl.ocks.org](https://bl.ocks.org/mbostock/b4c0f143db88a9eb01a315a1063c1d77)
+- [Nest Treemap - bl.ocks.org](https://bl.ocks.org/mbostock/2838bf53e0e65f369f476afd653663a2)
+- [Tidy Tree vs. Dendrogram - bl.ocks.org](https://bl.ocks.org/mbostock/e9ba78a2c1070980d1b530800ce7fa2b)
+- [Animated Quadtree - bl.ocks.org](https://bl.ocks.org/mbostock/87fbdfc4533df2ffa02b5bb62bfb5cb6)
+- [Force-Directed Tree - bl.ocks.org](https://bl.ocks.org/mbostock/95aa92e2f4e8345aaa55a4a94d41ce37)
+- [Rainbow Treemap - bl.ocks.org](https://bl.ocks.org/mbostock/e6962a152275373f8504)
+- [Cascaded Treemap - bl.ocks.org](https://bl.ocks.org/mbostock/f85ffb3a5ac518598043)
+- [Partition - bl.ocks.org](https://bl.ocks.org/mbostock/2e73ec84221cb9773f4c)
+- [Nested Treemap - bl.ocks.org](https://bl.ocks.org/mbostock/911ad09bdead40ec0061)
+- [Circle-Packing - bl.ocks.org](https://bl.ocks.org/mbostock/ca5b03a33affa4160321)
+- [Treemap - bl.ocks.org](https://bl.ocks.org/mbostock/6bbb0a7ff7686b124d80)
+- [Nest Treemap - bl.ocks.org](https://bl.ocks.org/mbostock/2838bf53e0e65f369f476afd653663a2)
+- [Treemap - bl.ocks.org](https://bl.ocks.org/mbostock/6bbb0a7ff7686b124d80)
+- [Treemap Padding - bl.ocks.org](https://bl.ocks.org/mbostock/6645441)
+- [Treemap - bl.ocks.org](https://bl.ocks.org/mbostock/4063582)
+- [Radial Tidy Tree - bl.ocks.org](https://bl.ocks.org/mbostock/4063550)
+- [Pedigree Tree - bl.ocks.org](https://bl.ocks.org/mbostock/2966094)
+- [Collapsible Indented Tree - bl.ocks.org](https://bl.ocks.org/mbostock/1093025)
+- [Treemap - bl.ocks.org](https://bl.ocks.org/mbostock/972398)
+

@@ -12,6 +12,7 @@
 - varchar vs text
 - awesome sql
 - [Почему SQL одерживает верх над NoSQL, и к чему это приведет в будущем / Блог компании Alconost / Хабрахабр](https://habrahabr.ru/company/alconost/blog/340372/)
+- [SQL vs NoSQL - HN Search](https://hn.algolia.com/?query=sql%20vs%20nosql&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 
 ## Deep
 - [Why Uber Engineering Switched from Postgres to MySQL | Hacker News](https://news.ycombinator.com/item?id=12166585)

@@ -1,0 +1,107 @@
+# React
+- [enaqx/awesome-react: A collection of awesome things regarding React ecosystem.](https://github.com/enaqx/awesome-react)
+- [facebookincubator/create-react-app: Create React apps with no build configuration.](https://github.com/facebookincubator/create-react-app)
+- [markerikson/react-redux-links: Curated tutorial and resource links I've collected on React, Redux, ES6, and more](https://github.com/markerikson/react-redux-links)
+- [kriasoft/react-starter-kit: React Starter Kit — isomorphic web app boilerplate (Node.js, Express, GraphQL, React.js, Babel, PostCSS, Webpack, Browsersync)](https://github.com/kriasoft/react-starter-kit)
+- [markerikson/react-redux-links: Curated tutorial and resource links I've collected on React, Redux, ES6, and more](https://github.com/markerikson/react-redux-links)
+- [When Does a Project Need React? | CSS-Tricks](https://css-tricks.com/project-need-react/)
+- [Yes, React is taking over front-end development. The question is why.](https://medium.freecodecamp.org/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76)
+- [React’s Five Fingers of Death. Master these five concepts, then master React.](https://medium.freecodecamp.org/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3)
+- [Step by Step Guide To Building React Redux Apps – rajaraodv – Medium](https://medium.com/@rajaraodv/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a)
+- [13 things you need to know about React – Hacker Noon](https://hackernoon.com/13-things-you-need-to-know-about-react-d2e6a6422552)
+
+---
+
+- [Frontend](favorites://)
+- [10 Reasons why I moved from Angular to React - RWieruch](https://www.robinwieruch.de/reasons-why-i-moved-from-angular-to-react/)
+- [Tutorial: Intro To React - React](https://reactjs.org/tutorial/tutorial.html)
+- [Learning React.js: Getting Started and Concepts | Scotch](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
+- [react tutorial - YouTube](https://www.youtube.com/results?search_query=react+tutorial)
+- [React JS Crash Course - YouTube](https://www.youtube.com/watch?v=A71aqufiNtQ)
+- static site with react - Google Search
+- [gatsbyjs/gatsby: Transform plain text into dynamic blogs and websites using React.js](https://github.com/gatsbyjs/gatsby)
+- [ReactJS For Stupid People](https://blog.andrewray.me/reactjs-for-stupid-people/)
+- [How To Learn React (and what to build along the way)](https://daveceddia.com/how-to-learn-react/)
+- [Эврика! Моменты озарения при изучении React / Блог компании Нетология: университет интернет-профессий / Хабрахабр](https://habrahabr.ru/company/netologyru/blog/324788/)
+- [Больше, чем React: Почему не следует использовать ReactJS для сложных интерактивных фронтенд-проектов / Блог компании NIX Solutions / Хабрахабр](https://habrahabr.ru/company/nixsolutions/blog/324748/)
+- [Failed to open page](safari-resource:/ErrorPage.html)
+- [Введение в React и Redux для бекенд-разработчиков / Хабрахабр](https://habrahabr.ru/post/326162/)
+- [Воркшоп «React & Flux», часть 1 - YouTube](https://www.youtube.com/watch?v=0h7eluYJtZc)
+- [Введение в Redux - YouTube](https://www.youtube.com/watch?v=-CJzPfOm5rs)
+- [Redux React - #1 - Вступление - YouTube](https://www.youtube.com/watch?v=BS7fRPWmNZo)
+- [Latest ReactJS Examples](https://react.rocks/)
+- [5 Practical Examples For Learning The React Framework | Tutorialzine](https://tutorialzine.com/2014/07/5-practical-examples-for-learning-facebooks-react-framework)
+- [Клон Trello на Phoenix и React. Части 10-12. Финиш долгостроя / Хабрахабр](https://habrahabr.ru/post/316108/)
+- [Разработка SPA на React, NodeJS, Express и MongoDB - YouTube](https://www.youtube.com/watch?v=mYvdeFfZ_NE)
+- [React JS. Полное руководство ReactJS за один урок на русском языке. - YouTube](https://www.youtube.com/watch?v=5bmVNG6wq-Q)
+- jsx - Google Search
+- [React.js на русском языке. Часть первая / Хабрахабр](https://habrahabr.ru/post/315466/)
+- [Норм типок](https://blog.andrewray.me/)
+- [Руководство по работе с Redux / Блог компании Mail.Ru Group / Хабрахабр](https://habrahabr.ru/company/mailru/blog/303456/)
+- [Learning React.js - YouTube](https://www.youtube.com/playlist?list=PLillGF-RfqbbKWfm3Y_RF57dNGsHnkYqO)
+- react tutorial - Google Search
+- [React AJAX Best Practices](http://andrewhfarmer.com/react-ajax-best-practices/)
+- [Loading and Using External Data in React - Media Temple Blog](http://mediatemple.net/blog/tips/loading-and-using-external-data-in-react/)
+- react get data from server - Google Search
+- [reactjs - What's the difference between "super()" and "super(props)" in React when using es6 classes? - Stack Overflow](https://stackoverflow.com/questions/30571875/whats-the-difference-between-super-and-superprops-in-react-when-using-e)
+- [javascript - React: when to use ES6 class based components vs. functional ES6 components? - Stack Overflow](https://stackoverflow.com/questions/36097965/react-when-to-use-es6-class-based-components-vs-functional-es6-components#)
+- react functional vs class components - Google Search
+- [can a JSON start with [? - Stack Overflow](https://stackoverflow.com/questions/5034444/can-a-json-start-with)
+- react mapping data - Google Search
+- [9 things every React.js beginner should know - Cam Jackson](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know)
+- [Introducing JSX - React](https://reactjs.org/docs/introducing-jsx.html#embedding-expressions-in-jsx)
+- react stateless components - Google Search
+- [Index as a key is an anti-pattern – Robin Pokorny – Medium](https://medium.com/@robinpokorny/index-as-a-key-is-an-anti-pattern-e0349aece318)
+- [Stateless Functional Component is better · Issue #304 · facebookincubator/create-react-app](https://github.com/facebookincubator/create-react-app/issues/304)
+- todomvc - Google Search
+- [12 ShoppingCart Examples with ReactJS](https://react.rocks/tag/ShoppingCart)
+- [ReactJS + Redux Basics - YouTube](https://www.youtube.com/playlist?list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_)
+- redux tutorial - Google Search
+- [React JS Tutorials - YouTube](https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
+- redux shopping cart - Google Search
+- [reactjs - JavaScript: var {left, ...props} = this.props; - Stack Overflow](https://stackoverflow.com/questions/28534344/javascript-var-left-props-this-props)
+- const = this.props - Google Search
+- [React-redux "connect" explained 🔗](http://www.sohamkamani.com/blog/2017/03/31/react-redux-connect-explained/)
+- react container components - Google Search
+- [Новый уровень React: Компоненты-контейнеры](http://getinstance.info/articles/react/learning-react-container-components/)
+- [Setting up Webpack for React](https://teamtreehouse.com/library/setting-up-webpack-for-react)
+- [React, routing, and data fetching – Jimmy Jia – Medium](https://medium.com/@taion/react-routing-and-data-fetching-ec519428135c)
+- [What the difference of this.state and this.setstate in ReactJS? - Stack Overflow](https://stackoverflow.com/questions/35867038/what-the-difference-of-this-state-and-this-setstate-in-reactjs)
+- [Highest Voted 'reactjs' Questions - Stack Overflow](https://stackoverflow.com/questions/tagged/reactjs)
+- [reactjs - What is the difference between using constructor vs getInitialState in React / React Native? - Stack Overflow](https://stackoverflow.com/questions/30668326/what-is-the-difference-between-using-constructor-vs-getinitialstate-in-react-r)
+- should i avoid redux - Google Search
+- react vs redux - Google Search
+- [ReactJS Two components communicating - Stack Overflow](https://stackoverflow.com/questions/21285923/reactjs-two-components-communicating/31563614#31563614)
+- react child parent communication - Google Search
+- [React and Redux Single Page Applications Resources – Artem Sapegin – Medium](https://medium.com/netscape/react-and-redux-single-page-applications-resources-22cd859b0c1d)
+- [Изоморфные React-приложения: производительность и масштабирование / Блог компании Конференции Олега Бунина (Онтико) / Хабрахабр](https://habrahabr.ru/company/oleg-bunin/blog/319038/)
+- [Modularise CSS the React way – Julian Viereck – Medium](https://medium.com/@jviereck/modularise-css-the-react-way-1e817b317b04)
+- [Styling React](https://survivejs.com/react/advanced-techniques/styling-react/)
+- [html - How to apply CSS and Styling to a React component - Stack Overflow](https://stackoverflow.com/questions/38545219/how-to-apply-css-and-styling-to-a-react-component)
+- [React.js cheatsheet](https://devhints.io/react)
+- [State and Lifecycle - React](https://reactjs.org/docs/state-and-lifecycle.html#state-updates-are-merged)
+- react router tutorial - Google Search
+- [ReactTraining/react-router: Declarative routing for React](https://github.com/ReactTraining/react-router)
+- [javascript - Where do I fetch initial data from server in a React Redux app? - Stack Overflow](https://stackoverflow.com/questions/36784139/where-do-i-fetch-initial-data-from-server-in-a-react-redux-app)
+- [javascript - What are differences between redux, react-redux, redux-thunk? - Stack Overflow](https://stackoverflow.com/questions/38405571/what-are-differences-between-redux-react-redux-redux-thunk)
+- [Usage | Yarn](https://yarnpkg.com/en/docs/usage)
+- [React, Redux and react-redux](http://jilles.me/react-redux-and-react-redux/)
+- [Idiomatic Redux: Why use action creators? · Mark's Dev Blog](http://blog.isquaredsoftware.com/2016/10/idiomatic-redux-why-use-action-creators/)
+- redux action creators - Google Search
+- [В чём сила Redux? / Хабрахабр](https://habrahabr.ru/post/333848/)
+- [How to Learn React: A Five-Step Plan | Lullabot](https://www.lullabot.com/articles/how-to-learn-react)
+- [Learning React? Start Small.](https://dev.to/dceddia/learning-react-start-small)
+- [10 Tips for Better Redux Architecture – JavaScript Scene – Medium](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44)
+- [You Might Not Need Redux – Dan Abramov – Medium](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
+- [The SoundCloud Client in React + Redux - RWieruch](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
+- [The Minimal React Webpack Babel Setup - RWieruch](https://www.robinwieruch.de/minimal-react-webpack-babel-setup/)
+- [Writing Tests · Redux](http://redux.js.org/docs/recipes/WritingTests.html)
+- [happypoulp/redux-tutorial: Learn how to use redux step by step](https://github.com/happypoulp/redux-tutorial)
+- [Унифицированный язык стилей / Блог компании Mail.Ru Group / Хабрахабр](https://habrahabr.ru/company/mailru/blog/334704/)
+- [reactjs - What are your best practices for preloading initialState in your Redux apps? - Stack Overflow](https://stackoverflow.com/questions/33924429/what-are-your-best-practices-for-preloading-initialstate-in-your-redux-apps)
+- [Introduction to Preact — a smaller, faster React alternative](https://blog.logrocket.com/introduction-to-preact-a-smaller-faster-react-alternative-ad5532eb6d79)
+- [All the fundamental React.js concepts, jammed into this single Medium article](https://medium.freecodecamp.org/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2)
+- [acemarke comments on Do I need redux for an e-commerce app with react?](https://www.reddit.com/r/reactjs/comments/5wuxp4/do_i_need_redux_for_an_ecommerce_app_with_react/deddxx0/)
+- react spa example
+- [A simplified approach to calling APIs with redux ⏬](http://www.sohamkamani.com/blog/2016/06/05/redux-apis/)
+- [Alexander Rodionov / doll-vanilla-react · GitLab](https://gitlab.com/tandav/doll-vanilla-react)

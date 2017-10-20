@@ -34,6 +34,7 @@
 - [git - sync files without commiting? - Stack Overflow](http://stackoverflow.com/questions/4885653/sync-files-without-commiting)
 - [Move existing, uncommited work to a new branch in Git - Stack Overflow](http://stackoverflow.com/questions/1394797/move-existing-uncommited-work-to-a-new-branch-in-git)
 - [Git - Git Basics](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
+- [Git - Book](https://git-scm.com/book/en/v2)
 - [git-tips/tips: Most commonly used git tips and tricks.](https://github.com/git-tips/tips)
 - [GitHub Services - Resources](https://services.github.com/resources/)
 - monorepo
@@ -48,4 +49,14 @@
 - [Git Cozy - GitHub Universe Training Day 2016 - YouTube](https://www.youtube.com/watch?v=cd-g06nA3ns&index=6&list=WL)
 - [Git From the Bits Up - YouTube](https://www.youtube.com/watch?v=MYP56QJpDr4&list=WL&index=159)
 - [Advanced Git: Graphs, Hashes, and Compression, Oh My! - YouTube](https://www.youtube.com/watch?v=ig5E8CcdM9g&list=WL&index=160)
-
+- [Keep a readable Git history – Fang's coding note](https://fangpenlin.com/posts/2013/09/30/keep-a-readable-git-history/)
+- [Learn Git Branching](https://learngitbranching.js.org/)
+- [Commit Often, Perfect Later, Publish Once—Git Best Practices](https://sethrobertson.github.io/GitBestPractices/)
+- new branch from several commits
+- [GitLab Flow | GitLab](https://about.gitlab.com/2014/09/29/gitlab-flow/)
+- [Git - Undoing changes | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/undoing-changes)
+- [Reset, Checkout, and Revert | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting)
+- [Dan Gitschooldude - YouTube](https://www.youtube.com/channel/UCshmCws1MijkZLMkPmOmzbQ/videos)
+- monorepo
+- [Why GitHub Can't Host the Linux Kernel Community | Hacker News](https://news.ycombinator.com/item?id=14972872)
+- [git - Difference between HEAD and master - Stack Overflow](https://stackoverflow.com/questions/4386959/difference-between-head-and-master)
