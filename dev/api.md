@@ -1,0 +1,29 @@
+# API
+- [Microsoft REST API Guidelines | Hacker News](https://news.ycombinator.com/item?id=12122828)
+- [Creating websites using React and Django REST Framework](https://hackernoon.com/creating-websites-using-react-and-django-rest-framework-b14c066087c7)
+- [Django Tutorial for Beginners - 40 - REST API View Request and Response - YouTube](https://www.youtube.com/watch?v=QW_5xCCPWFk) 
+- [Building beautiful REST APIs using Flask, Swagger UI and Flask-RESTPlus - Michał Karzyński](http://michal.karzynski.pl/blog/2016/06/19/building-beautiful-restful-apis-using-flask-swagger-ui-flask-restplus/)
+- [toddmotto/public-apis: A collective list of public JSON APIs for use in web development.](https://github.com/toddmotto/public-apis)
+- [Do you know what a REST API is? — SitePoint](https://www.sitepoint.com/developers-rest-api/)
+- how to build an api 2017
+
+## GraphQL
+- [Zero To GraphQL In 30 Minutes - YouTube](https://www.youtube.com/watch?v=H8YnVk2vhzg)
+
+
+- [How to GraphQL - The Fullstack Tutorial for GraphQL](https://www.howtographql.com/?v1)
+- [docs.graphene-python.org/projects/django/en/latest/](http://docs.graphene-python.org/projects/django/en/latest/)
+- [The GitHub GraphQL API | GitHub Engineering](https://githubengineering.com/the-github-graphql-api/#the-switch)
+- [Search and find – Medium](https://medium.com/search?q=graphql)
+- [GraphQL API Explorer | GitHub Developer Guide](https://developer.github.com/v4/explorer/)
+- [graphql tutorial - YouTube](https://www.youtube.com/results?search_query=graphql+tutorial)
+- [Покойся с миром, REST. Долгих лет жизни GraphQL / Хабрахабр](https://habrahabr.ru/post/334182/)
+- [Rest APIs are REST-in-Peace APIs. Long Live GraphQL.](https://medium.freecodecamp.org/rest-apis-are-rest-in-peace-apis-long-live-graphql-d412e559d8e4)
+- [Что же такое этот GraphQL? / Хабрахабр](https://habrahabr.ru/post/326986/)
+- [Introduction to Graph APIs - The Zapier Engineering Blog - Zapier](https://zapier.com/engineering/graph-apis/)
+- rest api without django rest framework
+- [Introduction to GraphQL - On Demand Training](https://services.github.com/on-demand/graphql/)
+- [Анатомия запросов GraphQL / Хабрахабр](https://habrahabr.ru/post/335050/)
+- [Сравнение REST и GraphQL / Хабрахабр](https://habrahabr.ru/post/335158/)
+- [How Django REST Framework Changed My Life | nGen WorksnGen Works](http://ngenworks.com/technology/how-django-rest-framework-changed-my-life/)
+- [GraphQL критика в комментарииях JrGQL, a GraphQL alternative | Hacker News](https://news.ycombinator.com/item?id=15005130)

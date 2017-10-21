@@ -4,3 +4,4 @@
 - [Elliptic Curve Crypto , The Basics – Hacker Noon](https://hackernoon.com/eliptic-curve-crypto-the-basics-e8eb1e934dc5)
 - [Теорема Гёделя о неполноте за 20 минут / Geektimes](https://geektimes.ru/post/284486/)
 - [Badges - Mathematics Stack Exchange](https://math.stackexchange.com/help/badges)
+- [P vs. NP and the Computational Complexity Zoo - YouTube](https://www.youtube.com/watch?v=YX40hbAHx3s)

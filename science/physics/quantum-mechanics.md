@@ -55,7 +55,7 @@
 - [How the Quantum Eraser Rewrites the Past | Space Time | PBS Digital Studios - YouTube](https://www.youtube.com/watch?v=8ORLN_KwAgs&index=90&list=WL)
 - [Awesome Homemade Quantum Eraser experiment - YouTube](https://www.youtube.com/watch?v=R-6St1rDbzo&list=WL&index=91)
 - [Delayed Choice Quantum Eraser Explained - YouTube](https://www.youtube.com/watch?v=U7Z_TIw9InA&list=WL&index=91)
-- [Delayed Choice Quantum Eraser - Quantum Physics - YouTube](https://www.youtube.com/watch?v=SzAQ36b9dzs&index=91&list=WL)
+- [Delayed Choice Quantum Eraser - Quantum Physics - YouTube](https://www.youtube.com/watch?v=SzAQ36b9dzs)
 - [The Original Double Slit Experiment - YouTube](https://www.youtube.com/watch?v=Iuv6hY6zsd0&index=91&list=WL)
 - [Поглотит ли квантовая механика реальность? / Geektimes](https://geektimes.ru/post/291013/)
 - [Saturday Morning Breakfast Cereal - The Talk](https://www.smbc-comics.com/comic/the-talk-3)

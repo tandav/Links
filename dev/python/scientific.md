@@ -5,6 +5,7 @@
 - [Scipy Lecture Notes — Scipy lecture notes](http://www.scipy-lectures.org/)
 - [Anaconda: Documentation |](https://docs.anaconda.com/)
 - [Python Packages and Environments with conda | Anaconda](https://www.anaconda.com/blog/developer-blog/python-packages-and-environments-conda/)
+- [100 numpy exercises](http://www.labri.fr/perso/nrougier/teaching/numpy.100/index.html)
 
 # Fast Python
 - [Losing your Loops Fast Numerical Computing with NumPy - YouTube](https://www.youtube.com/watch?v=EEUXKG97YRw)
@@ -28,3 +29,5 @@
 - [Numba: High-Performance Python with CUDA Acceleration | Parallel Forall](https://devblogs.nvidia.com/parallelforall/numba-python-cuda-acceleration/)
 - [New Optimizations Improve Deep Learning Frameworks For CPUs](https://www.nextplatform.com/2017/10/13/new-optimizations-improve-deep-learning-frameworks-cpus/)
 - cython, cython tutorial
+- [Easily Profile Python Code in Jupyter — Random Points](http://mortada.net/easily-profile-python-code-in-jupyter.html)
+- [Cython Tutorial - Bridging between Python and C/C++ for performance gains - YouTube](https://www.youtube.com/watch?v=mXuEoqK4bEc)

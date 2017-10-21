@@ -45,3 +45,16 @@ run shell scripts from string: `sudo sh -c “softwareupdate -ia && reboot”`
 - [Syntax highlighting in nano on Mac OS X](https://gist.github.com/BlakeGardner/5587269)
 
 ---
+
+#### Encrypt and Decrypt any file from terminal
+Encrypt:
+
+`openssl enc -aes-256-cbc -e -in {file-in} -out {file-out}`
+
+Dencrypt:
+
+`openssl enc -aes-256-cbc -d -in {file-in} -out {file-out}`
+
+You can drag and drop files to terminal for speed.
+
+---

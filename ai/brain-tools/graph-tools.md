@@ -80,3 +80,6 @@
 - [Collapsible Indented Tree - bl.ocks.org](https://bl.ocks.org/mbostock/1093025)
 - [Treemap - bl.ocks.org](https://bl.ocks.org/mbostock/972398)
 
+## Knowledge Maps
+- [vicky002/AlgoWiki: Repository which contains links and resources on different topics of Computer Science.](https://github.com/vicky002/AlgoWiki)
+

@@ -6,3 +6,5 @@
 - java logging
 - abstract class vs interface (+ java8 interfaces default methods)
 - [Alibaba-Java-Coding-Guidelines](https://alibaba.github.io/Alibaba-Java-Coding-Guidelines/)
+- java ee vs spring
+- [Oracle прекратила разработку Java EE? / Хабрахабр](https://habrahabr.ru/post/304812/)

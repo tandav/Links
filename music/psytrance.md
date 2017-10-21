@@ -18,3 +18,4 @@
 - [Artifact303 & E-Mantra & Eleusyn - Psychedelic Vision (DJ Set)](https://www.youtube.com/watch?v=_cZ4r0tYb7A)
 - [Artifact303 - Back To Space (Full Album)](https://www.youtube.com/watch?v=FfbCkrEet6I)
 - [Psytrance Guide](http://psytranceguide.com/)
+- [Filteria - Lost In The Wild (Full Album) - YouTube](https://www.youtube.com/watch?v=2dCoCxPYrr4)

@@ -60,3 +60,4 @@
 - monorepo
 - [Why GitHub Can't Host the Linux Kernel Community | Hacker News](https://news.ycombinator.com/item?id=14972872)
 - [git - Difference between HEAD and master - Stack Overflow](https://stackoverflow.com/questions/4386959/difference-between-head-and-master)
+- git untracked vs unstaged

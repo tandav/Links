@@ -1,4 +1,4 @@
-# Machine Learning
+# Machine Learning and Data Science
 
 ## Raw
 - [New deep learning course by Andrew Ng | Hacker News](https://news.ycombinator.com/item?id=15002208)
@@ -70,6 +70,7 @@
 - [О конференции Strata AI: будущее искусственного интеллекта / Блог компании ГК ЛАНИТ / Хабрахабр](https://habrahabr.ru/company/lanit/blog/339874/)
 - [На пути к естественному интеллекту / Блог компании JUG.ru Group / Хабрахабр](https://habrahabr.ru/company/jugru/blog/339806/)
 - [How Machines Learn: A Practical Guide – freeCodeCamp](https://medium.freecodecamp.org/how-machines-learn-a-practical-guide-203aae23cafb)
+- [Tetiana Ivanova - How to become a Data Scientist in 6 months a hacker’s approach to career planning - YouTube](https://www.youtube.com/watch?v=rIofV14c0tc)
 
 ## Raw Good
 - [Deep Learning - Ian Goodfellow Book](http://www.deeplearningbook.org/)

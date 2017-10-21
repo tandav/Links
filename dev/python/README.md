@@ -40,6 +40,7 @@
 - [типа конда тащит Conda: Myths and Misconceptions | Pythonic Perambulations](https://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/)
 - [Archives | Pythonic Perambulations](https://jakevdp.github.io/archives.html)
 - [Archives - Eli Bendersky's website](https://eli.thegreenplace.net/archives/all)
+- PyCon videos
 
 # Goolge Search
 - glob.glob python 3
@@ -56,3 +57,8 @@
 - pipenv, pipenv vs conda, [Announcing Pipenv | Hacker News](https://news.ycombinator.com/item?id=13459740)
 - PyPy
 - pypy vs cython
+- makefile for python
+
+# GUI
+- pyQt
+- [Craft your own GUIs with Python and Tkinter - YouTube](https://www.youtube.com/watch?v=Wb1YFgHqUZ8)

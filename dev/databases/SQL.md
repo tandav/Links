@@ -21,3 +21,4 @@
 - [My simply MySQL Command Line Cheatsheet](https://gist.github.com/hofmannsven/9164408)
 - [Useful PostgreSQL Queries and Commands](https://gist.github.com/rgreenjr/3637525)
 - oracle sql performance tips
+- [query optimiz - HN Search](https://hn.algolia.com/?query=query%20optimiz&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
