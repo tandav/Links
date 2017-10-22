@@ -10,7 +10,6 @@
 - [bmorelli25/Become-A-Full-Stack-Web-Developer: Free resources for learning Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 - [h5bp/Front-end-Developer-Interview-Questions: A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 - [mdo/code-guide: Standards for flexible, durable, and sustainable HTML and CSS.](https://github.com/mdo/code-guide)
-- [kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2017](https://github.com/kamranahmedse/developer-roadmap)
 - [Debugging Tips and Tricks | CSS-Tricks](https://css-tricks.com/debugging-tips-tricks/)
 - [gothinkster/realworld: A Collection & Specification for Exemplary Frontend and Backend Codebases 🏅](https://github.com/gothinkster/realworld?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
 - [Progressive Web Apps Training  |  Web  |  Google Developers](https://developers.google.com/web/ilt/pwa/)
@@ -33,3 +32,4 @@
 - [Web Design in 4 minutes](http://jgthms.com/web-design-in-4-minutes/)
 - [Умер ли MVC для фронтенда? / Блог компании Туту.ру / Хабрахабр](https://habrahabr.ru/company/tuturu/blog/321820/)
 - [Ask HN: Fatigued by the complexity of ES6 tooling. What to do? | Hacker News](https://news.ycombinator.com/item?id=13848746)
+- [My journey to becoming a web developer from scratch without a CS degree (and what I learned from it…](https://medium.freecodecamp.org/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503)

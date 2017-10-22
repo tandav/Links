@@ -9,10 +9,10 @@
 - [React’s Five Fingers of Death. Master these five concepts, then master React.](https://medium.freecodecamp.org/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3)
 - [Step by Step Guide To Building React Redux Apps – rajaraodv – Medium](https://medium.com/@rajaraodv/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a)
 - [13 things you need to know about React – Hacker Noon](https://hackernoon.com/13-things-you-need-to-know-about-react-d2e6a6422552)
+- [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
 ---
 
-- [Frontend](favorites://)
 - [10 Reasons why I moved from Angular to React - RWieruch](https://www.robinwieruch.de/reasons-why-i-moved-from-angular-to-react/)
 - [Tutorial: Intro To React - React](https://reactjs.org/tutorial/tutorial.html)
 - [Learning React.js: Getting Started and Concepts | Scotch](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
@@ -105,3 +105,4 @@
 - react spa example
 - [A simplified approach to calling APIs with redux ⏬](http://www.sohamkamani.com/blog/2016/06/05/redux-apis/)
 - [Alexander Rodionov / doll-vanilla-react · GitLab](https://gitlab.com/tandav/doll-vanilla-react)
+- [Things to learn in React before using Redux | Hacker News](https://news.ycombinator.com/item?id=14811577)

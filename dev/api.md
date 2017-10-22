@@ -6,11 +6,11 @@
 - [toddmotto/public-apis: A collective list of public JSON APIs for use in web development.](https://github.com/toddmotto/public-apis)
 - [Do you know what a REST API is? — SitePoint](https://www.sitepoint.com/developers-rest-api/)
 - how to build an api 2017
+- [REST-Ful API Design - YouTube](https://www.youtube.com/watch?v=oG2rotiGr90)
+- [How I Explained REST to My Wife | Looah](http://www.looah.com/source/view/2284)
 
 ## GraphQL
 - [Zero To GraphQL In 30 Minutes - YouTube](https://www.youtube.com/watch?v=H8YnVk2vhzg)
-
-
 - [How to GraphQL - The Fullstack Tutorial for GraphQL](https://www.howtographql.com/?v1)
 - [docs.graphene-python.org/projects/django/en/latest/](http://docs.graphene-python.org/projects/django/en/latest/)
 - [The GitHub GraphQL API | GitHub Engineering](https://githubengineering.com/the-github-graphql-api/#the-switch)
@@ -27,3 +27,4 @@
 - [Сравнение REST и GraphQL / Хабрахабр](https://habrahabr.ru/post/335158/)
 - [How Django REST Framework Changed My Life | nGen WorksnGen Works](http://ngenworks.com/technology/how-django-rest-framework-changed-my-life/)
 - [GraphQL критика в комментарииях JrGQL, a GraphQL alternative | Hacker News](https://news.ycombinator.com/item?id=15005130)
+- [GraphQL vs. REST – Apollo GraphQL](https://dev-blog.apollodata.com/graphql-vs-rest-5d425123e34b)

@@ -55,7 +55,7 @@
 - [Org Mode for Emacs – Your Life in Plain Text | Hacker News](https://news.ycombinator.com/item?id=11386590)
 - [Created By You - Coggle](https://coggle.it/)
 - [treevis.net](http://treevis.net/)
-
+- [Show HN: Doogie – A Chromium-Based Browser with Tree-Style Pages | Hacker News](https://news.ycombinator.com/item?id=15277351)
 
 ## D3.js trees
 - [D3 Source Treemap - bl.ocks.org](https://bl.ocks.org/mbostock/8fe6fa6ed1fa976e5dd76cfa4d816fec)
@@ -82,4 +82,5 @@
 
 ## Knowledge Maps
 - [vicky002/AlgoWiki: Repository which contains links and resources on different topics of Computer Science.](https://github.com/vicky002/AlgoWiki)
-
+- [Wiki of All Things 6.00.1x](https://gist.github.com/demidovakatya/3caab70db1b23716ad09)
+- [li-xinyang/AW_iNote: Learning Note for Everything](https://github.com/li-xinyang/AW_iNote)

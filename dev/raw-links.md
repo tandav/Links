@@ -12,6 +12,7 @@
 - Design Patterns [как вар](https://github.com/kamranahmedse/design-patterns-for-humans)
 - [Kristories/awesome-guidelines: A curated list of high quality coding style conventions and standards.](https://github.com/Kristories/awesome-guidelines)
 - [aloisdg/awesome-regex: A curated collection of awesome Regex libraries, tools, frameworks and software](https://github.com/aloisdg/awesome-regex)
+- [zeeshanu/learn-regex: Learn regex the easy way](https://github.com/zeeshanu/learn-regex)
 - Pair programming (maybe)
 - [Pair Programming - An Extremely Agile Practice | 101 Ways](http://www.101ways.com/pair-programming-an-extremely-agile-practice/)
 - [zeeshanu/learn-regex: Learn regex the easy way](https://github.com/zeeshanu/learn-regex)
@@ -41,5 +42,10 @@
 - [My answers to over 100 Google interview questions](https://gist.github.com/amaxwell01/3728155)
 - [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
 - [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/)
-
+- why end each file with new line stack overflow
+- use brew cask to install apps
+- how to use mailing lists
+- Step Into vs Step Over | debugger
+- [kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2017](https://github.com/kamranahmedse/developer-roadmap)
+- [A Guide to Becoming a Full-Stack Developer in 2017 – Coderbyte – Medium](https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c)
 ---

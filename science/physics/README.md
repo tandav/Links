@@ -4,11 +4,12 @@
 ## Relativity
 - [Теория относительности в картинках / Хабрахабр](https://habrahabr.ru/post/169347/)
 - [Теория относительности — Lurkmore](http://lurkmore.to/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8)
-- [Мифы о Теории Относительности - YouTube](https://www.youtube.com/watch?v=Lb0cFfsZ7Ag&t=0s)
+- [Мифы о Теории Относительности - YouTube](https://www.youtube.com/watch?v=Lb0cFfsZ7Ag)
 - [Без Эйнштейна мы разбирались бы с гравитацией ещё десятки лет / Geektimes](https://geektimes.ru/post/287800/)
-- [Специальная теория относительности - YouTube](https://www.youtube.com/watch?v=4eFRC_bwtXU&list=WL&index=5)
-- [The Original Double Slit Experiment - YouTube](https://www.youtube.com/watch?v=Iuv6hY6zsd0&index=91&list=WL)
+- [Специальная теория относительности - YouTube](https://www.youtube.com/watch?v=4eFRC_bwtXU)
+- [The Original Double Slit Experiment - YouTube](https://www.youtube.com/watch?v=Iuv6hY6zsd0)
 - [Спросите Итана: почему время должно быть измерением? / Geektimes](https://geektimes.ru/post/292527/)
+- [15x4 - 15 минут о теории относительности - YouTube](https://www.youtube.com/watch?v=Ls9fKgdm18k)
 
 ## Raw
 - [Badges - Physics Stack Exchange](http://physics.stackexchange.com/help/badges)

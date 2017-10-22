@@ -37,7 +37,6 @@
 - [Git - Book](https://git-scm.com/book/en/v2)
 - [git-tips/tips: Most commonly used git tips and tricks.](https://github.com/git-tips/tips)
 - [GitHub Services - Resources](https://services.github.com/resources/)
-- monorepo
 - [Как я использую git / Хабрахабр](https://habrahabr.ru/post/336708/)
 - [git-tricks-common.md](https://gist.github.com/eyecatchup/e94ab1294f6293cf3274c34589744514)
 - [GitHub Standard Fork & Pull Request Workflow](https://gist.github.com/Chaser324/ce0505fbed06b947d962)

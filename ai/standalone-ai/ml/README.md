@@ -3,6 +3,7 @@
 ## Raw
 - [New deep learning course by Andrew Ng | Hacker News](https://news.ycombinator.com/item?id=15002208)
 - [Deeplearning.ai: Announcing New Deep Learning Courses on Coursera | Hacker News](https://news.ycombinator.com/item?id=14958779)
+- [HN Search powered by Algolia](https://hn.algolia.com/?query=machine%20learning&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 - [Искусственные нейронные сети простыми словами / Geektimes](https://geektimes.ru/post/277088/)
 - [Почему переводчикам не нужно бояться нейросетей Гугла / Geektimes](https://geektimes.ru/post/286692/)
 - how start learning neural networks
@@ -71,11 +72,14 @@
 - [На пути к естественному интеллекту / Блог компании JUG.ru Group / Хабрахабр](https://habrahabr.ru/company/jugru/blog/339806/)
 - [How Machines Learn: A Practical Guide – freeCodeCamp](https://medium.freecodecamp.org/how-machines-learn-a-practical-guide-203aae23cafb)
 - [Tetiana Ivanova - How to become a Data Scientist in 6 months a hacker’s approach to career planning - YouTube](https://www.youtube.com/watch?v=rIofV14c0tc)
+- [TensorFlow 101 | Hacker News](https://news.ycombinator.com/item?id=15525072)
+- [EnlightenedCSF/MLSummerSchool: Материалы летней школы Surf и ПММ ВГУ по машинному обучению и искусственному интеллекту](https://github.com/EnlightenedCSF/MLSummerSchool)
+- [surfstudio/MLCandidatePath](https://github.com/surfstudio/MLCandidatePath)
 
 ## Raw Good
 - [Deep Learning - Ian Goodfellow Book](http://www.deeplearningbook.org/)
 - [Kaggle: Your Home for Data Science](https://www.kaggle.com/)
-- [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
+- [Hacker's guide to Neural Networks (2012) | Hacker News](https://news.ycombinator.com/item?id=14769525)
 - [Andrej Karpathy blog](http://karpathy.github.io/)
 - [Practical Deep Learning for Coders | Hacker News](https://news.ycombinator.com/item?id=13224588)
 - [Deep Learning for Coders – Launching Deep Learning Part 2 | Hacker News](https://news.ycombinator.com/item?id=14887414)

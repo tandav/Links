@@ -6,7 +6,8 @@
 - [terminal-mac-cheatsheet: List of my most used commands and shortcuts in the terminal for Mac](https://github.com/0nn0/terminal-mac-cheatsheet)
 - [My favorite command-line utilities](https://hackernoon.com/macbook-my-command-line-utilities-f8a121c3b019)
 - [linux - Understanding UNIX permissions and their attributes - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/183994/understanding-unix-permissions-and-their-attributes)
-- [alexanderepstein/Bash-Snippets: A collection of small bash scripts for heavy terminal users](https://github.com/alexanderepstein/Bash-Snippets?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
+- [alexanderepstein/Bash-Snippets: A collection of small bash scripts for heavy terminal users](https://github.com/alexanderepstein/Bash-Snippets)
+- [Bash-Snippets: A collection of small bash scripts for heavy terminal users | Hacker News](https://news.ycombinator.com/item?id=14769384)
 - [denysdovhan/bash-handbook: For those who wanna learn Bash](https://github.com/denysdovhan/bash-handbook)
 - [All commands sorted by votes | commandlinefu.com](http://www.commandlinefu.com/commands/browse/sort-by-votes)
 - [good intro to shell - Блокчейн и майнинг своими руками](https://tjournal.ru/45977-blokchein-i-maining-svoimi-rukami)
@@ -27,6 +28,9 @@
 - [What are PATH and other environment variables, and how can I set or use them? - Super User](https://superuser.com/questions/284342/what-are-path-and-other-environment-variables-and-how-can-i-set-or-use-them)
 - shell one liners
 - terminal schedule example
+- [Linux Tip | How to use Htop - YouTube](https://www.youtube.com/watch?v=Qw2ZUf0hTF8)
+- [History by Number (Unix Power Tools, 3rd Edition)](https://docstore.mik.ua/orelly/unix3/upt/ch30_07.htm)
+- [An Introduction to Useful Bash Aliases and Functions | DigitalOcean](https://www.digitalocean.com/community/tutorials/an-introduction-to-useful-bash-aliases-and-functions)
 
 ## Zsh / Bash
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) | [docs](https://github.com/robbyrussell/oh-my-zsh/wiki)
@@ -38,6 +42,8 @@
 - zsh features
 - [Bash-Snippets: A collection of small bash scripts for heavy terminal users](https://github.com/alexanderepstein/Bash-Snippets)
 - [bash - What are the special dollar sign shell variables? - Stack Overflow](https://stackoverflow.com/questions/5163144/what-are-the-special-dollar-sign-shell-variables)
+- [zsh vs fish](https://habrahabr.ru/post/267797/#comment_8592673)
+- [unixorn/awesome-zsh-plugins: A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.](https://github.com/unixorn/awesome-zsh-plugins)
 
 ## grep awk sed
 - [grep cheat sheet](https://gist.github.com/superDross/7b32fbb6b1cb6dffd703f6b9823b721a)
