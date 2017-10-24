@@ -74,6 +74,7 @@
 - [TensorFlow 101 | Hacker News](https://news.ycombinator.com/item?id=15525072)
 - [EnlightenedCSF/MLSummerSchool: Материалы летней школы Surf и ПММ ВГУ по машинному обучению и искусственному интеллекту](https://github.com/EnlightenedCSF/MLSummerSchool)
 - [surfstudio/MLCandidatePath](https://github.com/surfstudio/MLCandidatePath)
+- [Python Data Science Handbook | Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ## Raw Good
 - [Deep Learning - Ian Goodfellow Book](http://www.deeplearningbook.org/)

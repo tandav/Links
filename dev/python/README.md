@@ -37,12 +37,15 @@
 - [AsyncIO for the Working Python Developer – Hacker Noon](https://hackernoon.com/asyncio-for-the-working-python-developer-5c468e6e2e8e)
 - [Write Cleaner Python: Use Exceptions](https://jeffknupp.com/blog/2013/02/06/write-cleaner-python-use-exceptions/)
 - [Python Tutorial](https://pythonspot.com/en/)
-- [типа конда тащит Conda: Myths and Misconceptions | Pythonic Perambulations](https://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/)
 - [Archives | Pythonic Perambulations](https://jakevdp.github.io/archives.html)
 - [Archives - Eli Bendersky's website](https://eli.thegreenplace.net/archives/all)
 - PyCon videos
 
-# Goolge Search
+## Package managers
+- [Jake VanderPlas on Twitter: "Most common Python issue I see with students is they've installed Python three or four different ways & have all their paths confused. 1/"](https://twitter.com/jakevdp/status/922846245848150016)
+- [типа конда тащит Conda: Myths and Misconceptions | Pythonic Perambulations](https://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/)
+
+## Goolge Search
 - glob.glob python 3
 - python class in separate file
 - pycharm folding
@@ -59,6 +62,6 @@
 - pypy vs cython
 - makefile for python
 
-# GUI
+## GUI
 - pyQt
 - [Craft your own GUIs with Python and Tkinter - YouTube](https://www.youtube.com/watch?v=Wb1YFgHqUZ8)

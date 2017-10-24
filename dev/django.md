@@ -41,3 +41,5 @@ view function = a request handler (request > response)
 
 # Raw
 - [Creating websites using React and Django REST Framework](https://hackernoon.com/creating-websites-using-react-and-django-rest-framework-b14c066087c7)
+- django logging
+- [Django vs. Flask | Hacker News](https://news.ycombinator.com/item?id=14690638)

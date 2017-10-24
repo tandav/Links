@@ -19,3 +19,5 @@
 - [Boot Up 2017 with the #100DaysOfCode Challenge – freeCodeCamp](https://medium.freecodecamp.org/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b)
 - [How you can start a career in a different field without “experience” — tips that got me job offers…](https://medium.freecodecamp.org/how-you-start-a-career-in-a-different-field-without-experience-tips-that-got-me-job-offers-from-7425f590f3eb)
 - [Why I studied full-time for 8 months for a Google interview](https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13)
+- [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html) `good`
+- [Ask HN: What do you use to align your daily todos with your long term goals? | Hacker News](https://news.ycombinator.com/item?id=13855577)

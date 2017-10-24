@@ -59,6 +59,7 @@
 - [git - Difference between HEAD and master - Stack Overflow](https://stackoverflow.com/questions/4386959/difference-between-head-and-master)
 - git untracked vs unstaged
 - git signing commits
+- [Semantic Versioning 2.0.0 | Semantic Versioning](http://semver.org/)
 
 ## Rebase
 - [Почему нужно перестать использовать Git rebase / Блог компании Mail.Ru Group / Хабрахабр](https://habrahabr.ru/company/mailru/blog/340558/)

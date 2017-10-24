@@ -8,6 +8,7 @@
 - how to build an api 2017
 - [REST-Ful API Design - YouTube](https://www.youtube.com/watch?v=oG2rotiGr90)
 - [How I Explained REST to My Wife | Looah](http://www.looah.com/source/view/2284)
+- [Правила хорошего тона для API / Блог компании ZeroTech / Хабрахабр](https://habrahabr.ru/company/zerotech/blog/333884/)
 
 ## GraphQL
 - [Zero To GraphQL In 30 Minutes - YouTube](https://www.youtube.com/watch?v=H8YnVk2vhzg)

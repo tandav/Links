@@ -34,3 +34,4 @@
 - [Ask HN: Fatigued by the complexity of ES6 tooling. What to do? | Hacker News](https://news.ycombinator.com/item?id=13848746)
 - [My journey to becoming a web developer from scratch without a CS degree (and what I learned from it…](https://medium.freecodecamp.org/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503)
 - [Our large team of engineers use this front end development guide](https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41)
+- [Все новое — это хорошо забытое старое / Хабрахабр](https://habrahabr.ru/post/326046/)

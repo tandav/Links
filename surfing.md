@@ -41,3 +41,6 @@
 ## Other
 * [Popular Music Videos - YouTube](https://www.youtube.com/playlist?list=PLFgquLnL59alCl_2TQvOiD5Vgm1hCaGSI)
 * [VICE - Оригинальные репортажи и документальные фильмы о всём важном в мире.](https://www.vice.com/ru)
+
+## Raw
+- [Ask HN: What are some good technology blogs to follow? | Hacker News](https://news.ycombinator.com/item?id=13849430)

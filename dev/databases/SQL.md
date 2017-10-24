@@ -6,13 +6,14 @@
     - left join vs left outer join (they're equal `OUTER` is optional)
 - [SQL for Web Nerds](http://philip.greenspun.com/sql/)
 - [sql - Inner join vs Where - Stack Overflow](https://stackoverflow.com/questions/121631/inner-join-vs-where)
-- sql cheat sheet
+- sql cheat sheet | quick sql tutorial
     - [SQL (Structured Query Language) in one page : SQL.SU](http://www.cheat-sheets.org/sites/sql.su/)
 - sql exercises | sql exercises and answers
 - varchar vs text
 - awesome sql
 - [Почему SQL одерживает верх над NoSQL, и к чему это приведет в будущем / Блог компании Alconost / Хабрахабр](https://habrahabr.ru/company/alconost/blog/340372/)
 - [SQL vs NoSQL - HN Search](https://hn.algolia.com/?query=sql%20vs%20nosql&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
+- [Курс молодого бойца PostgreSQL / Хабрахабр](https://habrahabr.ru/post/340460/)
 
 ## Joins
 - `JOIN` is the same as `INNER JOIN` use last one for readability
