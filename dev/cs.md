@@ -27,6 +27,8 @@
 - [On Abstraction [video] | Hacker News](https://news.ycombinator.com/item?id=15191129)
 - [mycodeschool - YouTube](https://www.youtube.com/user/mycodeschool/videos)
 - metaprogramming examples
+- [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/)
+- [A Gentle Introduction to Algorithm Complexity Analysis](http://discrete.gr/complexity/)
 
 ## Books
 - Gödel, Escher, Bach - Must Read, [related stuff](https://news.ycombinator.com/item?id=13995609)

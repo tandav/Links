@@ -49,3 +49,4 @@ Learning what people invented in AI field
 - conscious is an illusion
 - [Становясь умнее, машины начинают обучаться почти так же, как мы / Geektimes](https://geektimes.ru/post/286432/)
 - [Искусственный интеллект и призрак в машине / Geektimes](https://geektimes.ru/post/286554/)
+- [A Theory of Sequence Memory in Neocortex | Hacker News](https://news.ycombinator.com/item?id=15533024)

@@ -8,7 +8,6 @@
 - [sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - [nushackers/notes-to-cs-freshmen-from-the-future: Notes to (NUS) Computer Science Freshmen, From The Future (Original by @ejamesc)](https://github.com/nushackers/notes-to-cs-freshmen-from-the-future)
 - [ssh crash course - Google Search](https://www.google.ru/search?q=ssh+crash+course)
-- Learn Docker
 - Design Patterns [как вар](https://github.com/kamranahmedse/design-patterns-for-humans)
 - [Kristories/awesome-guidelines: A curated list of high quality coding style conventions and standards.](https://github.com/Kristories/awesome-guidelines)
 - [aloisdg/awesome-regex: A curated collection of awesome Regex libraries, tools, frameworks and software](https://github.com/aloisdg/awesome-regex)
@@ -49,3 +48,5 @@
 - [kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2017](https://github.com/kamranahmedse/developer-roadmap)
 - [A Guide to Becoming a Full-Stack Developer in 2017 – Coderbyte – Medium](https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c)
 ---
+
+- [Here are the 50 best HackerNews posts of all time – The Startup – Medium](https://medium.com/swlh/best-of-2015-pfffffffft-79d9b014f4de)

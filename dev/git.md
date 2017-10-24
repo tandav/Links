@@ -9,11 +9,9 @@
 - [version control - Git for beginners: The definitive practical guide - Stack Overflow](http://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide)
 - [git - the simple guide - no deep shit!](http://rogerdudler.github.io/git-guide/)
 - [Get started with SourceTree - Atlassian Documentation](https://confluence.atlassian.com/get-started-with-sourcetree)
-- [merge vs rebase - Google Search](https://www.google.com/search?q=merge+vs+rebase&oq=merge+vs+rebase)
 - [Серия видеоуроков по Git для новичков / Хабрахабр](https://habrahabr.ru/post/322424/)
 - [merge without pull request - Google Search](https://www.google.com/search?q=merge+without+pull+request&oq=merge+without+pull+request)
 - [Pull Request Merge Strategies: The Great Debate - Atlassian Developers](https://developer.atlassian.com/blog/2014/12/pull-request-merge-strategies-the-great-debate/)
-- [How to Rebase a Pull Request · edx/edx-platform Wiki](https://github.com/edx/edx-platform/wiki/How-to-Rebase-a-Pull-Request)
 - [How to Write a Git Commit Message (2014) | Hacker News](https://news.ycombinator.com/item?id=13889155)
 - [git - How to get back to the latest commit after checking out a previous commit? - Stack Overflow](http://stackoverflow.com/questions/2427288/how-to-get-back-to-the-latest-commit-after-checking-out-a-previous-commit)
 - [git stash tutorial - Google Search](https://www.google.com/search?q=git+stash+tutorial)
@@ -60,3 +58,10 @@
 - [Why GitHub Can't Host the Linux Kernel Community | Hacker News](https://news.ycombinator.com/item?id=14972872)
 - [git - Difference between HEAD and master - Stack Overflow](https://stackoverflow.com/questions/4386959/difference-between-head-and-master)
 - git untracked vs unstaged
+- git signing commits
+
+## Rebase
+- [Почему нужно перестать использовать Git rebase / Блог компании Mail.Ru Group / Хабрахабр](https://habrahabr.ru/company/mailru/blog/340558/)
+- [Mastering Git — Why Rebase is amazing – Hacker Noon](https://hackernoon.com/mastering-git-why-rebase-is-amazing-a954485b128a)
+- [merge vs rebase - Google Search](https://www.google.com/search?q=merge+vs+rebase&oq=merge+vs+rebase)
+- [How to Rebase a Pull Request · edx/edx-platform Wiki](https://github.com/edx/edx-platform/wiki/How-to-Rebase-a-Pull-Request)

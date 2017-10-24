@@ -53,6 +53,7 @@
 - vim introduction for beginners
 - [To a Vim lover, how painful was it to learn Vim? - Quora](https://www.quora.com/To-a-Vim-lover-how-painful-was-it-to-learn-Vim)
 - [vi - What is your most productive shortcut with Vim? - Stack Overflow](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim)
+- [Seven habits of effective text editing (2000) | Hacker News](https://news.ycombinator.com/item?id=15532457)
 
 ## VS Code
 - [Microsoft/vscode-tips-and-tricks: Collection of helpful tips and tricks for VS Code.](https://github.com/Microsoft/vscode-tips-and-tricks)

@@ -17,7 +17,6 @@
 - [Искусственный интеллект в поиске. Как Яндекс научился применять нейронные сети, чтобы искать по смыслу, а не по словам / Блог компании Яндекс / Хабрахабр](https://habrahabr.ru/company/yandex/blog/314222/)
 - [[ В закладки ] Зоопарк архитектур нейронных сетей. Часть 2 / Блог компании Wunder Fund / Хабрахабр](https://habrahabr.ru/company/wunderfund/blog/313906/)
 - [Machine Learning is Fun! – Medium](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
-- [Deep Learning Is Going to Teach Us All the Lesson of Our Lives: Jobs Are for Machines – Basic income – Medium](https://medium.com/basic-income/deep-learning-is-going-to-teach-us-all-the-lesson-of-our-lives-jobs-are-for-machines-7c6442e37a49)
 - [The Current State of Machine Intelligence – Medium](https://medium.com/@shivon/the-current-state-of-machine-intelligence-f76c20db2fe1)
 - [Deep Learning is Revolutionary – Transmission – Medium](https://medium.com/transmission-newsletter/deep-learning-is-revolutionary-d0f3667bafa0)
 - [Machine Learning in a Year – Learning New Stuff – Medium](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c#.pwuo4s21n)

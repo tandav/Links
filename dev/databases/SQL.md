@@ -8,11 +8,19 @@
 - [sql - Inner join vs Where - Stack Overflow](https://stackoverflow.com/questions/121631/inner-join-vs-where)
 - sql cheat sheet
     - [SQL (Structured Query Language) in one page : SQL.SU](http://www.cheat-sheets.org/sites/sql.su/)
-- sql exercises
+- sql exercises | sql exercises and answers
 - varchar vs text
 - awesome sql
 - [Почему SQL одерживает верх над NoSQL, и к чему это приведет в будущем / Блог компании Alconost / Хабрахабр](https://habrahabr.ru/company/alconost/blog/340372/)
 - [SQL vs NoSQL - HN Search](https://hn.algolia.com/?query=sql%20vs%20nosql&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
+
+## Joins
+- `JOIN` is the same as `INNER JOIN` use last one for readability
+- `LEFT JOIN` is the same as `LEFT OUTER JOIN` 
+    - [tsql - LEFT JOIN vs. LEFT OUTER JOIN in SQL Server - Stack Overflow](https://stackoverflow.com/questions/406294/left-join-vs-left-outer-join-in-sql-server)
+- you can always use `LEFT JOIN`. If you need `RIGHT` just change the tables order.
+- cross join (`SELECT * FROM student_grades, students`) - all different combinations
+
 
 ## Deep
 - [Why Uber Engineering Switched from Postgres to MySQL | Hacker News](https://news.ycombinator.com/item?id=12166585)
@@ -21,4 +29,6 @@
 - [My simply MySQL Command Line Cheatsheet](https://gist.github.com/hofmannsven/9164408)
 - [Useful PostgreSQL Queries and Commands](https://gist.github.com/rgreenjr/3637525)
 - oracle sql performance tips
+- sql query tuning
+- oracle tuning
 - [query optimiz - HN Search](https://hn.algolia.com/?query=query%20optimiz&sort=byPopularity&prefix&page=0&dateRange=all&type=story)

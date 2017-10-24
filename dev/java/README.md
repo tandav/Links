@@ -7,6 +7,7 @@
 - abstract class vs interface (+ java8 interfaces default methods)
 - java ee vs spring
 - [Oracle прекратила разработку Java EE? / Хабрахабр](https://habrahabr.ru/post/304812/)
+- heap java
 
 ## Deep Java
 - [Learn about JVM internals - what does the JVM do? - YouTube](https://www.youtube.com/watch?v=UwB0OSmkOtQ)
@@ -22,3 +23,6 @@
 - [Garbage collection in Java, with Animation and discussion of G1 GC - YouTube](https://www.youtube.com/watch?v=UnaNQgzw4zY)
 - [Understanding Java Garbage Collection and what you can do about it - YouTube](https://www.youtube.com/watch?v=we_enrM7TSY)
 - [jvm - HN Search powered by Algolia](https://hn.algolia.com/?query=jvm&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
+- java memory
+- [Eclipse OpenJ9 – Open-source JVM | Hacker News](https://news.ycombinator.com/item?id=15265753)
+- [Oracle and the fall of Java EE | Hacker News](https://news.ycombinator.com/item?id=12054705)

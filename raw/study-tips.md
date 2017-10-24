@@ -16,3 +16,6 @@
 - [Unconventional way of learning a new programming language](https://medium.com/@hellomeets/unconventional-way-of-learning-a-new-programming-language-d2bee1fa378a)
 - [10,000 Hours With Claude Shannon: How A Genius Thinks, Works, and Lives](https://medium.com/the-mission/10-000-hours-with-claude-shannon-12-lessons-on-life-and-learning-from-a-genius-e8b9297bee8f)
 - [Learning From the Feynman Technique – Taking Note – Medium](https://medium.com/taking-note/learning-from-the-feynman-technique-5373014ad230)
+- [Boot Up 2017 with the #100DaysOfCode Challenge – freeCodeCamp](https://medium.freecodecamp.org/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b)
+- [How you can start a career in a different field without “experience” — tips that got me job offers…](https://medium.freecodecamp.org/how-you-start-a-career-in-a-different-field-without-experience-tips-that-got-me-job-offers-from-7425f590f3eb)
+- [Why I studied full-time for 8 months for a Google interview](https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13)

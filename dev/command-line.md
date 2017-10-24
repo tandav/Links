@@ -31,6 +31,7 @@
 - [Linux Tip | How to use Htop - YouTube](https://www.youtube.com/watch?v=Qw2ZUf0hTF8)
 - [History by Number (Unix Power Tools, 3rd Edition)](https://docstore.mik.ua/orelly/unix3/upt/ch30_07.htm)
 - [An Introduction to Useful Bash Aliases and Functions | DigitalOcean](https://www.digitalocean.com/community/tutorials/an-introduction-to-useful-bash-aliases-and-functions)
+- [Shell Scripting Tutorial - YouTube](https://www.youtube.com/watch?v=hwrnmQumtPw)
 
 ## Zsh / Bash
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) | [docs](https://github.com/robbyrussell/oh-my-zsh/wiki)
