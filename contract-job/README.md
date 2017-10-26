@@ -1,5 +1,6 @@
 # Contract Job
-- [learning, progress, projects](projects)
+- [study-plan](study-plan.md)
+- [learning projects](projects)
 
 ## Specialisation for now: 
 - data engineering

@@ -47,6 +47,9 @@
 - Step Into vs Step Over | debugger
 - [kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2017](https://github.com/kamranahmedse/developer-roadmap)
 - [A Guide to Becoming a Full-Stack Developer in 2017 – Coderbyte – Medium](https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c)
+- [practical - HN Search powered by Algolia](https://hn.algolia.com/?query=practical&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
+- [Academic Tutorials](https://www.tutorialspoint.com/academic_tutorials.htm)
+
 ---
 
 - [Here are the 50 best HackerNews posts of all time – The Startup – Medium](https://medium.com/swlh/best-of-2015-pfffffffft-79d9b014f4de)

@@ -84,3 +84,6 @@
 - [vicky002/AlgoWiki: Repository which contains links and resources on different topics of Computer Science.](https://github.com/vicky002/AlgoWiki)
 - [Wiki of All Things 6.00.1x](https://gist.github.com/demidovakatya/3caab70db1b23716ad09)
 - [li-xinyang/AW_iNote: Learning Note for Everything](https://github.com/li-xinyang/AW_iNote)
+- [theatlasroom/tidbits: Bits and pieces of knowledge](https://github.com/theatlasroom/tidbits)
+- [aleen42/PersonalWiki: a simple personal wiki of my current knowledge](https://github.com/aleen42/PersonalWiki)
+- [learn-anything/maps: 🗺 Interactive Mind Maps Curated by Community](https://github.com/learn-anything/maps)

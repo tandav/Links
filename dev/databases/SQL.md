@@ -14,6 +14,9 @@
 - [Почему SQL одерживает верх над NoSQL, и к чему это приведет в будущем / Блог компании Alconost / Хабрахабр](https://habrahabr.ru/company/alconost/blog/340372/)
 - [SQL vs NoSQL - HN Search](https://hn.algolia.com/?query=sql%20vs%20nosql&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 - [Курс молодого бойца PostgreSQL / Хабрахабр](https://habrahabr.ru/post/340460/)
+- [Базы данных: SQL (DDL/DML) - Курсы - Hexlet.io](https://ru.hexlet.io/courses/postgresql-ddl)
+- [Базы данных: SQL (DQL) - Курсы - Hexlet.io](https://ru.hexlet.io/courses/sql-dql)
+- [CS50 2016 - Week 6 - HTTP - YouTube](https://www.youtube.com/watch?v=6iXhAZKOVGE)
 
 ## Joins
 - `JOIN` is the same as `INNER JOIN` use last one for readability

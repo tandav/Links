@@ -6,11 +6,12 @@
 - [Anaconda: Documentation |](https://docs.anaconda.com/)
 - [Python Packages and Environments with conda | Anaconda](https://www.anaconda.com/blog/developer-blog/python-packages-and-environments-conda/)
 - [100 numpy exercises](http://www.labri.fr/perso/nrougier/teaching/numpy.100/index.html)
+- [Jupyter (IPython) notebooks features](https://arogozhnikov.github.io/2016/09/10/jupyter-features.html)
 
 # Fast Python
+- fast python: numba, cython (both are good)
 - [Losing your Loops Fast Numerical Computing with NumPy - YouTube](https://www.youtube.com/watch?v=EEUXKG97YRw)
 - [An exercise in Python optimization: make Python benchmarks as fast, if not faster, than Julia.](https://gist.github.com/jfpuget/b53f1e15a37aba5944ad)
-- [jfpuget’s gists](https://gist.github.com/jfpuget)
 - [Sebastian Witowski - Writing faster Python - YouTube](https://www.youtube.com/watch?v=YjHsOrOOSuI)
 - [7 Simple Tricks to Write Better Python Code - YouTube](https://www.youtube.com/watch?v=VBokjWj_cEA)
 - [Brett Slatkin - How to Be More Effective with Functions - PyCon 2015 - YouTube](https://www.youtube.com/watch?v=WjJUPxKB164)
@@ -31,3 +32,8 @@
 - cython, cython tutorial
 - [Easily Profile Python Code in Jupyter — Random Points](http://mortada.net/easily-profile-python-code-in-jupyter.html)
 - [Cython Tutorial - Bridging between Python and C/C++ for performance gains - YouTube](https://www.youtube.com/watch?v=mXuEoqK4bEc)
+- [jfpuget’s gists](https://gist.github.com/jfpuget)
+- [Optimizing Python in the Real World: NumPy, Numba, and the NUFFT | Pythonic Perambulations](http://jakevdp.github.io/blog/2015/02/24/optimizing-python-with-numpy-and-numba/#Making-Code-Faster:-Line-Profiling)
+- [PythonSpeed/PerformanceTips - Python Wiki](https://wiki.python.org/moin/PythonSpeed/PerformanceTips)
+- [Why Python Is Slow: Looking Under the Hood | Hacker News](https://news.ycombinator.com/item?id=15548904)
+- [Log-likelihood benchmark](https://arogozhnikov.github.io/2015/09/08/SpeedBenchmarks.html)

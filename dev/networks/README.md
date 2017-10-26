@@ -5,3 +5,7 @@
 - HTTP/2
 - tshark one liners
 - computer networks crash course
+- [Network Protocols | Hacker News](https://news.ycombinator.com/item?id=14468471)
+- [Протокол HTTP - Курсы - Hexlet.io](https://ru.hexlet.io/courses/http_protocol)
+- [Основы программирования. TCP/IP. - YouTube](https://www.youtube.com/watch?v=ne6L7AyIsxY)
+- tcp vs udp, TLDR: tcp cares about data integrity, udp doesn't
