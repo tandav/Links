@@ -54,3 +54,4 @@
 - [Sed Cheatsheet](https://gist.github.com/sergeyklay/4641c7665b262680f8b9cf38de923af1)
 - sed: google, hn, youtube
 - [Learn to use GNU awk with hundreds of examples | Hacker News](https://news.ycombinator.com/item?id=15549318)
+- [learnbyexample/Command-line-text-processing: From finding text to search and replace, from sorting to beautifying text and more](https://github.com/learnbyexample/Command-line-text-processing)

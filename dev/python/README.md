@@ -38,6 +38,7 @@
 ## Threads
 - [Intro to Threads and Processes in Python – Brendan Fortuner – Medium](https://medium.com/@bfortuner/python-multithreading-vs-multiprocessing-73072ce5600b)
 - [Let’s Synchronize Threads in Python – Hacker Noon](https://hackernoon.com/synchronization-primitives-in-python-564f89fee732)
+- [Go vs CPython: Visual comparison of concurrency and parallelism options](https://labs.getninjas.com.br/go-vs-cpython-visual-comparison-of-concurrency-and-parallelism-d29a1ebec20a)
 
 ## Goolge Search
 - glob.glob python 3

@@ -10,4 +10,6 @@
 - [Миф о сложности Oracle Database](https://antonz.ru/oracle-myth/)
 - `~/Google Drive/vsu/arx/sql/sql22.pdf`
 
+---
+
 - [Development](../dev)

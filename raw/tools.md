@@ -10,3 +10,6 @@
 - Terminall.app is much faster than iTerm
 - [Install most of my Apps with homebrew & cask](https://gist.github.com/t-io/8255711)
 - [Firefox Send](https://send.firefox.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn)
+- [MediaHuman Audio Converter](https://www.mediahuman.com/audio-converter/)
+- [eqMac2 - System-wide Audio Equalizer for the Mac](https://github.com/romankisil/eqMac2)
+- [Punto Switcher](https://yandex.ru/soft/punto/)

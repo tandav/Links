@@ -15,6 +15,7 @@
 - [Intro to Database Systems - Part 2 : The Entity-Relationship Model](http://blog.dancrisan.com/intro-to-database-systems-part-2-the-entityrelationship-model)
 - [SQL for Beginners: Part 3 - Database Relationships](https://code.tutsplus.com/articles/sql-for-beginners-part-3-database-relationships--net-8561)
 - [Guide to table relationships - Access](https://support.office.com/en-us/article/Guide-to-table-relationships-30446197-4fbe-457b-b992-2f6fb812b58f)
+- [sql - using references in MYSQL - Stack Overflow](https://stackoverflow.com/questions/3096838/using-references-in-mysql)
 
 ## Misc
 - [Google Sheets and Python - YouTube](https://www.youtube.com/watch?v=vISRn5qFrkM)

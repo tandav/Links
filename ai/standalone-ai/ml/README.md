@@ -3,6 +3,7 @@
 ## Raw
 - [New deep learning course by Andrew Ng | Hacker News](https://news.ycombinator.com/item?id=15002208)
 - [Deeplearning.ai: Announcing New Deep Learning Courses on Coursera | Hacker News](https://news.ycombinator.com/item?id=14958779)
+- [Deep Learning Specialization by Andrew Ng — 21 Lessons Learned](https://medium.com/towards-data-science/deep-learning-specialization-by-andrew-ng-21-lessons-learned-15ffaaef627c)
 - [HN Search powered by Algolia](https://hn.algolia.com/?query=machine%20learning&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 - [Искусственные нейронные сети простыми словами / Geektimes](https://geektimes.ru/post/277088/)
 - [Почему переводчикам не нужно бояться нейросетей Гугла / Geektimes](https://geektimes.ru/post/286692/)

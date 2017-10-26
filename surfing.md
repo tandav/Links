@@ -34,7 +34,6 @@
 * [Motherboard](https://motherboard.vice.com/en_us)
 * [Элементы](http://elementy.ru/)
 * [N+1](https://nplus1.ru/)
-* [Lenta.ru: Наука и техника](https://lenta.ru/rubrics/science/)
 * [MIT Technology Review](https://www.technologyreview.com/)
 * [WIRED](https://www.wired.com/)
 
