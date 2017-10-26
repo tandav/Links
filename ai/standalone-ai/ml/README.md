@@ -109,5 +109,6 @@
 
 
 ## Tools
-* [tensorflow/tensorflow: Computation using data flow graphs for scalable machine learning](https://github.com/tensorflow/tensorflow)
-* [deepmind/sonnet: TensorFlow-based neural network library](https://github.com/deepmind/sonnet)
+- [tensorflow/tensorflow: Computation using data flow graphs for scalable machine learning](https://github.com/tensorflow/tensorflow)
+- [deepmind/sonnet: TensorFlow-based neural network library](https://github.com/deepmind/sonnet)
+- [vahidk/EffectiveTensorflow: TensorFlow tutorials and best practices.](https://github.com/vahidk/EffectiveTensorflow)
