@@ -2,11 +2,7 @@
 - [my own ideas on AI](my-ideas.md)
 - [Machine Learning Stuff](ml)
 
-# AI Learn
-Learning what people invented in AI field
-
-
-## RAW
+# Raw Links
 - [Why Does the Neocortex Have Columns? A Theory of Learning Structure of the World [pdf] | Hacker News](https://news.ycombinator.com/item?id=15550783)
 - [The Artificial Intelligence Revolution: Part 1 - Wait But Why](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
 - [Overcoming Bias : This AI Boom Will Also Bust](http://www.overcomingbias.com/2016/12/this-ai-boom-will-also-bust.html)
@@ -27,6 +23,7 @@ Learning what people invented in AI field
 - [Поведение и мышление. Загадка эмоций / Geektimes](https://geektimes.ru/post/240400/)
 - [Главный парадокс сознания. Почему не имеет смысла копирование мозга или личности / Geektimes](https://geektimes.ru/post/284304/)
 - daniel dennett
+- [AI overview | Блог Хеллера](http://heller.ru/blog/2016/05/soon/#comment-168489)
 - [Is Consciousness an Illusion? | by Thomas Nagel | The New York Review of Books](http://www.nybooks.com/articles/2017/03/09/is-consciousness-an-illusion-dennett-evolution/)
 - [Вас атакует искусственный интеллект / Блог компании Positive Technologies / Хабрахабр](https://habrahabr.ru/company/pt/blog/321586/)
 - [Мозг с препятствиями. Открываем глаза и заглядываем в лабиринты своего сознания / Geektimes](https://geektimes.ru/post/285762/)

@@ -1,4 +1,4 @@
-# Databases study plan
+# Contract Job Study Plan
 ## Learn SQL
 - Khan Academy
 - Stanford
@@ -9,3 +9,5 @@
     - DB4: Relational Algebra `HALF-COMPLETE` find useless to learn nuances of RA syntax
 - [Миф о сложности Oracle Database](https://antonz.ru/oracle-myth/)
 - `~/Google Drive/vsu/arx/sql/sql22.pdf`
+
+- [Development](../dev)

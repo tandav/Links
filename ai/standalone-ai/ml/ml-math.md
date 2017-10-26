@@ -19,6 +19,7 @@
 - [Теорема Байеса: из-за чего весь сыр-бор? / Geektimes](https://geektimes.ru/post/290133/)
 - [A Concrete Introduction to Probability (using Python)](http://nbviewer.jupyter.org/url/norvig.com/ipython/Probability.ipynb)
 - [Frequentism and Bayesianism: What's the Big Deal? | SciPy 2014 | Jake VanderPlas - YouTube](https://www.youtube.com/watch?v=KhAUfqhLakw)
+- salary: why use median instead of mean
 
 ## Standard Deviation vs Abs Deviation
 - meaning square error vs abs
