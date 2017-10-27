@@ -50,6 +50,8 @@
 - [practical - HN Search powered by Algolia](https://hn.algolia.com/?query=practical&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 - [Academic Tutorials](https://www.tutorialspoint.com/academic_tutorials.htm)
 - [things i wish - HN Search powered by Algolia](https://hn.algolia.com/?query=&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
+- bottom up, from the bottom up - hn.algolia search
+- [Software Engineering Blog & Programming Tutorials | Toptal | Page 1 of 22](https://www.toptal.com/developers/blog)
 
 ---
 

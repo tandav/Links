@@ -40,6 +40,8 @@
 	- [what is godel escher bach about - Google Search](https://www.google.com/search?q=what+is+godel+escher+bach+about)
 - [Top Hacker News Books of All Time](http://hackernewsbooks.com/top-books-on-hacker-news)
 - SICP
+- [Alan Kay Answers “Is There a Successor to Smalltalk?” | Hacker News](https://news.ycombinator.com/item?id=15518746)
+- [Alan Kay on Lisp | Hacker News](https://news.ycombinator.com/item?id=15558861)
 
 ## OOP
 - HN-search: `oop for beginners`, `oop basics`, `oop`

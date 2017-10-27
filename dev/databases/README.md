@@ -1,4 +1,5 @@
 # Databases
+- [Database noob](noob.md)
 - how to design a database
 - how to choose right database design for project
 - database design books 
@@ -7,6 +8,9 @@
 - [SQL for Web Nerds | Hacker News](https://news.ycombinator.com/item?id=2159624)
 - [Example Claim Construction Tutorial](http://philip.greenspun.com/software/claim-construction-tutorial/example/)
 - [A Tiny Intro to Database Systems](http://blog.dancrisan.com/a-tiny-intro-to-database-systems)
+- [hangout.rb.ru/models&persistance - YouTube](https://www.youtube.com/watch?v=QNnewJ-lzdc)
+- normal forms
+- [Eight Common Database Design Bad Practices | Toptal](https://www.toptal.com/database/database-design-bad-practices)
 
 ## Entity–relationship model
 - Entity–relationship model + `YouTube`

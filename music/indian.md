@@ -1,4 +1,4 @@
-# Indian Classical Music
+# Indian Music
 - [Vedic Chants](https://www.youtube.com/playlist?list=PL4qBE1-4ZNC0oj5D50vuMj8NUjTg1q-yn)
 - [Dhuns and Bhajans](https://www.youtube.com/playlist?list=PL4qBE1-4ZNC3SP39xRFz2NZW2HE0-uYT3)
 

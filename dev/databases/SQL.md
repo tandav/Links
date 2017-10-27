@@ -17,13 +17,17 @@
 - [Базы данных: SQL (DDL/DML) - Курсы - Hexlet.io](https://ru.hexlet.io/courses/postgresql-ddl)
 - [Базы данных: SQL (DQL) - Курсы - Hexlet.io](https://ru.hexlet.io/courses/sql-dql)
 - [CS50 2016 - Week 6 - HTTP - YouTube](https://www.youtube.com/watch?v=6iXhAZKOVGE)
+- [44 Essential SQL Interview Questions and Answers](https://www.toptal.com/sql/interview-questions)
 
 ## Joins
 - `JOIN` is the same as `INNER JOIN` use last one for readability
 - `LEFT JOIN` is the same as `LEFT OUTER JOIN` 
     - [tsql - LEFT JOIN vs. LEFT OUTER JOIN in SQL Server - Stack Overflow](https://stackoverflow.com/questions/406294/left-join-vs-left-outer-join-in-sql-server)
 - you can always use `LEFT JOIN`. If you need `RIGHT` just change the tables order.
-- cross join (`SELECT * FROM student_grades, students`) - all different combinations
+- cross join - all different combinations
+    - `SELECT * FROM A, B`
+    - `SELECT * FROM A JOIN B` (without `ON`)
+    - `SELECT * FROM A CROSS JOIN B`
 
 
 ## Deep
@@ -36,3 +40,4 @@
 - sql query tuning
 - oracle tuning
 - [query optimiz - HN Search](https://hn.algolia.com/?query=query%20optimiz&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
+- [Tips for SQL Database Tuning and Performance | Toptal](https://www.toptal.com/sql/sql-database-tuning-for-developers)

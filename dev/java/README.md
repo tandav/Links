@@ -8,6 +8,7 @@
 - java ee vs spring
 - [Oracle прекратила разработку Java EE? / Хабрахабр](https://habrahabr.ru/post/304812/)
 - heap java
+- java reflection
 
 ## Deep Java
 - [Learn about JVM internals - what does the JVM do? - YouTube](https://www.youtube.com/watch?v=UwB0OSmkOtQ)
