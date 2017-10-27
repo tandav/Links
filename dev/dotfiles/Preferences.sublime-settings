@@ -1,0 +1,28 @@
+{
+    "ensure_newline_at_eof_on_save": true,
+    "fade_fold_buttons": false,
+    "font_face": "Menlo",
+    "font_size": 14,
+    "translate_tabs_to_spaces": true,
+    "color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
+    "material_theme_accent_blue": true,
+    "material_theme_bright_scrollbars": true,
+    "material_theme_compact_panel": true,
+    "material_theme_compact_sidebar": true,
+    "material_theme_contrast_mode": true,
+    "material_theme_disable_folder_animation": true,
+    "material_theme_small_statusbar": true,
+    "material_theme_small_tab": true,
+    "material_theme_tabs_separator": true,
+    "skin": "Material Theme/Material Theme - Palenight",
+    "theme": "Material-Theme-Palenight.sublime-theme"
+}
+
+
+/* installed packages
+- Git
+- Markdown Preview
+- Material Theme
+- Package Control
+- Skins
+*/ 

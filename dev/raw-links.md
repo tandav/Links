@@ -49,6 +49,7 @@
 - [A Guide to Becoming a Full-Stack Developer in 2017 – Coderbyte – Medium](https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c)
 - [practical - HN Search powered by Algolia](https://hn.algolia.com/?query=practical&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 - [Academic Tutorials](https://www.tutorialspoint.com/academic_tutorials.htm)
+- [things i wish - HN Search powered by Algolia](https://hn.algolia.com/?query=&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 
 ---
 

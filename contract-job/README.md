@@ -1,6 +1,7 @@
 # Contract Job
 - [study-plan](study-plan.md)
 - [learning projects](projects)
+- [development materials](../dev)
 
 ## Specialisation for now: 
 - data engineering
@@ -15,4 +16,3 @@
 ## Second Specialisation
 - ML, Data Science
 - Scientific Python
-
