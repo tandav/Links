@@ -7,4 +7,6 @@
 - tutorialspoint (+ interview questions)
 - lot of SQL Excerscises
 - [Миф о сложности Oracle Database](https://antonz.ru/oracle-myth/)
-- `~/Google Drive/vsu/arx/sql/sql22.pdf`
+- [SQL for Web Nerds](http://philip.greenspun.com/sql/)
+- [A Beginner’s Guide to the True Order of SQL Operations – Java, SQL and jOOQ.](https://blog.jooq.org/2016/12/09/a-beginners-guide-to-the-true-order-of-sql-operations/)
+    - good site, read all the materials

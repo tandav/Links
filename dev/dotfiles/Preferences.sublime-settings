@@ -4,6 +4,8 @@
     "font_face": "Menlo",
     "font_size": 14,
     "translate_tabs_to_spaces": true,
+    "animation_enabled": false, // for minimal latency
+    "caret_style": "blink",
     "color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
     "material_theme_accent_blue": true,
     "material_theme_bright_scrollbars": true,
@@ -17,7 +19,6 @@
     "skin": "Material Theme/Material Theme - Palenight",
     "theme": "Material-Theme-Palenight.sublime-theme"
 }
-
 
 /* installed packages
 - Git

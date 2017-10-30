@@ -52,8 +52,17 @@
 - [things i wish - HN Search powered by Algolia](https://hn.algolia.com/?query=&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 - bottom up, from the bottom up - hn.algolia search
 - [Software Engineering Blog & Programming Tutorials | Toptal | Page 1 of 22](https://www.toptal.com/developers/blog)
+- [Julia Evans - Julia Evans](https://jvns.ca/)
 
 ---
 
 - [Here are the 50 best HackerNews posts of all time – The Startup – Medium](https://medium.com/swlh/best-of-2015-pfffffffft-79d9b014f4de)
 - [Подборка полезных слайдов от Джулии Эванс / Блог компании FirstVDS / FirstDEDIC / Хабрахабр](https://habrahabr.ru/company/first/blog/320186/)
+- [Win10 for Slow PCs | https://git.io/boost-win10](https://gist.github.com/ilyaigpetrov/03506150e0a3a4104a24f7e519d42078)
+
+---
+
+- [Вашим пользователям не нужны пароли / Хабрахабр](https://habrahabr.ru/post/341164/)
+- [Your users don’t need a password | Hacker News](https://news.ycombinator.com/item?id=15579669)
+
+---

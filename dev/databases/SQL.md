@@ -18,6 +18,9 @@
 - [Базы данных: SQL (DQL) - Курсы - Hexlet.io](https://ru.hexlet.io/courses/sql-dql)
 - [CS50 2016 - Week 6 - HTTP - YouTube](https://www.youtube.com/watch?v=6iXhAZKOVGE)
 - [44 Essential SQL Interview Questions and Answers](https://www.toptal.com/sql/interview-questions)
+- unique vs primary key
+    - PRIMARY KEY = UNIQUE + NOT NULL + only 1 PK in a table
+- You can only have one primary key, **but you can have multiple columns** in your primary key. table can have only 1 primary key. 
 
 ## Joins
 - `JOIN` is the same as `INNER JOIN` use last one for readability
@@ -28,8 +31,8 @@
     - `SELECT * FROM A, B`
     - `SELECT * FROM A JOIN B` (without `ON`)
     - `SELECT * FROM A CROSS JOIN B`
-
-
+    - A cross join produces the Cartesian product of the tables involved in the join. The size of a Cartesian product result set is the number of rows in the first table multiplied by the number of rows in the second table
+    
 ## Deep
 - [Why Uber Engineering Switched from Postgres to MySQL | Hacker News](https://news.ycombinator.com/item?id=12166585)
 - postgresql vs oracle
@@ -41,3 +44,8 @@
 - oracle tuning
 - [query optimiz - HN Search](https://hn.algolia.com/?query=query%20optimiz&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 - [Tips for SQL Database Tuning and Performance | Toptal](https://www.toptal.com/sql/sql-database-tuning-for-developers)
+- [use the index - HN Search powered by Algolia](https://hn.algolia.com/?query=use%20the%20index&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
+- sql caching
+- [SQL Tricks And Tuning – Java, SQL and jOOQ.](https://blog.jooq.org/sql/)
+- window functions (google, HN, jooq) - типа прям VERY COOL
+- [Dimitri Fontaine, PostgreSQL Expert](http://tapoueh.org/)

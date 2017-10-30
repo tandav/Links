@@ -9,7 +9,7 @@
 
 ## Why not just use plain text files? It is simple!
 - Why we need some vendor DB such as MySQL, PostgreSQL, Oracle?? 
-- Answer: companies want DB that meet some requirements. And files doesn't meet them. 
+- Answer: companies want DB that meet some requirements. And files don't meet them. 
 
 Requirements are: (`TODO: make this list better`)
 
@@ -28,3 +28,4 @@ Requirements are: (`TODO: make this list better`)
 - typical SQL queries
 - make typical app with db
 - [SQL queries: The Top 10 Most Used](https://blog.udemy.com/sql-queries/)
+- [Data Modeling](http://philip.greenspun.com/sql/data-modeling.html)

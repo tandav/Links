@@ -2,6 +2,8 @@
 - [Why should I learn Java in 2017? - Quora](https://www.quora.com/Why-should-I-learn-Java-in-2017)
 - [Highest Voted 'java' Questions - Stack Overflow](https://stackoverflow.com/questions/tagged/java)
 - java annotations
+    - [Do we really need @Override and so on when code Java? - Stack Overflow](https://stackoverflow.com/questions/4822954/do-we-really-need-override-and-so-on-when-code-java)
+    - [When do you use Java's @Override annotation and why? - Stack Overflow](https://stackoverflow.com/questions/94361/when-do-you-use-javas-override-annotation-and-why#94411)
 - for now Learn **Maven** instead of Gradle
 - java logging
 - abstract class vs interface (+ java8 interfaces default methods)
@@ -27,3 +29,4 @@
 - java memory
 - [Eclipse OpenJ9 – Open-source JVM | Hacker News](https://news.ycombinator.com/item?id=15265753)
 - [Oracle and the fall of Java EE | Hacker News](https://news.ycombinator.com/item?id=12054705)
+- [@Annotatiomania™](http://annotatiomania.com/)

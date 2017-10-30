@@ -12,7 +12,6 @@
 
 ---
 
-
 ## JDBC vs Hibernate vs JPA
 - JDBC - более low lev. Нужно все вручную делать. 
 - Hibernate - hi-lev (easier, simpler, faster to start). JPA=guidelines, Hibernate implements JPA guidelines

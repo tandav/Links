@@ -11,10 +11,12 @@
 - [hangout.rb.ru/models&persistance - YouTube](https://www.youtube.com/watch?v=QNnewJ-lzdc)
 - normal forms
 - [Eight Common Database Design Bad Practices | Toptal](https://www.toptal.com/database/database-design-bad-practices)
+- database constraints
 
 ## Entity–relationship model
 - Entity–relationship model + `YouTube`
 - what is table relationship | referenced tables | lookup tables + `YouTube`
+- Referential Integrity
 - [A Short History of the ER Diagram and Information Modeling - DATAVERSITY](http://www.dataversity.net/a-short-history-of-the-er-diagram-and-information-modeling/)
 - [Intro to Database Systems - Part 2 : The Entity-Relationship Model](http://blog.dancrisan.com/intro-to-database-systems-part-2-the-entityrelationship-model)
 - [SQL for Beginners: Part 3 - Database Relationships](https://code.tutsplus.com/articles/sql-for-beginners-part-3-database-relationships--net-8561)
