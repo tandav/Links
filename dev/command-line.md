@@ -32,6 +32,8 @@
 - [History by Number (Unix Power Tools, 3rd Edition)](https://docstore.mik.ua/orelly/unix3/upt/ch30_07.htm)
 - [An Introduction to Useful Bash Aliases and Functions | DigitalOcean](https://www.digitalocean.com/community/tutorials/an-introduction-to-useful-bash-aliases-and-functions)
 - [Shell Scripting Tutorial - YouTube](https://www.youtube.com/watch?v=hwrnmQumtPw)
+- [Simple note taking from the command line](https://dev.to/ricardomol/note-taking-from-the-command-line-156)
+- [tutoriaLinux - YouTube](https://www.youtube.com/channel/UCvA_wgsX6eFAOXI8Rbg_WiQ/videos?disable_polymer=1)
 
 ## Zsh / Bash
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) | [docs](https://github.com/robbyrussell/oh-my-zsh/wiki)

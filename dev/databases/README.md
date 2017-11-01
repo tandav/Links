@@ -22,12 +22,14 @@
 - [SQL for Beginners: Part 3 - Database Relationships](https://code.tutsplus.com/articles/sql-for-beginners-part-3-database-relationships--net-8561)
 - [Guide to table relationships - Access](https://support.office.com/en-us/article/Guide-to-table-relationships-30446197-4fbe-457b-b992-2f6fb812b58f)
 - [sql - using references in MYSQL - Stack Overflow](https://stackoverflow.com/questions/3096838/using-references-in-mysql)
+- [sql - How can you represent inheritance in a database? - Stack Overflow](https://stackoverflow.com/questions/3579079/how-can-you-represent-inheritance-in-a-database/3579462#3579462)
 
 ## Misc
 - [Google Sheets and Python - YouTube](https://www.youtube.com/watch?v=vISRn5qFrkM)
 - [Get Sheet Done — using Google Spreadsheets as your data backend](https://medium.freecodecamp.org/get-sheet-done-using-google-spreadsheets-as-your-data-backend-650ba23dc6d9)
 - [Hadoop - Just the Basics for Big Data Rookies - YouTube](https://www.youtube.com/watch?v=xYnS9PQRXTg)
 - [Developing Real-Time Data Pipelines with Apache Kafka - YouTube](https://www.youtube.com/watch?v=GRPLRONVDWY)
+- [Databases Courses | Coursera](https://www.coursera.org/courses?languages=en&query=databases)
 
 ## Notes
 

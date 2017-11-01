@@ -21,9 +21,10 @@
 - [freeCodeCamp](https://medium.freecodecamp.com/)
 - [Hacker Noon](https://hackernoon.com/)
 - [Popular on YouTube](https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA)
-- [dev.to() => The Practical Dev](https://dev.to/)
-- [Hackaday | Fresh hacks every day](http://hackaday.com/)
+- [The Practical Dev](https://dev.to/)
+- [Hackaday](http://hackaday.com/)
 - [Ars Technica](https://arstechnica.com/)
+- [Google News](https://news.google.com/news/sfy?ned=us&hl=en&gl=US)
 
 ## Science and Tech
 - [Scientific American](https://www.scientificamerican.com/)
@@ -40,3 +41,6 @@
 - [Popular Music Videos - YouTube](https://www.youtube.com/playlist?list=PLFgquLnL59alCl_2TQvOiD5Vgm1hCaGSI)
 - [VICE - Оригинальные репортажи и документальные фильмы о всём важном в мире.](https://www.vice.com/ru)
 - [Ask HN: What are some good technology blogs to follow? | Hacker News](https://news.ycombinator.com/item?id=13849430)
+
+## Blogs
+- [Блог - Hexlet.io](https://ru.hexlet.io/blog)

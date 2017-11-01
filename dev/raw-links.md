@@ -32,11 +32,20 @@
 - [Backend Architectures Keywords and References](https://gist.github.com/ragingwind/5840075)
 - [tmux shortcuts & cheatsheet](https://gist.github.com/MohamedAlaa/2961058)
 - [tmux cheatsheet](https://gist.github.com/henrik/1967800)
+- [CS50 Shorts 2017 - YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T381k8ul4WQ8SQ165XqY149WW)
+
 ## Literate Programming
 - [Литературное программирование / Хабрахабр](https://habrahabr.ru/post/105371/)
 - Литературное программирование / Literate Programming - search everywhere + orgmode
 - ["Literate Programming etc."-Алексей Пирогов, Kazan Python DevDay, 2014 - YouTube](https://www.youtube.com/watch?v=3bjEMJPZ9jI&list=WL&index=107)
 - [Литературное Программирование - YouTube](https://www.youtube.com/watch?v=8Z9NXypMiac&index=106&list=WL)
+
+
+---
+
+- [Here are the 50 best HackerNews posts of all time – The Startup – Medium](https://medium.com/swlh/best-of-2015-pfffffffft-79d9b014f4de)
+- [Подборка полезных слайдов от Джулии Эванс / Блог компании FirstVDS / FirstDEDIC / Хабрахабр](https://habrahabr.ru/company/first/blog/320186/)
+- [Win10 for Slow PCs | https://git.io/boost-win10](https://gist.github.com/ilyaigpetrov/03506150e0a3a4104a24f7e519d42078)
 - [Business models based on the compiled list at http://news.ycombinator.com/item?id=4924647. I find the link very hard to browse, so I made a simple version in Markdown instead.](https://gist.github.com/ndarville/4295324)
 - [My answers to over 100 Google interview questions](https://gist.github.com/amaxwell01/3728155)
 - [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832) | [Also Fork](https://gist.github.com/hellerbarde/2843375)
@@ -53,12 +62,8 @@
 - bottom up, from the bottom up - hn.algolia search
 - [Software Engineering Blog & Programming Tutorials | Toptal | Page 1 of 22](https://www.toptal.com/developers/blog)
 - [Julia Evans - Julia Evans](https://jvns.ca/)
-
----
-
-- [Here are the 50 best HackerNews posts of all time – The Startup – Medium](https://medium.com/swlh/best-of-2015-pfffffffft-79d9b014f4de)
-- [Подборка полезных слайдов от Джулии Эванс / Блог компании FirstVDS / FirstDEDIC / Хабрахабр](https://habrahabr.ru/company/first/blog/320186/)
-- [Win10 for Slow PCs | https://git.io/boost-win10](https://gist.github.com/ilyaigpetrov/03506150e0a3a4104a24f7e519d42078)
+- [Self-Control Relies on Glucose as a Limited Energy Source (2007) | Hacker News](https://news.ycombinator.com/item?id=15543486)
+- [sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
 ---
 

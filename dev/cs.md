@@ -25,6 +25,7 @@
 - metaprogramming examples
 - [The Future of Programming (2013) | Hacker News](https://news.ycombinator.com/item?id=15539766)
 - [Monoids: what they are, why they are useful, and what they teach us about software – Deque](https://deque.blog/2017/09/13/monoids-what-they-are-why-they-are-useful-and-what-they-teach-us-about-software/)
+- abstract - HN Search
 
 ## Algorithms
 - [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/)

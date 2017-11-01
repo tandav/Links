@@ -11,6 +11,7 @@
 - [Oracle прекратила разработку Java EE? / Хабрахабр](https://habrahabr.ru/post/304812/)
 - heap java
 - java reflection
+- [java - When should I use "this" in a class? - Stack Overflow](https://stackoverflow.com/questions/2411270/when-should-i-use-this-in-a-class)
 
 ## Deep Java
 - [Learn about JVM internals - what does the JVM do? - YouTube](https://www.youtube.com/watch?v=UwB0OSmkOtQ)
@@ -30,3 +31,4 @@
 - [Eclipse OpenJ9 – Open-source JVM | Hacker News](https://news.ycombinator.com/item?id=15265753)
 - [Oracle and the fall of Java EE | Hacker News](https://news.ycombinator.com/item?id=12054705)
 - [@Annotatiomania™](http://annotatiomania.com/)
+- [Андрей Паньгин — Мифы и факты о медленной Java - YouTube](https://www.youtube.com/watch?v=NMc8AnyhyS8)

@@ -15,3 +15,4 @@
 - [Деловая переписка на английском языке: фразы и советы / Блог компании Нетология / Хабрахабр](https://habrahabr.ru/company/netologyru/blog/340358/)
 - [Get Fluent With 1 Trick - Become A Confident English Speaker With This Simple Practice Trick - YouTube](https://www.youtube.com/watch?v=l96V7dQtq9E)
 - english greetings
+- [Как делать меньше ошибок в английском. Поясняет носитель языка / Блог компании EnglishDom / Geektimes](https://geektimes.ru/company/englishdom/blog/294923/)

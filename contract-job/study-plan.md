@@ -1,5 +1,6 @@
 # Contract Job Study Plan
 ## Learn SQL
+- [Database noob](../dev/databases/noob.md)
 - Khan Academy
 - [Self Paced | Stanford Lagunita](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
     - DB1: Introduction `COMPLETE`

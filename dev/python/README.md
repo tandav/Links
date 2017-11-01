@@ -29,6 +29,7 @@
 - [Где перспективно и адекватно использовать Python / Хабрахабр](https://habrahabr.ru/post/340894/)
 - [Best Practices for Python Exceptions? - Stack Overflow](https://stackoverflow.com/questions/839636/best-practices-for-python-exceptions/839844#839844)
 - [Write Cleaner Python: Use Exceptions](https://jeffknupp.com/blog/2013/02/06/write-cleaner-python-use-exceptions/)
+- [TEACHING](http://www.labri.fr/perso/nrougier/teaching/)
 
 ## Package managers
 - virtualenv vs virtualenvwrapper. Короче, пока don't use wrapper. Use virtualenv only

@@ -5,3 +5,4 @@
 - [tech-interview-handbook/design at master · yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook/tree/master/design)
 - [iluwatar/java-design-patterns: Design patterns implemented in Java](https://github.com/iluwatar/java-design-patterns)
 - [Вебинар: Что такое паттерны - YouTube](https://www.youtube.com/watch?v=wX6BBaQZpzE)
+- [10 Basic Programming Principles Every Programmer Must Follow](http://www.makeuseof.com/tag/basic-programming-principles/)

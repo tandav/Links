@@ -21,16 +21,25 @@
 - unique vs primary key
     - PRIMARY KEY = UNIQUE + NOT NULL + only 1 PK in a table
 - You can only have one primary key, **but you can have multiple columns** in your primary key. table can have only 1 primary key. 
+- [SQL GROUP BY](http://www.sql-tutorial.com/sql-group-by-sql-tutorial/)
+- [sql – Java, SQL and jOOQ.](https://blog.jooq.org/tag/sql/)
+- [SQL Tutorial](https://www.w3schools.com/sql/default.asp)
+- [database - What is a lookup table? - Stack Overflow](https://stackoverflow.com/questions/3419847/what-is-a-lookup-table)
+- [A Beginner’s Guide to the True Order of SQL Operations – Java, SQL and jOOQ.](https://blog.jooq.org/2016/12/09/a-beginners-guide-to-the-true-order-of-sql-operations/)
 
 ## Joins
+- [A Probably Incomplete, Comprehensive Guide to the Many Different Ways to JOIN Tables in SQL – Java, SQL and jOOQ.](https://blog.jooq.org/2017/01/12/a-probably-incomplete-comprehensive-guide-to-the-many-different-ways-to-join-tables-in-sql/)
 - `JOIN` is the same as `INNER JOIN` use last one for readability
+    - in `ON` clause you can use any type of expressions different from `ON A.id = B.id`
+        - when you use `ON A.id = B.id` this is EQUI JOIN
+    - sql join on vs where
 - `LEFT JOIN` is the same as `LEFT OUTER JOIN` 
     - [tsql - LEFT JOIN vs. LEFT OUTER JOIN in SQL Server - Stack Overflow](https://stackoverflow.com/questions/406294/left-join-vs-left-outer-join-in-sql-server)
 - you can always use `LEFT JOIN`. If you need `RIGHT` just change the tables order.
 - cross join - all different combinations
     - `SELECT * FROM A, B`
     - `SELECT * FROM A JOIN B` (without `ON`)
-    - `SELECT * FROM A CROSS JOIN B`
+    - `SELECT * FROM A CROSS JOIN B`  `<--- use this`
     - A cross join produces the Cartesian product of the tables involved in the join. The size of a Cartesian product result set is the number of rows in the first table multiplied by the number of rows in the second table
     
 ## Deep
@@ -49,3 +58,4 @@
 - [SQL Tricks And Tuning – Java, SQL and jOOQ.](https://blog.jooq.org/sql/)
 - window functions (google, HN, jooq) - типа прям VERY COOL
 - [Dimitri Fontaine, PostgreSQL Expert](http://tapoueh.org/)
+- [Easy Steps to a Complete Understanding of SQL | Hacker News](https://news.ycombinator.com/item?id=6319870)

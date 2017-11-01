@@ -6,7 +6,7 @@
 ## Specialisation for now: 
 - data engineering
 - databases, DB
-- SQL
+- SQL expert
 - Oracle (also postgreSQL, mySQL, noSQL)
 - ORM
 - Java, JDBC, Hibernate, JPA, Java EE, Spring

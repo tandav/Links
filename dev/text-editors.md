@@ -55,6 +55,7 @@
 - [vi - What is your most productive shortcut with Vim? - Stack Overflow](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim)
 - [Seven habits of effective text editing (2000) | Hacker News](https://news.ycombinator.com/item?id=15532457)
 - [How to Do 90% of What Plugins Do (With Just Vim) - YouTube](https://www.youtube.com/watch?v=XA2WjJbmmoM)
+- [Vim isn’t that scary. Here are 5 free resources you can use to learn it.](https://medium.freecodecamp.org/vim-isnt-that-scary-here-are-5-free-resources-you-can-use-to-learn-it-ab78f5726f8d)
 
 ## VS Code
 - [Microsoft/vscode-tips-and-tricks: Collection of helpful tips and tricks for VS Code.](https://github.com/Microsoft/vscode-tips-and-tricks)
