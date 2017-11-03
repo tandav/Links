@@ -32,8 +32,9 @@
 - [History by Number (Unix Power Tools, 3rd Edition)](https://docstore.mik.ua/orelly/unix3/upt/ch30_07.htm)
 - [An Introduction to Useful Bash Aliases and Functions | DigitalOcean](https://www.digitalocean.com/community/tutorials/an-introduction-to-useful-bash-aliases-and-functions)
 - [Shell Scripting Tutorial - YouTube](https://www.youtube.com/watch?v=hwrnmQumtPw)
-- [Simple note taking from the command line](https://dev.to/ricardomol/note-taking-from-the-command-line-156)
+- [Simple note taking from the command line | Hacker News](https://news.ycombinator.com/item?id=15377015)
 - [tutoriaLinux - YouTube](https://www.youtube.com/channel/UCvA_wgsX6eFAOXI8Rbg_WiQ/videos?disable_polymer=1)
+- [Afraid of Makefiles? Don't be | Hacker News](https://news.ycombinator.com/item?id=15041986)
 
 ## Zsh / Bash
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) | [docs](https://github.com/robbyrussell/oh-my-zsh/wiki)
@@ -57,3 +58,5 @@
 - sed: google, hn, youtube
 - [Learn to use GNU awk with hundreds of examples | Hacker News](https://news.ycombinator.com/item?id=15549318)
 - [learnbyexample/Command-line-text-processing: From finding text to search and replace, from sorting to beautifying text and more](https://github.com/learnbyexample/Command-line-text-processing)
+- [Awk driven IoT | Hacker News](https://news.ycombinator.com/item?id=14735752)
+- [Skip grep, use awk | Hacker News](https://news.ycombinator.com/item?id=14692233)

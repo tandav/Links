@@ -64,3 +64,4 @@
 - [Квантовый компьютер: большая игра на повышение. Лекция в Яндексе / Блог компании Яндекс / Хабрахабр](https://habrahabr.ru/company/yandex/blog/332106/)
 - [An Introduction to Quantum Computing, Without the Physics | Hacker News](https://news.ycombinator.com/item?id=15018644)
 - [An Explanation of Shor's Quantum Factoring Algorithm | Hacker News](https://news.ycombinator.com/item?id=15118475)
+- [Intel Delivers 17-Qubit Superconducting Chip | Hacker News](https://news.ycombinator.com/item?id=15500182)

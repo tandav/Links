@@ -4,3 +4,4 @@
 - [10 Common Data Structures Explained with Videos + Exercises](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b)
 - [Hash Tables - YouTube](https://www.youtube.com/watch?v=h2d9b_nEzoA)
 - [Data Structures for Coding Interviews | Hacker News](https://news.ycombinator.com/item?id=14897209)
+- [The Intuitive Guide to Data Structures and Algorithms | Hacker News](https://news.ycombinator.com/item?id=15469660)

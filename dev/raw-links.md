@@ -1,6 +1,12 @@
 # Raw Links
+- [What Is Life? (1944) [pdf] | Hacker News](https://news.ycombinator.com/item?id=15270606)
+- [A Computer Scientist’s View of Life, the Universe, and Everything (1999) | Hacker News](https://news.ycombinator.com/item?id=14094373)
+- [Ask HN: What is the future of back-end development? | Hacker News](https://news.ycombinator.com/item?id=12274150)
+- [Notes on Data Structures and Programming Techniques | Hacker News](https://news.ycombinator.com/item?id=15474613)
+- [Ask HN: What's your favorite tech talk? | Hacker News](https://news.ycombinator.com/item?id=12637239)
 - [Абсолютный Минимум, который Каждый Разработчик Программного Обеспечения Обязательно Должен Знать о Unicode и Наборах Символов - The Joel on Software Translation Project](http://local.joelonsoftware.com/wiki/Абсолютный_Минимум,_который_Каждый_Разработчик_Программного_Обеспечения_Обязательно_Должен_Знать_о_Unicode_и_Наборах_Символов)
 - [First introduction to LaTeX | Hacker News](https://news.ycombinator.com/item?id=14233450)
+- [dataorienteddesign](http://dataorienteddesign.com/site.php)
 - [best stack overflow questions - Google Search](https://www.google.ru/search?q=best+stack+overflow+questions)
 - [sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 - [Ask HN: What code samples should programmers read? | Hacker News](https://news.ycombinator.com/item?id=14486099)
@@ -39,7 +45,8 @@
 - Литературное программирование / Literate Programming - search everywhere + orgmode
 - ["Literate Programming etc."-Алексей Пирогов, Kazan Python DevDay, 2014 - YouTube](https://www.youtube.com/watch?v=3bjEMJPZ9jI&list=WL&index=107)
 - [Литературное Программирование - YouTube](https://www.youtube.com/watch?v=8Z9NXypMiac&index=106&list=WL)
-
+- [The software engineering notebook | Hacker News](https://news.ycombinator.com/item?id=15473702)
+- [More shell, less egg (2011) | Hacker News](https://news.ycombinator.com/item?id=15265000)
 
 ---
 
@@ -64,6 +71,10 @@
 - [Julia Evans - Julia Evans](https://jvns.ca/)
 - [Self-Control Relies on Glucose as a Limited Energy Source (2007) | Hacker News](https://news.ycombinator.com/item?id=15543486)
 - [sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+- [Where Tcl and Tk Went Wrong (2010) | Hacker News](https://news.ycombinator.com/item?id=14941525)
+- [For software that is cross platform and accessible, forget about Qt | Hacker News](https://news.ycombinator.com/item?id=14946358)
+- [Ask HN: What non-work task have you automated? | Hacker News](https://news.ycombinator.com/item?id=15451442)
+- [DuckDuckGo vs Google | Hacker News](https://news.ycombinator.com/item?id=15291961)
 
 ---
 

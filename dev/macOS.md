@@ -3,3 +3,4 @@
 - [drduh/macOS-Security-and-Privacy-Guide: A practical guide to securing macOS.](https://github.com/drduh/macOS-Security-and-Privacy-Guide)
 - the disc wasn't ejected mac
 - [dotfiles/.macos at master · mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles/blob/master/.macos)
+- [HomeBrew Analytics – top 1000 packages installed over last year | Hacker News](https://news.ycombinator.com/item?id=15164439)

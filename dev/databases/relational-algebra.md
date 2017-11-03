@@ -5,3 +5,7 @@
 - [Relational Algebra - Some Standford PDF](http://infolab.stanford.edu/~ullman/fcdb/aut07/slides/ra.pdf)
 - [Relational algebra - Wikipedia](https://en.wikipedia.org/wiki/Relational_algebra)
 - [Relational Algebra - Some Toronto PDF](http://www.cs.toronto.edu/~faye/343/f07/lectures/wk3/03_RAlgebra.pdf)
+- [relational algebra - HN Search powered by Algolia](https://hn.algolia.com/?query=relational%20algebra&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
+- [CSci 440 Database Systems - Chapter 6](http://www.cs.montana.edu/~halla/csci440/n6/n6.html)
+- [](http://avid.cs.umass.edu/courses/445/s2008/lectures/445-Lec4-Algebra.pdf)
+- [Course Notes on Relational Algebra](http://cs.ulb.ac.be/public/_media/teaching/infoh303/algnotes2p.pdf)

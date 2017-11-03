@@ -1,4 +1,7 @@
 # Python
+- [Functional Programming in Python [pdf] | Hacker News](https://news.ycombinator.com/item?id=15245095)
+- [Hy – A Lisp-flavored Python | Hacker News](https://news.ycombinator.com/item?id=14909786)
+- [Alice in Python projectland | Hacker News](https://news.ycombinator.com/item?id=15378487)
 - [26.4. unittest — Unit testing framework — Python 3.6.2 documentation](https://docs.python.org/3/library/unittest.html)
 - [faif/python-patterns: A collection of design patterns/idioms in Python](https://github.com/faif/python-patterns)
 - [Comprehensions in Python the Jedi way](https://gist.github.com/bearfrieze/a746c6f12d8bada03589)
@@ -30,6 +33,7 @@
 - [Best Practices for Python Exceptions? - Stack Overflow](https://stackoverflow.com/questions/839636/best-practices-for-python-exceptions/839844#839844)
 - [Write Cleaner Python: Use Exceptions](https://jeffknupp.com/blog/2013/02/06/write-cleaner-python-use-exceptions/)
 - [TEACHING](http://www.labri.fr/perso/nrougier/teaching/)
+- [Going beyond the idiomatic Python | Hacker News](https://news.ycombinator.com/item?id=15609686)
 
 ## Package managers
 - virtualenv vs virtualenvwrapper. Короче, пока don't use wrapper. Use virtualenv only

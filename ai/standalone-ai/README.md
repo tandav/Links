@@ -3,6 +3,11 @@
 - [Machine Learning Stuff](ml)
 
 # Raw Links
+- [Introducing Gradient Ventures | Hacker News](https://news.ycombinator.com/item?id=14748364)
+- [Some Philosophical Problems from the Standpoint of AI (1969) [pdf] | Hacker News](https://news.ycombinator.com/item?id=15035753)
+- [Where will artificial general intelligence come from? | Hacker News](https://news.ycombinator.com/item?id=15155609)
+- [The hippocampus as a 'predictive map' | Hacker News](https://news.ycombinator.com/item?id=15389732)
+- [Is AI Riding a One-Trick Pony? | Hacker News](https://news.ycombinator.com/item?id=15366972)
 - [Why Does the Neocortex Have Columns? A Theory of Learning Structure of the World [pdf] | Hacker News](https://news.ycombinator.com/item?id=15550783)
 - [The Artificial Intelligence Revolution: Part 1 - Wait But Why](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
 - [Overcoming Bias : This AI Boom Will Also Bust](http://www.overcomingbias.com/2016/12/this-ai-boom-will-also-bust.html)

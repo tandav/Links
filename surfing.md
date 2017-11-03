@@ -37,10 +37,16 @@
 - [MIT Technology Review](https://www.technologyreview.com/)
 - [WIRED](https://www.wired.com/)
 
+## Blogs
+- [Блог - Hexlet.io](https://ru.hexlet.io/blog)
+
 ## Other
 - [Popular Music Videos - YouTube](https://www.youtube.com/playlist?list=PLFgquLnL59alCl_2TQvOiD5Vgm1hCaGSI)
 - [VICE - Оригинальные репортажи и документальные фильмы о всём важном в мире.](https://www.vice.com/ru)
 - [Ask HN: What are some good technology blogs to follow? | Hacker News](https://news.ycombinator.com/item?id=13849430)
-
-## Blogs
-- [Блог - Hexlet.io](https://ru.hexlet.io/blog)
+- [Ask HN: Which websites do you visit? | Hacker News](https://news.ycombinator.com/item?id=14378536)
+- [Ask HN: Which sites you visit on a regular basis for knowledge and inspiration? | Hacker News](https://news.ycombinator.com/item?id=14724092)
+- [Ask HN: What programming blogs do you follow? | Hacker News](https://news.ycombinator.com/item?id=14842276)
+- [Readspike – Simple news aggregator | Hacker News](https://news.ycombinator.com/item?id=15532469)
+- [HackerNews Grid | Hacker News](https://news.ycombinator.com/item?id=15078605)
+- [Show HN: Reddit Grid – A better way to browse subreddits that are very visual | Hacker News](https://news.ycombinator.com/item?id=15337342)

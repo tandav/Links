@@ -1,5 +1,8 @@
 # Computer Science
 ## Raw
+- [Ask HN: What is your favorite CS paper? | Hacker News](https://news.ycombinator.com/item?id=15089476)
+- [How to read and understand a scientific paper: a guide for non-scientists | Hacker News](https://news.ycombinator.com/item?id=14644472)
+- [Systems Past: the only 8 software innovations we actually use - Technical Journal](http://davidad.github.io/blog/2014/03/12/the-operating-system-is-out-of-date/)
 - [keon/awesome-bits: A curated list of awesome bitwise operations and tricks](https://github.com/keon/awesome-bits)
 - [kilimchoi/engineering-blogs: A curated list of engineering blogs](https://github.com/kilimchoi/engineering-blogs)
 - [oxford-cs-deepnlp-2017/lectures: Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
@@ -34,15 +37,19 @@
 - [p vs np explained - Google Search](https://www.google.ru/search?q=p+vs+np+explained)
 - [The real 10 algorithms that dominate our world – Marcos Otero – Medium](https://medium.com/@_marcos_otero/the-real-10-algorithms-that-dominate-our-world-e95fa9f16c04)
 - [best algorithms - Google Search](https://www.google.ru/search?q=best+algorithms)
+- [H.264 is Magic | Hacker News](https://news.ycombinator.com/item?id=12871403)
+- [Pygorithm – A Python module for learning major algorithms | Hacker News](https://news.ycombinator.com/item?id=14952269)
 
 ## Books
 - Gödel, Escher, Bach - Must Read, [related stuff](https://news.ycombinator.com/item?id=13995609)
 	- [godel escher bach review - Google Search](https://www.google.com/search?q=godel+escher+bach+review)
 	- [what is godel escher bach about - Google Search](https://www.google.com/search?q=what+is+godel+escher+bach+about)
 - [Top Hacker News Books of All Time](http://hackernewsbooks.com/top-books-on-hacker-news)
+- [Top Books on Amazon Based on Links in Hacker News Comments | Hacker News](https://news.ycombinator.com/item?id=10924741)
 - SICP
 - [Alan Kay Answers “Is There a Successor to Smalltalk?” | Hacker News](https://news.ycombinator.com/item?id=15518746)
 - [Alan Kay on Lisp | Hacker News](https://news.ycombinator.com/item?id=15558861)
+- [Classic Papers: Articles That Have Stood the Test of Time | Hacker News](https://news.ycombinator.com/item?id=14575501)
 
 ## OOP
 - HN-search: `oop for beginners`, `oop basics`, `oop`

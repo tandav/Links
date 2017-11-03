@@ -1,4 +1,5 @@
 # Knowledge Graph Tools
+Tools to control highly structured data. Just raw links for now.
 - brain computer interface
 - системы мозг - компьютер
 - Биологическая обратная связь / Biofeedback
@@ -56,6 +57,10 @@
 - [Created By You - Coggle](https://coggle.it/)
 - [treevis.net](http://treevis.net/)
 - [Show HN: Doogie – A Chromium-Based Browser with Tree-Style Pages | Hacker News](https://news.ycombinator.com/item?id=15277351)
+- [What tools are you using for knowledge graph building? | Hacker News](https://news.ycombinator.com/item?id=14315129)
+- [Там советы в комментах. Org-mode reference card [pdf] | Hacker News](https://news.ycombinator.com/item?id=14571453)
+- [Org-Mode Is One of the Most Reasonable Markup Languages to Use for Text | Hacker News](https://news.ycombinator.com/item?id=15321850)
+- [Show HN: Nulis – Open Source Tree Editor for Writers | Hacker News](https://news.ycombinator.com/item?id=15256215)
 
 ## D3.js trees
 - [D3 Source Treemap - bl.ocks.org](https://bl.ocks.org/mbostock/8fe6fa6ed1fa976e5dd76cfa4d816fec)

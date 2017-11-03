@@ -19,3 +19,6 @@ today's me ─┤                                        ├─> <a href="placeh
                     ├── <a href="music">music</a> ────────┤
                     └── <a href="surfing.md">web-surfing</a> ──┘
 </pre>
+
+---
+My single source of truth | Tryna handle my life and all my knowledge.

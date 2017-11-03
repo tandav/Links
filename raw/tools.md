@@ -13,3 +13,7 @@
 - [MediaHuman Audio Converter](https://www.mediahuman.com/audio-converter/)
 - [eqMac2 - System-wide Audio Equalizer for the Mac](https://github.com/romankisil/eqMac2)
 - [Punto Switcher](https://yandex.ru/soft/punto/)
+
+---
+
+- [Show HN: Vecta.io - Team diagramming with an advanced SVG editor | Hacker News](https://news.ycombinator.com/item?id=14688031)

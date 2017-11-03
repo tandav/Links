@@ -25,15 +25,20 @@
 - [sql - How can you represent inheritance in a database? - Stack Overflow](https://stackoverflow.com/questions/3579079/how-can-you-represent-inheritance-in-a-database/3579462#3579462)
 
 ## Misc
+- [Why SQL is beating NoSQL, and what this means for the future of data | Hacker News](https://news.ycombinator.com/item?id=15335717)
 - [Google Sheets and Python - YouTube](https://www.youtube.com/watch?v=vISRn5qFrkM)
 - [Get Sheet Done — using Google Spreadsheets as your data backend](https://medium.freecodecamp.org/get-sheet-done-using-google-spreadsheets-as-your-data-backend-650ba23dc6d9)
 - [Hadoop - Just the Basics for Big Data Rookies - YouTube](https://www.youtube.com/watch?v=xYnS9PQRXTg)
 - [Developing Real-Time Data Pipelines with Apache Kafka - YouTube](https://www.youtube.com/watch?v=GRPLRONVDWY)
 - [Databases Courses | Coursera](https://www.coursera.org/courses?languages=en&query=databases)
-
-## Notes
-
-Active record is a pattern and also has mainstream implementation in ruby. [It is easy to start but has many problems in the future](https://www.youtube.com/watch?v=QNnewJ-lzdc) DataMapper is kinda future.
-- [О паттернах проектирования для работы с РСУБД / Хабрахабр](https://habrahabr.ru/post/339582/)
-
----
+- [DataGrip: Cross-Platform IDE for Databases & SQL by JetBrains](https://www.jetbrains.com/datagrip)
+- [A Minimalist Guide to SQLite | Hacker News](https://news.ycombinator.com/item?id=15605669)
+- [PostgreSQL vs MySQL: an apples to oranges comparison | Hacker News](https://news.ycombinator.com/item?id=4495377)
+- [Database Schema Refinement: Functional Dependencies | Hacker News](https://news.ycombinator.com/item?id=9359400)
+- [Alibaba is leading a $27M investment in MariaDB | Hacker News](https://news.ycombinator.com/item?id=15366365)
+- [How Postgres Makes Transactions Atomic | Hacker News](https://news.ycombinator.com/item?id=15027870)
+- [Efficient pagination of a SQL table with 100M records | Hacker News](https://news.ycombinator.com/item?id=15480219)
+- [Design better databases | Hacker News](https://news.ycombinator.com/item?id=11448682)
+- [Designing Data-Intensive Applications | Hacker News](https://news.ycombinator.com/item?id=15428526)
+- [How I Reduced My DB Server Load by 80% | Hacker News](https://news.ycombinator.com/item?id=15434970)
+- [Why I’m dumping Firebase for Web | Hacker News](https://news.ycombinator.com/item?id=14962567)

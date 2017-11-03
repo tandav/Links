@@ -17,3 +17,6 @@
 - [Почему вы хотите у нас работать? Вопросы на интервью. - YouTube](https://www.youtube.com/watch?v=F0pV5q8lo_w)
 - [Путешествие за бугор и обратно: как не надо устраиваться работать за рубежом](https://habrahabr.ru/post/335876/)
 - [Ebanoe.IT — голая правда о нашем айти](https://ebanoe.it/)
+- [Ask HN: How do you pivot your career when jobs want years of exp in a stack | Hacker News](https://news.ycombinator.com/item?id=15171858)
+- [My Google job was tedious and pointless | Hacker News](https://news.ycombinator.com/item?id=15492367)
+- [A Data-Driven Guide to Becoming a Consistent Billionaire | Hacker News](https://news.ycombinator.com/item?id=15438386)

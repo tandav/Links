@@ -7,11 +7,13 @@
 - [Python Packages and Environments with conda | Anaconda](https://www.anaconda.com/blog/developer-blog/python-packages-and-environments-conda/)
 - [100 numpy exercises](http://www.labri.fr/perso/nrougier/teaching/numpy.100/index.html)
 - [Jupyter (IPython) notebooks features](https://arogozhnikov.github.io/2016/09/10/jupyter-features.html)
+- [Microsoft Azure Notebooks - Online Jupyter Notebooks](https://notebooks.azure.com/rheartpython/libraries/PythonDS101)
 
 # Fast Python
 - fast python: numba, cython (both are good)
 - [Losing your Loops Fast Numerical Computing with NumPy - YouTube](https://www.youtube.com/watch?v=EEUXKG97YRw)
 - [An exercise in Python optimization: make Python benchmarks as fast, if not faster, than Julia.](https://gist.github.com/jfpuget/b53f1e15a37aba5944ad)
+- [How to Make Python Run as Fast as Julia (2015) | Hacker News](https://news.ycombinator.com/item?id=15121520)
 - [Sebastian Witowski - Writing faster Python - YouTube](https://www.youtube.com/watch?v=YjHsOrOOSuI)
 - [7 Simple Tricks to Write Better Python Code - YouTube](https://www.youtube.com/watch?v=VBokjWj_cEA)
 - [Brett Slatkin - How to Be More Effective with Functions - PyCon 2015 - YouTube](https://www.youtube.com/watch?v=WjJUPxKB164)
@@ -28,6 +30,7 @@
 - HN: fast python, python performance
 - [Seven Things You Might Not Know about Numba | Parallel Forall](https://devblogs.nvidia.com/parallelforall/seven-things-numba/)
 - [Numba: High-Performance Python with CUDA Acceleration | Parallel Forall](https://devblogs.nvidia.com/parallelforall/numba-python-cuda-acceleration/)
+- [Numba: High-Performance Python with CUDA Acceleration | Hacker News](https://news.ycombinator.com/item?id=15301766)
 - [New Optimizations Improve Deep Learning Frameworks For CPUs](https://www.nextplatform.com/2017/10/13/new-optimizations-improve-deep-learning-frameworks-cpus/)
 - cython, cython tutorial
 - [Easily Profile Python Code in Jupyter — Random Points](http://mortada.net/easily-profile-python-code-in-jupyter.html)

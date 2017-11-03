@@ -62,3 +62,4 @@
 - webpack tutorial
 - [Пособие по webpack / Хабрахабр](https://habrahabr.ru/post/309306/)
 - [A Comprehensive Overview of WebPack](https://www.keycdn.com/blog/webpack/)
+- [Functional programming in JavaScript is an antipattern | Hacker News](https://news.ycombinator.com/item?id=14642395)

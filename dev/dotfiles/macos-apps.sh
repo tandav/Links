@@ -14,3 +14,4 @@ brew cask install skype
 brew cask install disk-inventory-x
 brew cask install ableton-live-suite
 brew cask install google-backup-and-sync
+brew cask install torbrowser

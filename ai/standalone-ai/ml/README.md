@@ -1,5 +1,5 @@
 # Machine Learning and Data Science
-## Raw Good
+## Good Fundamentals
 - [Deep Learning - Ian Goodfellow Book](http://www.deeplearningbook.org/)
 - [Kaggle: Your Home for Data Science](https://www.kaggle.com/)
 - [Hacker's guide to Neural Networks (2012) | Hacker News](https://news.ycombinator.com/item?id=14769525)
@@ -9,12 +9,16 @@
 - andrej karpathy cs231n | [CS231n Winter 2016 - YouTube](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) | [Reddit/cs231n](https://www.reddit.com/r/cs231n/) | [CS231n, Spring 2017](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 
 ## Raw
+- [Coding the History of Deep Learning | Hacker News](https://news.ycombinator.com/item?id=15311773)
+- [Why I’m Remaking OpenAI Universe | Hacker News](https://news.ycombinator.com/item?id=14634909)
+- [The State of Data Science and Machine Learning | Hacker News](https://news.ycombinator.com/item?id=15586323)
 - [What You Need To Know About One Of The Most Talked-About Papers On Deep Learning To Date](https://www.forbes.com/sites/quora/2017/10/13/what-you-need-to-know-about-one-of-the-most-talked-about-papers-on-deep-learning-to-date/#3f1e3a585553)
 - [New deep learning course by Andrew Ng | Hacker News](https://news.ycombinator.com/item?id=15002208)
 - [Deeplearning.ai: Announcing New Deep Learning Courses on Coursera | Hacker News](https://news.ycombinator.com/item?id=14958779)
 - [Deep Learning Specialization by Andrew Ng — 21 Lessons Learned](https://medium.com/towards-data-science/deep-learning-specialization-by-andrew-ng-21-lessons-learned-15ffaaef627c)
 - [HN Search powered by Algolia](https://hn.algolia.com/?query=machine%20learning&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 - how start learning neural networks
+- [Intel® Nervana™ DevCloud | Intel® Software](https://software.intel.com/en-us/ai-academy/tools/devcloud?_ga=2.14238133.302191868.1509647721-1098864385.1507322226)
 - [Machine Learning | Coursera](https://www.coursera.org/learn/machine-learning)
 - [Machine Learning Recipes with Josh Gordon - YouTube - YouTube](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 - [The future of deep learning | Hacker News](https://news.ycombinator.com/item?id=14797364&utm_term=comment)
@@ -28,7 +32,6 @@
 - [Machine Learning in a Week – Learning New Stuff – Medium](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850)
 - [Machine Learning Top 10 in September](https://medium.mybridge.co/machine-learning-top-10-in-september-6838169e9ee7)
 - [Learning Machine Learning and NLP from 187 Quora Questions](https://unsupervisedmethods.com/learning-machine-learning-and-nlp-from-185-quora-questions-cebe42e47da8)
-- [Big Picture Machine Learning: Classifying Text with Neural Networks and TensorFlow](https://medium.freecodecamp.org/big-picture-machine-learning-classifying-text-with-neural-networks-and-tensorflow-d94036ac2274)
 - [A Visual and Interactive Guide to the Basics of Neural Networks – J Alammar – Explorations in touchable pixels and intelligent androids](https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
 - markov chain
 - [Learn TensorFlow and deep learning, without a Ph.D. | Google Cloud Big Data and Machine Learning Blog  |  Google Cloud Platform](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
@@ -44,7 +47,6 @@
 - [Marching neural network | Hacker News](https://news.ycombinator.com/item?id=14634092)
 - [When not to use deep learning | Hacker News](https://news.ycombinator.com/item?id=14732592)
 - [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/)
-- [Exploring LSTMs | Hacker News](https://news.ycombinator.com/item?id=14526305)
 - open ai
 - [22 talks from PyData 2017 | Deep Learning, Machine Learning & NLP](https://www.analyticsvidhya.com/blog/2017/05/pydata-amsterdam-2017-machine-learning-deep-learning-data-science/)
 - [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://blog.openai.com/evolution-strategies/)
@@ -59,12 +61,10 @@
 - [Deep Learning | NVIDIA Developer](https://developer.nvidia.com/deep-learning)
 - [How Machines Learn: A Practical Guide – freeCodeCamp](https://medium.freecodecamp.org/how-machines-learn-a-practical-guide-203aae23cafb)
 - [Tetiana Ivanova - How to become a Data Scientist in 6 months a hacker’s approach to career planning - YouTube](https://www.youtube.com/watch?v=rIofV14c0tc)
-- [TensorFlow 101 | Hacker News](https://news.ycombinator.com/item?id=15525072)
 - [surfstudio/MLCandidatePath](https://github.com/surfstudio/MLCandidatePath)
 - [Python Data Science Handbook | Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [caesar0301/awesome-public-datasets: An awesome list of high-quality open datasets in public domains (on-going). By everyone, for everyone!](https://github.com/caesar0301/awesome-public-datasets)
 - [Over 150 of the Best Machine Learning, NLP, and Python Tutorials I’ve Found](https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78)
-- [aymericdamien/TensorFlow-Examples: TensorFlow Tutorial and Examples for beginners](https://github.com/aymericdamien/TensorFlow-Examples?utm_source=hackernewsletter&utm_medium=email&utm_term=data)
 - [ZuzooVn/machine-learning-for-software-engineers: A complete daily plan for studying to become a machine learning engineer.](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 - [humphd/have-fun-with-machine-learning: An absolute beginner's guide to Machine Learning and Image Classification with Neural Networks](https://github.com/humphd/have-fun-with-machine-learning)
 - [ujjwalkarn/Machine-Learning-Tutorials: machine learning and deep learning tutorials, articles and other resources](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
@@ -76,6 +76,24 @@
 - [Commonly Asked Data Science Interview Questions | Hacker News](https://news.ycombinator.com/item?id=15545240)
 - [A beginner's guide to artificial intelligence, machine learning, and cognitive computing](https://www.ibm.com/developerworks/library/cc-beginner-guide-machine-learning-ai-cognitive/index.html)
 - [Machine Learning Algorithms: Which One to Choose for Your Problem](https://blog.statsbot.co/machine-learning-algorithms-183cc73197c)
+- [What Is a Neural Network? | Hacker News](https://news.ycombinator.com/item?id=15409898)
+
+## Tensorflow
+- [TensorFlow Examples for Beginners with Latest APIs | Hacker News](https://news.ycombinator.com/item?id=15335107)
+- [Tensorflow sucks | Hacker News](https://news.ycombinator.com/item?id=15429824)
+- [TensorFlow 101 | Hacker News](https://news.ycombinator.com/item?id=15525072)
+- [Big Picture Machine Learning: Classifying Text with Neural Networks and TensorFlow](https://medium.freecodecamp.org/big-picture-machine-learning-classifying-text-with-neural-networks-and-tensorflow-d94036ac2274)
+- [aymericdamien/TensorFlow-Examples: TensorFlow Tutorial and Examples for beginners](https://github.com/aymericdamien/TensorFlow-Examples?utm_source=hackernewsletter&utm_medium=email&utm_term=data)
+- [tensorflow/tensorflow: Computation using data flow graphs for scalable machine learning](https://github.com/tensorflow/tensorflow)
+- [deepmind/sonnet: TensorFlow-based neural network library](https://github.com/deepmind/sonnet)
+- [vahidk/EffectiveTensorflow: TensorFlow tutorials and best practices.](https://github.com/vahidk/EffectiveTensorflow)
+
+## CNN
+- [An Intuitive Explanation of Convolutional Neural Networks (2016) | Hacker News](https://news.ycombinator.com/item?id=15328516)
+
+## RNN
+- [Exploring LSTMs | Hacker News](https://news.ycombinator.com/item?id=14526305)
+- [The Unreasonable Effectiveness of Recurrent Neural Networks | Hacker News](https://news.ycombinator.com/item?id=9584325)
 
 ## Russian
 - [Введение в архитектуры нейронных сетей / Блог компании Конференции Олега Бунина (Онтико) / Хабрахабр](https://habrahabr.ru/company/oleg-bunin/blog/340184/)
@@ -108,12 +126,3 @@
 - [Гид по машинному обучению для нетехнологических специалистов: блоги, новости, проекты и влиятельные персоны](https://vc.ru/20156-nontechnical-ml-guide)
 - [Краткий курс машинного обучения или как создать нейронную сеть для решения скоринг задачи / Хабрахабр](https://habrahabr.ru/post/340792/)
 - [Машинное обучение — это легко / Хабрахабр](https://habrahabr.ru/post/319288/)
-
-## ML in Music
-- [NSynth: Neural Audio Synthesis](https://magenta.tensorflow.org/nsynth)
-- [Tuning Recurrent Neural Networks with Reinforcement Learning](https://magenta.tensorflow.org/2016/11/09/tuning-recurrent-networks-with-reinforcement-learning/)
-
-## Tools
-- [tensorflow/tensorflow: Computation using data flow graphs for scalable machine learning](https://github.com/tensorflow/tensorflow)
-- [deepmind/sonnet: TensorFlow-based neural network library](https://github.com/deepmind/sonnet)
-- [vahidk/EffectiveTensorflow: TensorFlow tutorials and best practices.](https://github.com/vahidk/EffectiveTensorflow)

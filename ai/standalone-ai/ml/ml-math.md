@@ -2,6 +2,9 @@
 - graph teory
 - [(11) Representing graphs (article) | Algorithms | Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms/graph-representation/a/representing-graphs)
 - [Graph (abstract data type) - Wikipedia](https://en.wikipedia.org/wiki/Graph_(abstract_data_type))
+- [The real prerequisite for machine learning isn’t math, it’s data analysis (2016) | Hacker News](https://news.ycombinator.com/item?id=15155534)
+- [Mathematics of Machine Learning (2016) | Hacker News](https://news.ycombinator.com/item?id=15146746)
+- [Ask HN: What maths are critical to pursuing ML/AI? | Hacker News](https://news.ycombinator.com/item?id=15116379)
 
 ## Linear Algebra
 - [Computational Linear Algebra | Hacker News](https://news.ycombinator.com/item?id=14830671)
@@ -10,7 +13,7 @@
 - [Matrix Algebra - Linear Algebra for Deep Learning (Part 2) | QuantStart](https://www.quantstart.com/articles/matrix-algebra-linear-algebra-for-deep-learning-part-2)
 - [Highest Voted Questions - Cross Validated](https://stats.stackexchange.com/questions?sort=votes)
 - [ensemble - Bagging, boosting and stacking in machine learning - Cross Validated](https://stats.stackexchange.com/questions/18891/bagging-boosting-and-stacking-in-machine-learning)
-
+- [Linear Algebra for AI | Hacker News](https://news.ycombinator.com/item?id=15262218)
 
 ## Statistics and Probability
 - [Jake Vanderplas - Statistics for Hackers - PyCon 2016.mp4 - YouTube](https://www.youtube.com/watch?v=Iq9DzN6mvYA)

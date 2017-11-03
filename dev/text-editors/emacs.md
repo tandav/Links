@@ -1,0 +1,12 @@
+# Emacs
+- [My emacs cheat sheet](https://gist.github.com/dherman/3238368)
+- [online org-mode editor - Google Search](https://www.google.com/search?q=online+org-mode+editor)
+- [orgmode online - Google Search](https://www.google.com/search?q=orgmode+online)
+- emacs python mode
+- [Spacemacs cheatsheet](https://gist.github.com/526avijitgupta/fd058b3f61a5d23df667)
+- [This is a cheat sheet for Emacs org-mode... in org-mode format!](https://gist.github.com/drj42/1755992)
+- emacs basics
+- [Emacs Basics - IMHO](https://blog.interlinked.org/tutorials/emacs.html)
+- [Highest Voted 'emacs' Questions - Stack Overflow](https://stackoverflow.com/questions/tagged/emacs)
+- [pierre-lecocq/emacs4developers: A document to help developers to use Emacs as a developer](https://github.com/pierre-lecocq/emacs4developers)
+- [Emacs Basics](http://mally.stanford.edu/~sr/computing/emacs.html)

@@ -106,3 +106,4 @@
 - [A simplified approach to calling APIs with redux ⏬](http://www.sohamkamani.com/blog/2016/06/05/redux-apis/)
 - [Alexander Rodionov / doll-vanilla-react · GitLab](https://gitlab.com/tandav/doll-vanilla-react)
 - [Things to learn in React before using Redux | Hacker News](https://news.ycombinator.com/item?id=14811577)
+- [Learn React with Copywork | Hacker News](https://news.ycombinator.com/item?id=14643442)

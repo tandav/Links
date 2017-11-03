@@ -59,3 +59,4 @@
 - window functions (google, HN, jooq) - типа прям VERY COOL
 - [Dimitri Fontaine, PostgreSQL Expert](http://tapoueh.org/)
 - [Easy Steps to a Complete Understanding of SQL | Hacker News](https://news.ycombinator.com/item?id=6319870)
+- view in database

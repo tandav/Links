@@ -1,0 +1,27 @@
+# Vim
+- [Vim shortcuts](https://gist.github.com/awidegreen/3854277)
+- [How to Learn Vim: A Four Week Plan | Hacker News](https://news.ycombinator.com/item?id=15414544)
+- [Почему, ну почему, эти #?@! придурки используют vi? / Хабрахабр](https://habrahabr.ru/post/307084/#comment_9732826) 
+- [3.2. Режимы : Джефф Раскин : programming-lang.com](http://programming-lang.com/ru/comp_programming/raskin/0/j38.html)
+- [Киллер фича Vim / Хабрахабр](https://habrahabr.ru/post/339908/)
+- [Киллерфича в vim — это режимы? Серьёзно? / Хабрахабр](https://habrahabr.ru/post/340376/)
+- vim org-mode
+- neovim vs vim
+- [Graphical vi-vim Cheat Sheet and Tutorial](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
+- [Используем редактор Vim. Минимальный набор команд. Часть 1. - YouTube](https://www.youtube.com/watch?v=pWuRYwlbNaI)
+- [Hexlet Webinar #3: редактор VIM - YouTube](https://www.youtube.com/watch?v=79OWQ1qJwto)
+- [Киллер фича Vim / Хабрахабр](https://habrahabr.ru/post/339908/#comment_10468798)
+- [vi - What is your most productive shortcut with Vim? - Stack Overflow](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118)
+- [notepad - VIM: Doesn't VIM 'replace' use of CTRL with ESC? - Stack Overflow](https://stackoverflow.com/questions/8017899/vim-doesnt-vim-replace-use-of-ctrl-with-esc?noredirect=1&lq=1)
+- vim caps lock ctrl
+- [How to Learn Vim: A Four Week Plan | Hacker News](https://news.ycombinator.com/item?id=15414544&utm_term=comment)
+- [Vim after 15 Years | Hacker News](https://news.ycombinator.com/item?id=15491553)
+- buffers vs tabs (наверное buffers)
+- vim cheat sheet
+- vim introduction for beginners
+- [To a Vim lover, how painful was it to learn Vim? - Quora](https://www.quora.com/To-a-Vim-lover-how-painful-was-it-to-learn-Vim)
+- [vi - What is your most productive shortcut with Vim? - Stack Overflow](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim)
+- [Seven habits of effective text editing (2000) | Hacker News](https://news.ycombinator.com/item?id=15532457)
+- [How to Do 90% of What Plugins Do (With Just Vim) - YouTube](https://www.youtube.com/watch?v=XA2WjJbmmoM)
+- [Vim isn’t that scary. Here are 5 free resources you can use to learn it.](https://medium.freecodecamp.org/vim-isnt-that-scary-here-are-5-free-resources-you-can-use-to-learn-it-ab78f5726f8d)
+- [Interactive Vim tutorial | Hacker News](https://news.ycombinator.com/item?id=15400037)

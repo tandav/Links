@@ -13,6 +13,8 @@
 - [GitHub Issues as Blog](https://github.com/lukego/blog/issues)
 - [sindresorhus/amas: Awesome & Marvelous Amas](https://github.com/sindresorhus/amas)
 - [sindresorhus/awesome: Curated list of awesome lists](https://github.com/sindresorhus/awesome)
+- [What have been the greatest intellectual achievements? | Hacker News](https://news.ycombinator.com/item?id=15255847)
+- [The geometry of Islamic art becomes a game | Hacker News](https://news.ycombinator.com/item?id=15546761)
 
 ## Sites w/ probably good content
 - [Aeon | a world of ideas](https://aeon.co/)
