@@ -39,6 +39,7 @@
 
 ## Blogs
 - [Блог - Hexlet.io](https://ru.hexlet.io/blog)
+- [Intel® Software](https://software.intel.com/en-us)
 
 ## Other
 - [Popular Music Videos - YouTube](https://www.youtube.com/playlist?list=PLFgquLnL59alCl_2TQvOiD5Vgm1hCaGSI)

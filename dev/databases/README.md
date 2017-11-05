@@ -7,22 +7,31 @@
 - [Database n00b - Eli Bendersky's website](https://eli.thegreenplace.net/2008/10/14/database-n00b)
 - [SQL for Web Nerds | Hacker News](https://news.ycombinator.com/item?id=2159624)
 - [Example Claim Construction Tutorial](http://philip.greenspun.com/software/claim-construction-tutorial/example/)
-- [A Tiny Intro to Database Systems](http://blog.dancrisan.com/a-tiny-intro-to-database-systems)
+- [A Tiny Intro to Database Systems | Hacker News](https://news.ycombinator.com/item?id=9436146)
 - [hangout.rb.ru/models&persistance - YouTube](https://www.youtube.com/watch?v=QNnewJ-lzdc)
 - normal forms
 - [Eight Common Database Design Bad Practices | Toptal](https://www.toptal.com/database/database-design-bad-practices)
 - database constraints
+- phpMyAdmin + HN search
 
 ## Entity–relationship model
 - Entity–relationship model + `YouTube`
 - what is table relationship | referenced tables | lookup tables + `YouTube`
 - Referential Integrity
+- [Relational model - Wikipedia](https://en.wikipedia.org/wiki/Relational_model) + HN
 - [A Short History of the ER Diagram and Information Modeling - DATAVERSITY](http://www.dataversity.net/a-short-history-of-the-er-diagram-and-information-modeling/)
 - [Intro to Database Systems - Part 2 : The Entity-Relationship Model](http://blog.dancrisan.com/intro-to-database-systems-part-2-the-entityrelationship-model)
 - [SQL for Beginners: Part 3 - Database Relationships](https://code.tutsplus.com/articles/sql-for-beginners-part-3-database-relationships--net-8561)
 - [Guide to table relationships - Access](https://support.office.com/en-us/article/Guide-to-table-relationships-30446197-4fbe-457b-b992-2f6fb812b58f)
 - [sql - using references in MYSQL - Stack Overflow](https://stackoverflow.com/questions/3096838/using-references-in-mysql)
 - [sql - How can you represent inheritance in a database? - Stack Overflow](https://stackoverflow.com/questions/3579079/how-can-you-represent-inheritance-in-a-database/3579462#3579462)
+- [Database Schema Refinement: Functional Dependencies | Hacker News](https://news.ycombinator.com/item?id=9359400)
+- functional dependencies
+- [The Vietnam of Computer Science - HN Search](https://hn.algolia.com/?query=The%20Vietnam%20of%20Computer%20Science&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
+
+Alternatives to relational db:
+- Hierarchical database model
+- Object database
 
 ## Misc
 - [Why SQL is beating NoSQL, and what this means for the future of data | Hacker News](https://news.ycombinator.com/item?id=15335717)

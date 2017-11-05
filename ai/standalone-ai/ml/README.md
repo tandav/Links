@@ -9,6 +9,7 @@
 - andrej karpathy cs231n | [CS231n Winter 2016 - YouTube](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) | [Reddit/cs231n](https://www.reddit.com/r/cs231n/) | [CS231n, Spring 2017](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 
 ## Raw
+- How to choose the number of hidden layers and nodes
 - [Coding the History of Deep Learning | Hacker News](https://news.ycombinator.com/item?id=15311773)
 - [Why I’m Remaking OpenAI Universe | Hacker News](https://news.ycombinator.com/item?id=14634909)
 - [The State of Data Science and Machine Learning | Hacker News](https://news.ycombinator.com/item?id=15586323)

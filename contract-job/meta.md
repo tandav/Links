@@ -20,3 +20,5 @@
 - [Ask HN: How do you pivot your career when jobs want years of exp in a stack | Hacker News](https://news.ycombinator.com/item?id=15171858)
 - [My Google job was tedious and pointless | Hacker News](https://news.ycombinator.com/item?id=15492367)
 - [A Data-Driven Guide to Becoming a Consistent Billionaire | Hacker News](https://news.ycombinator.com/item?id=15438386)
+- [УЧИШЬСЯ В СРЕДНЕНЬКОМ УНИВЕРЕ? Что делать. - YouTube](https://www.youtube.com/watch?v=C92vNzMNtYE)
+- [Нет, у меня нет сторонних проектов, чтобы вам показать / Хабрахабр](https://habrahabr.ru/post/341676/)

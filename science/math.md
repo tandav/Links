@@ -6,3 +6,4 @@
 - [Badges - Mathematics Stack Exchange](https://math.stackexchange.com/help/badges)
 - [P vs. NP and the Computational Complexity Zoo - YouTube](https://www.youtube.com/watch?v=YX40hbAHx3s)
 - [Why do many math books have so much detail and so little enlightenment? (2010) | Hacker News](https://news.ycombinator.com/item?id=14338411)
+- [Multiplication algorithm - Wikipedia](https://en.wikipedia.org/wiki/Multiplication_algorithm)

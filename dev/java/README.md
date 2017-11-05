@@ -32,3 +32,4 @@
 - [Oracle and the fall of Java EE | Hacker News](https://news.ycombinator.com/item?id=12054705)
 - [@Annotatiomania™](http://annotatiomania.com/)
 - [Андрей Паньгин — Мифы и факты о медленной Java - YouTube](https://www.youtube.com/watch?v=NMc8AnyhyS8)
+- [Understanding How Graal Works – A Java JIT Compiler Written in Java | Hacker News](https://news.ycombinator.com/item?id=15624388)

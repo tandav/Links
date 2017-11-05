@@ -7,3 +7,5 @@
 - [What every systems programmer should know about lockless concurrency [pdf] | Hacker News](https://news.ycombinator.com/item?id=15607869)
 - [Beej's Guide to C Programming (2007) | Hacker News](https://news.ycombinator.com/item?id=15198093)
 - [Show HN: A virtual machine made with Google Sheets formulas (no script) | Hacker News](https://news.ycombinator.com/item?id=14703098)
+- C++ features - HN search (hate on modern c++ features mess)
+- [Teach Yourself C in 24 Hours (1997) | Hacker News](https://news.ycombinator.com/item?id=15624521)

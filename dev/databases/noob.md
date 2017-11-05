@@ -27,5 +27,5 @@ Requirements are: (`TODO: make this list better`)
 - typical DB operations
 - typical SQL queries
 - make typical app with db
-- [SQL queries: The Top 10 Most Used](https://blog.udemy.com/sql-queries/)
+- [SQL queries: The Top 10 Most Used](https://blog.udemy.com/sql-queries/) `INSERT` `SELECT` `UPDATE` `DELETE`
 - [Data Modeling](http://philip.greenspun.com/sql/data-modeling.html)

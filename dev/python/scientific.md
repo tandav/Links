@@ -40,3 +40,4 @@
 - [PythonSpeed/PerformanceTips - Python Wiki](https://wiki.python.org/moin/PythonSpeed/PerformanceTips)
 - [Why Python Is Slow: Looking Under the Hood | Hacker News](https://news.ycombinator.com/item?id=15548904)
 - [Log-likelihood benchmark](https://arogozhnikov.github.io/2015/09/08/SpeedBenchmarks.html)
+- why python multiplication is so fast

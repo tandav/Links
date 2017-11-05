@@ -60,3 +60,4 @@
 - [Dimitri Fontaine, PostgreSQL Expert](http://tapoueh.org/)
 - [Easy Steps to a Complete Understanding of SQL | Hacker News](https://news.ycombinator.com/item?id=6319870)
 - view in database
+- [SQL Indexing and Tuning e-Book for developers: Use The Index, Luke covers Oracle, MySQL, PostgreSQL, SQL Server, ...](http://use-the-index-luke.com/)

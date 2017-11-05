@@ -1,5 +1,6 @@
 # Computer Science
 ## Raw
+- [List of unsolved problems in computer science - Wikipedia](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_computer_science)
 - [Ask HN: What is your favorite CS paper? | Hacker News](https://news.ycombinator.com/item?id=15089476)
 - [How to read and understand a scientific paper: a guide for non-scientists | Hacker News](https://news.ycombinator.com/item?id=14644472)
 - [Systems Past: the only 8 software innovations we actually use - Technical Journal](http://davidad.github.io/blog/2014/03/12/the-operating-system-is-out-of-date/)

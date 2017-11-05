@@ -14,7 +14,7 @@ today's me ─┤                                        ├─> <a href="placeh
                 │                                 │
                 ├── body-health ──────────────────┤                                           
                 ├── gtd ──────────────────────────┤
-                ├── <a href="english.md">english</a> ──────────────────────┤
+                ├── <a href="english">english</a> ──────────────────────┤
                 └── emotional ballance ───────────┘
                     ├── <a href="music">music</a> ────────┤
                     └── <a href="surfing.md">web-surfing</a> ──┘
