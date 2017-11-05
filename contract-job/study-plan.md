@@ -1,5 +1,6 @@
 # Contract Job Study Plan
 ## Learn SQL
+- `1st Priority`: by now focus on learning complex `SELECT` queries. Not going deep to optimisation, tuning and db-design until I learn how to do complex `SELECT`s with all kind of `JOINS` and all that stuff
 - [Database noob](../dev/databases/noob.md)
 - Khan Academy
 - [Self Paced | Stanford Lagunita](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
@@ -14,3 +15,5 @@
 - [A Beginner’s Guide to the True Order of SQL Operations – Java, SQL and jOOQ.](https://blog.jooq.org/2016/12/09/a-beginners-guide-to-the-true-order-of-sql-operations/)
     - good site, read all the materials
 - [other DB stuff](../dev/databases)
+
+## Learn Enterprise Java basics

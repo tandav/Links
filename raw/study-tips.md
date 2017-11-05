@@ -18,7 +18,7 @@
 - [Learning From the Feynman Technique – Taking Note – Medium](https://medium.com/taking-note/learning-from-the-feynman-technique-5373014ad230)
 - [Boot Up 2017 with the #100DaysOfCode Challenge – freeCodeCamp](https://medium.freecodecamp.org/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b)
 - [How you can start a career in a different field without “experience” — tips that got me job offers…](https://medium.freecodecamp.org/how-you-start-a-career-in-a-different-field-without-experience-tips-that-got-me-job-offers-from-7425f590f3eb)
-- [Why I studied full-time for 8 months for a Google interview](https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13)
+- [Why I Studied Full-Time for 8 Months for a Google Interview | Hacker News](https://news.ycombinator.com/item?id=13194185)
 - [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html) `good`
 - [Ask HN: What do you use to align your daily todos with your long term goals? | Hacker News](https://news.ycombinator.com/item?id=13855577)
 - [self improvement - What is the single most effective thing you did to improve your programming skills? - Software Engineering Stack Exchange](https://softwareengineering.stackexchange.com/questions/44177/what-is-the-single-most-effective-thing-you-did-to-improve-your-programming-skil)

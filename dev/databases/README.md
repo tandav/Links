@@ -28,6 +28,7 @@
 - [Database Schema Refinement: Functional Dependencies | Hacker News](https://news.ycombinator.com/item?id=9359400)
 - functional dependencies
 - [The Vietnam of Computer Science - HN Search](https://hn.algolia.com/?query=The%20Vietnam%20of%20Computer%20Science&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
+- [Essential Complexity: Perspective is Everything: Why even the most intelligent software architects don't understand the Relational Model](http://hepburndata.blogspot.ru/2011/12/perspective-is-everything-why-even-most.html)`good`
 
 Alternatives to relational db:
 - Hierarchical database model
