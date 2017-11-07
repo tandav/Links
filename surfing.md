@@ -1,6 +1,6 @@
 # Surfing the web
 ## Basics
-- [Hacker News](https://news.ycombinator.com/) | [HN Search](https://hn.algolia.com/?query=&sort=byPopularity&prefix&page=0&dateRange=all&type=story) | [Favorites](https://news.ycombinator.com/favorites?id=tandav) `// best website ever created`
+- [Hacker News](https://news.ycombinator.com/) | [HN Search](https://hn.algolia.com) `// best website ever created`
 - [YouTube](https://www.youtube.com/) | [My Library](placeholder.md)
 - [Twitter](https://twitter.com) | [Who I follow](https://twitter.com/tandavaya/following)
 - [Quora](https://www.quora.com/)

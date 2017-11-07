@@ -38,3 +38,4 @@
 - [@Annotatiomania™](http://annotatiomania.com/)
 - [Андрей Паньгин — Мифы и факты о медленной Java - YouTube](https://www.youtube.com/watch?v=NMc8AnyhyS8)
 - [Understanding How Graal Works – A Java JIT Compiler Written in Java | Hacker News](https://news.ycombinator.com/item?id=15624388)
+- [deephacks/awesome-jvm: A curated list of awesome loosely performance related JVM stuff. Inspired by awesome-python.](https://github.com/deephacks/awesome-jvm)

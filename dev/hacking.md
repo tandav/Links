@@ -1,5 +1,5 @@
 # Hacking
-- [The definitive super list for "Google Hacking".](https://gist.github.com/cmartinbaughman/5877945)
+- [DEFCONConference - YouTube](https://www.youtube.com/user/DEFCONConference/videos?disable_polymer=1)
 - [My tips for finding security issues in GitHub projects | Hacker News](https://news.ycombinator.com/item?id=15421999)
 - [How to start in Infosec](https://gist.github.com/mubix/5737a066c8845d25721ec4bf3139fd31)
 - Hack wifi - search whole google and youtube
@@ -31,11 +31,12 @@
 - [10 Minute Mail - Temporary E-Mail](https://10minutemail.com/10MinuteMail/index.html?dswid=-693)
 
 ## Google Hacking
-* [How To Hack a Website in 10 Seconds - YouTube](https://www.youtube.com/watch?v=F62Gj4ItlB0)
-* [Hack Username And Password From Any Website | Ethical Hacking | 2017 - YouTube](https://www.youtube.com/watch?v=tkoRMi_CzGk)
-* https://gist.github.com/stevenswafford/393c6ec7b5375d5e8cdc
-* https://www.facebook.com/XW3s13y.gov/photos/a.486201614762297.1073741829.476197772429348/499378400111285/?type=3
-* [google hacking - Google Search](https://www.google.ru/search?q=google+hacking)
+- [How To Hack a Website in 10 Seconds - YouTube](https://www.youtube.com/watch?v=F62Gj4ItlB0)
+- [Hack Username And Password From Any Website | Ethical Hacking | 2017 - YouTube](https://www.youtube.com/watch?v=tkoRMi_CzGk)
+- https://gist.github.com/stevenswafford/393c6ec7b5375d5e8cdc
+- https://www.facebook.com/XW3s13y.gov/photos/a.486201614762297.1073741829.476197772429348/499378400111285/?type=3
+- [google hacking - Google Search](https://www.google.ru/search?q=google+hacking)
+- [The definitive super list for "Google Hacking".](https://gist.github.com/cmartinbaughman/5877945)
 
 search query:
 

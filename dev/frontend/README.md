@@ -6,6 +6,7 @@
 - [Smashing Magazine](https://www.smashingmagazine.com/)
 
 ## Raw
+- [Show HN: Frappe Charts – GitHub inspired JavaScript charting with zero dependencies | Hacker News](https://news.ycombinator.com/item?id=15594004)
 - [It’s time to kill the web app | Hacker News](https://news.ycombinator.com/item?id=15321015)
 - [verekia/js-stack-from-scratch: 🎉 V2 release! 🎉 — Step-by-step tutorial to build a modern JavaScript stack.](https://github.com/verekia/js-stack-from-scratch)
 - [bmorelli25/Become-A-Full-Stack-Web-Developer: Free resources for learning Full Stack Web Development](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)

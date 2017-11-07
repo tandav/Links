@@ -10,3 +10,4 @@
 - [Основы программирования. TCP/IP. - YouTube](https://www.youtube.com/watch?v=ne6L7AyIsxY)
 - tcp vs udp, TLDR: tcp cares about data integrity, udp doesn't
 - [An OSI model for the 21st century | Hacker News](https://news.ycombinator.com/item?id=15058090)
+- [Networks - YouTube](https://www.youtube.com/playlist?list=PL4qBE1-4ZNC0vRWI_05a3YePdF1WHberD)

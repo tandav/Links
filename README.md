@@ -4,7 +4,7 @@ my life is simple:
                 ┌── <a href="ai">ai: learn, think, build, r&d</a> ─┐
                 │                                 │
             ┌── work on big goal ────────────────────┐
-today's me ─┤                                        ├─> <a href="placeholder.md">new horizons</a>
+today's me ─┤                                        ├─> <a href="global-pic">new horizons / global pic</a>
             └── maintain myself ─────────────────────┘
                 │                                 │
                 ├── money, food, house, social ───┤

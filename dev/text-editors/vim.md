@@ -8,8 +8,6 @@
 - vim org-mode
 - neovim vs vim
 - [Graphical vi-vim Cheat Sheet and Tutorial](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
-- [Используем редактор Vim. Минимальный набор команд. Часть 1. - YouTube](https://www.youtube.com/watch?v=pWuRYwlbNaI)
-- [Hexlet Webinar #3: редактор VIM - YouTube](https://www.youtube.com/watch?v=79OWQ1qJwto)
 - [Киллер фича Vim / Хабрахабр](https://habrahabr.ru/post/339908/#comment_10468798)
 - [vi - What is your most productive shortcut with Vim? - Stack Overflow](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118)
 - [notepad - VIM: Doesn't VIM 'replace' use of CTRL with ESC? - Stack Overflow](https://stackoverflow.com/questions/8017899/vim-doesnt-vim-replace-use-of-ctrl-with-esc?noredirect=1&lq=1)
@@ -22,6 +20,16 @@
 - [To a Vim lover, how painful was it to learn Vim? - Quora](https://www.quora.com/To-a-Vim-lover-how-painful-was-it-to-learn-Vim)
 - [vi - What is your most productive shortcut with Vim? - Stack Overflow](https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim)
 - [Seven habits of effective text editing (2000) | Hacker News](https://news.ycombinator.com/item?id=15532457)
-- [How to Do 90% of What Plugins Do (With Just Vim) - YouTube](https://www.youtube.com/watch?v=XA2WjJbmmoM)
 - [Vim isn’t that scary. Here are 5 free resources you can use to learn it.](https://medium.freecodecamp.org/vim-isnt-that-scary-here-are-5-free-resources-you-can-use-to-learn-it-ab78f5726f8d)
 - [Interactive Vim tutorial | Hacker News](https://news.ycombinator.com/item?id=15400037)
+
+## Videos
+- [How to Do 90% of What Plugins Do (With Just Vim) - YouTube](https://www.youtube.com/watch?v=XA2WjJbmmoM)
+- [Vim as a Python IDE - Martin Brochhaus - YouTube](https://www.youtube.com/watch?v=YhqsjUUHj6g)
+- [Используем редактор Vim. Минимальный набор команд. Часть 1. - YouTube](https://www.youtube.com/watch?v=pWuRYwlbNaI)
+- [Hexlet Webinar #3: редактор VIM - YouTube](https://www.youtube.com/watch?v=79OWQ1qJwto)
+- [Damian Conway, "More Instantly Better Vim" - OSCON 2013 - YouTube](https://www.youtube.com/watch?v=aHm36-na4-4)
+- [Mastering the Vim Language - YouTube](https://www.youtube.com/watch?v=wlR5gYd6um0)
+- [Let Vim Do the Typing - YouTube](https://www.youtube.com/watch?v=3TX3kV3TICU)
+- [Learning Vim in a Week - YouTube](https://www.youtube.com/watch?v=_NUO4JEtkDw)
+- [Vim notetaking tips - YouTube](https://www.youtube.com/watch?v=wh_WGWii7UE)

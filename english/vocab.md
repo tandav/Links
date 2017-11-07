@@ -9,4 +9,4 @@
 - af == as fuck (really, very). That dinner was good as fuck.
 - ... so anything can happen
 - (hand waving comes here) 
-
+- it turns out - получается, что ... 

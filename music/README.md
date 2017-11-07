@@ -6,3 +6,7 @@
 - [Orthodox](https://www.youtube.com/playlist?list=PL4qBE1-4ZNC2tXCS-vgrgtAvW7Uq5oSGW)
 - [Mongolian](https://www.youtube.com/playlist?list=PL4qBE1-4ZNC3vjYkzlN0_LNyHXlbTvDTS)
 - [House](https://www.youtube.com/playlist?list=PL4qBE1-4ZNC23xD5_S9zJZBJaK3VrIHXg)
+- [Drum and Bass](https://www.youtube.com/playlist?list=PL4qBE1-4ZNC25bKGMcMICdIf9C2KqEcNv)
+- [Techno](https://www.youtube.com/playlist?list=PL4qBE1-4ZNC1GdguNj3HdD9jlgoIZuexy)    
+- ["New York - style" Music](https://www.youtube.com/playlist?list=PL4qBE1-4ZNC2C4n3k4SUyeGAFOKoxvayN)
+- [Psychedelic Rock](https://www.youtube.com/playlist?list=PL4qBE1-4ZNC1f5-YMH0r4p1BpurRX77YT)

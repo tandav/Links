@@ -1,7 +1,8 @@
 # Contract Job
-- [study-plan](study-plan.md)
+- [study plan](study-plan.md)
 - [learning projects](projects)
-- [development notes](../dev)
+- [dev notes](../dev)
+- [links on hiring](hiring.md)
 
 ## Specialisation for now: 
 i'm learning this things:

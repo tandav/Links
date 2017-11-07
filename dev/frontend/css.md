@@ -15,3 +15,4 @@
 - [Learn CSS Flexbox in 3 Minutes – Learning New Stuff – Medium](https://medium.com/learning-new-stuff/learn-css-flexbox-in-3-minutes-c616c7070672)
 - [CSS Flexbox Explained by Road Tripping Across the Country](https://medium.freecodecamp.org/css-flexbox-explained-by-road-tripping-across-the-country-1217b69c390e)
 - [Шпаргалка по Flexbox (CSS3 Flexible Box) / Хабрахабр](https://habrahabr.ru/post/313938/)
+- [Flexbox and Grids: your layout’s best friends | Hacker News](https://news.ycombinator.com/item?id=15637111)

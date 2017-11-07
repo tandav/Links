@@ -61,6 +61,7 @@
 - git signing commits
 - [Semantic Versioning 2.0.0 | Semantic Versioning](http://semver.org/)
 - [The Advanced Git Guide | Toptal](https://www.toptal.com/git/the-advanced-git-guide)
+- [git-flight-rules: Flight rules for git](https://github.com/k88hudson/git-flight-rules?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
 
 ## Rebase
 - [Почему нужно перестать использовать Git rebase / Блог компании Mail.Ru Group / Хабрахабр](https://habrahabr.ru/company/mailru/blog/340558/)

@@ -14,3 +14,4 @@
 - [RouteHub - YouTube](https://www.youtube.com/channel/UCM7BeU-fyFEl-6uRu06b4YA)
 - [The Networking Doctors - YouTube](https://www.youtube.com/channel/UCfiydxj8kgRtDl0nYgof0uQ)
 - [Eli the Computer Guy - YouTube](https://www.youtube.com/user/elithecomputerguy/featured?disable_polymer=1)
+- [The Networking Doctors - YouTube](https://www.youtube.com/user/thenetworkingdoctors)
