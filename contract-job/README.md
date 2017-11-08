@@ -1,24 +1,25 @@
 # Contract Job
-- [study plan](study-plan.md)
-- [learning projects](projects)
-- [dev notes](../dev)
-- [links on hiring](hiring.md)
-
-## Specialisation for now: 
 i'm learning this things:
 
-### Databases
-- data engineering
-- databases, DB
-- SQL expert
-- Oracle (also postgreSQL, mySQL, noSQL)
-- ORM
-- Big Data, Hadoop, MapReduce, OLAP
-- Tableau, d3.js (data visualisation)
+## 1st specialisation: enterprise apps
+[`learning log`](learning-log.md) [`projects`](projects)
 
-### Enterprise Java
-- Java, JDBC, Hibernate, JPA, Java EE, Spring
+- basic java
+- [databases](../dev/databases)
+- learn java and databases relationships
+    - JDBC, JPA, Hibernate, Java EE, Spring
+- how real enterprise apps actually looks like and work, google a lot
 
-## Second Specialisation
-- ML, Data Science
-- Scientific Python
+## 2nd specialisation: ML, Data Science
+`learning log` `projects`
+
+- ML math
+- models
+- scientific python
+- frameworks
+- common tasks
+
+---
+
+- [all dev notes](../dev)
+- [hiring tips](hiring.md)

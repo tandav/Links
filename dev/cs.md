@@ -35,6 +35,7 @@
 - [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/)
 - [A Gentle Introduction to Algorithm Complexity Analysis](http://discrete.gr/complexity/)
 - karatsuba multiplication
+- [Разработка высокоскоростного ведического умножителя с использованием техник ведической математики / Хабрахабр](https://habrahabr.ru/post/341286/)
 - [p vs np explained - Google Search](https://www.google.ru/search?q=p+vs+np+explained)
 - [The real 10 algorithms that dominate our world – Marcos Otero – Medium](https://medium.com/@_marcos_otero/the-real-10-algorithms-that-dominate-our-world-e95fa9f16c04)
 - [best algorithms - Google Search](https://www.google.ru/search?q=best+algorithms)
@@ -57,3 +58,4 @@
 
 ## Functional Programming
 - [«Паттерны» функционального программирования / Хабрахабр](https://habrahabr.ru/post/337880/)
+- [Functional Programming Jargon | Hacker News](https://news.ycombinator.com/item?id=15641701)

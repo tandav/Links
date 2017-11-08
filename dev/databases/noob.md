@@ -1,6 +1,6 @@
-# Database noob
+# Database noob `Bottom up approach`
 - inspired by [this](https://eli.thegreenplace.net/2008/10/14/database-n00b)
-- I'm student that trys to learn databases. This article is my big picture of DBs. Bottom up approach.
+- I'm student that trys to learn databases. This article is my big picture of DBs. 
 - article is constantly updating
 
 ## What are databases and why we need them
