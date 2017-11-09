@@ -15,7 +15,7 @@ my life is simple:
                                   │   ├── <a href="https://github.com/tandav/vsu-tasks">university</a> ──────────┤    │
                                   │   └── <a href="contract-job">contract-job</a> ────────┘    │
                                   │                                 │
-                                  ├── body-health ──────────────────┤                                           
+                                  ├── body-health ──────────────────┤
                                   ├── gtd ──────────────────────────┤
                                   ├── <a href="english">english</a> ──────────────────────┤
                                   └── emotional ballance ───────────┘
