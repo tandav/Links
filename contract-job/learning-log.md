@@ -3,3 +3,4 @@
 - learn passed by value or passed by reference in java
 - watch some videos about jdbc
 - learn advantages of JVM over natively compiled languages
+- learn why use domain in java packages

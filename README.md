@@ -1,5 +1,6 @@
 <div align="center">
 <h1>My Life</h1>
+
 my life is simple:
 
 </div>
@@ -11,8 +12,8 @@ my life is simple:
                               └── maintain myself ─────────────────────┘
                                   │                                 │
                                   ├── money, food, house, social ───┤
-                                  │   ├── university ──────────┤    │
-                                  │   └── <a href="contract-job">contract-job</a> ────────┤    │
+                                  │   ├── <a href="https://github.com/tandav/vsu-tasks">university</a> ──────────┤    │
+                                  │   └── <a href="contract-job">contract-job</a> ────────┘    │
                                   │                                 │
                                   ├── body-health ──────────────────┤                                           
                                   ├── gtd ──────────────────────────┤

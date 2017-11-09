@@ -77,6 +77,7 @@
 - [For software that is cross platform and accessible, forget about Qt | Hacker News](https://news.ycombinator.com/item?id=14946358)
 - [Ask HN: What non-work task have you automated? | Hacker News](https://news.ycombinator.com/item?id=15451442)
 - [DuckDuckGo vs Google | Hacker News](https://news.ycombinator.com/item?id=15291961)
+- [Junior Full-Stack Job Interview](https://gist.github.com/markomitranic/d9319af84d2c87b81df9)
 
 ---
 

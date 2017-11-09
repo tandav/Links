@@ -6,7 +6,7 @@
 ## Other
 - java logging
 - java unittesting
-- java multithreading (Google, HN, YT)
+- java multithreading (Google, HN, YT, thinking in java)
 
 
 ## JVM, bytecode
