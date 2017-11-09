@@ -20,3 +20,4 @@
 - [Get Fluent With 1 Trick - Become A Confident English Speaker With This Simple Practice Trick - YouTube](https://www.youtube.com/watch?v=l96V7dQtq9E)
 - english greetings
 - [Как делать меньше ошибок в английском. Поясняет носитель языка / Блог компании EnglishDom / Geektimes](https://geektimes.ru/company/englishdom/blog/294923/)
+- [Правила английского, которые нарушают ваши иностранные коллеги / Блог компании Онлайн школа EnglishDom / Хабрахабр](https://habrahabr.ru/company/englishdom/blog/341954/)

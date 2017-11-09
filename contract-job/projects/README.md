@@ -1,6 +1,6 @@
 # Projects to Learn *
 
-# EMPTY LIST BY NOW 🙁
+# NO PROJECTS BY NOW 🙁
 
 
 - [make an simple java + db app](java-db.md)

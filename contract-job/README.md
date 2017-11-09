@@ -4,11 +4,15 @@ i'm learning this things:
 ## 1st specialisation: enterprise apps
 [`learning log`](learning-log.md) [`projects`](projects)
 
-- basic java
+- [java](../dev/java)
 - [databases](../dev/databases)
-- learn java and databases relationships
+- java and databases relationships
     - JDBC, JPA, Hibernate, Java EE, Spring
 - how real enterprise apps actually looks like and work, google a lot
+    - application server (jboss vs tomcat)
+    - jsp, servlets??
+    - unit tests
+    - maven
 
 ## 2nd specialisation: ML, Data Science
 `learning log` `projects`

@@ -1,7 +1,22 @@
 # Java
+## Basics / Core
+- why use domain in java packages
+- passed by value or passed by reference in java
+
+## Other
 - java logging
 - java unittesting
 - java multithreading (Google, HN, YT)
+
+
+## JVM, bytecode
+- jvm vs compiled languages
+    - [java - What are the advantages of using Virtual Machine compilation (eg. JVM) over natively compiled languages? - Stack Overflow](https://stackoverflow.com/questions/3224288/what-are-the-advantages-of-using-virtual-machine-compilation-eg-jvm-over-nati)
+    - [Because Java is run in a virtual machine (JVM), does that give it any good advantages over languages not normally run in a VM? - Quora](https://www.quora.com/Because-Java-is-run-in-a-virtual-machine-JVM-does-that-give-it-any-good-advantages-over-languages-not-normally-run-in-a-VM)
+- [Learn about JVM internals - what does the JVM do? - YouTube](https://www.youtube.com/watch?v=UwB0OSmkOtQ)
+- [JVM ( java virtual machine) architecture - tutorial - YouTube](https://www.youtube.com/watch?v=ZBJ0u9MaKtM)
+- [jvm - HN Search powered by Algolia](https://hn.algolia.com/?query=jvm&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
+- [awesome-jvm: A curated list of awesome loosely performance related JVM stuff. Inspired by awesome-python.](https://github.com/deephacks/awesome-jvm)
 
 ---
 
@@ -16,13 +31,12 @@
 - [Oracle прекратила разработку Java EE? / Хабрахабр](https://habrahabr.ru/post/304812/)
 - heap java
 - java reflection
+- collections, generics
 - [java - When should I use "this" in a class? - Stack Overflow](https://stackoverflow.com/questions/2411270/when-should-i-use-this-in-a-class)
 
 ## Deep Java
-- [Learn about JVM internals - what does the JVM do? - YouTube](https://www.youtube.com/watch?v=UwB0OSmkOtQ)
 - fast java, java performance tips
 - [Alibaba-Java-Coding-Guidelines](https://alibaba.github.io/Alibaba-Java-Coding-Guidelines/)
-- [JVM ( java virtual machine) architecture - tutorial - YouTube](https://www.youtube.com/watch?v=ZBJ0u9MaKtM)
 - [Java and Performance: Biggest Mistakes - YouTube](https://www.youtube.com/watch?v=IBkxiWmjM-g)
 - [How to Write Memory-Efficient Java Code - YouTube](https://www.youtube.com/watch?v=f2aNWtt0QRo)
 - [Effective and Clean Java Code? Tips and Tricks from the Real World - YouTube](https://www.youtube.com/watch?v=uOrk8mZmjaM)
@@ -31,11 +45,10 @@
 - [From Java Code to Java Heap: Understanding the Memory Usage of Your Application - YouTube](https://www.youtube.com/watch?v=FLcXf9pO27w)
 - [Garbage collection in Java, with Animation and discussion of G1 GC - YouTube](https://www.youtube.com/watch?v=UnaNQgzw4zY)
 - [Understanding Java Garbage Collection and what you can do about it - YouTube](https://www.youtube.com/watch?v=we_enrM7TSY)
-- [jvm - HN Search powered by Algolia](https://hn.algolia.com/?query=jvm&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 - java memory
 - [Eclipse OpenJ9 – Open-source JVM | Hacker News](https://news.ycombinator.com/item?id=15265753)
 - [Oracle and the fall of Java EE | Hacker News](https://news.ycombinator.com/item?id=12054705)
 - [@Annotatiomania™](http://annotatiomania.com/)
 - [Андрей Паньгин — Мифы и факты о медленной Java - YouTube](https://www.youtube.com/watch?v=NMc8AnyhyS8)
 - [Understanding How Graal Works – A Java JIT Compiler Written in Java | Hacker News](https://news.ycombinator.com/item?id=15624388)
-- [deephacks/awesome-jvm: A curated list of awesome loosely performance related JVM stuff. Inspired by awesome-python.](https://github.com/deephacks/awesome-jvm)
+- Bruce Eckel - Thinking in Java
