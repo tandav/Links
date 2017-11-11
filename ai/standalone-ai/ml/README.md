@@ -79,6 +79,7 @@
 - [A beginner's guide to artificial intelligence, machine learning, and cognitive computing](https://www.ibm.com/developerworks/library/cc-beginner-guide-machine-learning-ai-cognitive/index.html)
 - [Machine Learning Algorithms: Which One to Choose for Your Problem](https://blog.statsbot.co/machine-learning-algorithms-183cc73197c)
 - [What Is a Neural Network? | Hacker News](https://news.ycombinator.com/item?id=15409898)
+- [Popular Machine Learning algorithms | Hacker News](https://news.ycombinator.com/item?id=15677095)
 
 ## Tensorflow
 - [TensorFlow Examples for Beginners with Latest APIs | Hacker News](https://news.ycombinator.com/item?id=15335107)
@@ -89,6 +90,7 @@
 - [tensorflow/tensorflow: Computation using data flow graphs for scalable machine learning](https://github.com/tensorflow/tensorflow)
 - [deepmind/sonnet: TensorFlow-based neural network library](https://github.com/deepmind/sonnet)
 - [vahidk/EffectiveTensorflow: TensorFlow tutorials and best practices.](https://github.com/vahidk/EffectiveTensorflow)
+- [Google Releases Colaboratory | Hacker News](https://news.ycombinator.com/item?id=15652549)
 
 ## CNN
 - [An Intuitive Explanation of Convolutional Neural Networks (2016) | Hacker News](https://news.ycombinator.com/item?id=15328516)

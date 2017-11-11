@@ -35,3 +35,4 @@
 - [Ask HN: Anyone here make a 'comeback' from rock bottom? What is your story? | Hacker News](https://news.ycombinator.com/item?id=15219311)
 - [The software engineering notebook | Hacker News](https://news.ycombinator.com/item?id=15473702)
 - [Why our outdated brains are making us unhappy | Hacker News](https://news.ycombinator.com/item?id=14989226)
+- [Как программисты-самоучки в реальности получают работу / Хабрахабр](https://habrahabr.ru/post/342156/)

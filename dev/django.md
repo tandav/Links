@@ -43,3 +43,4 @@ view function = a request handler (request > response)
 - [Creating websites using React and Django REST Framework](https://hackernoon.com/creating-websites-using-react-and-django-rest-framework-b14c066087c7)
 - django logging
 - [Django vs. Flask | Hacker News](https://news.ycombinator.com/item?id=14690638)
+- [python - Why django urls end with a slash? - Stack Overflow](https://stackoverflow.com/questions/42212122/why-django-urls-end-with-a-slash)

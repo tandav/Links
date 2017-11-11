@@ -22,7 +22,7 @@
 - [Eight Common Database Design Bad Practices | Toptal](https://www.toptal.com/database/database-design-bad-practices)
 - database constraints
 - phpMyAdmin + HN search
-- Khan Academy
+- [Intro to SQL | Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)
 - [Self Paced | Stanford Lagunita](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
     - DB1: Introduction `COMPLETE`
     - DB4: Relational Algebra `HALF-COMPLETE` find useless to learn nuances of RA syntax

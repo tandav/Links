@@ -63,3 +63,4 @@
 - [Пособие по webpack / Хабрахабр](https://habrahabr.ru/post/309306/)
 - [A Comprehensive Overview of WebPack](https://www.keycdn.com/blog/webpack/)
 - [Functional programming in JavaScript is an antipattern | Hacker News](https://news.ycombinator.com/item?id=14642395)
+- [Why WASM can't give native performance?? (games in a browser?). All demos I saw... | Hacker News](https://news.ycombinator.com/item?id=15676654)

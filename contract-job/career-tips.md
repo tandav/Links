@@ -1,4 +1,4 @@
-# Hiring
+# Career Tips
 - [Three Paths in the Tech Industry: Founder, Executive, or Employee | Hacker News](https://news.ycombinator.com/item?id=15357584)
 - [Три карьерных пути в IT: основатель, руководитель или наёмный работник / Хабрахабр](https://habrahabr.ru/post/339118/)
 - [7 выводов программиста самоучки за 1 год / Хабрахабр](https://habrahabr.ru/post/340044/)
@@ -24,3 +24,5 @@
 - [Нет, у меня нет сторонних проектов, чтобы вам показать / Хабрахабр](https://habrahabr.ru/post/341676/)
 - [I have no side code projects to show you | Hacker News](https://news.ycombinator.com/item?id=15553205)
 - [We only hire the best means we only hire the trendiest (2016) | Hacker News](https://news.ycombinator.com/item?id=15591441&utm_term=comment)
+- [Business questions engineers should ask when interviewing at ML/AI companies | Hacker News](https://news.ycombinator.com/item?id=15667286)
+- [Ask HN: Is my career doomed if I don’t become an AI/ML Developer? | Hacker News](https://news.ycombinator.com/item?id=15672474)

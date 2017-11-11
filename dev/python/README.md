@@ -34,6 +34,7 @@
 - [Write Cleaner Python: Use Exceptions](https://jeffknupp.com/blog/2013/02/06/write-cleaner-python-use-exceptions/)
 - [TEACHING](http://www.labri.fr/perso/nrougier/teaching/)
 - [Going beyond the idiomatic Python | Hacker News](https://news.ycombinator.com/item?id=15609686)
+- [repr - Difference between __str__ and __repr__ in Python - Stack Overflow](https://stackoverflow.com/questions/1436703/difference-between-str-and-repr-in-python#2626364)
 
 ## Package managers
 - virtualenv vs virtualenvwrapper. Короче, пока don't use wrapper. Use virtualenv only

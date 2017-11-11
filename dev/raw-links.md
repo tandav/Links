@@ -85,3 +85,8 @@
 - [Your users don’t need a password | Hacker News](https://news.ycombinator.com/item?id=15579669)
 
 ---
+
+- [RSS: there's nothing better | Hacker News](https://news.ycombinator.com/item?id=15675582)
+- [The Case for RSS | Hacker News](https://news.ycombinator.com/item?id=15673430)
+
+---

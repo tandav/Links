@@ -26,4 +26,4 @@ i'm learning this things:
 ---
 
 - [all dev notes](../dev)
-- [hiring tips](hiring.md)
+- [career tips](career-tips.md)

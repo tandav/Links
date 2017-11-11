@@ -6,3 +6,4 @@
 - ["Uncle" Bob Martin - "The Future of Programming" - YouTube](https://www.youtube.com/watch?v=ecIWPzGEbFc)
 - [Another thing I realized it's nonsense lately: object oriented programming. It'... | Hacker News](https://news.ycombinator.com/item?id=15644589)
 - [getters setters - HN Search powered by Algolia](https://hn.algolia.com/?query=&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
+- always (for all classes you write) override `toString` / `__repr__` / `__str__` method 

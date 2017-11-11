@@ -16,6 +16,7 @@
 - [Bash CheatSheet for UNIX Systems](https://gist.github.com/LeCoupa/122b12050f5fb267e75f)
 - [Unix tricks](https://gist.github.com/stoutbeard/c27f4c3a0f4452037b8a)
 - [tmux shortcuts & cheatsheet](https://gist.github.com/MohamedAlaa/2961058)
+- tmux save session
 - [Automation For The People](https://gist.github.com/classam/9e07a36aa63624ca2dda75a1367a53c6)
 - unix environment variables tutorial
 - google: `bin sbin /usr/bin /usr/sbin`
@@ -35,6 +36,7 @@
 - [Simple note taking from the command line | Hacker News](https://news.ycombinator.com/item?id=15377015)
 - [tutoriaLinux - YouTube](https://www.youtube.com/channel/UCvA_wgsX6eFAOXI8Rbg_WiQ/videos?disable_polymer=1)
 - [Afraid of Makefiles? Don't be | Hacker News](https://news.ycombinator.com/item?id=15041986)
+- [GNU Readline for Better Productivity on the Command Line | Hacker News](https://news.ycombinator.com/item?id=15670165)
 
 ## Zsh / Bash
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) | [docs](https://github.com/robbyrussell/oh-my-zsh/wiki)

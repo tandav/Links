@@ -5,3 +5,4 @@
 - [Hash Tables - YouTube](https://www.youtube.com/watch?v=h2d9b_nEzoA)
 - [Data Structures for Coding Interviews | Hacker News](https://news.ycombinator.com/item?id=14897209)
 - [The Intuitive Guide to Data Structures and Algorithms | Hacker News](https://news.ycombinator.com/item?id=15469660)
+- [Everything you need to know about tree data structures](https://medium.freecodecamp.org/all-you-need-to-know-about-tree-data-structures-bceacb85490c)
