@@ -1,5 +1,6 @@
 # Computer Science
 ## Raw
+- [Marshalling (computer science) - Wikipedia](https://en.m.wikipedia.org/wiki/Marshalling_(computer_science))
 - [List of unsolved problems in computer science - Wikipedia](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_computer_science)
 - [Ask HN: What is your favorite CS paper? | Hacker News](https://news.ycombinator.com/item?id=15089476)
 - [How to read and understand a scientific paper: a guide for non-scientists | Hacker News](https://news.ycombinator.com/item?id=14644472)
@@ -30,6 +31,7 @@
 - [The Future of Programming (2013) | Hacker News](https://news.ycombinator.com/item?id=15539766)
 - [Monoids: what they are, why they are useful, and what they teach us about software – Deque](https://deque.blog/2017/09/13/monoids-what-they-are-why-they-are-useful-and-what-they-teach-us-about-software/)
 - abstract - HN Search
+- [Ask HN: What are some interesting papers in CS for a beginner? | Hacker News](https://news.ycombinator.com/item?id=15695326)
 
 ## Algorithms
 - [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/)

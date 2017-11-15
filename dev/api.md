@@ -9,6 +9,7 @@
 - [REST-Ful API Design - YouTube](https://www.youtube.com/watch?v=oG2rotiGr90)
 - [How I Explained REST to My Wife | Looah](http://www.looah.com/source/view/2284)
 - [Правила хорошего тона для API / Блог компании ZeroTech / Хабрахабр](https://habrahabr.ru/company/zerotech/blog/333884/)
+- [rest - Why don't browsers support PUT and DELETE requests and when will they? - Stack Overflow](https://stackoverflow.com/questions/16805956/why-dont-browsers-support-put-and-delete-requests-and-when-will-they)
 
 ## GraphQL
 - [Zero To GraphQL In 30 Minutes - YouTube](https://www.youtube.com/watch?v=H8YnVk2vhzg)

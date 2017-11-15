@@ -6,3 +6,5 @@
 - [iluwatar/java-design-patterns: Design patterns implemented in Java](https://github.com/iluwatar/java-design-patterns)
 - [Вебинар: Что такое паттерны - YouTube](https://www.youtube.com/watch?v=wX6BBaQZpzE)
 - [10 Basic Programming Principles Every Programmer Must Follow](http://www.makeuseof.com/tag/basic-programming-principles/)
+- [Your Code Can Smell! How to Fix It](http://www.makeuseof.com/tag/code-smells-fix/)
+- [Ask HN: Best tech for a web site 2018? (PHP, Rails, Django, Node, Go, etc.)? | Hacker News](https://news.ycombinator.com/item?id=15685905)

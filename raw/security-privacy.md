@@ -8,3 +8,4 @@
 - [Obscurity Is a Valid Security Layer | Hacker News](https://news.ycombinator.com/item?id=15541792)
 - [Ask HN: What is your password management solution? | Hacker News](https://news.ycombinator.com/item?id=14776620)
 - [Introducing the Keybase filesystem | Hacker News](https://news.ycombinator.com/item?id=11037257)
+- [My Top 6 Common Weaknesses Every Programmer Should Know By Heart](https://www.ynonperek.com/2017/11/09/5-common-weaknesses-every-programmer-should-know/amp/)

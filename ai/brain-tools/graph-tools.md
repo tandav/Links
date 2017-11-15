@@ -61,6 +61,7 @@ Tools to control highly structured data. Just raw links for now.
 - [Там советы в комментах. Org-mode reference card [pdf] | Hacker News](https://news.ycombinator.com/item?id=14571453)
 - [Org-Mode Is One of the Most Reasonable Markup Languages to Use for Text | Hacker News](https://news.ycombinator.com/item?id=15321850)
 - [Show HN: Nulis – Open Source Tree Editor for Writers | Hacker News](https://news.ycombinator.com/item?id=15256215)
+- [alexanderepstein/Bash-Snippets: A collection of small bash scripts for heavy terminal users](https://github.com/alexanderepstein/Bash-Snippets)
 
 ## D3.js trees
 - [D3 Source Treemap - bl.ocks.org](https://bl.ocks.org/mbostock/8fe6fa6ed1fa976e5dd76cfa4d816fec)

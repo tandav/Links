@@ -5,3 +5,4 @@
 - [dotfiles/.macos at master · mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles/blob/master/.macos)
 - [HomeBrew Analytics – top 1000 packages installed over last year | Hacker News](https://news.ycombinator.com/item?id=15164439)
 - how to completly disable animations macos
+- [Turn off Animations & Eye Candy Special Effects in Mac OS X Lion - ChrisWrites.com](http://www.chriswrites.com/turn-off-animations-eye-candy-effects-in-mac-os-x-lion/)

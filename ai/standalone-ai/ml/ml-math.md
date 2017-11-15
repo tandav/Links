@@ -5,6 +5,7 @@
 - [The real prerequisite for machine learning isn’t math, it’s data analysis (2016) | Hacker News](https://news.ycombinator.com/item?id=15155534)
 - [Mathematics of Machine Learning (2016) | Hacker News](https://news.ycombinator.com/item?id=15146746)
 - [Ask HN: What maths are critical to pursuing ML/AI? | Hacker News](https://news.ycombinator.com/item?id=15116379)
+- [A.I. grad student confession: I can't grok the math | Hacker News](https://news.ycombinator.com/item?id=15680623)
 
 ## Linear Algebra
 - [Computational Linear Algebra | Hacker News](https://news.ycombinator.com/item?id=14830671)
