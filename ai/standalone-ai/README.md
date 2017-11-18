@@ -57,3 +57,7 @@
 - [Искусственный интеллект и призрак в машине / Geektimes](https://geektimes.ru/post/286554/)
 - [A Theory of Sequence Memory in Neocortex | Hacker News](https://news.ycombinator.com/item?id=15533024)
 - [The quest to evolve neural networks through evolutionary algorithms | Hacker News](https://news.ycombinator.com/item?id=15582297)
+- [У вас нет свободной воли - VICE](https://www.vice.com/ru/article/mbqwjx/you-have-no-free-will)
+- [Processing Emotions - Will Meek PhD](http://www.willmeekphd.com/processing-emotions/)
+- [Cormac McCarthy on the Origin of Language](http://nautil.us/issue/47/consciousness/the-kekul-problem)
+- [Five decades of majestic failure to explain consciousness | Hacker News](https://news.ycombinator.com/item?id=15723969)

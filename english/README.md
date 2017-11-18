@@ -21,3 +21,4 @@
 - english greetings
 - [Как делать меньше ошибок в английском. Поясняет носитель языка / Блог компании EnglishDom / Geektimes](https://geektimes.ru/company/englishdom/blog/294923/)
 - [Правила английского, которые нарушают ваши иностранные коллеги / Блог компании Онлайн школа EnglishDom / Хабрахабр](https://habrahabr.ru/company/englishdom/blog/341954/)
+- [Ошибки в разговорном английском, которые можно (и нужно) допускать / Блог компании Puzzle English / Geektimes](https://geektimes.ru/company/puzzleenglish/blog/295499/)

@@ -63,3 +63,4 @@
 ## Functional Programming
 - [«Паттерны» функционального программирования / Хабрахабр](https://habrahabr.ru/post/337880/)
 - [Functional Programming Jargon | Hacker News](https://news.ycombinator.com/item?id=15641701)
+- [Beating the Averages](http://paulgraham.com/avg.html)

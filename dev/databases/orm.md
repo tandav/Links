@@ -6,6 +6,7 @@
 - [Object-relational impedance mismatch - Wikipedia](https://en.wikipedia.org/wiki/Object-relational_impedance_mismatch)
 - [Taking a step back from ORMs | Experimental Thoughts](http://thoughts.davisjeff.com/2012/02/26/taking-a-step-back-from-orms/)
 - [OrmHate](https://martinfowler.com/bliki/OrmHate.html)
+- [Why I hate Hibernate (and ORMs in general) (2015) | Hacker News](https://news.ycombinator.com/item?id=15716860)
 
 ---
 

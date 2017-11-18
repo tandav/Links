@@ -2,3 +2,8 @@
 - [Why Docker makes sense for startups – freeCodeCamp](https://medium.freecodecamp.org/why-docker-makes-sense-for-startups-e9be14a1f662)
 - Learn Docker
 - [My VM is lighter and safer than your container | Hacker News](https://news.ycombinator.com/item?id=15610155)
+- [Stop / remove all Docker containers (Example)](https://coderwall.com/p/ewk0mq/stop-remove-all-docker-containers)
+- https://forums.docker.com/t/where-does-docker-keep-images-containers-so-i-can-better-track-my-disk-usage/8370/11
+- [How To Install and Use Docker on Ubuntu 16.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04)
+- [The Docker Ecosystem: An Overview of Containerization | DigitalOcean](https://www.digitalocean.com/community/tutorials/the-docker-ecosystem-an-overview-of-containerization)
+- [Docker Explained: Using Dockerfiles to Automate Building of Images | DigitalOcean](https://www.digitalocean.com/community/tutorials/docker-explained-using-dockerfiles-to-automate-building-of-images)

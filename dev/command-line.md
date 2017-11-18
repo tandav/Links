@@ -62,3 +62,4 @@
 - [learnbyexample/Command-line-text-processing: From finding text to search and replace, from sorting to beautifying text and more](https://github.com/learnbyexample/Command-line-text-processing)
 - [Awk driven IoT | Hacker News](https://news.ycombinator.com/item?id=14735752)
 - [Skip grep, use awk | Hacker News](https://news.ycombinator.com/item?id=14692233)
+- [Learn just enough Linux to get things done | Hacker News](https://news.ycombinator.com/item?id=15712701)

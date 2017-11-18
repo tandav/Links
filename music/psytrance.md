@@ -27,3 +27,5 @@
 - [Artifact303 - Back To Space (Full Album)](https://www.youtube.com/watch?v=FfbCkrEet6I)
 - [Psytrance Guide](http://psytranceguide.com/)
 - [Filteria - Lost In The Wild (Full Album)](https://www.youtube.com/watch?v=2dCoCxPYrr4)
+- [Psychedelic Experience - YouTube](https://www.youtube.com/user/psySWATunit/videos?disable_polymer=1)
+- [MrLemilica2 - YouTube](https://www.youtube.com/channel/UC_S803Fwu2NlUiNFkPu_wLQ)

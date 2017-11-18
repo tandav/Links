@@ -9,6 +9,7 @@
 - andrej karpathy cs231n | [CS231n Winter 2016 - YouTube](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) | [Reddit/cs231n](https://www.reddit.com/r/cs231n/) | [CS231n, Spring 2017](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 
 ## Raw
+- [Understanding LSTM and its diagrams – ML Review – Medium](https://medium.com/mlreview/understanding-lstm-and-its-diagrams-37e2f46f1714)
 - [Software 2.0 – Andrej Karpathy – Medium](https://medium.com/@karpathy/software-2-0-a64152b37c35)
 - [Ask HN: Best way to get started with AI? | Hacker News](https://news.ycombinator.com/item?id=15689399)
 - [MIT 6.034 Artificial Intelligence, Fall 2010 - YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)

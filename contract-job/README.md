@@ -10,9 +10,10 @@ i'm learning this things:
     - JDBC, JPA, Hibernate, Java EE, Spring
 - how real enterprise apps actually looks like and work, google a lot
     - application server (jboss vs tomcat)
-    - jsp, servlets??
+    - jsp??, servlets??
     - unit tests
     - maven
+- Django ??
 
 ## 2nd specialisation: ML, Data Science
 `learning log` `projects`

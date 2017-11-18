@@ -26,3 +26,5 @@
 - [We only hire the best means we only hire the trendiest (2016) | Hacker News](https://news.ycombinator.com/item?id=15591441&utm_term=comment)
 - [Business questions engineers should ask when interviewing at ML/AI companies | Hacker News](https://news.ycombinator.com/item?id=15667286)
 - [Ask HN: Is my career doomed if I don’t become an AI/ML Developer? | Hacker News](https://news.ycombinator.com/item?id=15672474)
+- [Почему программисты не получают работу: четыре страшилки / Хабрахабр](https://habrahabr.ru/post/342518/)
+- [Is software development really a dead-end job after age 35-40? | Hacker News](https://news.ycombinator.com/item?id=15723772)

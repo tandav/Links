@@ -107,3 +107,7 @@
 - [Alexander Rodionov / doll-vanilla-react · GitLab](https://gitlab.com/tandav/doll-vanilla-react)
 - [Things to learn in React before using Redux | Hacker News](https://news.ycombinator.com/item?id=14811577)
 - [Learn React with Copywork | Hacker News](https://news.ycombinator.com/item?id=14643442)
+
+---
+
+- [Everything You Should Know About React: The Basics You Need to Start Building](https://medium.freecodecamp.org/everything-you-need-to-know-about-react-eaedf53238c4)

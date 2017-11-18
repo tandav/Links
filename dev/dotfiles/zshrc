@@ -131,7 +131,14 @@ alias termdown="termdown -b"
 alias weather="finger voronezh@graph.no"
 alias wttr="curl wttr.in/voronezh"
 alias speedtest="curl -s  https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py | python"
-alias mtop="o /Applications/Utilities/Activity\ Monitor.app"
+alias mtop="open /Applications/Utilities/Activity\ Monitor.app"
+alias docker_size="du -h /Users/tandav/Library/Containers/com.docker.docker/Data/com.docker.driver.amd64-linux/Docker.qcow2"
+
+# netcracker/oracle
+alias sqlcl="/Applications/SQLDeveloper.app/Contents/Resources/sqldeveloper/sqldeveloper/bin/sql"
+alias nk_cli="sqlcl system/oracle@localhost:1521:xe"
+alias nk="open -a DataGrip & docker start -a netcracker_db"
+alias nks="docker stop netcracker_db"
 
 # shortcuts
 alias n="subl ~/Documents/Notes"
@@ -141,6 +148,7 @@ alias o="open"
 alias python="python3.6"
 alias p3="python3.6"
 alias p3a="/anaconda3/bin/python3"
+alias p3_old="/usr/local/Cellar/python3/3.6.3/bin/python3"
 alias s="subl"
 alias rc="subl ~/.zshrc"
 # activate env/ virtualenv
