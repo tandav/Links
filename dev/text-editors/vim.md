@@ -23,6 +23,7 @@
 - [Vim isn’t that scary. Here are 5 free resources you can use to learn it.](https://medium.freecodecamp.org/vim-isnt-that-scary-here-are-5-free-resources-you-can-use-to-learn-it-ab78f5726f8d)
 - [Interactive Vim tutorial | Hacker News](https://news.ycombinator.com/item?id=15400037)
 - [Vim Cheat Sheet (2015) | Hacker News](https://news.ycombinator.com/item?id=15693906)
+- [Vim Essentials – A Guide to Transitioning from GUI Editors to Vim](https://spin.atomicobject.com/2017/09/18/vim-essentials/?utm_source=dlvr.it&utm_medium=twitter)
 
 ## Videos
 - [How to Do 90% of What Plugins Do (With Just Vim) - YouTube](https://www.youtube.com/watch?v=XA2WjJbmmoM)

@@ -4,6 +4,7 @@
 - [Why do companies choose Oracle nowadays? I mean valid technical reasons, not bei... | Hacker News](https://news.ycombinator.com/item?id=11318532)
 - [SQL Complex Queries](http://www.bullraider.com/database/sql-tutorial/7-complex-queries-in-sql)
 - [Jeff Smith - YouTube](https://www.youtube.com/user/ThatJeffSmith/videos?disable_polymer=1)
+- [sql - CASE vs. DECODE - Stack Overflow](https://stackoverflow.com/questions/3193692/case-vs-decode)
 
 ## Oracle + MacOS
 - oracle macos

@@ -110,3 +110,45 @@ add this url to your browser bookmarks. Then click on it anytime you wand to get
 <pre>
   <a href="http://htmlreference.io">HTML Reference</a>
 </pre>
+
+---
+
+# Browser tabs to markdown lists
+## Bookmarklet
+save current tab title and url to markdown link: `- [title](url)`
+
+create a new bookmark in your browser and paste as a link the follofing:
+```js
+javascript:var%20text='-%20%5B'+document.title+'%5D('+location.href+')';window.prompt(%22Copy%20to%20clipboard:%20Ctrl+C,%20Enter%22,text);void(0);
+```
+
+or without hyphen: (just `[title](url)`)
+```js
+javascript:var text='['+document.title+']('+location.href+')';window.prompt("Copy to clipboard: Ctrl+C, Enter",text);void(0);
+```
+
+## All safari tabs to markdown list
+Simple script for macOS Script Editor that converts all Safari tabs to markdown links (copies to clipboard)
+
+Paste following in macOS Script Editor, set javascript language, and run:
+```js
+var Safari = Application('Safari');
+var tabs = Safari.windows[0].tabs;
+
+var app = Application.currentApplication();
+app.includeStandardAdditions = true;
+
+var text = '';
+
+for (var i = 0; i < tabs.length; i++) {
+    text += '- [' + tabs[i].name() + '](' + tabs[i].url() + ')\n';
+}
+
+
+app.setTheClipboardTo(text);
+app.displayNotification('Tabs converted to markdown list and copied to clipboard');
+```
+## Chrome tabs
+there are nice extensions: 
+- [Copy as Markdown - Chrome Web Store](https://chrome.google.com/webstore/detail/copy-as-markdown/fkeaekngjflipcockcnpobkpbbfbhmdn)
+- [TabAttack - Chrome Web Store](https://chrome.google.com/webstore/detail/tabattack/ginflokhdahakklidfjlogllkkhokidj)

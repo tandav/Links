@@ -12,3 +12,4 @@
 - [An OSI model for the 21st century | Hacker News](https://news.ycombinator.com/item?id=15058090)
 - [Networks - YouTube](https://www.youtube.com/playlist?list=PL4qBE1-4ZNC0vRWI_05a3YePdF1WHberD)
 - [A penetration tester’s guide to sub-domain enumeration | Hacker News](https://news.ycombinator.com/item?id=15676951)
+- [httpbin(1): HTTP Client Testing Service](http://httpbin.org/)

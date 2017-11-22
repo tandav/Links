@@ -22,6 +22,7 @@
 - [The Verge on Twitter: "Should you put tape over your webcam? https://t.co/JA5wYaZ4yw"](https://twitter.com/verge/status/924124572047228929)
 
 ## hacker tools
+- [wtsxDev/reverse-engineering: List of awesome reverse engineering resources](https://github.com/wtsxDev/reverse-engineering)
 - [raboof/nethogs: Linux 'net top' tool](https://github.com/raboof/nethogs#readme)
 - [donnemartin/haxor-news: Browse Hacker News like a haxor: A Hacker News command line interface (CLI).](https://github.com/donnemartin/haxor-news#installation)
 - [toxinu/pyhn: Hacker news command line client](https://github.com/toxinu/pyhn)

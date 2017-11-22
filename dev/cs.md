@@ -6,6 +6,7 @@
 - [How to read and understand a scientific paper: a guide for non-scientists | Hacker News](https://news.ycombinator.com/item?id=14644472)
 - [Systems Past: the only 8 software innovations we actually use - Technical Journal](http://davidad.github.io/blog/2014/03/12/the-operating-system-is-out-of-date/)
 - [keon/awesome-bits: A curated list of awesome bitwise operations and tricks](https://github.com/keon/awesome-bits)
+- [Bit Twiddling Hacks | Hacker News](https://news.ycombinator.com/item?id=15734119)
 - [kilimchoi/engineering-blogs: A curated list of engineering blogs](https://github.com/kilimchoi/engineering-blogs)
 - [oxford-cs-deepnlp-2017/lectures: Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
 - [prakhar1989/awesome-courses: List of awesome university courses for learning Computer Science!](https://github.com/prakhar1989/awesome-courses)

@@ -35,6 +35,8 @@
 - [TEACHING](http://www.labri.fr/perso/nrougier/teaching/)
 - [Going beyond the idiomatic Python | Hacker News](https://news.ycombinator.com/item?id=15609686)
 - [repr - Difference between __str__ and __repr__ in Python - Stack Overflow](https://stackoverflow.com/questions/1436703/difference-between-str-and-repr-in-python#2626364)
+- [python exceptions - HN Search powered by Algolia](https://hn.algolia.com/?query=python%20exceptions&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
+- [Understanding Python super() with __init__() methods - Stack Overflow](https://stackoverflow.com/questions/576169/understanding-python-super-with-init-methods)
 
 ## Package managers
 - virtualenv vs virtualenvwrapper. Короче, пока don't use wrapper. Use virtualenv only

@@ -39,7 +39,7 @@ run shell scripts from string: `sudo sh -c “softwareupdate -ia && reboot”`
 ---
 
 `touch test_{1..13}.txt`
-
+`rm *.png *.txt`
 ---
 
 - [Syntax highlighting in nano on Mac OS X](https://gist.github.com/BlakeGardner/5587269)
@@ -56,5 +56,10 @@ Dencrypt:
 `openssl enc -aes-256-cbc -d -in {file-in} -out {file-out}`
 
 You can drag and drop files to terminal for speed.
+
+---
+
+#### Get some information about host
+curl $(host github.com | head -1 | grep -Eo '[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}' |  awk '{print "ipinfo.io/" $1}')
 
 ---

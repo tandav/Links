@@ -50,6 +50,7 @@
 - [bash - What are the special dollar sign shell variables? - Stack Overflow](https://stackoverflow.com/questions/5163144/what-are-the-special-dollar-sign-shell-variables)
 - [zsh vs fish](https://habrahabr.ru/post/267797/#comment_8592673)
 - [unixorn/awesome-zsh-plugins: A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.](https://github.com/unixorn/awesome-zsh-plugins)
+- `rm *.png *.wav`
 
 ## grep awk sed
 - [grep cheat sheet](https://gist.github.com/superDross/7b32fbb6b1cb6dffd703f6b9823b721a)

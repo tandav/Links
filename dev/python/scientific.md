@@ -41,3 +41,4 @@
 - [Why Python Is Slow: Looking Under the Hood | Hacker News](https://news.ycombinator.com/item?id=15548904)
 - [Log-likelihood benchmark](https://arogozhnikov.github.io/2015/09/08/SpeedBenchmarks.html)
 - why python multiplication is so fast
+- [JIT compiling a subset of Python to x86-64 | Hacker News](https://news.ycombinator.com/item?id=15750700)

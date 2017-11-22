@@ -6,6 +6,7 @@
 - [Nano: И всё-таки его придётся выучить [1] / Хабрахабр](https://habrahabr.ru/post/106471/)
 - [Два в одном: как пользоваться Vim и Nano? / Хабрахабр](https://habrahabr.ru/post/331600/)
 - [Syntax highlighting in nano on Mac OS X](https://gist.github.com/BlakeGardner/5587269)
+- [GNU nano 2.9.0 | Hacker News](https://news.ycombinator.com/item?id=15731079)
 
 ## VS Code
 - [Microsoft/vscode-tips-and-tricks: Collection of helpful tips and tricks for VS Code.](https://github.com/Microsoft/vscode-tips-and-tricks)

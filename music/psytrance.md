@@ -1,4 +1,5 @@
 # Psytrance
+- [Psy - playlist](https://www.youtube.com/playlist?list=PL4qBE1-4ZNC2nC5Tefw7Z_sY4MMMG4Cmj)
 
 ## E-Mantra
 - [E-Mantra - 10 years of Goa Trance (Part 1)/ Psytrance/ Trance](https://www.youtube.com/watch?v=JM5RiVBsbU0&index=24&t=1166s&list=PL4qBE1-4ZNC2nC5Tefw7Z_sY4MMMG4Cmj)
