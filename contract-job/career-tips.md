@@ -28,3 +28,4 @@
 - [Ask HN: Is my career doomed if I don’t become an AI/ML Developer? | Hacker News](https://news.ycombinator.com/item?id=15672474)
 - [Почему программисты не получают работу: четыре страшилки / Хабрахабр](https://habrahabr.ru/post/342518/)
 - [Is software development really a dead-end job after age 35-40? | Hacker News](https://news.ycombinator.com/item?id=15723772)
+- [odeskconf/guide: Гайд сообщества OdeskConf о тонкостях работы на Upwork](https://github.com/odeskconf/guide)

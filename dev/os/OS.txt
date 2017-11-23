@@ -1,0 +1,325 @@
+﻿OS ✅
+
+- Processes  ✅
+  - Process Table ✅
+    "Для реализации модели процесса операционная система содержит таблицу (массив структур), называемую таблицей процессов, с одним элементом для каждого процесса. (Эти элементы иногда называют блоками управления процессом.)"
+    - id
+    - owner
+    - priority
+    - parent process
+    - pointers to the executable machine code of a process
+    - state (READY, RUNNING, BLOCKED etc)
+    - when was the process RUNNING the last time (for scheduler)
+    - ioppps+t (last time) (йопс!) - для запоминания
+  - Threads ✅
+    - Threads are like subprocesses. Threads (of the same process) run in a shared memory space, while processes run in separate memory spaces.
+    - но у каждого потока есть свой стек для процедур и счётчик команд.
+    - тут целая глава в Таненбауме, можно потом дополнить MB-TODO
+  - Process States and Lifecycle ✅
+    - Four events that Create processes: 
+      - System initialization
+      - existing running process -> process-creation system call
+      - A user request to create a new process
+      - Initiation of a batch job (Инициация пакетного задания)
+    - Process States
+      - https://cloud.githubusercontent.com/assets/5549677/25242018/cbe165c4-2600-11e7-852c-7a4d6289e4d5.png
+      - https://cloud.githubusercontent.com/assets/5549677/24600569/f106e0a0-185d-11e7-9883-040868dc5000.png
+    - Process Termination
+      - Normal exit (voluntary) // добровольный
+      - Error exit (voluntary)
+      - Fatal error (involuntary)
+      - Killed by another process (involuntary)
+  - Interprocess Communication
+    - Lock, Mutex, Semaphore ✅
+      - Lock allows only one thread to enter the part that's locked and the lock is not shared with any other processes
+      - Mutex is the same as a lock but it can be system wide (shared by multiple processes)
+      - Semaphore does the same as a mutex but allows x number of threads to enter
+    - тут целая глава в Таненбауме, можно потом дополнить MB-TODO
+  - Scheduling Algorithms ✅
+    - Задачи алгоритмов планирования [не очень важно]
+      - Все системы
+        - равнодоступность — предоставление каждому процессу справедливой доли времени центрального процессора
+        - принуждение к определенной политике — наблюдение за выполнением уста- новленной политики
+        - Balance - keeping all parts of the system busy 
+      - Batch
+        "About: Просто типа идут пакеты 1за другим. нет нужды в быстром отклике, приемлемы неприоритетные алгоритмы или приоритетные алгоритмы с длительными периодами для каждого процесса"
+        - производительность - maximize jobs per hour
+        - оборотное время — минимизация времени между представлением задачи и ее завершением
+        - CPU utilization - keep the CPU busy all the time 
+      - Interactive
+        "About: важна приоритетность,(не дать одному процессу захватить весь CPU)"
+        - Response time - respond to requests quickly 
+        - Proportionality - meet users’ expectations // meet - соблюение
+      - Real-Time
+        "запускаются лишь те программы, которые предназначены для содействия определенной прикладной задаче. процессы запускаются только на непродолжительные периоды времени, do their work quickly and block "
+        - Meeting deadlines - avoid losing data
+        - Predictability - avoid quality degradation in multimedia systems 
+    - Batch systems
+      - First Come First Serve (FCFS) (Dead Simple)
+      - Shortest Job Next (SJN) (Literally)
+      - Shortest Remaining Time Next (Literally)
+    - Interactive systems 
+      - Round-Robin (Циклическое) 
+        - каждому процессу выделяется интервал времени (квант). Оптимальное значение 20-50 мс. 
+          - переключение процесса, или переключение контекста требует время и тут типа нужно подобрать оптимальное дерьмо
+        - Если к концу кванта времени процесс все еще работает, он прерывается, а управ­ление передается другому процессу. 
+        - Когда процесс исчерпал свой лимит времени, он отправляется в конец списка .
+      - Priority Scheduling  
+        - каждому процессу присваивается приоритет и запускается тот процесс, который находится в состоянии готовности и имеет наивысший приоритет. 
+        - Чтобы избежать постоянного выполнения только приоритетных процессов, с каждым сигналом таймера (то есть с каждым прерыванием процесса). его приоритет снижается, и на первый план выходят процессы ниже приоритетами. 
+        - Можно выбрать и другую альтернативу: каждому процессу может быть выделен максимальный квант допустимого времени выполнения. Когда квант времени будет исчерпан, шанс запуска будет предоставлен другому процессу, имеющему наивысший приоритет.
+        - бывает удобно группировать процессы по классам приоритетности и использовать приоритетное планирование применительно к этим классам, а внутри каждого класса использовать циклическое планирование. 
+        - Приоритеты могут присваивает ся статически и динамически. [Not very important]https://cloud.githubusercontent.com/assets/5549677/25243126/a1fa1cfc-2604-11e7-89f1-64dd49b1b119.png
+      - Multiple Queues 
+        - используется описанная выше группировка процессов по классам приоритетов
+        - классы приоритетов. Процессы, относящиеся к наивысшему классу, запускались на 1 квант времени, процессы следующего по нисходящей класса — на 2 кванта времени, процессы следующего класса — на 4 кванта времени и т. д. Как только процесс использовал все выделенные ему кванты времени, его класс понижался. 
+        - сокращается число обмен данными с диском
+        - пример [UNIMPORTANT]
+          - В качестве примера рассмотрим процесс, который нужен для вычислений продол- жительностью в 100 квантов времени. Сначала ему будет выделен 1 квант времени, после чего он будет выгружен на диск. В следующий раз ему перед выгрузкой на диск будут выделены 2 кванта времени. При последующих запусках он будет получать 4, 8, 16, 32 и 64 кванта времени, хотя из финальных 64 квантов он для завершения своей работы использует лишь 37. Вместо 100 обменов данными с диском, которые потребовались бы при использовании циклического алгоритма, потребуется только 7 (включая начальную загрузку). Более того, по мере погружения процесса в очередь приоритетов он будет запускаться все реже и реже, сберегая время центрального процессора для коротких интерактивных процессов. 
+      - Shortest Process Next 
+        - estimates based on past behavior (past executions time)
+        - and run the process with the shortest estimated running time 
+      - Guaranteed Scheduling 
+        - let there are n processes
+        - каждому гарантируется 1/n процессорного времени 
+        - выбираются те процессы, у которых самое низкое соотношение использованного времени к тому на которое ему дали право
+      - Lottery Scheduling 
+        - Проводятся розыгрыши процессорного времени. Например 50 раз в секунду разыгрываются 20 мс процессорного времени.
+        - Все процессы равны, но некоторые равнее. Более важным процессам, чтобы повысить их шансы на выигрыш, могут выдаваться дополнительные билеты.
+      - Fair-Share Scheduling 
+        - уделяется внимание тому что каждый пользователь ОС, вне зависимости от того сколько он создал процессов получит 1/n процессорного времени
+        - Т. е. предотвращается ситуация, когда один user понасоздавал дохуя процессов и занял все процессорное время, потому что у других users по мелочи процессов.
+    - Real-Time systems 
+      - Статические алгоритмы планирования 
+        - принятие решений по планированию еще до запуска системы 
+        - работает только при условии предварительного обладания достоверной информацией о выполняемой работе и о крайних сроках, которые нужно соблюсти 
+      - Динамические алгоритмы планирования
+        - принятие решенией in real-time, после того как начнется выполнение программы. 
+- Memory     ✅
+  - Intro ✅
+    - memory hierarchy - RAM + HDD
+      - small-and-fast + big-and-slow
+    - memory manager / dispatcher - The part of the OS that manages the memory hierarchy 
+      - Its job is to efficiently manage memory: keep track of which parts of memory are in use, allocate memory to processes when they need it, and deallocate it when they are done. 
+  - No Abstraction Memory ✅
+    - Предоставление процессам полного доступа к памяти (напрямую по физическим адресам). Процессы могут запускаться только по одному. Более точно - в оперативной памяти может находиться только один процесс, остальные ждут на HDD. 
+  - Address Spaces ✅
+    - An address space is the set of addresses that a process can use to address memory. 
+    - Each process has its own address space, independent of those belonging to other processes (except in some special cases where processes want to share their address spaces).
+    - ~base and limit registers 
+      - весьма примитивная версия динамического перераспределения памяти. Адресное пространство каждого процесса просто проецируется на различные части физической памяти.Оснащение каждого CPU двумя специальными аппаратными регистрами, которые обычно называются базовым и ограничительным регистрами. 
+      - При использовании этих регистров программы загружаются в последовательно расположенные свободные области памяти без модификации адресов в процессе загрузки (см. рис. 3.2, в). При запуске процесса в базовый регистр загружается физический адрес, с которого начинается размещение программы в памяти, а в ограничительный регистр загружается длина программы.
+  - Managing Free Memory ✅
+    - Динамическое распределение памяти - когда она выделяется по мере необходимости
+    - 2 common ways OS do it:
+    - Bitmaps
+      - memory is divided into allocation blocks. Each block corresponding to 0 (block is free) or 1(block is occupied)
+        - ![FULL DESCR. and SCHEME](https://cloud.githubusercontent.com/assets/5549677/25071287/b20e37a0-22bb-11e7-84f3-cd6be92b6b7e.png)
+    - Linked Lists
+      - A linked list of allocated and free memory segments, where a segment either contains a process (P) or is an empty hole (H) between two processes 
+      - Each entry in the list specifies a hole (H) or process (P), the address at which it starts, the length, and a pointer to the next item. 
+      - SCHEME https://cloud.githubusercontent.com/assets/5549677/25071287/b20e37a0-22bb-11e7-84f3-cd6be92b6b7e.png
+      - --- Adnvanced Level Below ---
+      - list is kept sorted by address 
+      - algorithms can be used to allocate memory for a created process (or an existing process being swapped in from disk). 
+        - first fit 
+          - scans along the list of segments until it finds a hole that is big enough 
+        - next fit 
+        - best fit 
+        - worst fit 
+  - Virtual Memory ✅
+    - Swapping 
+      - Суть: процесс переносится целиком на HDD, со всеми потрохами, в отличие от Paging, когда процесс может по частям page-out / page-in на HDD и обратно в RAM
+      - MORE INFO
+        - To accommodate situations when more virtual memory is in use than actual physical memory, space on a storage device (the backing store, or swap space or page file) such as HDD, SSD or even thumb drive can be used to "swap out" data and later "swap (back) in" as needed. The swapped data is usually in data lengths called pages, but there are alternate schemes that use variable length segments or even paged segments.
+        - Memory at a virtual address can be "paged out" to disk, and then "paged in" when it is accessed again.
+        - Swapping refers to copying the entire process address space, or at any rate, the non-shareable-text data segment, out to the swap device, or back, in one go (typically disk).
+        - Whereas paging refers to copying in/out one or more pages of the address space. In particular, this is at a much finer grain. For example, there are ~250,000 4 KB pages in a 1 GB RAM address space.
+        - Swapping was used in the early day
+        - The simplest strategy, called swapping, consists of bringing in each process in its entirety, running it for a while, then putting it back on the disk. Idle processes are mostly stored on disk, so they do not take up any memory when they are not running (although some of them wake up periodically to do their work, then go to sleep again). 
+        - The other strategy, called virtual memory, allows pro- grams to run even when they are only partially in main memory. Below we will study swapping; in Sec. 3.3 we will examine virtual memory. 
+    - Paging (Virtual Memory) ВАЖНО 
+      - The basic idea behind virtual memory is that each program has its own address space, which is broken up into chunks called pages. Each page is a contiguous range of addresses. These pages are mapped onto physical memory, but not all pages have to be in physical memory at the same time to run the program.  
+      - When the program references a part of its address space that is in physical memory, the hardware performs the necessary mapping on the fly. When the program references a part of its address space that is not in physical memory, the oper- ating system is alerted to go get the missing piece and re-execute the instruction that failed.
+      - https://cloud.githubusercontent.com/assets/5549677/24701999/82588010-1a05-11e7-92de-887cd76da9fc.png
+      - виртуальные адреса формируют виртуальное адресное пространство 
+      - Process → Virtual Memory / Address Space → MMU (Memory Management Unit) (диспетчер памяти)→ Physical memory
+      - https://cloud.githubusercontent.com/assets/5549677/25224888/76f63a22-25c8-11e7-9798-5ae42f836bb7.png
+      - The virtual address space consists of fixed-size units called pages. The corresponding units in the physical memory are called page frames. The pages and page frames are generally the same size. 
+      - Transfers between RAM and disk are always in whole pages.  
+      - https://cloud.githubusercontent.com/assets/5549677/25225189/4d22cb06-25c9-11e7-8408-109ed7139870.png
+      - Реальное оборудование отслеживает присутствие конкретных страниц в физической памяти за счет бита присутствия-отсутствия. 
+      - if the program references an unmapped address, (виртуальный адрес, которого нет физически в оперативке), то диспетчер памяти замечает это и заставляет центральный процессор передать управление операционной системе. Это системное прерывание называется ошибкой отсутствия страницы (page fault).  Операционная система выбирает редко используемый  page frame и сбрасывает его содержимое на диск (если оно еще не там). Затем она извлекает (также с диска) страницу, на которую была ссылка, и помещает ее в только что освободившийся page frame, вносит изменения в таблицы и заново запускает прерванную команду. 
+      - Чтобы пересчитать виртуальные адреса в физические MMU юзает таблицу страниц.
+        - перевод такой: виртуальный адрес делится на номер виртуальной страницы (старшие биты) и смещение (младшие биты).  
+        - Номер виртуальной страницы используется в качестве индекса внутри таблицы страниц, который нужен для поиска записи для этой виртуальной страницы.  Из записи в таблице страниц берется номер page frame раничного блока присоединяется к старшим битам смещения, заменяя собой номер виртуальной страницы, чтобы сформировать физический адрес, который может быть послан к памяти. 
+        - Таким образом, предназначение таблицы страниц заключается в отображении виртуальных страниц на страничные блоки. С математической точки зрения таблица страниц — это функция, в которой в качестве аргумента выступает номер виртуальной страницы, а результатом является номер физического блока.  
+      - Структура записи в таблице страниц
+        - https://cloud.githubusercontent.com/assets/5549677/25234367/89e2db6e-25ea-11e7-9385-74d5f3d0a4e3.png)
+        - Page frame number - самый главный, суть таблицы - выдать номер Page frame
+        - бит присутствия-отсутствия 
+        - Биты защиты (read/write or read/write/execute(3bits)) (какие права у юзера на эту страницу)
+        - Биты модификации / изменения / dirty bit M
+          - показывает что страница была изменена и ее нужно сбросить обратно на диск 
+        - Бит ссылки 
+          - призван помочь операционной системе выбрать выселяемую страницу при воз- никновении ошибки отсутствия страницы. Страницы, к которым не было обращений, являются более предпочтительными кандидатами, чем востребуемые, и этот бит играет важную роль в ряде алгоритмов замещения страниц
+        - бит блокирования кэша
+          - Эта воз- можность актуальна для тех страниц, которые отображаются на регистры устройств, а не на память. Если операционная система вошла в цикл ожидания отклика какого- нибудь устройства ввода-вывода на только что выданную ею команду, очень важно, чтобы аппаратура продолжала извлечение слова из устройства, а не использовала старую копию, попавшую в кэш. Благодаря этому биту кэширование может быть отключено. Те машины, у которых есть отдельное пространство ввода-вывода и которые не используют ввод-вывод с отображением данного пространства в память, в этом бите не нуждаются. 
+      - Multilevel Page Tables TODO
+        - отказе от постоянного хранения всех таблиц страниц в памяти. В частности, вообще не должны храниться те таблицы, в которых нет необходимости.  
+    - Page Replacement Algorithms 
+      - Intro
+        - При возникновении page fault ОС должна выбрать выселяемую (удаляемую из памяти) страницу, чтобы освободить место для загружаемой страницы.
+        - Если предназначенная для удаления страница за время своего нахождения в памяти претерпела изменения, она должна быть переписана на диске, чтобы привести дисковую копию в актуальное состояние. Но если страница не изме- нялась (например, она содержала текст программы), дисковая копия не утратила своей актуальности и перезапись не требуется. Тогда считываемая страница просто пишется поверх выселяемой. 
+        - существует много алгоритмов какие страницы выселять для новых
+      - Оптимальный, но невозможный
+        - Суть в удалении страницы, которая понадобится через наибольшее количество времени. Невозможен пот ому что нельзя узнать, через сколько понадобится страница. 
+      - исключение недавно использовавшейся страницы (Not Recently Used)
+        - Чтобы позволить операционной системе осуществить сбор полезной статистики вос- требованности страниц, большинство компьютеров, использующих виртуальную память, имеют два бита состояния, R и M, связанных с каждой страницей. Referenced, Modified
+        - страницы делятся на 4 класса:
+        - Class 0: not referenced, not modified. 
+        - Class 1: not referenced, modified.
+        - Class 2: referenced, not modified. 
+        - Class 3: referenced, modified. 
+        - удаляются страницы с меньшим классом
+        - суть которой в том, что лучше удалить модифицированную страницу, к которой не было обращений чем удалить интенсивно используемую страницу.
+      - FIFO / очередь
+        - удаляются самые старые страницы, новые в очередь
+        - подробно: ОС ведет список всех страниц, находящихся на данный момент в памяти, причем совсем недавно поступившие находятся в хвосте, поступившие раньше всех — в голове списка. При возникновении ошибки отсутствия страницы удаляется страница, находящаяся в голове списка, а к его хвосту добавляется новая страница. 
+      - Алгоритм «второй шанс» 
+        - Тот же FIFO, но только делается проверка бита R (referenced) самой старой страницы. Если к ней обращались, то эту страницу не трогаем и помещаем ее в начало очереди и обнуляем бит R (чтобы не крутилась бесконечно)
+      - Clock /Часы
+        - «второй шанс» слишком неэффективен, по- скольку он постоянно перемещает страницы в своем списке. Лучше содержать все страничные блоки в циклическом списке в виде часов (рис. 3.15). Стрелка указывает на самую старую страницу. 
+        - https://cloud.githubusercontent.com/assets/5549677/25241247/f5da5d52-25fd-11e7-8d91-8c63c3ba91c9.png
+      - замещение Наименее востребованной страницы  Least Recently Used (LRU)). 
+        - Есть сложные алгоритмы как определить наименее востребованную
+      - Working Set (Рабочий Набор)
+      - WSClock
+      - https://cloud.githubusercontent.com/assets/5549677/25243068/707b33dc-2604-11e7-8767-6fd3bdb67ed9.png
+- Filesystem ✅
+  - Требования к файлам
+    - возможность хранить много инфы
+    - Информация должна пережить прекращение работы использующего ее процесса.
+    - одновременный доступ несколько процессов к инфе
+  - структура файла
+    - heading
+      - magic number (is executable)
+      - sizes of parts of a file
+      - address at which execution starts 
+      - flag bits ~
+    - text
+    - data
+    - relocation bits 
+    - symbol table
+  - ~ file access
+    - sequential
+    - random
+  - File Attributes / Metadata (инфа, которую ОС хранит о файле, помимо самого файла)
+    - https://cloud.githubusercontent.com/assets/5549677/25217161/81a260d2-25ae-11e7-8c3a-623c5dd6c3fd.png
+  - Операции с файлами / Some System Calls:
+    - Create, Delete, Open, Close, Read, Write, есть еще Append, Seek
+  - Directories / Folders
+    - Folders are files. Нужны для упорядочения файлов. / структурирования
+      - Иерархическая система / дерево папок
+      - позволяют разграничить например файлы разных пользователей (у каждого юзера своя папка)
+    - В таненбауме есть some system calls for directories
+  - Path Names
+    - absolute path name - /usr/ast/mailbox - начинаются с /
+      - уникальное для каждого файла
+    - относительное - внутри рабочего каталога
+  - Реализации файлов ВАЖНО
+    - File-System Structure 
+      - https://cloud.githubusercontent.com/assets/5549677/25218517/c01f1ddc-25b3-11e7-92d3-b93a138a11a5.png
+      - File systems are stored on disks. 
+      - Disks can be divided into one or more partitions, with independent file systems on each partition. 
+      - Sector 0 of the disk is called the MBR (Master Boot Record) (used to boot the computer)
+      - The end of the MBR contains the partition table 
+        - This table gives the starting and ending addresses of each partition. 
+        - One of the partitions in the table is marked as active. 
+      - When the computer is booted, the BIOS reads in and executes the MBR. The first thing the MBR program does is locate(находит) the active partition, read in its first block, which is called the boot block, and execute it 
+      - The program in the boot block loads the operating system contained in that partition.  
+        - every partition starts with a boot block, even if it does not contain a bootable operating system.
+      - кроме того, что раздел начинается с загрузочного блока, строение дискового раздела значительно различается от системы к системе.
+      - Зачастую файловая система будет содержать некоторые элементы, показанные на рис. 4.9. Первым элементом является суперблок 
+        - В нем содержатся все ключевые параметры файловой системы, которые считываются в память при загрузке компьютера или при первом обращении к файловой системе. Обычно в информацию суперблока включаются «магическое» число, позволяющее идентифицировать тип файловой системы, количество блоков в файловой системе, а также другая важная административная информация. 
+      - Далее может находиться информация о свободных блоках файловой системы, к при- меру в виде битового массива или списка указателей. За ней могут следовать i-узлы, массив структур данных — на каждый файл по одной структуре, в которой содержится вся информация о файле. Затем может размещаться корневой каталог, содержащий вершину дерева файловой системы. И наконец, оставшаяся часть диска содержит все остальные каталоги и файлы. 
+    - (4 метода):
+      - Возможно, самым важным вопросом при реализации файлового хранилища является отслеживание соответствия файлам блоков на диске. В различных операционных системах используются разные методы. Некоторые из них будут рассмотрены в этом разделе. 
+    - Непрерывное размещение. 
+      - https://cloud.githubusercontent.com/assets/5549677/25220676/2f1c6b20-25bb-11e7-8758-8e1055a9d54f.png
+      - Файлы идут один за одним. Со временем диск фрагментируется. 
+      - хранении каждого файла на диске в виде непрерывной последовательности блоков. (одинакового размера)
+    - Linked List
+      - https://cloud.githubusercontent.com/assets/5549677/25220721/5921b254-25bb-11e7-9e9b-c12a1f6f8ffd.png
+      - Первое слово каждого блока используется в качестве указателя на следующий блок, а вся остальная часть блока предназначается для хранения данных. 
+      - достаточно, чтобы в записи каталога хранился только дисковый адрес первого блока. Всю остальную информацию можно найти начиная с этого блока. 
+      - стрем - медленный метод
+    - FAT - File Allocation Table
+      - https://cloud.githubusercontent.com/assets/5549677/25221531/1addf1b2-25be-11e7-963a-86ee3ad84791.png
+      - как предыдущий, только указатели хранятся в RAM - и типа fast
+      - стрем - таблица жестко разрастается с размером диска
+    - I-nodes (index-nodes)
+      - https://cloud.githubusercontent.com/assets/5549677/25221555/2a7a2230-25be-11e7-9f0e-9912f3bd49ed.png
+      - Та же таблица,только в каждом файле содержатся таблица со адресами на его блоки. Плюс по сравнению с FAT- нужно хранить только адреса открытых файлов
+  - Реализация папок MB-TODO / RIP
+  - Shared Files RIP
+- Security     ✅
+  - Introduction: Tannenbaum 9.1, 9.2
+  - Protection Domains 
+    - domain is a set of (object, rights) pairs 
+      - objects - eg files, printers, devices
+      - rights - e.g. Read, Write, eXecute 
+      - often domains are users, but not always
+      - UID: User ID GID: Group ID
+        - domain in UNIX - pair (UID, GID)
+        - Two processes with the same (UID, GID) combination will have access to exactly the same set of objects 
+    - Protection Matrix
+      - Rows - Domains, Columns - Objects
+      - Each matrix-box contains the rights of that domain for that object
+      - Переключение между доменами также может быть включено в ту же табличную модель, если в качестве объекта представить сам домен, в отношении которого может быть разрешена операция входа — enter 
+      - https://cloud.githubusercontent.com/assets/5549677/25082253/3dcf9f6c-2358-11e7-8386-62bca6781fba.png
+      - На практике редко юзается, т.к эта матрица часто полупустая. Часто юзаются либо строки, либо столбцы этой матрицы
+    - Access Control Lists (ACL) (столбцы матрицы)
+      - Each object/file has ACL, содержащий все domains/users, которым разрешен доступ к данному объекту, а также тип доступа. 
+      - ACL Example: File1:  A: R; B: RW; C:RX
+      - ABC - users, R - Read, W - Write, X - eXecute
+    - Capability list (C-List) (строки матрицы)
+      - ну типа Domain1: File1:R, File2:W,     Domain2: File1:RX, File2:W
+  - Multilevel Security
+    - Bell-LaPadula and Biba Models https://cloud.githubusercontent.com/assets/5549677/25064087/bc88dfe8-21fb-11e7-8f7f-4069a6248ccf.png Bell First!
+- Practice     ✅
+  - 2 Attestation: Exploit in Linux
+    - About
+      - A buffer  is a part of the memory that temporarily stores data while the data is the process of moving from one place to another, i.e. the input device to the output device. 
+      - This area is used mainly when the computer and the other devices have different processing speeds. 
+      - However, the buffer may also be used when moving data between processes within a computer.
+      - https://en.wikipedia.org/wiki/Buffer_overflow
+    - http://www.securitylab.ru/analytics/405821.php
+    - Plan
+      - turn off ASLR  /proc/sys/kernel/randomize_va_space/ 2
+      - turn off SSP // gcc -fno-stack-protector
+      - Vulnerable function! // дает нам нужные адреса, чтобы потом туда вставить exploit 
+        - app: strcpy, которая, например, считывает 200 байт
+        - char buffer[500]; 	
+        - strcpy(buffer, argv[1]);
+        - debug in GDB to find needed offset
+        - ESP - Stack pointer register. Holds the top address of the stack
+        - EIP - Index Pointer. Holds the offset of the next instruction. It can only be read 
+        - http://www.eecg.toronto.edu/~amza/www.mindsec.com/files/x86regs.html
+      - Узнаем адрес ESP (через gdb list breakpoints); ESP - 200 = X. 
+      - Перезаписываем EIP адресом X details: http://imgur.com/hgARpqW
+      - запускаем эксплоит на python
+        - Для успешной эксплуатации необходимо использовать большее количество пустых операций (NOP).
+      - Win!
+    - Diagrams Examples https://habrahabr.ru/post/74330/
+    - My Diagrams https://drive.google.com/open?id=0B1YcmbaVJR-nTngwcTlpTUlGNVU
+      - Use Case diagram ✅
+      - Class diagram RIP
+      - statechart diagram - MUSTHAVE ✅
+      - sequence diagram - MUSTHAVE ✅
+      - collaboration diagram RIP
+      - component diagram RIP
+      - deployment diagram RIP
+  - 3 Attestation: написать свою файловую систему на основе FUSE
+    - схема работы FUSE https://github.com/Morozov-5F/operational-system-docs/wiki/FUSE-схема
+    - https://nnc3.com/mags/LM10/Magazine/Archive/2007/81/069-073_soap/images/architektur_fuse_ai11_v1.png

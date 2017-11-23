@@ -27,6 +27,9 @@
 - [database - What is a lookup table? - Stack Overflow](https://stackoverflow.com/questions/3419847/what-is-a-lookup-table)
 - [A Beginner’s Guide to the True Order of SQL Operations – Java, SQL and jOOQ.](https://blog.jooq.org/2016/12/09/a-beginners-guide-to-the-true-order-of-sql-operations/)
 - [sql - Using group by on multiple columns - Stack Overflow](https://stackoverflow.com/questions/2421388/using-group-by-on-multiple-columns)
+- where vs having |should i use where or having
+    - короче после `HAVING` обычно должна идти aggregate dunction(но не обязательно). eg. `HAVING COUNT(Id) > 10`, `HAVING AVG(TotalAmount) BETWEEN 1000 AND 1200`, `HAVING MAX(salary) < 50000`
+    - HAVING has bad performance, avoid it, use WHERE if possible
 
 ## Joins
 - [A Probably Incomplete, Comprehensive Guide to the Many Different Ways to JOIN Tables in SQL – Java, SQL and jOOQ.](https://blog.jooq.org/2017/01/12/a-probably-incomplete-comprehensive-guide-to-the-many-different-ways-to-join-tables-in-sql/)

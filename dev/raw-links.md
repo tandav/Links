@@ -1,4 +1,5 @@
 # Raw Links
+- [performance - HN Search powered by Algolia](https://hn.algolia.com/?query=performance&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 - [What Is Life? (1944) [pdf] | Hacker News](https://news.ycombinator.com/item?id=15270606)
 - [A Computer Scientist’s View of Life, the Universe, and Everything (1999) | Hacker News](https://news.ycombinator.com/item?id=14094373)
 - [Ask HN: What is the future of back-end development? | Hacker News](https://news.ycombinator.com/item?id=12274150)
