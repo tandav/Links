@@ -51,6 +51,8 @@
 - [zsh vs fish](https://habrahabr.ru/post/267797/#comment_8592673)
 - [unixorn/awesome-zsh-plugins: A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.](https://github.com/unixorn/awesome-zsh-plugins)
 - `rm *.png *.wav`
+- переделать bash под vim (instead of emacs): `set -o vi`
+- `tmux -CC` [Hexlet Webinar #9: Рабочее окружение и продуктивность - YouTube](https://www.youtube.com/watch?v=XNQkei5qffA&feature=youtu.be&t=42m1s)
 
 ## grep awk sed
 - [grep cheat sheet](https://gist.github.com/superDross/7b32fbb6b1cb6dffd703f6b9823b721a)
@@ -64,3 +66,9 @@
 - [Awk driven IoT | Hacker News](https://news.ycombinator.com/item?id=14735752)
 - [Skip grep, use awk | Hacker News](https://news.ycombinator.com/item?id=14692233)
 - [Learn just enough Linux to get things done | Hacker News](https://news.ycombinator.com/item?id=15712701)
+
+## Replace bash with python
+- bash vs python 
+- bash vs python for automatisation 
+- how to replace bash with python
+- python instead of bash for daily tasks

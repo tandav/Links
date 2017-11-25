@@ -7,3 +7,4 @@
 - [How To Install and Use Docker on Ubuntu 16.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-16-04)
 - [The Docker Ecosystem: An Overview of Containerization | DigitalOcean](https://www.digitalocean.com/community/tutorials/the-docker-ecosystem-an-overview-of-containerization)
 - [Docker Explained: Using Dockerfiles to Automate Building of Images | DigitalOcean](https://www.digitalocean.com/community/tutorials/docker-explained-using-dockerfiles-to-automate-building-of-images)
+- [Docker for Windows 17.11 supports Linux Containers | Hacker News](https://news.ycombinator.com/item?id=15776052)

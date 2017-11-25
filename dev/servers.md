@@ -6,3 +6,6 @@
 - [Optimizing web servers for high throughput and low latency | Hacker News](https://news.ycombinator.com/item?id=15185416)
 - nginx and java
 - how to write java server
+- typical log locations on servers
+    - `man log`
+- message queue

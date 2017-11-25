@@ -16,3 +16,4 @@
 - прогуглить фишки: google + yt
 - comes with SQLDeveloper, but you can download standalone (just 11Mb!)
 - you can run `.sql` file: `@~/Documents/netcracker/oracle/lab-1.sql`
+- [How to Get the Best Performance from the ZFS Storage Appliance](http://www.oracle.com/technetwork/articles/servers-storage-admin/sto-recommended-zfs-settings-1951715.html)

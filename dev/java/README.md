@@ -2,6 +2,7 @@
 ## Basics / Core
 - why use domain in java packages
 - passed by value or passed by reference in java
+- java modules vs packages
 
 ## Other
 - java logging
@@ -52,3 +53,4 @@
 - [Андрей Паньгин — Мифы и факты о медленной Java - YouTube](https://www.youtube.com/watch?v=NMc8AnyhyS8)
 - [Understanding How Graal Works – A Java JIT Compiler Written in Java | Hacker News](https://news.ycombinator.com/item?id=15624388)
 - Bruce Eckel - Thinking in Java
+- [maven - HN Search powered by Algolia](https://hn.algolia.com/?query=maven&sort=byPopularity&prefix&page=0&dateRange=all&type=story)

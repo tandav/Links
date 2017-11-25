@@ -1,4 +1,5 @@
 # Raw Links
+- [Out-of-place artifact - Wikipedia](https://en.wikipedia.org/wiki/Out-of-place_artifact)
 - [Cheng Lou - On the Spectrum of Abstraction at react-europe 2016 - YouTube](https://www.youtube.com/watch?v=mVVNJKv9esE)
 - [Archive | Melting Asphalt](http://www.meltingasphalt.com/archive/) `Good Blog`
 - [Here are 250 Ivy League courses you can take online right now for free](https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869)

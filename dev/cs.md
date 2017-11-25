@@ -46,6 +46,7 @@
 - [H.264 is Magic | Hacker News](https://news.ycombinator.com/item?id=12871403)
 - [Pygorithm – A Python module for learning major algorithms | Hacker News](https://news.ycombinator.com/item?id=14952269)
 - [Rendering the Mandelbrot Set in JS](https://csl.name/post/mandelbrot-rendering/)
+- how grep works | why grep so fast | full-text search
 
 ## Books
 - Gödel, Escher, Bach - Must Read, [related stuff](https://news.ycombinator.com/item?id=13995609)

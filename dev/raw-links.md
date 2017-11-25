@@ -1,5 +1,7 @@
 # Raw Links
+- [Popular Tutorials | DigitalOcean](https://www.digitalocean.com/community/tutorials?primary_filter=popular)
 - [performance - HN Search powered by Algolia](https://hn.algolia.com/?query=performance&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
+- [Desktop compositing latency is real | Hacker News](https://news.ycombinator.com/item?id=15747650)
 - [What Is Life? (1944) [pdf] | Hacker News](https://news.ycombinator.com/item?id=15270606)
 - [A Computer Scientist’s View of Life, the Universe, and Everything (1999) | Hacker News](https://news.ycombinator.com/item?id=14094373)
 - [Ask HN: What is the future of back-end development? | Hacker News](https://news.ycombinator.com/item?id=12274150)
@@ -91,3 +93,5 @@
 - [The Case for RSS | Hacker News](https://news.ycombinator.com/item?id=15673430)
 
 ---
+
+- [Miller’s Law – A Rule in Product Design and Life Management | Hacker News](https://news.ycombinator.com/item?id=15771710)
