@@ -11,3 +11,4 @@
 - [Teach Yourself C in 24 Hours (1997) | Hacker News](https://news.ycombinator.com/item?id=15624521)
 - [simd - HN Search powered by Algolia](https://hn.algolia.com/?query=simd&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 - [How do computers read code? - YouTube](https://www.youtube.com/watch?v=QXjU9qTsYCc)
+- [Стоимость операций в тактах ЦП / Блог компании Отус / Хабрахабр](https://habrahabr.ru/company/otus/blog/343566/)

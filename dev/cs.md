@@ -47,6 +47,9 @@
 - [Pygorithm – A Python module for learning major algorithms | Hacker News](https://news.ycombinator.com/item?id=14952269)
 - [Rendering the Mandelbrot Set in JS](https://csl.name/post/mandelbrot-rendering/)
 - how grep works | why grep so fast | full-text search
+- [cs-playground-react/RESOURCES.md at master · no-stack-dub-sack/cs-playground-react](https://github.com/no-stack-dub-sack/cs-playground-react/blob/master/RESOURCES.md)
+- hashmap: fast addition and search (`O(1)`). Нужно чтобы равномерно распределялось по карзинкам. Иначе будет тормозить как список.
+
 
 ## Books
 - Gödel, Escher, Bach - Must Read, [related stuff](https://news.ycombinator.com/item?id=13995609)

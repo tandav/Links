@@ -17,6 +17,7 @@
 - [Linear Algebra for AI | Hacker News](https://news.ycombinator.com/item?id=15262218)
 
 ## Statistics and Probability
+- [Простое объяснение теоремы Байеса / Geektimes](https://geektimes.ru/post/296041/)
 - [Jake Vanderplas - Statistics for Hackers - PyCon 2016.mp4 - YouTube](https://www.youtube.com/watch?v=Iq9DzN6mvYA)
 - [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/)
 - [Что такое «сигма»? • Физика элементарных частиц • LHC на «Элементах»](http://elementy.ru/LHC/HEP/study/errors/sigma)
@@ -24,6 +25,7 @@
 - [A Concrete Introduction to Probability (using Python)](http://nbviewer.jupyter.org/url/norvig.com/ipython/Probability.ipynb)
 - [Frequentism and Bayesianism: What's the Big Deal? | SciPy 2014 | Jake VanderPlas - YouTube](https://www.youtube.com/watch?v=KhAUfqhLakw)
 - salary: why use median instead of mean
+- distribution vs probability density function
 
 ## Standard Deviation vs Abs Deviation
 - meaning square error vs abs

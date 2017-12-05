@@ -13,7 +13,6 @@ i'm learning this things:
     - jsp??, servlets??
     - unit tests
     - maven
-- Django ??
 
 ## 2nd specialisation: ML, Data Science
 `learning log` `projects`
@@ -23,6 +22,10 @@ i'm learning this things:
 - scientific python
 - frameworks
 - common tasks
+
+## 3nd specialisation: Django Backend??
+- Django ??
+
 
 ---
 

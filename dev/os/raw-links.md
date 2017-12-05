@@ -14,6 +14,8 @@
 - [Making a virtual machine in Google Sheets | Hacker News](https://news.ycombinator.com/item?id=14701460)
 - [What is a file? (2011) | Hacker News](https://news.ycombinator.com/item?id=14675613)
 - [zfs - HN Search powered by Algolia](https://hn.algolia.com/?query=zfs&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
+- what is file descriptor
+
 ## Videos
 * [Operating Systems Course](https://www.youtube.com/playlist?list=PLmbPuZ0NsyGS8ef6zaHd2qYylzsHxL63x)
 * [Operating System Basics - YouTube](https://www.youtube.com/watch?v=9GDX-IyZ_C8)

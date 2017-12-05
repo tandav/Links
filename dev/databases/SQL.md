@@ -45,7 +45,8 @@
     - `SELECT * FROM A JOIN B` (without `ON`)
     - `SELECT * FROM A CROSS JOIN B`  `<--- use this`
     - A cross join produces the Cartesian product of the tables involved in the join. The size of a Cartesian product result set is the number of rows in the first table multiplied by the number of rows in the second table
-    
+- double group by    
+
 ## Deep
 - [Why Uber Engineering Switched from Postgres to MySQL | Hacker News](https://news.ycombinator.com/item?id=12166585)
 - postgresql vs oracle

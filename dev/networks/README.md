@@ -13,3 +13,10 @@
 - [Networks - YouTube](https://www.youtube.com/playlist?list=PL4qBE1-4ZNC0vRWI_05a3YePdF1WHberD)
 - [A penetration tester’s guide to sub-domain enumeration | Hacker News](https://news.ycombinator.com/item?id=15676951)
 - [httpbin(1): HTTP Client Testing Service](http://httpbin.org/)
+- how ssh works
+- how tor works
+- how ssl works
+- what is sockets
+- [networking-zine - julia evans](https://jvns.ca/networking-zine.pdf)
+- [What is the Difference Between 127.0.0.1 and 0.0.0.0?](https://www.howtogeek.com/225487/what-is-the-difference-between-127.0.0.1-and-0.0.0.0/)
+- subnet mask tutorial (start from YT)

@@ -24,6 +24,8 @@
 - [Interactive Vim tutorial | Hacker News](https://news.ycombinator.com/item?id=15400037)
 - [Vim Cheat Sheet (2015) | Hacker News](https://news.ycombinator.com/item?id=15693906)
 - [Vim Essentials – A Guide to Transitioning from GUI Editors to Vim](https://spin.atomicobject.com/2017/09/18/vim-essentials/?utm_source=dlvr.it&utm_medium=twitter)
+- [Why I love Vim: It’s the lesser-known features that make it so amazing](https://medium.freecodecamp.org/learn-linux-vim-basic-features-19134461ab85)
+- [Learning Vim: What I Wish I Knew – Hacker Noon](https://hackernoon.com/learning-vim-what-i-wish-i-knew-b5dca186bef7)
 
 ## Videos
 - [How to Do 90% of What Plugins Do (With Just Vim) - YouTube](https://www.youtube.com/watch?v=XA2WjJbmmoM)

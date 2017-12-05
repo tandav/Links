@@ -19,13 +19,18 @@
 - [ssh crash course - Google Search](https://www.google.ru/search?q=ssh+crash+course)
 - Design Patterns [как вар](https://github.com/kamranahmedse/design-patterns-for-humans)
 - [Kristories/awesome-guidelines: A curated list of high quality coding style conventions and standards.](https://github.com/Kristories/awesome-guidelines)
+
+## Regex
+- [Regular Expressions Demystified: RegEx isn’t as hard as it looks](https://medium.freecodecamp.org/regular-expressions-demystified-regex-isnt-as-hard-as-it-looks-617b55cf787)
 - [aloisdg/awesome-regex: A curated collection of awesome Regex libraries, tools, frameworks and software](https://github.com/aloisdg/awesome-regex)
 - [zeeshanu/learn-regex: Learn regex the easy way](https://github.com/zeeshanu/learn-regex)
 - [(Don't Fear) The Regex: A Practical Introduction to Regular Expressions](https://dev.to/hawkinjs/dont-fear-the-regex-a-practical-introduction-to-regular-expressions)
+
+---
+
 - Pair programming (maybe)
 - [Как рассказать о современной веб-разработке путешественнику во времени из 2007 года / Блог компании Edison / Хабрахабр](https://habrahabr.ru/company/edison/blog/341686/)
 - [Pair Programming - An Extremely Agile Practice | 101 Ways](http://www.101ways.com/pair-programming-an-extremely-agile-practice/)
-- [zeeshanu/learn-regex: Learn regex the easy way](https://github.com/zeeshanu/learn-regex)
 - [Home · angrave/SystemProgramming Wiki](https://github.com/angrave/SystemProgramming/wiki)
 - [Advice to Aimless, Excited Programmers](http://prog21.dadgum.com/80.html)
 - [20 controversial programming opinions « Software Engineering Stack Exchange Blog](http://programmers.blogoverflow.com/2012/08/20-controversial-programming-opinions/)
@@ -95,3 +100,4 @@
 ---
 
 - [Miller’s Law – A Rule in Product Design and Life Management | Hacker News](https://news.ycombinator.com/item?id=15771710)
+- [why i love - HN Search powered by Algolia](https://hn.algolia.com/?query=why%20i%20love&sort=byPopularity&prefix&page=0&dateRange=all&type=story)

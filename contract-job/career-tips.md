@@ -29,3 +29,4 @@
 - [Почему программисты не получают работу: четыре страшилки / Хабрахабр](https://habrahabr.ru/post/342518/)
 - [Is software development really a dead-end job after age 35-40? | Hacker News](https://news.ycombinator.com/item?id=15723772)
 - [odeskconf/guide: Гайд сообщества OdeskConf о тонкостях работы на Upwork](https://github.com/odeskconf/guide)
+- [О состоянии, подготовке и реальностях работы с ИТ-кадрами за пределами городов-миллионников](https://vc.ru/29413-o-sostoyanii-podgotovke-i-realnostyah-raboty-s-it-kadrami-za-predelami-gorodov-millionnikov?from=digest)

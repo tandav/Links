@@ -17,11 +17,15 @@
 - [Unix tricks](https://gist.github.com/stoutbeard/c27f4c3a0f4452037b8a)
 - [tmux shortcuts & cheatsheet](https://gist.github.com/MohamedAlaa/2961058)
 - tmux save session
+- [A minimalist guide to tmux | Hacker News](https://news.ycombinator.com/item?id=15776995)
 - [Automation For The People](https://gist.github.com/classam/9e07a36aa63624ca2dda75a1367a53c6)
 - unix environment variables tutorial
 - google: `bin sbin /usr/bin /usr/sbin`
 - [macos - What functionality do 'marks' offer in the El Capitan Terminal? - Ask Different](https://apple.stackexchange.com/questions/209635/what-functionality-do-marks-offer-in-the-el-capitan-terminal#209907)
 - Makefile, Makefile tutorial, [HN Search](https://hn.algolia.com/?query=makefile&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
+    - Makefiles - very good for automation
+    - [How to make a SIMPLE C++ Makefile? - Stack Overflow](https://stackoverflow.com/questions/2481269/how-to-make-a-simple-c-makefile#2481326)
+    - [Makefiles – Mrbook's Stuff](http://mrbook.org/blog/tutorials/make/)
 - [UNIX-подобные системы содержат кучу костылей. Крах «философии UNIX» / Хабрахабр](https://habrahabr.ru/post/321652/)
 - linux administrator must know
 - what every sysadmin should know
@@ -37,9 +41,10 @@
 - [tutoriaLinux - YouTube](https://www.youtube.com/channel/UCvA_wgsX6eFAOXI8Rbg_WiQ/videos?disable_polymer=1)
 - [Afraid of Makefiles? Don't be | Hacker News](https://news.ycombinator.com/item?id=15041986)
 - [GNU Readline for Better Productivity on the Command Line | Hacker News](https://news.ycombinator.com/item?id=15670165)
+- htop network usage
 
 ## Zsh / Bash
-- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) | [docs](https://github.com/robbyrussell/oh-my-zsh/wiki)
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) / [docs](https://github.com/robbyrussell/oh-my-zsh/wiki)
 - [zsh tutorial - Google Search](https://www.google.ru/search?q=zsh+tutorial)
 - [zsh - HN Search](https://hn.algolia.com/?query=zsh&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 - [Переход с bash на zsh / Хабрахабр](https://habrahabr.ru/post/326580/)
@@ -53,6 +58,7 @@
 - `rm *.png *.wav`
 - переделать bash под vim (instead of emacs): `set -o vi`
 - `tmux -CC` [Hexlet Webinar #9: Рабочее окружение и продуктивность - YouTube](https://www.youtube.com/watch?v=XNQkei5qffA&feature=youtu.be&t=42m1s)
+- bash single vs double quotes
 
 ## grep awk sed
 - [grep cheat sheet](https://gist.github.com/superDross/7b32fbb6b1cb6dffd703f6b9823b721a)

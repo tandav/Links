@@ -1,4 +1,4 @@
-# DevOps
+# Docker
 - [Why Docker makes sense for startups – freeCodeCamp](https://medium.freecodecamp.org/why-docker-makes-sense-for-startups-e9be14a1f662)
 - Learn Docker
 - [My VM is lighter and safer than your container | Hacker News](https://news.ycombinator.com/item?id=15610155)
@@ -9,3 +9,5 @@
 - [Docker Explained: Using Dockerfiles to Automate Building of Images | DigitalOcean](https://www.digitalocean.com/community/tutorials/docker-explained-using-dockerfiles-to-automate-building-of-images)
 - [Docker for Windows 17.11 supports Linux Containers | Hacker News](https://news.ycombinator.com/item?id=15776052)
 - [Полное практическое руководство по Docker: с нуля до кластера на AWS / Хабрахабр](https://habrahabr.ru/post/310460/)
+- [`EXPOSE` vs `-p` Difference between "expose" and "publish" in docker - Stack Overflow](https://stackoverflow.com/questions/22111060/difference-between-expose-and-publish-in-docker)
+- [How to get bash or ssh into a running container in background mode? - Ask Ubuntu](https://askubuntu.com/questions/505506/how-to-get-bash-or-ssh-into-a-running-container-in-background-mode#507009)
