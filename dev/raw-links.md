@@ -1,4 +1,5 @@
 # Raw Links
+- [Learn web development – MDN web docs | Hacker News](https://news.ycombinator.com/item?id=15902811)
 - [Popular Tutorials | DigitalOcean](https://www.digitalocean.com/community/tutorials?primary_filter=popular)
 - [performance - HN Search powered by Algolia](https://hn.algolia.com/?query=performance&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 - [Desktop compositing latency is real | Hacker News](https://news.ycombinator.com/item?id=15747650)
@@ -19,6 +20,7 @@
 - [ssh crash course - Google Search](https://www.google.ru/search?q=ssh+crash+course)
 - Design Patterns [как вар](https://github.com/kamranahmedse/design-patterns-for-humans)
 - [Kristories/awesome-guidelines: A curated list of high quality coding style conventions and standards.](https://github.com/Kristories/awesome-guidelines)
+- [How to Read Mathematics | Hacker News](https://news.ycombinator.com/item?id=15905048)
 
 ## Regex
 - [Regular Expressions Demystified: RegEx isn’t as hard as it looks](https://medium.freecodecamp.org/regular-expressions-demystified-regex-isnt-as-hard-as-it-looks-617b55cf787)

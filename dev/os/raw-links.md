@@ -34,4 +34,5 @@
 - arch linux wiki - там типа говорят очень годная вики, где можно узнать очень много сути о устройстве линукс - ну и можно собрать под себя arch))
 - [Why I Fell in Love with Arch Linux (2015) | Hacker News](https://news.ycombinator.com/item?id=15245954)
 - [Полный перевод Unix-коанов на русский язык / Хабрахабр](https://habrahabr.ru/post/273023/)
-
+- [What is the difference between a hard link and a symbolic link? - Ask Ubuntu](https://askubuntu.com/questions/108771/what-is-the-difference-between-a-hard-link-and-a-symbolic-link#43599)
+- [unix - What is the difference between a symbolic link and a hard link? - Stack Overflow](https://stackoverflow.com/questions/185899/what-is-the-difference-between-a-symbolic-link-and-a-hard-link)

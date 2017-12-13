@@ -17,3 +17,5 @@
 ---
 
 - [Show HN: Vecta.io - Team diagramming with an advanced SVG editor | Hacker News](https://news.ycombinator.com/item?id=14688031)
+- github issues as blog
+- [explainshell.com - match command-line arguments to their help text](https://explainshell.com/)

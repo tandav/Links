@@ -38,6 +38,7 @@
 - [python exceptions - HN Search powered by Algolia](https://hn.algolia.com/?query=python%20exceptions&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 - [Understanding Python super() with __init__() methods - Stack Overflow](https://stackoverflow.com/questions/576169/understanding-python-super-with-init-methods)
 - [norvig/pytudes: Python programs to practice or demonstrate skills.](https://github.com/norvig/pytudes)
+- read python stdlib source (examples of excellent python code style and tips)
 
 ## Package managers
 - virtualenv vs virtualenvwrapper. Короче, пока don't use wrapper. Use virtualenv only

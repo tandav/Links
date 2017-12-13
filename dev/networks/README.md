@@ -15,8 +15,14 @@
 - [httpbin(1): HTTP Client Testing Service](http://httpbin.org/)
 - how ssh works
 - how tor works
-- how ssl works
+- how ssl / tks works
+- [How RSA Works: TLS Foundations | Hacker News](https://news.ycombinator.com/item?id=15909134)
 - what is sockets
 - [networking-zine - julia evans](https://jvns.ca/networking-zine.pdf)
 - [What is the Difference Between 127.0.0.1 and 0.0.0.0?](https://www.howtogeek.com/225487/what-is-the-difference-between-127.0.0.1-and-0.0.0.0/)
 - subnet mask tutorial (start from YT)
+- subnets
+- [Hub, Switch or Router? Network Devices Explained - YouTube](https://www.youtube.com/watch?v=Ofjsh_E4HFY)
+- colon slash slash protocol
+- why we need both mac and ip
+- how tcp chooses destination port

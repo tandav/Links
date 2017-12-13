@@ -1,4 +1,5 @@
 # ML Math
+- [Visualizing Multivariate Data - MATLAB & Simulink Example](https://www.mathworks.com/help/stats/examples/visualizing-multivariate-data.html)
 - graph teory
 - [(11) Representing graphs (article) | Algorithms | Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms/graph-representation/a/representing-graphs)
 - [Graph (abstract data type) - Wikipedia](https://en.wikipedia.org/wiki/Graph_(abstract_data_type))
@@ -8,6 +9,7 @@
 - [A.I. grad student confession: I can't grok the math | Hacker News](https://news.ycombinator.com/item?id=15680623)
 
 ## Linear Algebra
+- [Down with Determinants (1995) | Hacker News](https://news.ycombinator.com/item?id=15863334)
 - [Computational Linear Algebra | Hacker News](https://news.ycombinator.com/item?id=14830671)
 - [Linear Algebra for Machine Learning - Machine Learning Mastery](https://machinelearningmastery.com/linear-algebra-machine-learning/)
 - [Data Structures Related to Machine Learning Algorithms](https://blog.statsbot.co/data-structures-related-to-machine-learning-algorithms-5edf77c8bbf4)

@@ -11,3 +11,4 @@
 - [Полное практическое руководство по Docker: с нуля до кластера на AWS / Хабрахабр](https://habrahabr.ru/post/310460/)
 - [`EXPOSE` vs `-p` Difference between "expose" and "publish" in docker - Stack Overflow](https://stackoverflow.com/questions/22111060/difference-between-expose-and-publish-in-docker)
 - [How to get bash or ssh into a running container in background mode? - Ask Ubuntu](https://askubuntu.com/questions/505506/how-to-get-bash-or-ssh-into-a-running-container-in-background-mode#507009)
+- docker networking

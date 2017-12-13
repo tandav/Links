@@ -42,6 +42,7 @@
 - [Afraid of Makefiles? Don't be | Hacker News](https://news.ycombinator.com/item?id=15041986)
 - [GNU Readline for Better Productivity on the Command Line | Hacker News](https://news.ycombinator.com/item?id=15670165)
 - htop network usage
+- [Chmod permissions (flags) explained: 600, 0600, 700, 777, 100 etc..](http://www.thinkplexx.com/learn/article/unix/command/chmod-permissions-flags-explained-600-0600-700-777-100-etc)
 
 ## Zsh / Bash
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) / [docs](https://github.com/robbyrussell/oh-my-zsh/wiki)

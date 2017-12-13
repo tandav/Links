@@ -36,6 +36,7 @@
 - [java - When should I use "this" in a class? - Stack Overflow](https://stackoverflow.com/questions/2411270/when-should-i-use-this-in-a-class)
 
 ## Deep Java
+- [Spring vs. Java EE | Hacker News](https://news.ycombinator.com/item?id=14073087)
 - fast java, java performance tips
 - [Alibaba-Java-Coding-Guidelines](https://alibaba.github.io/Alibaba-Java-Coding-Guidelines/)
 - [Java and Performance: Biggest Mistakes - YouTube](https://www.youtube.com/watch?v=IBkxiWmjM-g)
@@ -54,3 +55,4 @@
 - [Understanding How Graal Works – A Java JIT Compiler Written in Java | Hacker News](https://news.ycombinator.com/item?id=15624388)
 - Bruce Eckel - Thinking in Java
 - [maven - HN Search powered by Algolia](https://hn.algolia.com/?query=maven&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
+- why i hate java

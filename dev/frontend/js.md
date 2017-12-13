@@ -65,3 +65,4 @@
 - [Functional programming in JavaScript is an antipattern | Hacker News](https://news.ycombinator.com/item?id=14642395)
 - [Why WASM can't give native performance?? (games in a browser?). All demos I saw... | Hacker News](https://news.ycombinator.com/item?id=15676654)
 - [Чем отличаются JavaScript и ECMAScript? / Блог компании NIX Solutions / Хабрахабр](https://habrahabr.ru/company/nixsolutions/blog/342904/)
+- [Chalarangelo/30-seconds-of-code: Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.](https://github.com/Chalarangelo/30-seconds-of-code)

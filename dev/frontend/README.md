@@ -38,3 +38,5 @@
 - [Our large team of engineers use this front end development guide](https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41)
 - [Все новое — это хорошо забытое старое / Хабрахабр](https://habrahabr.ru/post/326046/)
 - [Объясняем современный JavaScript динозавру / Блог компании Mail.Ru Group / Хабрахабр](https://habrahabr.ru/company/mailru/blog/340922/)
+- [8 учебных проектов / Блог компании Edison / Хабрахабр](https://habrahabr.ru/company/edison/blog/344006/)
+- [The State of JavaScript 2017 | Hacker News](https://news.ycombinator.com/item?id=15910795)

@@ -9,20 +9,9 @@ export ZSH=/Users/tandav/.oh-my-zsh
 # it'll load a random theme each time that oh-my-zsh is loaded.
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 
-#ZSH_THEME=robbyrussell
-ZSH_THEME=tandav
-#ZSH_THEME="powerlevel9k/powerlevel9k"
-POWERLEVEL9K_MODE='nerdfont-complete'
-POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(context dir dir_writable vcs)
-POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status virtualenv)
-POWERLEVEL9K_STATUS_VERBOSE=false
-POWERLEVEL9K_SHORTEN_STRATEGY="truncate_middle"
-POWERLEVEL9K_SHORTEN_DIR_LENGTH=3
-DEFAULT_USER='tandav'
-POWERLEVEL9K_PROMPT_ON_NEWLINE=true
-POWERLEVEL9K_MULTILINE_FIRST_PROMPT_PREFIX=""
-POWERLEVEL9K_MULTILINE_LAST_PROMPT_PREFIX=""
-# POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(icons_test)
+# ZSH_THEME=tandav
+ZSH_THEME="powerlevel9k/powerlevel9k"
+source ~/Documents/life/dev/dotfiles/powerlevel9k-airline-theme.sh
 
 # Add this separator after each output:
 function echo_blank() {
@@ -111,54 +100,59 @@ export NVM_DIR="$HOME/.nvm"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 # cd to folder
-alias doc="cd ~/Documents/"
-alias u="cd ~/Documents/Ultrasonic-Stethoscope"
-alias nt="cd ~/Documents/Notes"
-alias parsers="cd ~/Documents/parsers && source .venv/bin/activate"
-# alias uv="cd ~/Documents/Ultrasonic-Stethoscope/arduino && source ./env/bin/activate"
-alias uv="cd ~/Documents/Ultrasonic-Stethoscope && source activate uv"
-# alias uv="cd ~/Documents/Ultrasonic-Stethoscope && source activate uv-intel"
-alias dt="cd ~/Desktop"
-alias dw="cd ~/Downloads"
+alias doc='cd ~/Documents/'
+alias u='cd ~/Documents/Ultrasonic-Stethoscope'
+alias nt='cd ~/Documents/Notes'
+alias uv='cd ~/Documents/Ultrasonic-Stethoscope && source activate uv'
+alias dt='cd ~/Desktop'
+alias dw='cd ~/Downloads'
 
 # apps & tools
-alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
-alias emacs="emacs -nw"
-alias net="sudo tshark -i en0 -T fields -e frame.time -e ip.src -e dns.qry.name -Y "dns.flags.response eq 0""
-# alias net="sudo tshark -i en0 -T fields -e frame.number -e frame.time -e ip.src -e dns.qry.name -Y "dns.flags.response eq 0""
-# alias net="sudo tshark -i en0 -T fields -e frame.number -e ip.src -e dns.qry.name -Y "dns.flags.response eq 0""
-alias termdown="termdown -b"
-alias weather="finger voronezh@graph.no"
-alias wttr="curl wttr.in/voronezh"
-alias speedtest="curl -s  https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py | python"
-alias mtop="open /Applications/Utilities/Activity\ Monitor.app"
-alias docker_size="du -h /Users/tandav/Library/Containers/com.docker.docker/Data/com.docker.driver.amd64-linux/Docker.qcow2"
+alias subl='/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl'
+alias emacs='emacs -nw'
+alias net='sudo tshark -i en0 -T fields -e frame.time -e ip.src -e dns.qry.name -Y 'dns.flags.response eq 0''
+# alias net='sudo tshark -i en0 -T fields -e frame.number -e frame.time -e ip.src -e dns.qry.name -Y 'dns.flags.response eq 0''
+# alias net='sudo tshark -i en0 -T fields -e frame.number -e ip.src -e dns.qry.name -Y 'dns.flags.response eq 0''
+alias termdown='termdown -b'
+alias weather='finger voronezh@graph.no'
+alias wttr='curl wttr.in/voronezh'
+alias speedtest='curl -s  https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py | python'
+alias mtop='open /Applications/Utilities/Activity\ Monitor.app'
+alias docker_size='du -h /Users/tandav/Library/Containers/com.docker.docker/Data/com.docker.driver.amd64-linux/Docker.qcow2'
 
 # netcracker/oracle
-alias sqlcl="/Applications/SQLDeveloper.app/Contents/Resources/sqldeveloper/sqldeveloper/bin/sql"
-alias nk_cli="sqlcl system/oracle@localhost:1521:xe"
-alias nk="open -a DataGrip & docker start -a netcracker_db"
-alias nks="docker stop netcracker_db"
+alias sqlcl='/Applications/SQLDeveloper.app/Contents/Resources/sqldeveloper/sqldeveloper/bin/sql'
+alias nk_cli='sqlcl system/oracle@localhost:1521:xe'
+alias nk='open -a DataGrip & docker start -a netcracker_db'
+alias nks='docker stop netcracker_db'
 
 # shortcuts
-alias n="subl ~/Documents/Notes"
-alias ns="subl ~/Documents/Notes"
-alias kn="subl ~/Documents/knowledge-map"
-alias o="open"
-alias python="python3.6"
-alias p3="python3.6"
-alias p3a="/anaconda3/bin/python3"
-alias p3_old="/usr/local/Cellar/python3/3.6.3/bin/python3"
-alias s="subl"
-alias rc="subl ~/.zshrc"
+alias n='subl ~/Documents/Notes'
+alias ns='subl ~/Documents/Notes'
+alias lf='subl ~/Documents/life'
+alias o='open'
+alias python='python3.6'
+alias p3='python3.6'
+alias p3a='/anaconda3/bin/python3'
+alias p3_old='/usr/local/Cellar/python3/3.6.3/bin/python3'
+alias s='subl'
+alias rc='subl ~/.zshrc'
 # activate env/ virtualenv
-alias ve="source env/bin/activate"
-alias jn="jupyter notebook"
+alias ve='source env/bin/activate'
+alias sd='source deactivate'
+alias jn='jupyter notebook'
 
 # websites
-alias wm="open https://www.youtube.com/playlist\?list\=PL4qBE1-4ZNC0Wam6r8MaZoUfZ8ektEVYe"
-alias gist="open https://gist.github.com/tandav"
-alias wf="open https://workflowy.com"
-alias yt="open https://www.youtube.com"
-alias gh="open https://github.com"
-alias map="open https://github.com/tandav/life#my-life"
+alias wm='open https://www.youtube.com/playlist\?list\=PL4qBE1-4ZNC0Wam6r8MaZoUfZ8ektEVYe'
+alias gist='open https://gist.github.com/tandav'
+alias wf='open https://workflowy.com'
+alias yt='open https://www.youtube.com'
+alias gh='open https://github.com'
+alias map='open https://github.com/tandav/life#my-life'
+alias music='open https://github.com/tandav/life/tree/master/music'
+alias gmail='open https://mail.google.com'
+
+# duck duck go search
+ddg() {
+    open "https://duckduckgo.com/?q=$1"
+}

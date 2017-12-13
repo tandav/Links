@@ -10,3 +10,5 @@
 - [Ask HN: Best tech for a web site 2018? (PHP, Rails, Django, Node, Go, etc.)? | Hacker News](https://news.ycombinator.com/item?id=15685905)
 - entity vs value object
 - [Ask HN: CS Papers for software architecture/design? | Hacker News](https://news.ycombinator.com/item?id=15775548)
+- [12 Best Articles to Read](http://www.yegor256.com/best.html)
+- [Слои, Луковицы, Гексогоны, Порты и Адаптеры — всё это об одном / Хабрахабр](https://habrahabr.ru/post/344164/)

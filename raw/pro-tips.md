@@ -60,6 +60,6 @@ You can drag and drop files to terminal for speed.
 ---
 
 #### Get some information about host
-curl $(host github.com | head -1 | grep -Eo '[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}' |  awk '{print "ipinfo.io/" $1}')
+`curl $(host github.com | head -1 | grep -Eo '[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}' |  awk '{print "ipinfo.io/" $1}')`
 
 ---
