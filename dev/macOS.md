@@ -6,3 +6,7 @@
 - [HomeBrew Analytics – top 1000 packages installed over last year | Hacker News](https://news.ycombinator.com/item?id=15164439)
 - how to completly disable animations macos
 - [Turn off Animations & Eye Candy Special Effects in Mac OS X Lion - ChrisWrites.com](http://www.chriswrites.com/turn-off-animations-eye-candy-effects-in-mac-os-x-lion/)
+- apple script / javascript - full learn for efficient window management
+    - applescript tutorial
+- [Anyways too personalize MacOS more ? : unixporn](https://www.reddit.com/r/unixporn/comments/5cfaik/anyways_too_personalize_macos_more/)
+- [A true twm for macOS? think i3. x-post from r/osxtweaks : unixporn](https://www.reddit.com/r/unixporn/comments/5cowoq/a_true_twm_for_macos_think_i3_xpost_from/)

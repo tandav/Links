@@ -14,13 +14,14 @@
 - [11.7. glob — Unix style pathname pattern expansion — Python 3.7.0a2 documentation](https://docs.python.org/3.7/library/glob.html)
 - [How To Install Python 3 and Set Up a Local Programming Environment on macOS | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-macos#step-5-%E2%80%94-creating-a-virtual-environment)
 - [Why Python Is Not My Favorite Language (2016) | Hacker News](https://news.ycombinator.com/item?id=14594211)
-- [2. Built-in Functions — Python 3.6.1 documentation](https://docs.python.org/3/library/functions.html#ascii)
+- [2. Built-in Functions — Python 3.6.1 documentation](https://docs.python.org/3/library/functions.html)
 - [Automatically activate virtualenv - Nathan Cahill](http://nathancahill.github.io/automatically-activate-virtualenv/)
 - [6. Modules — Python 3.6.2 documentation](https://docs.python.org/3/tutorial/modules.html#tut-packages)
 - [What Does It Take To Be An Expert At Python? - YouTube](https://www.youtube.com/watch?v=7lmCu8wz8ro)
 - [s16h/py-must-watch: Must-watch videos about Python](https://github.com/s16h/py-must-watch)
 - [The Python Tutorial — Python 3.6.2 documentation](https://docs.python.org/3.6/tutorial/index.html)
 - [crazyguitar/pysheeet: Python Cheat Sheet](https://github.com/crazyguitar/pysheeet)
+- [Welcome to Python cheatsheet! — pysheeet](https://www.pythonsheets.com/)
 - [PyFormat: Using % and .format() for great good!](https://pyformat.info/)
 - [python - What's the difference between lists and tuples? - Stack Overflow](https://stackoverflow.com/questions/626759/whats-the-difference-between-lists-and-tuples?noredirect=1&lq=1)
 - [satwikkansal/wtfpython: A collection of interesting, subtle, and tricky Python snippets.](https://github.com/satwikkansal/wtfpython?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
@@ -66,13 +67,20 @@
 - PyPy
 - pypy vs cython
 - makefile for python
+- best python libraries
+- python public private
+- flask, django - learn
 
 ## GUI
-- pyQt
+- PyQt
 - [Craft your own GUIs with Python and Tkinter - YouTube](https://www.youtube.com/watch?v=Wb1YFgHqUZ8)
 
 ## Networks
+- [Requests: HTTP for Humans — Requests 2.18.4 documentation](http://www.python-requests.org/en/master/) `ABSOLUTE MUST HAVE / MUST LEARN`
+- [HN Search powered by Algolia](https://hn.algolia.com/?query=&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
+- threading, multiprocessing, asyncio
 - [AsyncIO for the Working Python Developer – Hacker Noon](https://hackernoon.com/asyncio-for-the-working-python-developer-5c468e6e2e8e)
 - [AsyncIO для практикующего python-разработчика / Хабрахабр](https://habrahabr.ru/post/337420/)
 - [Asynchronous Python For The Complete Beginner - YouTube](https://www.youtube.com/watch?v=cYUr0BveIkY)
+- [I don't understand Python's Asyncio | Armin Ronacher's Thoughts and Writings](http://lucumr.pocoo.org/2016/10/30/i-dont-understand-asyncio/)
 - [c - socket connect() vs bind() - Stack Overflow](https://stackoverflow.com/questions/27014955/socket-connect-vs-bind)

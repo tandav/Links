@@ -1,5 +1,6 @@
 # Machine Learning and Data Science
 ## Good Fundamentals
+- [Machine Learning 101 slidedeck: 2 years of headbanging, so you don't have to | Hacker News](https://news.ycombinator.com/item?id=15919115) `HOT`
 - [Deep Learning - Ian Goodfellow Book](http://www.deeplearningbook.org/)
 - [Kaggle: Your Home for Data Science](https://www.kaggle.com/)
 - [Hacker's guide to Neural Networks (2012) | Hacker News](https://news.ycombinator.com/item?id=14769525)

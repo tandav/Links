@@ -63,3 +63,17 @@ You can drag and drop files to terminal for speed.
 `curl $(host github.com | head -1 | grep -Eo '[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}' |  awk '{print "ipinfo.io/" $1}')`
 
 ---
+
+store your dotfiles as symlinks (i use softlinks) and store the actual files in git. Like:
+
+```sh
+ln -s ~/Documents/life/dev/dotfiles/zshrc ~/.zshrc
+```
+
+---
+
+convert `.wav` or `.aif` to 320kbps mp3 via terminal!
+`lame -h -b 320 input.waf output.mp3`
+`lame -h -b 320 input.aif output.mp3`
+`-h` - hightst quality??
+---

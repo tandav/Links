@@ -9,3 +9,4 @@
 - [Docker Explained: Using Dockerfiles to Automate Building of Images | DigitalOcean](https://www.digitalocean.com/community/tutorials/docker-explained-using-dockerfiles-to-automate-building-of-images)
 - [Docker for Windows 17.11 supports Linux Containers | Hacker News](https://news.ycombinator.com/item?id=15776052)
 - [Полное практическое руководство по Docker: с нуля до кластера на AWS / Хабрахабр](https://habrahabr.ru/post/310460/)
+- [docker cleanup guide: containers, images, volumes, networks](https://gist.github.com/bastman/5b57ddb3c11942094f8d0a97d461b430)

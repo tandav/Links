@@ -40,3 +40,8 @@
 - [Объясняем современный JavaScript динозавру / Блог компании Mail.Ru Group / Хабрахабр](https://habrahabr.ru/company/mailru/blog/340922/)
 - [8 учебных проектов / Блог компании Edison / Хабрахабр](https://habrahabr.ru/company/edison/blog/344006/)
 - [The State of JavaScript 2017 | Hacker News](https://news.ycombinator.com/item?id=15910795)
+- [edent/SuperTinyIcons: Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos](https://github.com/edent/SuperTinyIcons)
+
+## Redux
+- redux flow - google images
+- redux state diagram - google images

@@ -1,5 +1,6 @@
 # Command Line
 - [the-art-of-command-line: Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
+- [Искусство командной строки / Хабрахабр](https://habrahabr.ru/post/262127/)
 - [awesome-osx-command-line: Use your OS X terminal shell to do awesome things.](https://github.com/herrbischoff/awesome-osx-command-line)
 - [bash-guide: A guide to learn bash](https://github.com/Idnan/bash-guide)
 - [terminals-are-sexy: 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.](https://github.com/k4m4/terminals-are-sexy)
@@ -9,6 +10,7 @@
 - [alexanderepstein/Bash-Snippets: A collection of small bash scripts for heavy terminal users](https://github.com/alexanderepstein/Bash-Snippets)
 - [Bash-Snippets: A collection of small bash scripts for heavy terminal users | Hacker News](https://news.ycombinator.com/item?id=14769384)
 - [denysdovhan/bash-handbook: For those who wanna learn Bash](https://github.com/denysdovhan/bash-handbook)
+- [Mac OSX Bash Profile](https://gist.github.com/natelandau/10654137)
 - [All commands sorted by votes | commandlinefu.com](http://www.commandlinefu.com/commands/browse/sort-by-votes)
 - [good intro to shell - Блокчейн и майнинг своими руками](https://tjournal.ru/45977-blokchein-i-maining-svoimi-rukami)
 - [10 приёмов работы в терминале Linux, о которых мало кто знает / Блог компании RUVDS.com / Хабрахабр](https://habrahabr.ru/company/ruvds/blog/336060/)
@@ -21,6 +23,8 @@
 - [Automation For The People](https://gist.github.com/classam/9e07a36aa63624ca2dda75a1367a53c6)
 - unix environment variables tutorial
 - google: `bin sbin /usr/bin /usr/sbin`
+- bash commands cheat sheet
+- bash commands map
 - [macos - What functionality do 'marks' offer in the El Capitan Terminal? - Ask Different](https://apple.stackexchange.com/questions/209635/what-functionality-do-marks-offer-in-the-el-capitan-terminal#209907)
 - Makefile, Makefile tutorial, [HN Search](https://hn.algolia.com/?query=makefile&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
     - Makefiles - very good for automation
@@ -43,6 +47,8 @@
 - [GNU Readline for Better Productivity on the Command Line | Hacker News](https://news.ycombinator.com/item?id=15670165)
 - htop network usage
 - [Chmod permissions (flags) explained: 600, 0600, 700, 777, 100 etc..](http://www.thinkplexx.com/learn/article/unix/command/chmod-permissions-flags-explained-600-0600-700-777-100-etc)
+- vlc command line tutorial
+- vlc from terminal tutorial
 
 ## Zsh / Bash
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) / [docs](https://github.com/robbyrussell/oh-my-zsh/wiki)
@@ -60,6 +66,9 @@
 - переделать bash под vim (instead of emacs): `set -o vi`
 - `tmux -CC` [Hexlet Webinar #9: Рабочее окружение и продуктивность - YouTube](https://www.youtube.com/watch?v=XNQkei5qffA&feature=youtu.be&t=42m1s)
 - bash single vs double quotes
+- rsync tutorial
+    - [Результаты поиска по запросу «rsync» / Хабрахабр](https://habrahabr.ru/search/?target_type=posts&q=rsync&order_by=rating)
+- [ZSH - Z SHELL - YouTube - YouTube](https://www.youtube.com/playlist?list=PL66D9420766CE3902)
 
 ## grep awk sed
 - [grep cheat sheet](https://gist.github.com/superDross/7b32fbb6b1cb6dffd703f6b9823b721a)

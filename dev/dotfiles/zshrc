@@ -1,6 +1,5 @@
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
-export PATH="/anaconda3/bin:$PATH"
 
 # Path to your oh-my-zsh installation.
 export ZSH=/Users/tandav/.oh-my-zsh
@@ -70,9 +69,6 @@ source $ZSH/oh-my-zsh.sh
 
 # export MANPATH="/usr/local/man:$MANPATH"
 
-# You may need to manually set your language environment
-# export LANG=en_US.UTF-8
-
 # Preferred editor for local and remote sessions
 # if [[ -n $SSH_CONNECTION ]]; then
 #   export EDITOR='vim'
@@ -101,11 +97,11 @@ export NVM_DIR="$HOME/.nvm"
 
 # cd to folder
 alias doc='cd ~/Documents/'
-alias u='cd ~/Documents/Ultrasonic-Stethoscope'
 alias nt='cd ~/Documents/Notes'
-alias uv='cd ~/Documents/Ultrasonic-Stethoscope && source activate uv'
 alias dt='cd ~/Desktop'
 alias dw='cd ~/Downloads'
+alias u='cd ~/Documents/Ultrasonic-Stethoscope'
+alias uv='cd ~/Documents/Ultrasonic-Stethoscope && source .steth/bin/activate'
 
 # apps & tools
 alias subl='/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl'
@@ -128,19 +124,21 @@ alias nks='docker stop netcracker_db'
 
 # shortcuts
 alias n='subl ~/Documents/Notes'
-alias ns='subl ~/Documents/Notes'
 alias lf='subl ~/Documents/life'
 alias o='open'
 alias python='python3.6'
 alias p3='python3.6'
 alias p3a='/anaconda3/bin/python3'
 alias p3_old='/usr/local/Cellar/python3/3.6.3/bin/python3'
-alias s='subl'
+alias s='subl' 
+# also s -a or --add: Add folders to the current window
+# or s folder1 folder2: open many folders / files in one window
 alias rc='subl ~/.zshrc'
 # activate env/ virtualenv
 alias ve='source env/bin/activate'
 alias sd='source deactivate'
 alias jn='jupyter notebook'
+alias sz='source ~/.zshrc'
 
 # websites
 alias wm='open https://www.youtube.com/playlist\?list\=PL4qBE1-4ZNC0Wam6r8MaZoUfZ8ektEVYe'

@@ -30,3 +30,5 @@
 - [Is software development really a dead-end job after age 35-40? | Hacker News](https://news.ycombinator.com/item?id=15723772)
 - [odeskconf/guide: Гайд сообщества OdeskConf о тонкостях работы на Upwork](https://github.com/odeskconf/guide)
 - [О состоянии, подготовке и реальностях работы с ИТ-кадрами за пределами городов-миллионников](https://vc.ru/29413-o-sostoyanii-podgotovke-i-realnostyah-raboty-s-it-kadrami-za-predelami-gorodov-millionnikov?from=digest)
+- [yangshun/tech-interview-handbook: 💯 Algorithms, front end and behavioral content for rocking your coding interview. 🌟 NEW: Interview Cheatsheet! 🌟](https://github.com/yangshun/tech-interview-handbook)
+- scan job positions on glassdor / hh. 

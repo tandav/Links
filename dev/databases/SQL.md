@@ -49,6 +49,7 @@
 
 ## Deep
 - [Why Uber Engineering Switched from Postgres to MySQL | Hacker News](https://news.ycombinator.com/item?id=12166585)
+- [Uber — причины перехода с Postgres на MySQL / Блог компании Southbridge / Хабрахабр](https://habrahabr.ru/company/southbridge/blog/322624/)
 - postgresql vs oracle
 - [PostgreSQL command line cheatsheet](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546)
 - [My simply MySQL Command Line Cheatsheet](https://gist.github.com/hofmannsven/9164408)
@@ -68,3 +69,4 @@
 - [Easy Steps to a Complete Understanding of SQL | Hacker News](https://news.ycombinator.com/item?id=6319870)
 - view in database
 - [SQL Indexing and Tuning e-Book for developers: Use The Index, Luke covers Oracle, MySQL, PostgreSQL, SQL Server, ...](http://use-the-index-luke.com/)
+- [The SQL Tutorial for Data Analysis | SQL Tutorial - Mode Analytics](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)

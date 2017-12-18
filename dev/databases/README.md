@@ -50,6 +50,7 @@
 - functional dependencies
 - [The Vietnam of Computer Science - HN Search](https://hn.algolia.com/?query=The%20Vietnam%20of%20Computer%20Science&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 - [Essential Complexity: Perspective is Everything: Why even the most intelligent software architects don't understand the Relational Model](http://hepburndata.blogspot.ru/2011/12/perspective-is-everything-why-even-most.html)`good`
+- [Spring Data](http://projects.spring.io/spring-data/)
 
 Alternatives to relational db:
 - Hierarchical database model
@@ -60,6 +61,7 @@ Alternatives to relational db:
 - [Google Sheets and Python - YouTube](https://www.youtube.com/watch?v=vISRn5qFrkM)
 - [Get Sheet Done — using Google Spreadsheets as your data backend](https://medium.freecodecamp.org/get-sheet-done-using-google-spreadsheets-as-your-data-backend-650ba23dc6d9)
 - [Hadoop - Just the Basics for Big Data Rookies - YouTube](https://www.youtube.com/watch?v=xYnS9PQRXTg)
+    - [Merv Adrian on Twitter: "It’s hilarious to read comments about how we live in “a world dominated by Hadoop and Spark” when the collective revenue attributable to the… https://t.co/ICbx8IHF28"](https://twitter.com/merv/status/942176285974937600)
 - [Developing Real-Time Data Pipelines with Apache Kafka - YouTube](https://www.youtube.com/watch?v=GRPLRONVDWY)
 - [Databases Courses | Coursera](https://www.coursera.org/courses?languages=en&query=databases)
 - [DataGrip: Cross-Platform IDE for Databases & SQL by JetBrains](https://www.jetbrains.com/datagrip)

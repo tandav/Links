@@ -12,6 +12,7 @@
 - [Startup School 2017 Presentations | Hacker News](https://news.ycombinator.com/item?id=14570002)
 - [Ask HN: Projects that don't make you money but you're doing it out of sheer joy? | Hacker News](https://news.ycombinator.com/item?id=14978631)
 - [Ask HN: How did you find your great side project idea? | Hacker News](https://news.ycombinator.com/item?id=14960881)
+- [Free Code Camp Project List](https://gist.github.com/KaliaHaze/633e93581ebace3bde6291e745aa209c)
 
 ---
 

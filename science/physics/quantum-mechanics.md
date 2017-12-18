@@ -66,3 +66,4 @@
 - [An Explanation of Shor's Quantum Factoring Algorithm | Hacker News](https://news.ycombinator.com/item?id=15118475)
 - [Intel Delivers 17-Qubit Superconducting Chip | Hacker News](https://news.ycombinator.com/item?id=15500182)
 - [An Interactive Introduction to Quantum Computing | Hacker News](https://news.ycombinator.com/item?id=15902190)
+- Nielsen & Chuang - Quantum Computation and Quantum Information / Нильсен М., Чанг И. Квантовые вычисления и квантовая информация

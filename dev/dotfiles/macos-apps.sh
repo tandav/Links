@@ -2,6 +2,7 @@
 brew install tldr
 brew install git
 brew install htop
+brew install python3
 
 # optional
 brew install diff-so-fancy
@@ -10,15 +11,14 @@ brew install zsh-syntax-highlighting
 brew install tree
 brew install tmux
 
-
 # Desktop Apps
 brew cask install github # github desktop (electron)
-brew cask install sourcetree
 brew cask install telegram 
 brew cask install sublime-text
-brew cask install anaconda
 
 # optional
+brew cask install anaconda
+brew cask install sourcetree
 brew cask install the-unarchiver
 brew cask install punto-switcher
 brew cask install transmission

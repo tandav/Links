@@ -1,6 +1,7 @@
 # ORM
 - orm is antipttern
 - [ORM - HN Search powered by Algolia](https://hn.algolia.com/?query=ORM&sort=byPopularity&prefix=false&page=0&dateRange=all&type=story)
+- [What ORMs have taught me: just learn SQL | Hacker News](https://news.ycombinator.com/item?id=15949144)
 - [The case against ORMs](http://korban.net/posts/postgres/2017-11-02-the-case-against-orms)
 - [ORM is an anti pattern · brettwooldridge/SansOrm Wiki](https://github.com/brettwooldridge/SansOrm/wiki/ORM-is-an-anti-pattern)
 - [Object-relational impedance mismatch - Wikipedia](https://en.wikipedia.org/wiki/Object-relational_impedance_mismatch)

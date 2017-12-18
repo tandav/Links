@@ -10,6 +10,7 @@
 - [Microsoft Azure Notebooks - Online Jupyter Notebooks](https://notebooks.azure.com/rheartpython/libraries/PythonDS101)
 
 # Fast Python
+- numpy broadcasting
 - fast python: numba, cython (both are good)
 - [Losing your Loops Fast Numerical Computing with NumPy - YouTube](https://www.youtube.com/watch?v=EEUXKG97YRw)
 - [An exercise in Python optimization: make Python benchmarks as fast, if not faster, than Julia.](https://gist.github.com/jfpuget/b53f1e15a37aba5944ad)
@@ -32,9 +33,7 @@
 - [Numba: High-Performance Python with CUDA Acceleration | Parallel Forall](https://devblogs.nvidia.com/parallelforall/numba-python-cuda-acceleration/)
 - [Numba: High-Performance Python with CUDA Acceleration | Hacker News](https://news.ycombinator.com/item?id=15301766)
 - [New Optimizations Improve Deep Learning Frameworks For CPUs](https://www.nextplatform.com/2017/10/13/new-optimizations-improve-deep-learning-frameworks-cpus/)
-- cython, cython tutorial
 - [Easily Profile Python Code in Jupyter — Random Points](http://mortada.net/easily-profile-python-code-in-jupyter.html)
-- [Cython Tutorial - Bridging between Python and C/C++ for performance gains - YouTube](https://www.youtube.com/watch?v=mXuEoqK4bEc)
 - [jfpuget’s gists](https://gist.github.com/jfpuget)
 - [Optimizing Python in the Real World: NumPy, Numba, and the NUFFT | Pythonic Perambulations](http://jakevdp.github.io/blog/2015/02/24/optimizing-python-with-numpy-and-numba/#Making-Code-Faster:-Line-Profiling)
 - [PythonSpeed/PerformanceTips - Python Wiki](https://wiki.python.org/moin/PythonSpeed/PerformanceTips)
@@ -42,3 +41,9 @@
 - [Log-likelihood benchmark](https://arogozhnikov.github.io/2015/09/08/SpeedBenchmarks.html)
 - why python multiplication is so fast
 - [JIT compiling a subset of Python to x86-64 | Hacker News](https://news.ycombinator.com/item?id=15750700)
+- [How do Ruby and Python profilers work? | Hacker News](https://news.ycombinator.com/item?id=15954042)
+
+## Cython
+- cython, cython tutorial
+- [Jake VanderPlas on Twitter: "I think Cython is actually my favorite programming language."](https://twitter.com/jakevdp/status/940602097648656390)
+- [Cython Tutorial - Bridging between Python and C/C++ for performance gains - YouTube](https://www.youtube.com/watch?v=mXuEoqK4bEc)
