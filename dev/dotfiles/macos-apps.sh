@@ -10,6 +10,7 @@ brew install maven
 brew install zsh-syntax-highlighting
 brew install tree
 brew install tmux
+brew install youtube-dl
 
 # Desktop Apps
 brew cask install github # github desktop (electron)

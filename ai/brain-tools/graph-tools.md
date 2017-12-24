@@ -62,6 +62,8 @@ Tools to control highly structured data. Just raw links for now.
 - [Org-Mode Is One of the Most Reasonable Markup Languages to Use for Text | Hacker News](https://news.ycombinator.com/item?id=15321850)
 - [Show HN: Nulis – Open Source Tree Editor for Writers | Hacker News](https://news.ycombinator.com/item?id=15256215)
 - [alexanderepstein/Bash-Snippets: A collection of small bash scripts for heavy terminal users](https://github.com/alexanderepstein/Bash-Snippets)
+- [Как научиться мыслить образами, используя визуальные аналогии / Хабрахабр](https://habrahabr.ru/post/345204/)
+- [method of loci - HN Search powered by Algolia](https://hn.algolia.com/?query=method%20of%20loci&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 
 ## D3.js trees
 - [D3 Source Treemap - bl.ocks.org](https://bl.ocks.org/mbostock/8fe6fa6ed1fa976e5dd76cfa4d816fec)

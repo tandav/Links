@@ -9,3 +9,4 @@
 - typical log locations on servers
     - `man log`
 - message queue
+- how fastcgi works

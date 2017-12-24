@@ -10,3 +10,4 @@
 - [Introducing the Keybase filesystem | Hacker News](https://news.ycombinator.com/item?id=11037257)
 - [My Top 6 Common Weaknesses Every Programmer Should Know By Heart](https://www.ynonperek.com/2017/11/09/5-common-weaknesses-every-programmer-should-know/amp/)
 - [Двенадцать советов по повышению безопасности Linux / Блог компании RUVDS.com / Хабрахабр](https://habrahabr.ru/company/ruvds/blog/343892/)
+- [Apple-centric guide to improve privacy and security for the Average Joe | Hacker News](https://news.ycombinator.com/item?id=15993392)

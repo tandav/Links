@@ -10,7 +10,10 @@
 - [Microsoft Azure Notebooks - Online Jupyter Notebooks](https://notebooks.azure.com/rheartpython/libraries/PythonDS101)
 
 # Fast Python
+- [Contributing os.scandir() to Python](http://benhoyt.com/writings/scandir/)
 - numpy broadcasting
+- [NumPy Tricks and Pitfalls | Hacker News](https://news.ycombinator.com/item?id=15996077)
+- c order vs fortran order
 - fast python: numba, cython (both are good)
 - [Losing your Loops Fast Numerical Computing with NumPy - YouTube](https://www.youtube.com/watch?v=EEUXKG97YRw)
 - [An exercise in Python optimization: make Python benchmarks as fast, if not faster, than Julia.](https://gist.github.com/jfpuget/b53f1e15a37aba5944ad)
@@ -42,6 +45,9 @@
 - why python multiplication is so fast
 - [JIT compiling a subset of Python to x86-64 | Hacker News](https://news.ycombinator.com/item?id=15750700)
 - [How do Ruby and Python profilers work? | Hacker News](https://news.ycombinator.com/item?id=15954042)
+- [IPython Books - Getting the Best Performance out of NumPy](http://ipython-books.github.io/featured-01/)
+- [4. NumPy Basics: Arrays and Vectorized Computation - Python for Data Analysis [Book]](https://www.safaribooksonline.com/library/view/python-for-data/9781449323592/ch04.html)
+- [Jake VanderPlas on Twitter: "Jupyter notebook tip: use PIL to view an array as an image in a very fast, lightweight way: https://t.co/Cl52d6xqv3"](https://mobile.twitter.com/jakevdp/status/939887746134323201)
 
 ## Cython
 - cython, cython tutorial

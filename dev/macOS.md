@@ -10,3 +10,4 @@
     - applescript tutorial
 - [Anyways too personalize MacOS more ? : unixporn](https://www.reddit.com/r/unixporn/comments/5cfaik/anyways_too_personalize_macos_more/)
 - [A true twm for macOS? think i3. x-post from r/osxtweaks : unixporn](https://www.reddit.com/r/unixporn/comments/5cowoq/a_true_twm_for_macos_think_i3_xpost_from/)
+- arch vs macos on macbook

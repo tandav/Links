@@ -20,7 +20,7 @@
 - [awesome-jvm: A curated list of awesome loosely performance related JVM stuff. Inspired by awesome-python.](https://github.com/deephacks/awesome-jvm)
 
 ---
-
+- [Блеск и нищета джавовых веб-фреймворков / Блог компании JUG.ru Group / Хабрахабр](https://habrahabr.ru/company/jugru/blog/345036/)
 - [Why should I learn Java in 2017? - Quora](https://www.quora.com/Why-should-I-learn-Java-in-2017)
 - [Highest Voted 'java' Questions - Stack Overflow](https://stackoverflow.com/questions/tagged/java)
 - java annotations
@@ -34,6 +34,7 @@
 - java reflection
 - collections, generics
 - [java - When should I use "this" in a class? - Stack Overflow](https://stackoverflow.com/questions/2411270/when-should-i-use-this-in-a-class)
+- openjdk vs oracle jdk
 
 ## Deep Java
 - [Spring vs. Java EE | Hacker News](https://news.ycombinator.com/item?id=14073087)
@@ -56,3 +57,12 @@
 - Bruce Eckel - Thinking in Java
 - [maven - HN Search powered by Algolia](https://hn.algolia.com/?query=maven&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 - why i hate java
+- [hn, reddit, stackoverflow] best on java / jvm / jdk
+- classpath
+- java module vs package
+- what are beans java
+- java default parameters
+- [Java Annotations Are Evil (in Russian with English subtitles) - YouTube](https://www.youtube.com/watch?time_continue=8&v=20QBvrHq6TA)
+- [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+- coffee script for java
+    - [??? significant-white-space: Experimental: Transforms curly-brace source code (C, Java, JS, Haxe) to and from meaningful indentation layout (as seen in Python and Coffeescript). Written in Haxe.](https://github.com/joeytwiddle/significant-white-space)

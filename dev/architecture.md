@@ -12,3 +12,4 @@
 - [Ask HN: CS Papers for software architecture/design? | Hacker News](https://news.ycombinator.com/item?id=15775548)
 - [12 Best Articles to Read](http://www.yegor256.com/best.html)
 - [Слои, Луковицы, Гексогоны, Порты и Адаптеры — всё это об одном / Хабрахабр](https://habrahabr.ru/post/344164/)
+- functional vs oop, fp vs oop

@@ -76,4 +76,15 @@ convert `.wav` or `.aif` to 320kbps mp3 via terminal!
 `lame -h -b 320 input.waf output.mp3`
 `lame -h -b 320 input.aif output.mp3`
 `-h` - hightst quality??
+
+---
+
+Set 3x speed of youtube video (of course you can use any number)
+
+```js
+document.getElementsByTagName('video')[0].playbackRate = 3
+```
+
+Videos with higher speed than "4" won't have any sound.
+
 ---

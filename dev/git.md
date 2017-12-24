@@ -63,6 +63,7 @@
 - [The Advanced Git Guide | Toptal](https://www.toptal.com/git/the-advanced-git-guide)
 - [git-flight-rules: Flight rules for git](https://github.com/k88hudson/git-flight-rules?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
 - [Oh shit, git: Getting myself out of bad situations | Hacker News](https://news.ycombinator.com/item?id=15951825)
+- [Git снизу вверх / Блог компании Intel / Хабрахабр](https://habrahabr.ru/company/intel/blog/344962/)
 
 ## Rebase
 - [Почему нужно перестать использовать Git rebase / Блог компании Mail.Ru Group / Хабрахабр](https://habrahabr.ru/company/mailru/blog/340558/)

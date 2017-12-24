@@ -26,10 +26,6 @@
 - bash commands cheat sheet
 - bash commands map
 - [macos - What functionality do 'marks' offer in the El Capitan Terminal? - Ask Different](https://apple.stackexchange.com/questions/209635/what-functionality-do-marks-offer-in-the-el-capitan-terminal#209907)
-- Makefile, Makefile tutorial, [HN Search](https://hn.algolia.com/?query=makefile&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
-    - Makefiles - very good for automation
-    - [How to make a SIMPLE C++ Makefile? - Stack Overflow](https://stackoverflow.com/questions/2481269/how-to-make-a-simple-c-makefile#2481326)
-    - [Makefiles – Mrbook's Stuff](http://mrbook.org/blog/tutorials/make/)
 - [UNIX-подобные системы содержат кучу костылей. Крах «философии UNIX» / Хабрахабр](https://habrahabr.ru/post/321652/)
 - linux administrator must know
 - what every sysadmin should know
@@ -43,12 +39,13 @@
 - [Shell Scripting Tutorial - YouTube](https://www.youtube.com/watch?v=hwrnmQumtPw)
 - [Simple note taking from the command line | Hacker News](https://news.ycombinator.com/item?id=15377015)
 - [tutoriaLinux - YouTube](https://www.youtube.com/channel/UCvA_wgsX6eFAOXI8Rbg_WiQ/videos?disable_polymer=1)
-- [Afraid of Makefiles? Don't be | Hacker News](https://news.ycombinator.com/item?id=15041986)
 - [GNU Readline for Better Productivity on the Command Line | Hacker News](https://news.ycombinator.com/item?id=15670165)
 - htop network usage
 - [Chmod permissions (flags) explained: 600, 0600, 700, 777, 100 etc..](http://www.thinkplexx.com/learn/article/unix/command/chmod-permissions-flags-explained-600-0600-700-777-100-etc)
 - vlc command line tutorial
 - vlc from terminal tutorial
+- [Command-line tools can be faster than your Hadoop cluster | Hacker News](https://news.ycombinator.com/item?id=8908462)
+- cron
 
 ## Zsh / Bash
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) / [docs](https://github.com/robbyrussell/oh-my-zsh/wiki)
@@ -69,6 +66,10 @@
 - rsync tutorial
     - [Результаты поиска по запросу «rsync» / Хабрахабр](https://habrahabr.ru/search/?target_type=posts&q=rsync&order_by=rating)
 - [ZSH - Z SHELL - YouTube - YouTube](https://www.youtube.com/playlist?list=PL66D9420766CE3902)
+- [Fish: A user-friendly command line shell for macOS, Linux, etc | Hacker News](https://news.ycombinator.com/item?id=15910897)
+- zsh alias tutorial
+- bash alias tutorial
+- bash should i use quotes on variables
 
 ## grep awk sed
 - [grep cheat sheet](https://gist.github.com/superDross/7b32fbb6b1cb6dffd703f6b9823b721a)

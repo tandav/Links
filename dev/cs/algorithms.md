@@ -1,0 +1,15 @@
+# Algorithms
+- [Big-O Algorithm Complexity Cheat Sheet](http://bigocheatsheet.com/)
+- [A Gentle Introduction to Algorithm Complexity Analysis](http://discrete.gr/complexity/)
+- karatsuba multiplication
+- [Russian Peasant Multiplication | Hacker News](https://news.ycombinator.com/item?id=15660301)
+- [Разработка высокоскоростного ведического умножителя с использованием техник ведической математики / Хабрахабр](https://habrahabr.ru/post/341286/)
+- [p vs np explained - Google Search](https://www.google.ru/search?q=p+vs+np+explained)
+- [The real 10 algorithms that dominate our world – Marcos Otero – Medium](https://medium.com/@_marcos_otero/the-real-10-algorithms-that-dominate-our-world-e95fa9f16c04)
+- [best algorithms - Google Search](https://www.google.ru/search?q=best+algorithms)
+- [H.264 is Magic | Hacker News](https://news.ycombinator.com/item?id=12871403)
+- [Pygorithm – A Python module for learning major algorithms | Hacker News](https://news.ycombinator.com/item?id=14952269)
+- [Rendering the Mandelbrot Set in JS](https://csl.name/post/mandelbrot-rendering/)
+- how grep works | why grep so fast | full-text search | ripgrep
+- [cs-playground-react/RESOURCES.md at master · no-stack-dub-sack/cs-playground-react](https://github.com/no-stack-dub-sack/cs-playground-react/blob/master/RESOURCES.md)
+- hashmap: fast addition and search (`O(1)`). Нужно чтобы равномерно распределялось по карзинкам. Иначе будет тормозить как список.

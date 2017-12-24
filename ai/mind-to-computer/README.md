@@ -17,3 +17,4 @@ Tryna move human consciousness from biological/protein hardware to computer/sili
 - [Медиамагнат Дмитрий Ицков планирует жить вечно, загрузив свою личность в робота / Geektimes](https://geektimes.ru/post/272674/)
 - [Darpa Wants Brain Implants That Record from 1M Neurons | Hacker News](https://news.ycombinator.com/item?id=14736254)
 - [Why is Elon Musk Connecting Brains to the Internet? - YouTube](https://www.youtube.com/watch?v=5YxzWnbqaJI)
+- [ЧЕЛОВЕЧЕСКОЕ СОЗНАНИЕ. ПЕРЕНЕСТИ НЕЛЬЗЯ СКОПИРОВАТЬ? / Geektimes](https://geektimes.ru/post/296555/)

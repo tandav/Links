@@ -1,0 +1,11 @@
+# Books
+- Gödel, Escher, Bach - Must Read, [related stuff](https://news.ycombinator.com/item?id=13995609)
+    - [godel escher bach review - Google Search](https://www.google.com/search?q=godel+escher+bach+review)
+    - [what is godel escher bach about - Google Search](https://www.google.com/search?q=what+is+godel+escher+bach+about)
+- [Top Hacker News Books of All Time](http://hackernewsbooks.com/top-books-on-hacker-news)
+- [Top Books on Amazon Based on Links in Hacker News Comments | Hacker News](https://news.ycombinator.com/item?id=10924741)
+- SICP
+- [Alan Kay Answers “Is There a Successor to Smalltalk?” | Hacker News](https://news.ycombinator.com/item?id=15518746)
+- [Alan Kay on Lisp | Hacker News](https://news.ycombinator.com/item?id=15558861)
+- [Classic Papers: Articles That Have Stood the Test of Time | Hacker News](https://news.ycombinator.com/item?id=14575501)
+- [How to Design Programs - Wikipedia](https://en.m.wikipedia.org/wiki/How_to_Design_Programs)

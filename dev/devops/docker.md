@@ -14,3 +14,4 @@
 - [How to get bash or ssh into a running container in background mode? - Ask Ubuntu](https://askubuntu.com/questions/505506/how-to-get-bash-or-ssh-into-a-running-container-in-background-mode#507009)
 - docker networking
 - entrypoint vs cmd. cmd can be overwriten in docker run. entrypoint cant
+- vagrant vs docker

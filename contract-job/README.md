@@ -13,19 +13,23 @@ i'm learning this things:
     - jsp??, servlets??
     - unit tests
     - maven
+- networks
 
-## 2nd specialisation: ML, Data Science
+## 2nd specialisation: python
 `learning log` `projects`
-
-- ML math
-- models
 - scientific python
+- core python
+- standard library
 - frameworks
-- common tasks
-
-## 3nd specialisation: Django Backend??
-- Django ??
-
+    - django
+    - requests
+    - flask
+    - etc ...)
+- can write small python scripts for everyday use
+- some ML
+    - Data Science, common tasks
+    - Statistics, Linear Algebra, Probability, ML math
+    - AI
 
 ---
 

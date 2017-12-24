@@ -1,0 +1,11 @@
+# Functional Programming
+- [«Паттерны» функционального программирования / Хабрахабр](https://habrahabr.ru/post/337880/)
+- [MapReduce или подсчеты за пределами возможностей памяти и процессора (попробую без зауми) / Хабрахабр](https://habrahabr.ru/post/103467/)
+- [Functional Programming Jargon | Hacker News](https://news.ycombinator.com/item?id=15641701)
+    - [Жаргон функционального программирования / Хабрахабр](https://habrahabr.ru/post/310172/)
+- [Beating the Averages](http://paulgraham.com/avg.html)
+- [COMMENTS: Opinions on functional programming and OCaml | Hacker News](https://news.ycombinator.com/item?id=15994457)
+- procedure programming vs functional
+- [OO vs FP - Clean Coder Blog](http://blog.cleancoder.com/uncle-bob/2014/11/24/FPvsOO.html)
+- [Неофициальный путеводитель по мозгу Рича Хики / Хабрахабр](https://habrahabr.ru/post/161885/)
+- why immutability is important

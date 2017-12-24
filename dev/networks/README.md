@@ -3,6 +3,7 @@
 - [alex/what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"](https://github.com/alex/what-happens-when)
 - [Big list of http static server one-liners](https://gist.github.com/willurd/5720255)
 - HTTP/2
+- http protocol, all about it
 - tshark one liners
 - computer networks crash course
 - [Network Protocols | Hacker News](https://news.ycombinator.com/item?id=14468471)
@@ -28,3 +29,11 @@
 - how tcp chooses destination port
 - vlan tutorial
 - [A curl tutorial using GitHub's API](https://gist.github.com/caspyin/2288960)
+- [Why Rebooting Your Router Fixes So Many Problems (and Why You Have to Wait 10 Seconds)](https://www.howtogeek.com/165110/do-i-really-have-to-unplug-my-cable-modem-for-at-least-10-seconds/)
+- CORS - get allowed, post - only some of them, other forbidden
+- [Explain TCP like I'm five](https://dev.to/ben/explain-tcp-like-im-five)
+- [networking - How to use host names rather than ip addresses on home network? - Ask Ubuntu](https://askubuntu.com/questions/150617/how-to-use-host-names-rather-than-ip-addresses-on-home-network)
+- ip ranges / rfc 1918
+- vlan == broadcast domain 
+- we give ip to switches only when we want it to be controlled via internet
+- how skype beats NAT

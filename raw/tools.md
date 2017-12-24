@@ -13,6 +13,7 @@
 - [MediaHuman Audio Converter](https://www.mediahuman.com/audio-converter/)
 - [eqMac2 - System-wide Audio Equalizer for the Mac](https://github.com/romankisil/eqMac2)
 - [Punto Switcher](https://yandex.ru/soft/punto/)
+- [youtube-dl/README.md at master · rg3/youtube-dl](https://github.com/rg3/youtube-dl/blob/master/README.md#readme)
 
 ---
 

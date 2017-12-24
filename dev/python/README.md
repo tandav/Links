@@ -1,4 +1,5 @@
 # Python
+- [Flake8 Rules](https://lintlyci.github.io/Flake8Rules/?utm_campaign=read_more&utm_medium=blog&utm_source=mybridge)
 - [Functional Programming in Python [pdf] | Hacker News](https://news.ycombinator.com/item?id=15245095)
 - [Hy – A Lisp-flavored Python | Hacker News](https://news.ycombinator.com/item?id=14909786)
 - [Alice in Python projectland | Hacker News](https://news.ycombinator.com/item?id=15378487)
@@ -38,8 +39,11 @@
 - [repr - Difference between __str__ and __repr__ in Python - Stack Overflow](https://stackoverflow.com/questions/1436703/difference-between-str-and-repr-in-python#2626364)
 - [python exceptions - HN Search powered by Algolia](https://hn.algolia.com/?query=python%20exceptions&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 - [Understanding Python super() with __init__() methods - Stack Overflow](https://stackoverflow.com/questions/576169/understanding-python-super-with-init-methods)
-- [norvig/pytudes: Python programs to practice or demonstrate skills.](https://github.com/norvig/pytudes)
+- [Norvig's Python programs to practice or demonstrate skills | Hacker News](https://news.ycombinator.com/item?id=15787023)
 - read python stdlib source (examples of excellent python code style and tips)
+- [good python code to read](http://benhoyt.com/projects/)
+- [python - What's the scope of a variable initialized in an if statement? - Stack Overflow](https://stackoverflow.com/questions/2829528/whats-the-scope-of-a-variable-initialized-in-an-if-statement)
+- [Dive Into Python 3](http://www.diveintopython3.net/index.html)
 
 ## Package managers
 - virtualenv vs virtualenvwrapper. Короче, пока don't use wrapper. Use virtualenv only
@@ -70,6 +74,8 @@
 - best python libraries
 - python public private
 - flask, django - learn
+- python special methods
+- python type annotations
 
 ## GUI
 - PyQt
