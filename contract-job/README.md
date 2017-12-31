@@ -20,12 +20,12 @@ i'm learning this things:
 - scientific python
 - core python
 - standard library
-- frameworks
+- cool python libs
     - django
     - requests
     - flask
-    - etc ...)
-- can write small python scripts for everyday use
+    - etc ...
+- should easily write small python scripts for everyday use
 - some ML
     - Data Science, common tasks
     - Statistics, Linear Algebra, Probability, ML math

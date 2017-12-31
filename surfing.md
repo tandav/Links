@@ -4,7 +4,7 @@
 - [YouTube](https://www.youtube.com/) | [My Library](placeholder.md)
 - [Twitter](https://twitter.com) | [Who I follow](https://twitter.com/tandavaya/following)
 - [Quora](https://www.quora.com/)
-- [Stack Exchange](http://stackexchange.com/sites)
+- [Stack Exchange](http://stackexchange.com/sites) | [Hot Questions](https://stackexchange.com/questions?tab=hot)
 - [reddit](https://www.reddit.com/)
 
 ## News
@@ -14,7 +14,6 @@
 - [The GitHub Blog](https://github.com/blog/category/all)
 - [GitHub Trending](https://github.com/trending)
 - [Discover Starred gists](https://gist.github.com/starred)
-- [Hot Questions - Stack Exchange](https://stackexchange.com/questions?tab=hot)
 - [Google Blog](https://blog.google/)
 - [research.googleblog.com](https://research.googleblog.com/)
 - [Product Hunt](https://www.producthunt.com/)
@@ -52,3 +51,8 @@
 - [Readspike – Simple news aggregator | Hacker News](https://news.ycombinator.com/item?id=15532469)
 - [HackerNews Grid | Hacker News](https://news.ycombinator.com/item?id=15078605)
 - [Show HN: Reddit Grid – A better way to browse subreddits that are very visual | Hacker News](https://news.ycombinator.com/item?id=15337342)
+
+## Unsubscribed 
+good content sometimes but too much noise
+- [Google Developers - YouTube](https://www.youtube.com/user/GoogleDevelopers)
+- [Google Developers - YouTube](https://www.youtube.com/user/GoogleDevelopers)

@@ -88,3 +88,11 @@ document.getElementsByTagName('video')[0].playbackRate = 3
 Videos with higher speed than "4" won't have any sound.
 
 ---
+
+google images slideshow
+
+```js
+setInterval(() => document.getElementById('irc_ra').click(), 100)
+```
+
+---

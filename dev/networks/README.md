@@ -24,6 +24,7 @@
 - subnet mask tutorial (start from YT)
 - subnets
 - [Hub, Switch or Router? Network Devices Explained - YouTube](https://www.youtube.com/watch?v=Ofjsh_E4HFY)
+- layer 3 switch vs router
 - colon slash slash protocol
 - why we need both mac and ip
 - how tcp chooses destination port
@@ -37,3 +38,7 @@
 - vlan == broadcast domain 
 - we give ip to switches only when we want it to be controlled via internet
 - how skype beats NAT
+- subnet masks cheat sheet
+- [computer networks - HN Search powered by Algolia](https://hn.algolia.com/?query=computer%20networks&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
+- [Highest Voted Questions - Network Engineering Stack Exchange](https://networkengineering.stackexchange.com/questions)
+- [Introduction to RAW-sockets [pdf] | Hacker News](https://news.ycombinator.com/item?id=16039467)

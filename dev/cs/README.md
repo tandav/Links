@@ -1,4 +1,5 @@
 # Computer Science
+- [ossu/computer-science: Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
 - [Marshalling (computer science) - Wikipedia](https://en.m.wikipedia.org/wiki/Marshalling_(computer_science))
 - [List of unsolved problems in computer science - Wikipedia](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_computer_science)
 - [Ask HN: What is your favorite CS paper? | Hacker News](https://news.ycombinator.com/item?id=15089476)

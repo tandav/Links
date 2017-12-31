@@ -22,6 +22,7 @@
 - [A minimalist guide to tmux | Hacker News](https://news.ycombinator.com/item?id=15776995)
 - [Automation For The People](https://gist.github.com/classam/9e07a36aa63624ca2dda75a1367a53c6)
 - unix environment variables tutorial
+- how to use environment variables
 - google: `bin sbin /usr/bin /usr/sbin`
 - bash commands cheat sheet
 - bash commands map
@@ -70,6 +71,7 @@
 - zsh alias tutorial
 - bash alias tutorial
 - bash should i use quotes on variables
+- curl post example
 
 ## grep awk sed
 - [grep cheat sheet](https://gist.github.com/superDross/7b32fbb6b1cb6dffd703f6b9823b721a)

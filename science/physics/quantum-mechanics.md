@@ -6,6 +6,7 @@
 - [quantum mechanics - Hacker News Search](https://hn.algolia.com/?query=quantum%20mechanics&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 - [Часть 21 из 74 - Хокинг Стивен. Краткая история времени от большого взрыва до черных дыр](http://www.x-libri.ru/elib/hwkng000/00000021.htm#a7)
 - [Квантовый компьютер - Википедия](https://ru.wikipedia.org/wiki/Квантовый_компьютер)
+- quantum entanglement experimental proof
 
 ## Popular / Not Very Deep
 - [Quantum computing - YouTube](https://www.youtube.com/watch?v=WgFValkblLQ)

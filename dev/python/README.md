@@ -1,4 +1,5 @@
 # Python
+- [Python glob multiple filetypes - Stack Overflow](https://stackoverflow.com/questions/4568580/python-glob-multiple-filetypes)
 - [Flake8 Rules](https://lintlyci.github.io/Flake8Rules/?utm_campaign=read_more&utm_medium=blog&utm_source=mybridge)
 - [Functional Programming in Python [pdf] | Hacker News](https://news.ycombinator.com/item?id=15245095)
 - [Hy – A Lisp-flavored Python | Hacker News](https://news.ycombinator.com/item?id=14909786)
@@ -41,9 +42,13 @@
 - [Understanding Python super() with __init__() methods - Stack Overflow](https://stackoverflow.com/questions/576169/understanding-python-super-with-init-methods)
 - [Norvig's Python programs to practice or demonstrate skills | Hacker News](https://news.ycombinator.com/item?id=15787023)
 - read python stdlib source (examples of excellent python code style and tips)
-- [good python code to read](http://benhoyt.com/projects/)
+    - [good python code to read](http://benhoyt.com/projects/)
+    - [good python code to read · google/adb-sync](https://github.com/google/adb-sync/blob/master/adb-sync)
 - [python - What's the scope of a variable initialized in an if statement? - Stack Overflow](https://stackoverflow.com/questions/2829528/whats-the-scope-of-a-variable-initialized-in-an-if-statement)
 - [Dive Into Python 3](http://www.diveintopython3.net/index.html)
+- [subprocess — replacement for `os.system`](https://docs.python.org/3/library/subprocess.html#module-subprocess)
+    - python os.system vs subprocess
+- python f strings
 
 ## Package managers
 - virtualenv vs virtualenvwrapper. Короче, пока don't use wrapper. Use virtualenv only

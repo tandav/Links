@@ -20,6 +20,7 @@
 - how to become black hat hacker
 - how to become hacker
 - [The Verge on Twitter: "Should you put tape over your webcam? https://t.co/JA5wYaZ4yw"](https://twitter.com/verge/status/924124572047228929)
+- [danielmiessler/SecLists: SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, and many more.](https://github.com/danielmiessler/SecLists)
 
 ## hacker tools
 - [wtsxDev/reverse-engineering: List of awesome reverse engineering resources](https://github.com/wtsxDev/reverse-engineering)

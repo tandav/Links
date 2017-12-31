@@ -1,4 +1,6 @@
 # Raw Links
+- [Good books for deep hacks | Hacker News](https://news.ycombinator.com/item?id=16039674)
+- [Пол Грэм. Все статьи на русском. Два года спустя / Блог компании Philtech-акселератор / Хабрахабр](https://habrahabr.ru/company/philtech/blog/341180/)
 - [InfoQ - YouTube - YouTube](https://www.youtube.com/user/MarakanaTechTV/videos?view=0&sort=p&shelf_id=6)
 - [Learn web development – MDN web docs | Hacker News](https://news.ycombinator.com/item?id=15902811)
 - [Popular Tutorials | DigitalOcean](https://www.digitalocean.com/community/tutorials?primary_filter=popular)
@@ -80,6 +82,7 @@
 - [Academic Tutorials](https://www.tutorialspoint.com/academic_tutorials.htm)
 - [things i wish - HN Search powered by Algolia](https://hn.algolia.com/?query=&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 - bottom up, from the bottom up - hn.algolia search
+- top-down - hn.algolia search
 - [Software Engineering Blog & Programming Tutorials | Toptal | Page 1 of 22](https://www.toptal.com/developers/blog)
 - [Julia Evans - Julia Evans](https://jvns.ca/)
 - [Self-Control Relies on Glucose as a Limited Energy Source (2007) | Hacker News](https://news.ycombinator.com/item?id=15543486)

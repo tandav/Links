@@ -12,3 +12,5 @@
 - [simd - HN Search powered by Algolia](https://hn.algolia.com/?query=simd&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 - [How do computers read code? - YouTube](https://www.youtube.com/watch?v=QXjU9qTsYCc)
 - [Стоимость операций в тактах ЦП / Блог компании Отус / Хабрахабр](https://habrahabr.ru/company/otus/blog/343566/)
+- [Computer latency: 1977-2017 | Hacker News](https://news.ycombinator.com/item?id=16001407)
+    - [Время отклика компьютеров: 1977−2017 / Хабрахабр](https://habrahabr.ru/post/345584/)

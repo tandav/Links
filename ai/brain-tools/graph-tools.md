@@ -64,6 +64,7 @@ Tools to control highly structured data. Just raw links for now.
 - [alexanderepstein/Bash-Snippets: A collection of small bash scripts for heavy terminal users](https://github.com/alexanderepstein/Bash-Snippets)
 - [Как научиться мыслить образами, используя визуальные аналогии / Хабрахабр](https://habrahabr.ru/post/345204/)
 - [method of loci - HN Search powered by Algolia](https://hn.algolia.com/?query=method%20of%20loci&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
+- screenshots are like anki cards / very good for spaced repetitions
 
 ## D3.js trees
 - [D3 Source Treemap - bl.ocks.org](https://bl.ocks.org/mbostock/8fe6fa6ed1fa976e5dd76cfa4d816fec)

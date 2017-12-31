@@ -18,6 +18,7 @@
 - [JVM ( java virtual machine) architecture - tutorial - YouTube](https://www.youtube.com/watch?v=ZBJ0u9MaKtM)
 - [jvm - HN Search powered by Algolia](https://hn.algolia.com/?query=jvm&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 - [awesome-jvm: A curated list of awesome loosely performance related JVM stuff. Inspired by awesome-python.](https://github.com/deephacks/awesome-jvm)
+- [Quick Tips for Fast Code on the JVM | Hacker News](https://news.ycombinator.com/item?id=16039943)
 
 ---
 - [Блеск и нищета джавовых веб-фреймворков / Блог компании JUG.ru Group / Хабрахабр](https://habrahabr.ru/company/jugru/blog/345036/)
@@ -66,3 +67,4 @@
 - [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 - coffee script for java
     - [??? significant-white-space: Experimental: Transforms curly-brace source code (C, Java, JS, Haxe) to and from meaningful indentation layout (as seen in Python and Coffeescript). Written in Haxe.](https://github.com/joeytwiddle/significant-white-space)
+- [Шпаргалки Java программиста 9: Java SE — Шпаргалка для собеседований и повторений / Хабрахабр](https://habrahabr.ru/post/314386/)

@@ -1,5 +1,5 @@
 # this theme can work in Terminal.app without any problems
-POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(context dir dir_writable vcs virtualenv anaconda)
+POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(context dir dir_writable vcs virtualenv anaconda) # check speedup, slow of startup, del unneeded
 POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=()
 
 # truncate dir path
