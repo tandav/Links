@@ -64,6 +64,7 @@
 - переделать bash под vim (instead of emacs): `set -o vi`
 - `tmux -CC` [Hexlet Webinar #9: Рабочее окружение и продуктивность - YouTube](https://www.youtube.com/watch?v=XNQkei5qffA&feature=youtu.be&t=42m1s)
 - bash single vs double quotes
+    - [bash - Why does my shell script choke on whitespace or other special characters? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/131766/why-does-my-shell-script-choke-on-whitespace-or-other-special-characters)
 - rsync tutorial
     - [Результаты поиска по запросу «rsync» / Хабрахабр](https://habrahabr.ru/search/?target_type=posts&q=rsync&order_by=rating)
 - [ZSH - Z SHELL - YouTube - YouTube](https://www.youtube.com/playlist?list=PL66D9420766CE3902)

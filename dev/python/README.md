@@ -81,6 +81,8 @@
 - flask, django - learn
 - python special methods
 - python type annotations
+- subprocess vs os.system
+-  argparse vs docopt vs click
 
 ## GUI
 - PyQt

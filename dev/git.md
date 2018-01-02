@@ -20,6 +20,7 @@
 - [How to master the art of Git – Hacker Noon](https://hackernoon.com/how-to-master-the-art-of-git-68e1050f3147#.imjqh4w06)
 - [Git faster with mingit](https://dev.to/sendra/git-faster-with-mingit)
 - [Безболезненное разрешение Merge конфликтов в Git / Хабрахабр](https://habrahabr.ru/post/323234/)
+- [GitUp](http://gitup.co/)
 - [Getting started with SourceTree, Git and git flow · GSoft-SharePoint/Dynamite Wiki](https://github.com/GSoft-SharePoint/Dynamite/wiki/Getting-started-with-SourceTree,-Git-and-git-flow)
 - [GitHub Flow: рабочий процесс Гитхаба / Хабрахабр](https://habrahabr.ru/post/189046/)
 - [How I Git](https://dev.to/andydangerous/how-i-git)
@@ -70,3 +71,4 @@
 - [Mastering Git — Why Rebase is amazing – Hacker Noon](https://hackernoon.com/mastering-git-why-rebase-is-amazing-a954485b128a)
 - [merge vs rebase - Google Search](https://www.google.com/search?q=merge+vs+rebase&oq=merge+vs+rebase)
 - [How to Rebase a Pull Request · edx/edx-platform Wiki](https://github.com/edx/edx-platform/wiki/How-to-Rebase-a-Pull-Request)
+- [Master the Rebase (and the Other Way Around) - Milliseconds Matter](https://blog.algolia.com/master-git-rebase/?utm_campaign=hackernewsletter&utm_source=hackernewsletter&utm_medium=email&utm_term=native)

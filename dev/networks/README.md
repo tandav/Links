@@ -42,3 +42,5 @@
 - [computer networks - HN Search powered by Algolia](https://hn.algolia.com/?query=computer%20networks&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 - [Highest Voted Questions - Network Engineering Stack Exchange](https://networkengineering.stackexchange.com/questions)
 - [Introduction to RAW-sockets [pdf] | Hacker News](https://news.ycombinator.com/item?id=16039467)
+- [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/)
+- [Programmer's guide to the Computer Networking galaxy | Zero Equals False](https://www.zeroequalsfalse.press/2017/09/16/networks/)

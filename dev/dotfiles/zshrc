@@ -141,6 +141,8 @@ alias rc='subl ~/.zshrc'
 alias ve='source env/bin/activate'
 alias sd='source deactivate'
 alias jn='jupyter notebook'
+alias jnt='jupyter notebook ~/Documents/temp.ipynb' # temporary python
+
 alias sz='source ~/.zshrc'
 
 # websites

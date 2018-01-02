@@ -27,6 +27,7 @@
 - [A Concrete Introduction to Probability (using Python)](http://nbviewer.jupyter.org/url/norvig.com/ipython/Probability.ipynb)
 - [Frequentism and Bayesianism: What's the Big Deal? | SciPy 2014 | Jake VanderPlas - YouTube](https://www.youtube.com/watch?v=KhAUfqhLakw)
 - salary: why use median instead of mean
+- [Modes, Medians and Means: A Unifying Perspective | Hacker News](https://news.ycombinator.com/item?id=15946239&utm_term=comment)
 - distribution vs probability density function
 
 ## Standard Deviation vs Abs Deviation

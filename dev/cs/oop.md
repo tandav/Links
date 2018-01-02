@@ -11,3 +11,4 @@
 - inheritance without oop
 - Composition vs. Inheritance
 - HN-search: `oop for beginners`, `oop basics`, `oop`
+- [What is Alan Kay's definition of Object Oriented? - Quora](https://www.quora.com/What-is-Alan-Kays-definition-of-Object-Oriented)

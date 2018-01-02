@@ -77,6 +77,7 @@ Alternatives to relational db:
 - [Why I’m dumping Firebase for Web | Hacker News](https://news.ycombinator.com/item?id=14962567)
 - [Debugging PostgreSQL performance the hard way | Hacker News](https://news.ycombinator.com/item?id=12606480)
 - [ZFS from a MySQL perspective | Hacker News](https://news.ycombinator.com/item?id=15722135)
+- [PostgreSQL Exercises | Hacker News](https://news.ycombinator.com/item?id=15859849&utm_term=comment)
 
 ---
 

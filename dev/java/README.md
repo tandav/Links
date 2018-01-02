@@ -3,12 +3,19 @@
 - why use domain in java packages
 - passed by value or passed by reference in java
 - java modules vs packages
+- java core / standard library
+- effective java - joshua bloch
 
 ## Other
 - java logging
 - java unittesting
 - java multithreading (Google, HN, YT, thinking in java)
 
+## Performance
+- [Why are only a few video games written in Java? - Stack Overflow](https://stackoverflow.com/questions/1034458/why-are-only-a-few-video-games-written-in-java)
+- [Quick Tips for Fast Code on the JVM | Hacker News](https://news.ycombinator.com/item?id=16039943)
+- fast java, java performance tips
+- [Java and Performance: Biggest Mistakes - YouTube](https://www.youtube.com/watch?v=IBkxiWmjM-g)
 
 ## JVM, bytecode
 - jvm vs compiled languages
@@ -18,7 +25,6 @@
 - [JVM ( java virtual machine) architecture - tutorial - YouTube](https://www.youtube.com/watch?v=ZBJ0u9MaKtM)
 - [jvm - HN Search powered by Algolia](https://hn.algolia.com/?query=jvm&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 - [awesome-jvm: A curated list of awesome loosely performance related JVM stuff. Inspired by awesome-python.](https://github.com/deephacks/awesome-jvm)
-- [Quick Tips for Fast Code on the JVM | Hacker News](https://news.ycombinator.com/item?id=16039943)
 
 ---
 - [Блеск и нищета джавовых веб-фреймворков / Блог компании JUG.ru Group / Хабрахабр](https://habrahabr.ru/company/jugru/blog/345036/)
@@ -39,9 +45,7 @@
 
 ## Deep Java
 - [Spring vs. Java EE | Hacker News](https://news.ycombinator.com/item?id=14073087)
-- fast java, java performance tips
 - [Alibaba-Java-Coding-Guidelines](https://alibaba.github.io/Alibaba-Java-Coding-Guidelines/)
-- [Java and Performance: Biggest Mistakes - YouTube](https://www.youtube.com/watch?v=IBkxiWmjM-g)
 - [How to Write Memory-Efficient Java Code - YouTube](https://www.youtube.com/watch?v=f2aNWtt0QRo)
 - [Effective and Clean Java Code? Tips and Tricks from the Real World - YouTube](https://www.youtube.com/watch?v=uOrk8mZmjaM)
 - [10,000 Java performance tips over 15 years - what did I learn? by Jack Shirazi - YouTube](https://www.youtube.com/watch?v=OYpTn0nWKR4)
@@ -58,6 +62,7 @@
 - Bruce Eckel - Thinking in Java
 - [maven - HN Search powered by Algolia](https://hn.algolia.com/?query=maven&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 - why i hate java
+- why i hate spring
 - [hn, reddit, stackoverflow] best on java / jvm / jdk
 - classpath
 - java module vs package
@@ -68,3 +73,9 @@
 - coffee script for java
     - [??? significant-white-space: Experimental: Transforms curly-brace source code (C, Java, JS, Haxe) to and from meaningful indentation layout (as seen in Python and Coffeescript). Written in Haxe.](https://github.com/joeytwiddle/significant-white-space)
 - [Шпаргалки Java программиста 9: Java SE — Шпаргалка для собеседований и повторений / Хабрахабр](https://habrahabr.ru/post/314386/)
+- what every java programmer should know | thing every java programmer should know
+- [Unit 12: Writing good Java code](https://www.ibm.com/developerworks/library/j-perry-writing-good-java-code/index.html)
+- [IBM developerWorks : Java development : Learn](https://www.ibm.com/developerworks/learn/java/index.html#_0_1)
+- java best talks | search in google, also serch by hand on yt
+- java interfaces are cool
+- [Criticism of Java - Wikipedia](https://en.wikipedia.org/wiki/Criticism_of_Java)

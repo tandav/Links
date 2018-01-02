@@ -13,3 +13,9 @@
 - [12 Best Articles to Read](http://www.yegor256.com/best.html)
 - [Слои, Луковицы, Гексогоны, Порты и Адаптеры — всё это об одном / Хабрахабр](https://habrahabr.ru/post/344164/)
 - functional vs oop, fp vs oop
+- separate side-effects from pure code.
+    - **Good architechture:**
+    - data in (side effect) eg. read from file, http request 
+    - pure functions on data (pure)
+    - data out (side effect) eg. write to file
+- use Finite-state machines. All is state machines. Do not write code with lot of **if**s. Make explicit states. Do not try to find out state by values of many variables. Make explicit states. Variables should define one of many states. You should not to read values of many variables to find out in which state application is.

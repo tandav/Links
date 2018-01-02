@@ -4,7 +4,9 @@
     - [what is godel escher bach about - Google Search](https://www.google.com/search?q=what+is+godel+escher+bach+about)
 - [Top Hacker News Books of All Time](http://hackernewsbooks.com/top-books-on-hacker-news)
 - [Top Books on Amazon Based on Links in Hacker News Comments | Hacker News](https://news.ycombinator.com/item?id=10924741)
-- SICP
+- SICP - must read
+    - sicp in python? 
+    - [HN Search powered by Algolia](https://hn.algolia.com/?query=&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 - [Alan Kay Answers “Is There a Successor to Smalltalk?” | Hacker News](https://news.ycombinator.com/item?id=15518746)
 - [Alan Kay on Lisp | Hacker News](https://news.ycombinator.com/item?id=15558861)
 - [Classic Papers: Articles That Have Stood the Test of Time | Hacker News](https://news.ycombinator.com/item?id=14575501)

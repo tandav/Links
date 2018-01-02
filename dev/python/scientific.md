@@ -8,6 +8,8 @@
 - [100 numpy exercises](http://www.labri.fr/perso/nrougier/teaching/numpy.100/index.html)
 - [Jupyter (IPython) notebooks features](https://arogozhnikov.github.io/2016/09/10/jupyter-features.html)
 - [Microsoft Azure Notebooks - Online Jupyter Notebooks](https://notebooks.azure.com/rheartpython/libraries/PythonDS101)
+- [Iterating Over Arrays — NumPy Cool](https://docs.scipy.org/doc/numpy/reference/arrays.nditer.html)
+- [Quickstart tutorial — NumPy v1.13.dev0 Manual](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html)
 
 # Fast Python
 - [Contributing os.scandir() to Python](http://benhoyt.com/writings/scandir/)

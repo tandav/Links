@@ -25,3 +25,11 @@
 - git as backup system; git remove old commits; git as database;
 - [Archive of stories published by Hacker Noon](https://hackernoon.com/archive)
 - [Archive of stories published by freeCodeCamp](https://medium.freecodecamp.org/archive)
+- [Audiograph](http://audiograph.xyz/)
+- [http headers at DuckDuckGo](https://duckduckgo.com/?q=http+headers&t=iphone&ia=web)
+- [How To Optimize Your Site With HTTP Caching – BetterExplained](https://betterexplained.com/articles/how-to-optimize-your-site-with-http-caching/)
+- [Аудиобубен лейтенанта Шмидта: оглушающее биение “чистого“ звука и ещё один гвоздь в гроб бинаурального развода / Geektimes](https://m.geektimes.ru/company/pult/blog/296955/)
+- [all good python 3 features at DuckDuckGo](https://duckduckgo.com/?q=all+good+python+3+features&t=iphone&ia=web)
+- [Python 3 Module of the Week — PyMOTW 3](https://pymotw.com/3/)
+- [Advice on starting a programming blog | James Routley](https://routley.io/tech/2017/10/15/starting-a-programming-blog.html)
+- [ipv4 - How do you calculate the prefix, network, subnet, and host numbers? - Network Engineering Stack Exchange](https://networkengineering.stackexchange.com/questions/7106/how-do-you-calculate-the-prefix-network-subnet-and-host-numbers#7117)

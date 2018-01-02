@@ -41,6 +41,8 @@
 - [8 учебных проектов / Блог компании Edison / Хабрахабр](https://habrahabr.ru/company/edison/blog/344006/)
 - [The State of JavaScript 2017 | Hacker News](https://news.ycombinator.com/item?id=15910795)
 - [edent/SuperTinyIcons: Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos](https://github.com/edent/SuperTinyIcons)
+- source - maps - типа когда minify js - он нечитабельный становиться. А если правильно настроить source maps, то в chrome developer tools в sources будут открываться реально исходники, которые  human-readable
+- [Clang runs in the browser and compiles C++ to WebAssembly | Hacker News](https://news.ycombinator.com/item?id=16049242)
 
 ## Redux
 - redux flow - google images

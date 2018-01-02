@@ -1,4 +1,6 @@
 # Raw Links
+- [Ask HN: What’s your favorite talk from 2017? | Hacker News](https://news.ycombinator.com/item?id=16045859)
+- [6 Ways to Become a Programmer - wikiHow](https://www.wikihow.com/Become-a-Programmer)
 - [Good books for deep hacks | Hacker News](https://news.ycombinator.com/item?id=16039674)
 - [Пол Грэм. Все статьи на русском. Два года спустя / Блог компании Philtech-акселератор / Хабрахабр](https://habrahabr.ru/company/philtech/blog/341180/)
 - [InfoQ - YouTube - YouTube](https://www.youtube.com/user/MarakanaTechTV/videos?view=0&sort=p&shelf_id=6)
@@ -54,6 +56,8 @@
 - [tmux shortcuts & cheatsheet](https://gist.github.com/MohamedAlaa/2961058)
 - [tmux cheatsheet](https://gist.github.com/henrik/1967800)
 - [CS50 Shorts 2017 - YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T381k8ul4WQ8SQ165XqY149WW)
+- XML basics (use yaml instead xml, there are lot of convertors)
+- DI, what is dependency injection
 
 ## Literate Programming
 - [Литературное программирование / Хабрахабр](https://habrahabr.ru/post/105371/)
@@ -91,7 +95,9 @@
 - [For software that is cross platform and accessible, forget about Qt | Hacker News](https://news.ycombinator.com/item?id=14946358)
 - [Ask HN: What non-work task have you automated? | Hacker News](https://news.ycombinator.com/item?id=15451442)
 - [DuckDuckGo vs Google | Hacker News](https://news.ycombinator.com/item?id=15291961)
+- [Show HN: ddgr - search DuckDuckGo from your terminal | Hacker News](https://news.ycombinator.com/item?id=15806490)
 - [Junior Full-Stack Job Interview](https://gist.github.com/markomitranic/d9319af84d2c87b81df9)
+- [Reddit's favorite programming books, from 3.5B comments | Hacker News](https://news.ycombinator.com/item?id=15828935&utm_term=comment)
 
 ---
 

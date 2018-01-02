@@ -33,3 +33,7 @@
 - [yangshun/tech-interview-handbook: 💯 Algorithms, front end and behavioral content for rocking your coding interview. 🌟 NEW: Interview Cheatsheet! 🌟](https://github.com/yangshun/tech-interview-handbook)
 - scan job positions on glassdor / hh. 
 - [How I went from programming to consulting (2012) | Hacker News](https://news.ycombinator.com/item?id=15994410)
+- [How I Learned to Stop Worrying and Love the Job Hunt | Hacker News](https://news.ycombinator.com/item?id=16042471)
+- [My offer numbers from big companies | Hacker News](https://news.ycombinator.com/item?id=15841738&utm_term=comment)
+- [A Tale of Two Industries: How Programming Languages Differ Between Wealthy and Developing Countries - Stack Overflow Blog](https://stackoverflow.blog/2017/08/29/tale-two-industries-programming-languages-differ-wealthy-developing-countries/)
+- [Stack Overflow Developer Survey 2017](https://insights.stackoverflow.com/survey/2017)

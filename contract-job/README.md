@@ -7,13 +7,15 @@ i'm learning this things:
 - [java](../dev/java)
 - [databases](../dev/databases)
 - java and databases relationships
-    - JDBC, JPA, Hibernate, Java EE, Spring
+    - JDBC, JPA, Hibernate, 
+- Spring
 - how real enterprise apps actually looks like and work, google a lot
     - application server (jboss vs tomcat)
     - jsp??, servlets??
     - unit tests
     - maven
 - networks
+- data bus/ message queue designs, using Kafka or RabbitMQ, etc. 
 
 ## 2nd specialisation: python
 `learning log` `projects`
