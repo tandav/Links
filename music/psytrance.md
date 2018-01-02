@@ -30,3 +30,4 @@
 - [Filteria - Lost In The Wild (Full Album)](https://www.youtube.com/watch?v=2dCoCxPYrr4)
 - [Psychedelic Experience - YouTube](https://www.youtube.com/user/psySWATunit/videos?disable_polymer=1)
 - [MrLemilica2 - YouTube](https://www.youtube.com/channel/UC_S803Fwu2NlUiNFkPu_wLQ)
+- [The Psychedelic Muse - YouTube](https://www.youtube.com/channel/UCAepXw94EhaO0CZV9f5D3fQ)

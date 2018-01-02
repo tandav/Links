@@ -5,11 +5,9 @@ my life is simple:
 
 </div>
 <pre>
-                                  ┌── <a href="ai">ai: learn, think, build, r&d</a> ─┐
-                                  │                                 │
-                              ┌── work on big goal ────────────────────┐
-                  today's me ─┤                                        ├─> <a href="global-pic">new horizons</a>
-                              └── maintain myself ─────────────────────┘
+                              ┌──────────── work on big goal ───────────┐
+                  today's me ─┤                                         ├─> <a href="ai">big goal (ai)</a>
+                              └──────────── maintain myself  ───────────┘
                                   │                                 │
                                   ├── money, food, house, social ───┤
                                   │   ├── <a href="https://github.com/tandav/vsu-tasks">university</a> ──────────┤    │
@@ -21,4 +19,5 @@ my life is simple:
                                   └── emotional ballance ───────────┘
                                       ├── <a href="music">music</a> ────────┤
                                       └── <a href="surfing.md">web-surfing</a> ──┘
+<br><br>                                            <a href="global-pic">[global pic]</a>
 </pre>

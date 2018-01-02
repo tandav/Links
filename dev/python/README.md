@@ -44,6 +44,7 @@
 - read python stdlib source (examples of excellent python code style and tips)
     - [good python code to read](http://benhoyt.com/projects/)
     - [good python code to read · google/adb-sync](https://github.com/google/adb-sync/blob/master/adb-sync)
+    - flask / stdlib / django / numpy / scipy / pillow /requests source
 - [python - What's the scope of a variable initialized in an if statement? - Stack Overflow](https://stackoverflow.com/questions/2829528/whats-the-scope-of-a-variable-initialized-in-an-if-statement)
 - [Dive Into Python 3](http://www.diveintopython3.net/index.html)
 - [subprocess — replacement for `os.system`](https://docs.python.org/3/library/subprocess.html#module-subprocess)
@@ -75,6 +76,7 @@
 - pipenv, pipenv vs conda, [Announcing Pipenv | Hacker News](https://news.ycombinator.com/item?id=13459740)
 - PyPy
 - pypy vs cython
+- learn cython, jake vanderplas cython
 - makefile for python
 - best python libraries
 - python public private
