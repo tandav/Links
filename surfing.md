@@ -55,4 +55,8 @@
 ## Unsubscribed 
 good content sometimes but too much noise
 - [Google Developers - YouTube](https://www.youtube.com/user/GoogleDevelopers)
-- [Google Developers - YouTube](https://www.youtube.com/user/GoogleDevelopers)
+- [Science Magazine - YouTube](https://www.youtube.com/user/ScienceMag)
+- [Google Cloud - YouTube](https://www.youtube.com/user/googlecloudplatform)
+- [Intel Software - YouTube](https://www.youtube.com/user/intelswnetwork)
+- [Intel - YouTube](https://www.youtube.com/user/channelintel)
+- [Udacity - YouTube](https://www.youtube.com/user/Udacity)

@@ -17,9 +17,6 @@
 - [Interesting commands for the Linux shell | Hacker News](https://news.ycombinator.com/item?id=15246302)
 - [Bash CheatSheet for UNIX Systems](https://gist.github.com/LeCoupa/122b12050f5fb267e75f)
 - [Unix tricks](https://gist.github.com/stoutbeard/c27f4c3a0f4452037b8a)
-- [tmux shortcuts & cheatsheet](https://gist.github.com/MohamedAlaa/2961058)
-- tmux save session
-- [A minimalist guide to tmux | Hacker News](https://news.ycombinator.com/item?id=15776995)
 - [Automation For The People](https://gist.github.com/classam/9e07a36aa63624ca2dda75a1367a53c6)
 - unix environment variables tutorial
 - how to use environment variables
@@ -62,7 +59,6 @@
 - [unixorn/awesome-zsh-plugins: A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.](https://github.com/unixorn/awesome-zsh-plugins)
 - `rm *.png *.wav`
 - переделать bash под vim (instead of emacs): `set -o vi`
-- `tmux -CC` [Hexlet Webinar #9: Рабочее окружение и продуктивность - YouTube](https://www.youtube.com/watch?v=XNQkei5qffA&feature=youtu.be&t=42m1s)
 - bash single vs double quotes
     - [bash - Why does my shell script choke on whitespace or other special characters? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/131766/why-does-my-shell-script-choke-on-whitespace-or-other-special-characters)
 - rsync tutorial
@@ -73,6 +69,8 @@
 - bash alias tutorial
 - bash should i use quotes on variables
 - curl post example
+- [BASH Programming - Introduction HOW-TO](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
+- [A quick guide to writing scripts using the bash shell](http://www.panix.com/~elflord/unix/bash-tute.html)
 
 ## grep awk sed
 - [grep cheat sheet](https://gist.github.com/superDross/7b32fbb6b1cb6dffd703f6b9823b721a)
@@ -86,6 +84,7 @@
 - [Awk driven IoT | Hacker News](https://news.ycombinator.com/item?id=14735752)
 - [Skip grep, use awk | Hacker News](https://news.ycombinator.com/item?id=14692233)
 - [Learn just enough Linux to get things done | Hacker News](https://news.ycombinator.com/item?id=15712701)
+- [magic of sed -- find and replace "text" in a string or a file](https://gist.github.com/un33k/1162378)
 
 ## Replace bash with python
 - bash vs python 

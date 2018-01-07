@@ -14,3 +14,4 @@
 - [Стоимость операций в тактах ЦП / Блог компании Отус / Хабрахабр](https://habrahabr.ru/company/otus/blog/343566/)
 - [Computer latency: 1977-2017 | Hacker News](https://news.ycombinator.com/item?id=16001407)
     - [Время отклика компьютеров: 1977−2017 / Хабрахабр](https://habrahabr.ru/post/345584/)
+    - [Производительность консолей и оболочек / Хабрахабр](https://habrahabr.ru/post/346054/)

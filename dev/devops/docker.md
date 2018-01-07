@@ -15,3 +15,9 @@
 - docker networking
 - entrypoint vs cmd. cmd can be overwriten in docker run. entrypoint cant
 - vagrant vs docker
+- [docker cleanup guide: containers, images, volumes, networks](https://gist.github.com/bastman/5b57ddb3c11942094f8d0a97d461b430)
+- [Docker for data scientists: Introduction and use cases | Hacker News](https://news.ycombinator.com/item?id=16071612)
+- [Super small Docker image based on Alpine Linux | Hacker News](https://news.ycombinator.com/item?id=10782897)
+- docker Shell and Exec forms
+- `docker run -it ubuntu bash` run container shell
+- [Docker for Mac with Kubernetes | Hacker News](https://news.ycombinator.com/item?id=16084243)

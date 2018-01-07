@@ -79,3 +79,9 @@
 - java best talks | search in google, also serch by hand on yt
 - java interfaces are cool
 - [Criticism of Java - Wikipedia](https://en.wikipedia.org/wiki/Criticism_of_Java)
+- [Guys to follow: New Java Champions in 2017 | The Java Source](https://blogs.oracle.com/java/new-java-champions-in-2017)
+- [Aleksey Shipilëv: one-stop page](https://shipilev.net/)
+- [The Black Magic of (Java) Method Dispatch](https://shipilev.net/blog/2015/black-magic-method-dispatch/)
+- [JVM Anatomy Park](https://shipilev.net/jvm-anatomy-park/)
+- java 8 Streams
+- [Blog - Benjamin Winterberg](http://winterbe.com/blog/)

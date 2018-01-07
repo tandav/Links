@@ -1,0 +1,10 @@
+# Tmux
+- [A tmux Crash Course](https://robots.thoughtbot.com/a-tmux-crash-course)
+- [tmux shortcuts & cheatsheet](https://gist.github.com/MohamedAlaa/2961058)
+- tmux save session
+- [A minimalist guide to tmux | Hacker News](https://news.ycombinator.com/item?id=15776995)
+- `tmux -CC` [Hexlet Webinar #9: Рабочее окружение и продуктивность - YouTube](https://www.youtube.com/watch?v=XNQkei5qffA&feature=youtu.be&t=42m1s)
+- [A Gentle Introduction to tmux – Hacker Noon](https://hackernoon.com/a-gentle-introduction-to-tmux-8d784c404340)
+- [shell - How to set up tmux so that it starts up with specified windows opened? - Stack Overflow](https://stackoverflow.com/questions/5609192/how-to-set-up-tmux-so-that-it-starts-up-with-specified-windows-opened)
+- tmux vs i3wm
+- [tmux - The Desktop Environment for your Terminal - Lunduke Show - YouTube](https://www.youtube.com/watch?v=5iXzqN8-34E)

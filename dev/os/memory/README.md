@@ -17,4 +17,5 @@
 ## [Managing Free Memory](managing-free-memory.md)
 ## [Virtual Memory](virtual-memory.md)
 ## Raw Links
-* [What and where are the stack and heap? - Stack Overflow](http://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap)
+- [What and where are the stack and heap? - Stack Overflow](http://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap)
+- [Memory Management Reference | Hacker News](https://news.ycombinator.com/item?id=16087689)

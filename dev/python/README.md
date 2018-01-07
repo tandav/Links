@@ -1,4 +1,6 @@
 # Python
+- [PyCon 2017 - YouTube](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/videos?flow=grid&sort=p&view=0)
+- [Python decorators they don't tell you about | Hacker News](https://news.ycombinator.com/item?id=16084238)
 - [Python glob multiple filetypes - Stack Overflow](https://stackoverflow.com/questions/4568580/python-glob-multiple-filetypes)
 - [Flake8 Rules](https://lintlyci.github.io/Flake8Rules/?utm_campaign=read_more&utm_medium=blog&utm_source=mybridge)
 - [Functional Programming in Python [pdf] | Hacker News](https://news.ycombinator.com/item?id=15245095)

@@ -72,3 +72,4 @@
 - [merge vs rebase - Google Search](https://www.google.com/search?q=merge+vs+rebase&oq=merge+vs+rebase)
 - [How to Rebase a Pull Request · edx/edx-platform Wiki](https://github.com/edx/edx-platform/wiki/How-to-Rebase-a-Pull-Request)
 - [Master the Rebase (and the Other Way Around) - Milliseconds Matter](https://blog.algolia.com/master-git-rebase/?utm_campaign=hackernewsletter&utm_source=hackernewsletter&utm_medium=email&utm_term=native)
+- rebase interactive
