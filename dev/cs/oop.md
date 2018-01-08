@@ -12,3 +12,13 @@
 - Composition vs. Inheritance
 - HN-search: `oop for beginners`, `oop basics`, `oop`
 - [What is Alan Kay's definition of Object Oriented? - Quora](https://www.quora.com/What-is-Alan-Kays-definition-of-Object-Oriented)
+- private methods in class are putted after public
+- [mokevnin/you-don-t-know-oop: Знаете ли вы ооп?](https://github.com/mokevnin/you-don-t-know-oop)
+- [Почему мне кажется, что студентов учат ООП неправильно / Хабрахабр](https://habrahabr.ru/post/345658/)
+- Object-oriented Analysis and Design with Applications
+- oop message passing
+- [`norm` Почему я против объектов. Часть первая, философская](http://grishaev.me/oop-1)
+- [Перестаньте писать классы / Хабрахабр](https://habrahabr.ru/post/140581/)
+- прост: Класс нужен там, где есть "состояние" данных (некий state), которое нужно хранить, контролировать life-time, соблюдать инкапсуляцию.
+- how to replace inheritance to composition
+- virtual method table

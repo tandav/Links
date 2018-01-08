@@ -25,6 +25,7 @@
 - [Hackaday](http://hackaday.com/)
 - [Ars Technica](https://arstechnica.com/)
 - [Google News](https://news.google.com/news/sfy?ned=us&hl=en&gl=US)
+- [Slashdot: News for nerds, stuff that matters](https://slashdot.org/)
 
 ## Science and Tech
 - [Scientific American](https://www.scientificamerican.com/)

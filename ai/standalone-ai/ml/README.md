@@ -37,6 +37,7 @@
 - [Machine Learning is Fun! – Medium](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 - [The Current State of Machine Intelligence – Medium](https://medium.com/@shivon/the-current-state-of-machine-intelligence-f76c20db2fe1)
 - [Deep Learning is Revolutionary – Transmission – Medium](https://medium.com/transmission-newsletter/deep-learning-is-revolutionary-d0f3667bafa0)
+- machine learning is overrated
 - [Machine Learning in a Year – Learning New Stuff – Medium](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c#.pwuo4s21n)
 - [The Non-Technical Guide to Machine Learning & Artificial Intelligence](https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0)
 - [Machine Learning in a Week – Learning New Stuff – Medium](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850)

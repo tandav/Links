@@ -111,3 +111,4 @@
 ---
 
 - [Everything You Should Know About React: The Basics You Need to Start Building](https://medium.freecodecamp.org/everything-you-need-to-know-about-react-eaedf53238c4)
+- [Vue.js vs. React: what happened in 2017 | Hacker News](https://news.ycombinator.com/item?id=15999688)

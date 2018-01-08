@@ -5,6 +5,7 @@
 - java modules vs packages
 - java core / standard library
 - effective java - joshua bloch
+- [Java inner class and static nested class - Stack Overflow](https://stackoverflow.com/questions/70324/java-inner-class-and-static-nested-class)
 
 ## Other
 - java logging
@@ -85,3 +86,6 @@
 - [JVM Anatomy Park](https://shipilev.net/jvm-anatomy-park/)
 - java 8 Streams
 - [Blog - Benjamin Winterberg](http://winterbe.com/blog/)
+- java 10 - hn search
+- [verbose - HN Search](https://hn.algolia.com/?query=verbose&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
+- [Using Java 9 Modularization to Ship Zero-Dependency Apps | Hacker News](https://news.ycombinator.com/item?id=16055027)

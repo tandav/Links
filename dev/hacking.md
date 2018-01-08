@@ -1,4 +1,5 @@
 # Hacking
+- [Как «пробить» человека в Интернет: используем операторы Google и логику / Блог компании Эшелон / Хабрахабр](https://habrahabr.ru/company/echelon/blog/321754/)
 - [DEFCONConference - YouTube](https://www.youtube.com/user/DEFCONConference/videos?disable_polymer=1)
 - [My tips for finding security issues in GitHub projects | Hacker News](https://news.ycombinator.com/item?id=15421999)
 - [How to start in Infosec](https://gist.github.com/mubix/5737a066c8845d25721ec4bf3139fd31)

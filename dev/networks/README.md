@@ -1,4 +1,5 @@
 # Networks
+- [Networking - YouTube](https://www.youtube.com/playlist?list=PLF360ED1082F6F2A5)
 - [Internet 101 | Computer science | Computing | Khan Academy](https://www.khanacademy.org/computing/computer-science/internet-intro)
 - [alex/what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"](https://github.com/alex/what-happens-when)
 - [Big list of http static server one-liners](https://gist.github.com/willurd/5720255)
@@ -14,11 +15,9 @@
 - [Networks - YouTube](https://www.youtube.com/playlist?list=PL4qBE1-4ZNC0vRWI_05a3YePdF1WHberD)
 - [A penetration tester’s guide to sub-domain enumeration | Hacker News](https://news.ycombinator.com/item?id=15676951)
 - [httpbin(1): HTTP Client Testing Service](http://httpbin.org/)
-- how ssh works
 - how tor works
 - how ssl / tks works
 - [How RSA Works: TLS Foundations | Hacker News](https://news.ycombinator.com/item?id=15909134)
-- what is sockets
 - [networking-zine - julia evans](https://jvns.ca/networking-zine.pdf)
 - [What is the Difference Between 127.0.0.1 and 0.0.0.0?](https://www.howtogeek.com/225487/what-is-the-difference-between-127.0.0.1-and-0.0.0.0/)
 - subnet mask tutorial (start from YT)
@@ -41,6 +40,5 @@
 - subnet masks cheat sheet
 - [computer networks - HN Search powered by Algolia](https://hn.algolia.com/?query=computer%20networks&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 - [Highest Voted Questions - Network Engineering Stack Exchange](https://networkengineering.stackexchange.com/questions)
-- [Introduction to RAW-sockets [pdf] | Hacker News](https://news.ycombinator.com/item?id=16039467)
 - [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/)
 - [Programmer's guide to the Computer Networking galaxy | Zero Equals False](https://www.zeroequalsfalse.press/2017/09/16/networks/)

@@ -98,3 +98,8 @@ Tools to control highly structured data. Just raw links for now.
 - [learn-anything/maps: 🗺 Interactive Mind Maps Curated by Community](https://github.com/learn-anything/maps)
 - [Learn Anything White Paper | Hacker News](https://news.ycombinator.com/item?id=15891340)
 - [Learn Computing Directory](https://www.learn-computing-directory.org/)
+
+
+---
+
+- browse web with gamepad

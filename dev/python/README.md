@@ -1,4 +1,6 @@
 # Python
+- python `__call__`
+- [Hidden features of Python - Stack Overflow](https://stackoverflow.com/questions/101268/hidden-features-of-python)
 - [PyCon 2017 - YouTube](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/videos?flow=grid&sort=p&view=0)
 - [Python decorators they don't tell you about | Hacker News](https://news.ycombinator.com/item?id=16084238)
 - [Python glob multiple filetypes - Stack Overflow](https://stackoverflow.com/questions/4568580/python-glob-multiple-filetypes)
@@ -47,16 +49,21 @@
     - [good python code to read](http://benhoyt.com/projects/)
     - [good python code to read · google/adb-sync](https://github.com/google/adb-sync/blob/master/adb-sync)
     - flask / stdlib / django / numpy / scipy / pillow /requests source
+- python local variable scope
 - [python - What's the scope of a variable initialized in an if statement? - Stack Overflow](https://stackoverflow.com/questions/2829528/whats-the-scope-of-a-variable-initialized-in-an-if-statement)
 - [Dive Into Python 3](http://www.diveintopython3.net/index.html)
 - [subprocess — replacement for `os.system`](https://docs.python.org/3/library/subprocess.html#module-subprocess)
     - python os.system vs subprocess
-- python f strings
+- [3.6.4 Documentation](https://docs.python.org/3/)
+- [Introduction — PyAutoGUI 1.0.0 documentation](https://pyautogui.readthedocs.io/en/latest/introduction.html)
+- [Nuitka Home](http://nuitka.net/pages/overview.html)
 
 ## Package managers
 - virtualenv vs virtualenvwrapper. Короче, пока don't use wrapper. Use virtualenv only
 - [Jake VanderPlas on Twitter: "Most common Python issue I see with students is they've installed Python three or four different ways & have all their paths confused. 1/"](https://twitter.com/jakevdp/status/922846245848150016)
 - [типа конда тащит Conda: Myths and Misconceptions | Pythonic Perambulations](https://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/)
+- [pip vs. conda](http://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/index.html#pip-vs.-conda)
+
 
 ## Threads
 - [Intro to Threads and Processes in Python – Brendan Fortuner – Medium](https://medium.com/@bfortuner/python-multithreading-vs-multiprocessing-73072ce5600b)
@@ -67,7 +74,6 @@
 - glob.glob python 3
 - python class in separate file
 - pycharm folding
-- python print format
 - python asyncio vs threading vs multiprocessing
 - python operation speed
 - python performance tips
@@ -76,7 +82,7 @@
 - # /usr/bin/env python
 - python class variables vs instance variables
 - pipenv, pipenv vs conda, [Announcing Pipenv | Hacker News](https://news.ycombinator.com/item?id=13459740)
-- PyPy
+- PyPy (fast)
 - pypy vs cython
 - learn cython, jake vanderplas cython
 - makefile for python
@@ -87,10 +93,16 @@
 - python type annotations
 - subprocess vs os.system
 -  argparse vs docopt vs click
+- pythonpath
+- python scripts for everyday usage
+- awesome python scripts
+- python f strings
+
 
 ## GUI
 - PyQt
 - [Craft your own GUIs with Python and Tkinter - YouTube](https://www.youtube.com/watch?v=Wb1YFgHqUZ8)
+- [I'm an indie dev and have been developing a cross-platform (Py)Qt app for the pa... | Hacker News](https://news.ycombinator.com/item?id=15870010)
 
 ## Networks
 - [Requests: HTTP for Humans — Requests 2.18.4 documentation](http://www.python-requests.org/en/master/) `ABSOLUTE MUST HAVE / MUST LEARN`

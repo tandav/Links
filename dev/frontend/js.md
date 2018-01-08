@@ -68,3 +68,5 @@
 - [Chalarangelo/30-seconds-of-code: Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.](https://github.com/Chalarangelo/30-seconds-of-code)
 - es6 modules
 - [javascript - When should I use curly braces for ES6 import? - Stack Overflow](https://stackoverflow.com/questions/36795819/when-should-i-use-curly-braces-for-es6-import/36796281#36796281)
+- [Promise Anti-patterns · Tao of Code](http://taoofcode.net/promise-anti-patterns/)
+- [Promise Anti-patterns - HN Search powered by Algolia](https://hn.algolia.com/?query=Promise%20Anti-patterns&sort=byPopularity&prefix&page=0&dateRange=all&type=story)

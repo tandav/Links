@@ -9,3 +9,4 @@
 - [OO vs FP - Clean Coder Blog](http://blog.cleancoder.com/uncle-bob/2014/11/24/FPvsOO.html)
 - [Неофициальный путеводитель по мозгу Рича Хики / Хабрахабр](https://habrahabr.ru/post/161885/)
 - why immutability is important
+- map reduce examples - images

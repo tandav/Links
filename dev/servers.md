@@ -10,3 +10,6 @@
     - `man log`
 - message queue
 - how fastcgi works
+- types of web servers
+- [модель воркеров -  wsgi, fastcgi (то есть PHP, Rails, Django, Flask)"](https://mobile.twitter.com/backendsecret/status/943098429034639360)
+- [nginx async](https://mobile.twitter.com/backendsecret/status/943109981292855297) 

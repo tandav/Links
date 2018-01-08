@@ -21,3 +21,5 @@
 - docker Shell and Exec forms
 - `docker run -it ubuntu bash` run container shell
 - [Docker for Mac with Kubernetes | Hacker News](https://news.ycombinator.com/item?id=16084243)
+- [Введение в Docker - YouTube](https://www.youtube.com/watch?v=dfXuTTV6TVo)
+- [A Beginner-Friendly Introduction to Containers, VMs and Docker](https://medium.freecodecamp.org/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b)

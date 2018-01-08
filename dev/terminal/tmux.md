@@ -8,3 +8,5 @@
 - [shell - How to set up tmux so that it starts up with specified windows opened? - Stack Overflow](https://stackoverflow.com/questions/5609192/how-to-set-up-tmux-so-that-it-starts-up-with-specified-windows-opened)
 - tmux vs i3wm
 - [tmux - The Desktop Environment for your Terminal - Lunduke Show - YouTube](https://www.youtube.com/watch?v=5iXzqN8-34E)
+- [tmux Integration - Documentation - iTerm2 - macOS Terminal Replacement](https://iterm2.com/documentation-tmux-integration.html)
+- [Tmux Cheat Sheet & Quick Reference](https://www.tmuxcheatsheet.com/)

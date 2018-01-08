@@ -11,3 +11,7 @@
 - [Anyways too personalize MacOS more ? : unixporn](https://www.reddit.com/r/unixporn/comments/5cfaik/anyways_too_personalize_macos_more/)
 - [A true twm for macOS? think i3. x-post from r/osxtweaks : unixporn](https://www.reddit.com/r/unixporn/comments/5cowoq/a_true_twm_for_macos_think_i3_xpost_from/)
 - arch vs macos on macbook
+- [mountain lion - Open an app in fullscreen via Terminal - Ask Different](https://apple.stackexchange.com/questions/58875/open-an-app-in-fullscreen-via-terminal)
+- [koekeishiya/chunkwm: Tiling window manager for macOS based on plugin architecture](https://github.com/koekeishiya/chunkwm)
+- [macOS Keychain - Roman Zolotarev](https://www.romanzolotarev.com/keychain/)
+- [Guide To Make Your Mac Suck Less (2017) – David Echols – Medium](https://medium.com/@echohack/guide-to-make-your-mac-suck-less-2017-88a57563aac7)

@@ -1,4 +1,5 @@
 # Command Line
+- [nikitavoloboev/dotfiles: 🏡 zsh, neovim, karabiner, hammerspoon, vs code](https://github.com/nikitavoloboev/dotfiles#zsh)
 - [the-art-of-command-line: Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
 - [Искусство командной строки / Хабрахабр](https://habrahabr.ru/post/262127/)
 - [awesome-osx-command-line: Use your OS X terminal shell to do awesome things.](https://github.com/herrbischoff/awesome-osx-command-line)
@@ -91,3 +92,4 @@
 - bash vs python for automatisation 
 - how to replace bash with python
 - python instead of bash for daily tasks
+- [Plumbum: Shell Combinators and More — Plumbum: Shell Combinators](https://plumbum.readthedocs.io/en/latest/)

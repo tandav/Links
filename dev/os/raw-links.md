@@ -1,4 +1,5 @@
 # Operating Systems Raw Links
+- [Unix domain socket - Wikipedia](https://en.wikipedia.org/wiki/Unix_domain_socket)
 * [Resources](links.md)
 * [c++ - What happens when a computer program runs? - Stack Overflow](http://stackoverflow.com/questions/5162580/what-happens-when-a-computer-program-runs)
 * ['operating-system' tag wiki - Stack Overflow](http://stackoverflow.com/tags/operating-system/info)

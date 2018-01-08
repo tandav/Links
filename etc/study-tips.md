@@ -36,3 +36,5 @@
 - [The software engineering notebook | Hacker News](https://news.ycombinator.com/item?id=15473702)
 - [Why our outdated brains are making us unhappy | Hacker News](https://news.ycombinator.com/item?id=14989226)
 - [Как программисты-самоучки в реальности получают работу / Хабрахабр](https://habrahabr.ru/post/342156/)
+- [A Neuroscientist Explores the “Sanskrit Effect” | Hacker News](https://news.ycombinator.com/item?id=16092475)
+- [Как читать техническую литературу: советы резидентов Quora, Reddit и Hacker News / Блог компании 1cloud.ru / Хабрахабр](https://habrahabr.ru/company/1cloud/blog/344332/)

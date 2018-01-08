@@ -1,4 +1,6 @@
 # Git
+- git hash tutorial
+- [High-Level Problems with Git and How to Fix Them | Hacker News](https://news.ycombinator.com/item?id=15902995)
 - [Git Tutorials and Training | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials)
 - [tiimgreen/github-cheat-sheet: A list of cool features of Git and GitHub.](https://github.com/tiimgreen/github-cheat-sheet)
 - [github/gitignore: A collection of useful .gitignore templates](https://github.com/github/gitignore)
@@ -65,6 +67,7 @@
 - [git-flight-rules: Flight rules for git](https://github.com/k88hudson/git-flight-rules?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
 - [Oh shit, git: Getting myself out of bad situations | Hacker News](https://news.ycombinator.com/item?id=15951825)
 - [Git снизу вверх / Блог компании Intel / Хабрахабр](https://habrahabr.ru/company/intel/blog/344962/)
+- [Why Google stores billions of lines of code in a single repository (2016) | Hacker News](https://news.ycombinator.com/item?id=15889148)
 
 ## Rebase
 - [Почему нужно перестать использовать Git rebase / Блог компании Mail.Ru Group / Хабрахабр](https://habrahabr.ru/company/mailru/blog/340558/)

@@ -9,6 +9,7 @@
 - [A.I. grad student confession: I can't grok the math | Hacker News](https://news.ycombinator.com/item?id=15680623)
 
 ## Linear Algebra
+- [Fundamentals of Linear Algebra and Optimization [pdf] | Hacker News](https://news.ycombinator.com/item?id=15923338)
 - [Down with Determinants (1995) | Hacker News](https://news.ycombinator.com/item?id=15863334)
 - [Computational Linear Algebra | Hacker News](https://news.ycombinator.com/item?id=14830671)
 - [Linear Algebra for Machine Learning - Machine Learning Mastery](https://machinelearningmastery.com/linear-algebra-machine-learning/)

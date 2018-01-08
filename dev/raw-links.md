@@ -1,4 +1,15 @@
 # Raw Links
+- [dl? cmplnts?](https://archive.zhimingwang.org/)
+- [How I learned to program | Hacker News](https://news.ycombinator.com/item?id=16010173)
+- [600 Free Online Programming & Computer Science Courses You Can Start in January](https://medium.freecodecamp.org/600-free-online-programming-computer-science-courses-you-can-start-in-january-3d4b1ed473aa)
+- [nikitavoloboev (Nikita Voloboev)](https://github.com/nikitavoloboev)
+    - [nikitavoloboev’s gists](https://gist.github.com/nikitavoloboev)
+- [Text-only news sites are slowly making a comeback | Hacker News](https://news.ycombinator.com/item?id=15997349)
+- [Вебинары Хекслета - YouTube](https://www.youtube.com/playlist?list=PLo6puixMwuSPfJVVXKhLkHCymzEQAKxjr)
+- [Анализ публикаций на Хабрахабре за 2017 год. Статистика, полезные находки и рейтинги / Блог компании Cloud4Y / Хабрахабр](https://habrahabr.ru/company/cloud4y/blog/345508/)
+- [igrishaev/dos-and-donts: A short list of rules I try to follow](https://github.com/igrishaev/dos-and-donts)
+- what is message queue
+- [Web Developers Guide Tutorial](https://www.tutorialspoint.com/web_developers_guide/index.htm)
 - [Ask HN: What’s your favorite talk from 2017? | Hacker News](https://news.ycombinator.com/item?id=16045859)
 - [6 Ways to Become a Programmer - wikiHow](https://www.wikihow.com/Become-a-Programmer)
 - [Good books for deep hacks | Hacker News](https://news.ycombinator.com/item?id=16039674)

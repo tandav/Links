@@ -37,3 +37,5 @@
 - [My offer numbers from big companies | Hacker News](https://news.ycombinator.com/item?id=15841738&utm_term=comment)
 - [A Tale of Two Industries: How Programming Languages Differ Between Wealthy and Developing Countries - Stack Overflow Blog](https://stackoverflow.blog/2017/08/29/tale-two-industries-programming-languages-differ-wealthy-developing-countries/)
 - [Stack Overflow Developer Survey 2017](https://insights.stackoverflow.com/survey/2017)
+- [О состоянии, подготовке и реальностях работы с ИТ-кадрами за пределами городов-миллионников](https://vc.ru/29413-o-sostoyanii-podgotovke-i-realnostyah-raboty-s-it-kadrami-za-predelami-gorodov-millionnikov?from=digest)
+- [India’s IT industry laid off more than 56k employees this year | Hacker News](https://news.ycombinator.com/item?id=16013448)
