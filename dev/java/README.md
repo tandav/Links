@@ -26,6 +26,8 @@
 - [JVM ( java virtual machine) architecture - tutorial - YouTube](https://www.youtube.com/watch?v=ZBJ0u9MaKtM)
 - [jvm - HN Search powered by Algolia](https://hn.algolia.com/?query=jvm&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 - [awesome-jvm: A curated list of awesome loosely performance related JVM stuff. Inspired by awesome-python.](https://github.com/deephacks/awesome-jvm)
+- [JVM at DuckDuckGo](https://duckduckgo.com/?q=JVM&bext=msl&atb=v71-4__&iax=images&ia=images)
+- [jvm architecture at DuckDuckGo](https://duckduckgo.com/?q=jvm+architecture&atb=v71-4__&iar=images&iax=images&ia=images)
 
 ---
 - [Блеск и нищета джавовых веб-фреймворков / Блог компании JUG.ru Group / Хабрахабр](https://habrahabr.ru/company/jugru/blog/345036/)
@@ -89,3 +91,11 @@
 - java 10 - hn search
 - [verbose - HN Search](https://hn.algolia.com/?query=verbose&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 - [Using Java 9 Modularization to Ship Zero-Dependency Apps | Hacker News](https://news.ycombinator.com/item?id=16055027)
+- [JPoint 2017 — конференция, которая смогла. Обзор лучших докладов в открытом доступе / Блог компании JUG.ru Group / Хабрахабр](https://habrahabr.ru/company/jugru/blog/346364/)
+
+---
+
+- [java - What is the difference between JSF, Servlet and JSP? - Stack Overflow](https://stackoverflow.com/questions/2095397/what-is-the-difference-between-jsf-servlet-and-jsp)
+- [java - How do servlets work? Instantiation, sessions, shared variables and multithreading - Stack Overflow](https://stackoverflow.com/questions/3106452/how-do-servlets-work-instantiation-sessions-shared-variables-and-multithreadi)
+
+---

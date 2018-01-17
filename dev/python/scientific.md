@@ -1,4 +1,5 @@
 # Scientific Python
+- [The Hitchhiker’s Guide to Python! — The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
 - [Scientific Computing Tools for Python — SciPy.org](https://www.scipy.org/about.html)
 - [How To Quickly Compute The Mandelbrot Set In Python: an experiment with parallelism and gpu computing using Numpy, Numexpr, Numba, Cython, PyOpenGL, and PyCUDA.](https://gist.github.com/jfpuget/60e07a82dece69b011bb)
 - [HN Search powered by Algolia](https://hn.algolia.com/?query=numpy&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
@@ -50,6 +51,8 @@
 - [IPython Books - Getting the Best Performance out of NumPy](http://ipython-books.github.io/featured-01/)
 - [4. NumPy Basics: Arrays and Vectorized Computation - Python for Data Analysis [Book]](https://www.safaribooksonline.com/library/view/python-for-data/9781449323592/ch04.html)
 - [Jake VanderPlas on Twitter: "Jupyter notebook tip: use PIL to view an array as an image in a very fast, lightweight way: https://t.co/Cl52d6xqv3"](https://mobile.twitter.com/jakevdp/status/939887746134323201)
+- [Python JITs are coming | Hacker News](https://news.ycombinator.com/item?id=12344646)
+- [PyPy 4.0.0 Released – A Jit with SIMD Vectorization and More | Hacker News](https://news.ycombinator.com/item?id=10470428)
 
 ## Cython
 - cython, cython tutorial

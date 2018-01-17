@@ -5,3 +5,5 @@
 - [SSH Tunnel - Local and Remote Port Forwarding Explained With Examples - Trackets Blog](https://blog.trackets.com/2014/05/17/ssh-tunnel-local-and-remote-port-forwarding-explained-with-examples.html)
 - [Самый удобный способ работы с файлами хостинга на macOS (sshfs + Automator) - YouTube](https://www.youtube.com/watch?v=TL6zMc8yDsI)
 - ssh without static ip
+- [SSH tricks](http://matt.might.net/articles/ssh-hacks/)
+- [Памятка пользователям ssh / Хабрахабр](https://habrahabr.ru/post/122445/)

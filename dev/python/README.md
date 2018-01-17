@@ -1,4 +1,5 @@
 # Python
+- [jhermann/awesome-python-talks: An opinionated list of awesome videos related to Python, with a focus on training and gaining hands-on experience.](https://github.com/jhermann/awesome-python-talks)
 - python `__call__`
 - [Hidden features of Python - Stack Overflow](https://stackoverflow.com/questions/101268/hidden-features-of-python)
 - [PyCon 2017 - YouTube](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/videos?flow=grid&sort=p&view=0)
@@ -6,6 +7,7 @@
 - [Python glob multiple filetypes - Stack Overflow](https://stackoverflow.com/questions/4568580/python-glob-multiple-filetypes)
 - [Flake8 Rules](https://lintlyci.github.io/Flake8Rules/?utm_campaign=read_more&utm_medium=blog&utm_source=mybridge)
 - [Functional Programming in Python [pdf] | Hacker News](https://news.ycombinator.com/item?id=15245095)
+    - [«Простое» программирование на python / Хабрахабр](https://habrahabr.ru/post/346272/)
 - [Hy – A Lisp-flavored Python | Hacker News](https://news.ycombinator.com/item?id=14909786)
 - [Alice in Python projectland | Hacker News](https://news.ycombinator.com/item?id=15378487)
 - [26.4. unittest — Unit testing framework — Python 3.6.2 documentation](https://docs.python.org/3/library/unittest.html)

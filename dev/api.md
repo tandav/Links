@@ -12,6 +12,7 @@
 - [rest - Why don't browsers support PUT and DELETE requests and when will they? - Stack Overflow](https://stackoverflow.com/questions/16805956/why-dont-browsers-support-put-and-delete-requests-and-when-will-they)
 - [User experience design for APIs | Hacker News](https://news.ycombinator.com/item?id=15752365)
 - [REST is the new SOAP | Hacker News](https://news.ycombinator.com/item?id=15937448)
+- [Урл как интерфейс](https://antonz.ru/url-as-interface/)
 
 ## GraphQL
 - [Zero To GraphQL In 30 Minutes - YouTube](https://www.youtube.com/watch?v=H8YnVk2vhzg)

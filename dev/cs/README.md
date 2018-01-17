@@ -1,4 +1,5 @@
 # Computer Science
+- discrete math
 - [MIT OpenCourseWare - YouTube](https://www.youtube.com/user/MIT/videos?shelf_id=3&view=0&sort=p)
 - [ossu/computer-science: Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
 - [Marshalling (computer science) - Wikipedia](https://en.m.wikipedia.org/wiki/Marshalling_(computer_science))

@@ -1,4 +1,7 @@
 # Networks
+- [language agnostic - What are sessions? How do they work? - Stack Overflow](https://stackoverflow.com/questions/3804209/what-are-sessions-how-do-they-work)
+- [HTTPS explained with carrier pigeons – freeCodeCamp](https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351)
+    - [Объяснение HTTPS на почтовых голубях / Хабрахабр](https://habrahabr.ru/post/346752/)
 - [Networking - YouTube](https://www.youtube.com/playlist?list=PLF360ED1082F6F2A5)
 - [Internet 101 | Computer science | Computing | Khan Academy](https://www.khanacademy.org/computing/computer-science/internet-intro)
 - [alex/what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"](https://github.com/alex/what-happens-when)
@@ -42,3 +45,4 @@
 - [Highest Voted Questions - Network Engineering Stack Exchange](https://networkengineering.stackexchange.com/questions)
 - [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/)
 - [Programmer's guide to the Computer Networking galaxy | Zero Equals False](https://www.zeroequalsfalse.press/2017/09/16/networks/)
+- can 2 applications use the same port

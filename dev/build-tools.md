@@ -7,3 +7,4 @@
 - [Makefiles – Mrbook's Stuff](http://mrbook.org/blog/tutorials/make/)
 - [Afraid of Makefiles? Don't be | Hacker News](https://news.ycombinator.com/item?id=15041986)
 - make vs shell
+- [A simple makefile is a unicorn | Hacker News](https://news.ycombinator.com/item?id=16121937)

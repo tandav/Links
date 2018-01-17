@@ -26,6 +26,7 @@
 - [Ars Technica](https://arstechnica.com/)
 - [Google News](https://news.google.com/news/sfy?ned=us&hl=en&gl=US)
 - [Slashdot: News for nerds, stuff that matters](https://slashdot.org/)
+- [Slate Star Codex](http://slatestarcodex.com/)
 
 ## Science and Tech
 - [Scientific American](https://www.scientificamerican.com/)
@@ -61,3 +62,5 @@ good content sometimes but too much noise
 - [Intel Software - YouTube](https://www.youtube.com/user/intelswnetwork)
 - [Intel - YouTube](https://www.youtube.com/user/channelintel)
 - [Udacity - YouTube](https://www.youtube.com/user/Udacity)
+- [GoogleTechTalks - YouTube](https://www.youtube.com/user/GoogleTechTalks/videos?flow=grid&sort=p&view=0)
+- [Google - YouTube](https://www.youtube.com/user/Google/featured?disable_polymer=1)

@@ -7,7 +7,7 @@ my life is simple:
 <pre>
                               ┌──────────── work on big goal ───────────┐
                   today's me ─┤                                         ├─> <a href="ai">big goal (ai)</a>
-                              └──────────── maintain myself  ───────────┘
+                              └───┬──────── maintain myself  ───────┬───┘
                                   │                                 │
                                   ├── money, food, house, social ───┤
                                   │   ├── <a href="https://github.com/tandav/vsu-tasks">university</a> ──────────┤    │
@@ -19,5 +19,5 @@ my life is simple:
                                   └── emotional ballance ───────────┘
                                       ├── <a href="music">music</a> ────────┤
                                       └── <a href="surfing.md">web-surfing</a> ──┘
-<br><br>                                            <a href="global-pic">[global pic]</a>
+<br><br>                                            <a href="global-pic">[big pic]</a>
 </pre>

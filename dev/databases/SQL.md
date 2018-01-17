@@ -71,3 +71,4 @@
 - [SQL Indexing and Tuning e-Book for developers: Use The Index, Luke covers Oracle, MySQL, PostgreSQL, SQL Server, ...](http://use-the-index-luke.com/)
 - [The SQL Tutorial for Data Analysis | SQL Tutorial - Mode Analytics](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)
 - [SQL Keys in Depth | Hacker News](https://news.ycombinator.com/item?id=16050047)
+- [Как работает реляционная БД / Блог компании Mail.Ru Group / Хабрахабр](https://habrahabr.ru/company/mailru/blog/266811/)
