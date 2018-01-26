@@ -79,6 +79,7 @@ Alternatives to relational db:
 - [ZFS from a MySQL perspective | Hacker News](https://news.ycombinator.com/item?id=15722135)
 - [PostgreSQL Exercises | Hacker News](https://news.ycombinator.com/item?id=15859849&utm_term=comment)
 - [DBCLI](http://www.dbcli.com/)
+- [CMU 15-721 Advanced Database Systems [video] | Hacker News](https://news.ycombinator.com/item?id=16145477&utm_term=comment)
 
 ---
 
@@ -86,3 +87,6 @@ OLTP - DB -
 OLAP - Storage, analytics, Инфа не выбрасывается, вся инфа за все года. Типа если что то изменяется то хранится и старое и новое. Вся история всех изменений. Инфа не теряется.
 
 ---
+
+- h2
+- sqlite vs h2

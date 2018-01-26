@@ -6,6 +6,7 @@ i'm learning this things:
 
 - [java](../dev/java)
 - [databases](../dev/databases)
+    - можно по хранилищам данных загнаться - там много всяких NoSQL, Spanner, Tarantool, ClickHouse, Elastic, Redis, Mongo, Ignite
 - java and databases relationships
     - JDBC, JPA, Hibernate, 
 - Spring
@@ -32,6 +33,10 @@ i'm learning this things:
     - Data Science, common tasks
     - Statistics, Linear Algebra, Probability, ML math
     - AI
+
+## ???
+- lil bit of C++
+- lil bit of Go
 
 ---
 

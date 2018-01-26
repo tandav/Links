@@ -1,4 +1,5 @@
 # Raw Links
+- graceful shutdown java / graceful shutdown python / pyqt
 - [dl? cmplnts?](https://archive.zhimingwang.org/)
 - [How I learned to program | Hacker News](https://news.ycombinator.com/item?id=16010173)
 - [600 Free Online Programming & Computer Science Courses You Can Start in January](https://medium.freecodecamp.org/600-free-online-programming-computer-science-courses-you-can-start-in-january-3d4b1ed473aa)

@@ -74,6 +74,7 @@
 - [A quick guide to writing scripts using the bash shell](http://www.panix.com/~elflord/unix/bash-tute.html)
 
 ## grep awk sed
+- sed, awk, cut, uniq, sed, sort
 - [grep cheat sheet](https://gist.github.com/superDross/7b32fbb6b1cb6dffd703f6b9823b721a)
 - [grep, awk and sed – three VERY useful command-line utilities](http://www-users.york.ac.uk/~mijp1/teaching/4th_year_HPC/guides/grep_awk_sed.pdf)
 - awk examples, awk tutorial

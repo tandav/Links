@@ -1,6 +1,7 @@
 Macbook Air battery degradation after 1000 charging cycles
 Measures made with [istats](https://github.com/Chris911/iStats)
 Design capacity: 7150 mAh
+# todo: convert to .csv
 
 | Date         | Cycle count | Maximum charge, mAh |
 |--------------+-------------+ --------------------|
@@ -19,3 +20,4 @@ Design capacity: 7150 mAh
 | 15 Oct 2017  |        1018 |                5688 |
 | 22 Nov 2017  |        1030 |                5666 |
 | 24 Dec 2017  |        1045 |                5640 |
+| 19 Jan 2018  |        1055 |                4983 |

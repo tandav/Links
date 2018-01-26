@@ -14,8 +14,6 @@
 - [The GitHub Blog](https://github.com/blog/category/all)
 - [GitHub Trending](https://github.com/trending)
 - [Discover Starred gists](https://gist.github.com/starred)
-- [Google Blog](https://blog.google/)
-- [research.googleblog.com](https://research.googleblog.com/)
 - [Product Hunt](https://www.producthunt.com/)
 - [Medium](https://medium.com/)
 - [freeCodeCamp](https://medium.freecodecamp.com/)
@@ -40,6 +38,8 @@
 - [WIRED](https://www.wired.com/)
 
 ## Blogs
+- [Google Blog](https://blog.google/)
+- [research.googleblog.com](https://research.googleblog.com/)
 - [Блог - Hexlet.io](https://ru.hexlet.io/blog)
 - [Intel® Software](https://software.intel.com/en-us)
 
@@ -63,4 +63,11 @@ good content sometimes but too much noise
 - [Intel - YouTube](https://www.youtube.com/user/channelintel)
 - [Udacity - YouTube](https://www.youtube.com/user/Udacity)
 - [GoogleTechTalks - YouTube](https://www.youtube.com/user/GoogleTechTalks/videos?flow=grid&sort=p&view=0)
-- [Google - YouTube](https://www.youtube.com/user/Google/featured?disable_polymer=1)
+- [Google - YouTube](https://www.youtube.com/user/Google)
+- [Vert Dider - YouTube](https://www.youtube.com/channel/UCY6zVRa3Km52bsBmpyQnk6A)
+- [freeCodeCamp - YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+- [GitHub - YouTube](https://www.youtube.com/user/github)
+- [Techquickie - YouTube](https://www.youtube.com/user/Techquickie)
+- [Центр Архэ - YouTube](https://www.youtube.com/channel/UCY41Iz96tJZMEp1qyLH-LYQ)
+- [Оксфордский Университет - YouTube](https://www.youtube.com/user/rusoxford)
+- [nature video - YouTube](https://www.youtube.com/user/NatureVideoChannel)

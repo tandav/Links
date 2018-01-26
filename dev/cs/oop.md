@@ -18,6 +18,7 @@
 - Object-oriented Analysis and Design with Applications
 - oop message passing
 - [`norm` Почему я против объектов. Часть первая, философская](http://grishaev.me/oop-1)
+- [Почему я против объектов. Часть вторая, техническая](http://grishaev.me/oop-2)
 - [Перестаньте писать классы / Хабрахабр](https://habrahabr.ru/post/140581/)
 - прост: Класс нужен там, где есть "состояние" данных (некий state), которое нужно хранить, контролировать life-time, соблюдать инкапсуляцию.
 - how to replace inheritance to composition

@@ -143,8 +143,8 @@ alias ve='source env/bin/activate'
 alias sd='source deactivate'
 alias jn='jupyter notebook'
 alias jnt='jupyter notebook ~/Documents/temp.ipynb' # temporary python
-
 alias sz='source ~/.zshrc'
+alias mh='open ~/Google\ Drive/images/AI/brain-tools/map/my-head/index.html'
 
 # websites
 alias wm='open https://www.youtube.com/playlist\?list\=PL4qBE1-4ZNC0Wam6r8MaZoUfZ8ektEVYe'

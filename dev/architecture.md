@@ -20,3 +20,5 @@
     - data out (side effect) eg. write to file
 - use Finite-state machines. All is state machines. Do not write code with lot of **if**s. Make explicit states. Do not try to find out state by values of many variables. Make explicit states. Variables should define one of many states. You should not to read values of many variables to find out in which state application is.
 - [Microservices in a Nutshell. Pros and Cons.](https://blog.philipphauer.de/microservices-nutshell-pros-cons/)
+- [The Death of Microservice Madness in 2018 | Hacker News](https://news.ycombinator.com/item?id=16200007)
+- [Почему опытные разработчики пишут тупой код и как распознать новичка за километр / Хабрахабр](https://habrahabr.ru/post/347166/)

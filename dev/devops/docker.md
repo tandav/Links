@@ -1,4 +1,5 @@
 # Docker
+- At the fundamental layer, start with cgroups and namespaces
 - [Why Docker makes sense for startups – freeCodeCamp](https://medium.freecodecamp.org/why-docker-makes-sense-for-startups-e9be14a1f662)
 - Learn Docker
 - [My VM is lighter and safer than your container | Hacker News](https://news.ycombinator.com/item?id=15610155)
@@ -24,3 +25,4 @@
 - [Введение в Docker - YouTube](https://www.youtube.com/watch?v=dfXuTTV6TVo)
 - [A Beginner-Friendly Introduction to Containers, VMs and Docker](https://medium.freecodecamp.org/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b)
 - [First Impressions: Docker for Mac with Kubernetes | Hacker News](https://news.ycombinator.com/item?id=16095425)
+- [Лучшая архитектура на базе Docker и Kubernetes — миф или реальность? / Хабрахабр](https://habrahabr.ru/post/321810/)

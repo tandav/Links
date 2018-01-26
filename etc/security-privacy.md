@@ -14,3 +14,4 @@
 - how to encrypt file from terminal
     - gpg, zip -e, openssl
 - link shortener brute force
+- [OpenSSL command cheatsheet – freeCodeCamp](https://medium.freecodecamp.org/openssl-command-cheatsheet-b441be1e8c4a)

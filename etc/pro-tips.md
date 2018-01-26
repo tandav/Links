@@ -13,16 +13,17 @@ Am I set up on track?
 ---
 
 #### Places to search besides google
-* github and gist, also use `stars:>1000`
-* stackoverflow and stackexchange most voted answers on some tag
-* quora
-* [hacker news](https://hn.algolia.com)
-* reddit
-* medium ([freeCodeCamp](https://medium.freecodecamp.org/search) and [Hacker Noon](https://hackernoon.com/search))
-* If sb writes a good answer on stackowerflow/quora -> check their github/twitter/other answers
-* Reddit / Quora / StackExchange - Top Q&A
+- github and gist, also use `stars:>1000`
+- stackoverflow and stackexchange most voted answers on some tag
+- quora
+- [hacker news](https://hn.algolia.com)
+- reddit
+- medium ([freeCodeCamp](https://medium.freecodecamp.org/search) and [Hacker Noon](https://hackernoon.com/search))
+- If sb writes a good answer on stackowerflow/quora -> check their github/twitter/other answers
+- Reddit / Quora / StackExchange - Top Q&A
     - Чуваков которые дают крутые ответы пробивать (их другие ответы, их гитхаб, твиттер)
-* habrahabr / geektimes
+- habrahabr / geektimes
+- google images (`TOP`)
 
 ---
 
@@ -94,5 +95,16 @@ google images slideshow
 ```js
 setInterval(() => document.getElementById('irc_ra').click(), 100)
 ```
+
+---
+
+find files which names that contains `abc` (case-insensitive) 
+
+```shell
+find . -iname '*abc*'
+```
+
+use any wildcards you want
+(`.` is root node, then it searches recursevly)
 
 ---

@@ -13,6 +13,7 @@
 - [Cookies vs Tokens: The Definitive Guide](https://auth0.com/blog/cookies-vs-tokens-definitive-guide/)
 - [Critique My Plan: API Key for Authentication | Hacker News](https://news.ycombinator.com/item?id=16006394)
 - [Token Authentication vs. Cookies - Stack Overflow](https://stackoverflow.com/questions/17000835/token-authentication-vs-cookies)
+- [spring - Token based authentication in REST APIs - Stack Overflow](https://stackoverflow.com/questions/36273905/token-based-authentication-in-rest-apis)
 
 ### JWT
 - [JSON Web Token Tutorial: Example using AngularJS & Laravel | Toptal](https://www.toptal.com/web/cookie-free-authentication-with-json-web-tokens-an-example-in-laravel-and-angularjs)
@@ -22,3 +23,6 @@
 - [Things to Use Instead of JSON Web Tokens | Hacker News](https://news.ycombinator.com/item?id=14290114)
 - [Don't use JSON web tokens for sessions | Hacker News](https://news.ycombinator.com/item?id=11895440)
 - [No Way, JOSE! Javascript Object Signing and Encryption is a Bad Standard That Everyone Should Avoid - Paragon Initiative Enterprises Blog](https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid)
+- [Аутентификация с использованием Spring Security и JWT-токенов / Хабрахабр](https://habrahabr.ru/post/278411/)
+- refresh tokens, refresh vs access tokens 
+- [on Twitter: "По поводу JWT. Идея – хранить refresh токен на клиенте...](https://twitter.com/kostenko/status/956172909428457472)

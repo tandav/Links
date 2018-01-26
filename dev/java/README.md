@@ -6,6 +6,7 @@
 - java core / standard library
 - effective java - joshua bloch
 - [Java inner class and static nested class - Stack Overflow](https://stackoverflow.com/questions/70324/java-inner-class-and-static-nested-class)
+- [generics - What does `<>` (angle brackets) mean in Java? - Stack Overflow](https://stackoverflow.com/questions/6607550/what-does-angle-brackets-mean-in-java#6607641)
 
 ## Other
 - java logging
@@ -17,6 +18,7 @@
 - [Quick Tips for Fast Code on the JVM | Hacker News](https://news.ycombinator.com/item?id=16039943)
 - fast java, java performance tips
 - [Java and Performance: Biggest Mistakes - YouTube](https://www.youtube.com/watch?v=IBkxiWmjM-g)
+- тормозит в основном GC, пиши код где мало сборки мусора и будет fast
 
 ## JVM, bytecode
 - jvm vs compiled languages
@@ -99,3 +101,4 @@
 - [java - How do servlets work? Instantiation, sessions, shared variables and multithreading - Stack Overflow](https://stackoverflow.com/questions/3106452/how-do-servlets-work-instantiation-sessions-shared-variables-and-multithreadi)
 
 ---
+- [What are the valid criticisms against Java? : java](https://www.reddit.com/r/java/comments/7qdrjg/what_are_the_valid_criticisms_against_java/?st=JCOFRGQL&sh=b5229f18)

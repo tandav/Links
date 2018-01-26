@@ -65,6 +65,7 @@ Tools to control highly structured data. Just raw links for now.
 - [Как научиться мыслить образами, используя визуальные аналогии / Хабрахабр](https://habrahabr.ru/post/345204/)
 - [method of loci - HN Search powered by Algolia](https://hn.algolia.com/?query=method%20of%20loci&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 - screenshots are like anki cards / very good for spaced repetitions
+- [Traverse: Visualization of Complex Nested Discussion Trees | Hacker News](https://news.ycombinator.com/item?id=16171364)
 
 ## D3.js trees
 - [D3 Source Treemap - bl.ocks.org](https://bl.ocks.org/mbostock/8fe6fa6ed1fa976e5dd76cfa4d816fec)
@@ -88,6 +89,7 @@ Tools to control highly structured data. Just raw links for now.
 - [Pedigree Tree - bl.ocks.org](https://bl.ocks.org/mbostock/2966094)
 - [Collapsible Indented Tree - bl.ocks.org](https://bl.ocks.org/mbostock/1093025)
 - [Treemap - bl.ocks.org](https://bl.ocks.org/mbostock/972398)
+- [Example Authors - bl.ocks.org](https://bl.ocks.org/mbostock/3cba6ac2fac09e5483bf6c1fade733be)
 
 ## Knowledge Maps
 - [vicky002/AlgoWiki: Repository which contains links and resources on different topics of Computer Science.](https://github.com/vicky002/AlgoWiki)

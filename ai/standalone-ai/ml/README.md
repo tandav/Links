@@ -10,6 +10,8 @@
 - andrej karpathy cs231n | [CS231n Winter 2016 - YouTube](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) | [Reddit/cs231n](https://www.reddit.com/r/cs231n/) | [CS231n, Spring 2017](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 
 ## Raw
+- [Machine Learning Zero-to-Hero: Everything you need in order to compete on Kaggle for the first…](https://towardsdatascience.com/machine-learning-zero-to-hero-everything-you-need-in-order-to-compete-on-kaggle-for-the-first-time-18644e701cf1)
+- [Глубинное обучение: критическая оценка / Geektimes](https://geektimes.ru/post/297309/)
 - [10 Machine Learning Algorithms You need to Know – Towards Data Science](https://towardsdatascience.com/10-machine-learning-algorithms-you-need-to-know-77fb0055fe0)
 - [frnsys/ai_notes: machine learning/artificial intelligence notes](https://github.com/frnsys/ai_notes)
 - [Alpha Go Zero: How and Why It Works | Hacker News](https://news.ycombinator.com/item?id=15627340)
