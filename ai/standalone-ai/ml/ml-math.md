@@ -1,4 +1,5 @@
 # ML Math
+- [A Tour of The Top 10 Algorithms for Machine Learning Newbies](https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11)
 - [Visualizing Multivariate Data - MATLAB & Simulink Example](https://www.mathworks.com/help/stats/examples/visualizing-multivariate-data.html)
 - graph teory
 - [(11) Representing graphs (article) | Algorithms | Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms/graph-representation/a/representing-graphs)

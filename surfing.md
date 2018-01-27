@@ -1,17 +1,17 @@
 # Surfing the web
 ## Basics
-- [Hacker News](https://news.ycombinator.com/) | [HN Search](https://hn.algolia.com) `// best website ever created`
-- [YouTube](https://www.youtube.com/) | [My Library](placeholder.md)
-- [Twitter](https://twitter.com) | [Who I follow](https://twitter.com/tandavaya/following)
-- [Quora](https://www.quora.com/)
-- [Stack Exchange](http://stackexchange.com/sites) | [Hot Questions](https://stackexchange.com/questions?tab=hot)
-- [reddit](https://www.reddit.com/)
+- ![](https://cdn2.iconfinder.com/data/icons/social-flat-buttons-3/512/hacker_news-16.png) [Hacker News](https://news.ycombinator.com/) | [HN Search](https://hn.algolia.com) `// best website ever created`
+- ![](https://duckduckgo.com/assets/icons/favicons/youtube.png) [YouTube](https://www.youtube.com/) | [My Library](https://www.youtube.com/channel/UCbgKryv4gdpJJ7_Rg5i2xyg/playlists?sort=dd&shelf_id=0&view=1) | [Subscriptions](https://www.youtube.com/channel/UCbgKryv4gdpJJ7_Rg5i2xyg/channels?view=56&shelf_id=3)
+- ![](https://icons.duckduckgo.com/twitter.com.ico) [Twitter](https://twitter.com) | [TweetDeck](https://tweetdeck.twitter.com/) | [Who I follow](https://twitter.com/tandavaya/following)
+- [TM Feed](http://tmfeed.ru/)
+- ![](https://cdn2.iconfinder.com/data/icons/social-flat-buttons-3/512/reddit-16.png) [reddit](https://www.reddit.com/)
 
 ## News
-- [TJournal.ru](https://tjournal.ru/)
-- [TM Feed](http://tmfeed.ru/)
 - [vc.ru](https://vc.ru/)
+- [TJournal.ru](https://tjournal.ru/)
 - [The GitHub Blog](https://github.com/blog/category/all)
+- [Quora](https://www.quora.com/)
+- [Stack Exchange](http://stackexchange.com/sites) | [Hot Questions](https://stackexchange.com/questions?tab=hot)
 - [GitHub Trending](https://github.com/trending)
 - [Discover Starred gists](https://gist.github.com/starred)
 - [Product Hunt](https://www.producthunt.com/)

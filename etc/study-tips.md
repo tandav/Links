@@ -38,3 +38,4 @@
 - [Как программисты-самоучки в реальности получают работу / Хабрахабр](https://habrahabr.ru/post/342156/)
 - [A Neuroscientist Explores the “Sanskrit Effect” | Hacker News](https://news.ycombinator.com/item?id=16092475)
 - [Как читать техническую литературу: советы резидентов Quora, Reddit и Hacker News / Блог компании 1cloud.ru / Хабрахабр](https://habrahabr.ru/company/1cloud/blog/344332/)
+- [The Feynman Technique: The Best Way to Learn Anything | Hacker News](https://news.ycombinator.com/item?id=16244994)

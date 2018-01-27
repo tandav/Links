@@ -1,4 +1,5 @@
 # Raw Links
+- [Сайт @backendsecret](http://backendsecret.ru/)
 - graceful shutdown java / graceful shutdown python / pyqt
 - [dl? cmplnts?](https://archive.zhimingwang.org/)
 - [How I learned to program | Hacker News](https://news.ycombinator.com/item?id=16010173)

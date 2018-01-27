@@ -80,6 +80,7 @@ Alternatives to relational db:
 - [PostgreSQL Exercises | Hacker News](https://news.ycombinator.com/item?id=15859849&utm_term=comment)
 - [DBCLI](http://www.dbcli.com/)
 - [CMU 15-721 Advanced Database Systems [video] | Hacker News](https://news.ycombinator.com/item?id=16145477&utm_term=comment)
+- [Postgres indexes under the hood | Hacker News](https://news.ycombinator.com/item?id=16244175)
 
 ---
 

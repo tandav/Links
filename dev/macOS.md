@@ -15,3 +15,4 @@
 - [koekeishiya/chunkwm: Tiling window manager for macOS based on plugin architecture](https://github.com/koekeishiya/chunkwm)
 - [macOS Keychain - Roman Zolotarev](https://www.romanzolotarev.com/keychain/)
 - [Guide To Make Your Mac Suck Less (2017) – David Echols – Medium](https://medium.com/@echohack/guide-to-make-your-mac-suck-less-2017-88a57563aac7)
+- [macOS Imitating Linux rices: unixporn](https://www.reddit.com/r/unixporn/comments/7t21ip/macos_imitating_linux_rices/)

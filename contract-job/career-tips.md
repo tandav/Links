@@ -39,3 +39,4 @@
 - [Stack Overflow Developer Survey 2017](https://insights.stackoverflow.com/survey/2017)
 - [О состоянии, подготовке и реальностях работы с ИТ-кадрами за пределами городов-миллионников](https://vc.ru/29413-o-sostoyanii-podgotovke-i-realnostyah-raboty-s-it-kadrami-za-predelami-gorodov-millionnikov?from=digest)
 - [India’s IT industry laid off more than 56k employees this year | Hacker News](https://news.ycombinator.com/item?id=16013448)
+- [Зарплаты ИТ-специалистов на конец 2017 года](https://vc.ru/32337-zarplaty-it-specialistov-na-konec-2017-goda)

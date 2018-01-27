@@ -1,4 +1,6 @@
 # Hacking
+- [Добываем Wi-Fi соседа стандартными средствами MacOS / Хабрахабр](https://habrahabr.ru/post/347658/)
+- [Hacker101](https://www.hacker101.com/)
 - [Как «пробить» человека в Интернет: используем операторы Google и логику / Блог компании Эшелон / Хабрахабр](https://habrahabr.ru/company/echelon/blog/321754/)
 - [DEFCONConference - YouTube](https://www.youtube.com/user/DEFCONConference/videos?disable_polymer=1)
 - [My tips for finding security issues in GitHub projects | Hacker News](https://news.ycombinator.com/item?id=15421999)

@@ -143,6 +143,7 @@ alias ve='source env/bin/activate'
 alias sd='source deactivate'
 alias jn='jupyter notebook'
 alias jnt='jupyter notebook ~/Documents/temp.ipynb' # temporary python
+alias jt='open https://colab.research.google.com/notebook#fileId=1tMXb4IXryuenlUvIBkRgZlSQmrlp5mUr&scrollTo=gXzvGiMJD4rQ' # temp colab notebook 
 alias sz='source ~/.zshrc'
 alias mh='open ~/Google\ Drive/images/AI/brain-tools/map/my-head/index.html'
 
