@@ -13,6 +13,7 @@
 - [Spring Tutorial](https://www.tutorialspoint.com/spring/index.htm)
 - aspect oriented programming - google images
 - [What is Data Transfer Object? DTO - Stack Overflow](https://stackoverflow.com/questions/1051182/what-is-data-transfer-object#1058186)
+- [Inversion of Control - Google Images](https://www.google.ru/search?tbm=isch&q=Inversion+of+Control&tbs=imgo:1&gws_rd=cr&dcr=0&ei=MIptWrmaL8XpsQHRh7zABg#gws_rd=cr&imgrc=_)
 
 ## Some Spring Boot tabs 
 - [From Zero to Hero with Spring Boot - Brian Clozel - YouTube](https://www.youtube.com/watch?v=aA4tfBGY6jY)

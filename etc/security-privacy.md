@@ -15,3 +15,4 @@
     - gpg, zip -e, openssl
 - link shortener brute force
 - [OpenSSL command cheatsheet – freeCodeCamp](https://medium.freecodecamp.org/openssl-command-cheatsheet-b441be1e8c4a)
+- [Hacker101: A free class for web security | Hacker News](https://news.ycombinator.com/item?id=16250829)

@@ -11,10 +11,12 @@ i'm learning this things:
     - JDBC, JPA, Hibernate, 
 - Spring
 - how real enterprise apps actually looks like and work, google a lot
+    - [Сайт @backendsecret](http://backendsecret.ru/)
     - application server (jboss vs tomcat)
     - jsp??, servlets??
     - unit tests
     - maven
+    - 
 - networks
 - data bus/ message queue designs, using Kafka or RabbitMQ, etc. 
 
@@ -37,6 +39,7 @@ i'm learning this things:
 ## ???
 - lil bit of C++
 - lil bit of Go
+- мб по devops загнаться?
 
 ---
 

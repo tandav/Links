@@ -19,5 +19,5 @@ my life is simple:
                                   └── emotional ballance ───────────┘
                                       ├── <a href="music">music</a> ────────┤
                                       └── <a href="surfing.md">web-surfing</a> ──┘
-<br><br>                                            <a href="global-pic">[big pic]</a>
+<br><br>                                            <a href="big-pic">[big pic]</a>
 </pre>
