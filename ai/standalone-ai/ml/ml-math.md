@@ -31,6 +31,7 @@
 - salary: why use median instead of mean
 - [Modes, Medians and Means: A Unifying Perspective | Hacker News](https://news.ycombinator.com/item?id=15946239&utm_term=comment)
 - distribution vs probability density function
+- [statistics - HN Search](https://hn.algolia.com/?query=&sort=byPopularity&prefix&page=0&dateRange=all&type=story)
 
 ## Standard Deviation vs Abs Deviation
 - meaning square error vs abs

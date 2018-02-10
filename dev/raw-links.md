@@ -1,4 +1,19 @@
 # Raw Links
+- [Hexlet Guides](http://guides.hexlet.io/)
+
+---
+
+- java method calls visualaser
+- java code visualization tools
+- code visualization tools
+- Codemap
+    - [SCG: Software Cartography](http://scg.unibe.ch/research/softwarecartography)
+- intellij idea code visualisation
+    - Code Iris?
+    - [How to Integrate Visual Paradigm with IntelliJ IDEA? (Installation Guide)](https://www.visual-paradigm.com/support/documents/vpuserguide/2381/2385/66577_overviewandi.html)
+
+---
+
 - [Сайт @backendsecret](http://backendsecret.ru/)
 - graceful shutdown java / graceful shutdown python / pyqt
 - [dl? cmplnts?](https://archive.zhimingwang.org/)

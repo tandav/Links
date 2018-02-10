@@ -11,6 +11,7 @@
 - [Спросите Итана: почему время должно быть измерением? / Geektimes](https://geektimes.ru/post/292527/)
 - [15x4 - 15 минут о теории относительности - YouTube](https://www.youtube.com/watch?v=Ls9fKgdm18k)
 - [An explorable explanation of relativistic spacetime | Hacker News](https://news.ycombinator.com/item?id=16071327)
+- [Gravity well - Wikipedia](https://en.wikipedia.org/wiki/Gravity_well)
 
 ## Raw
 - [Badges - Physics Stack Exchange](http://physics.stackexchange.com/help/badges)

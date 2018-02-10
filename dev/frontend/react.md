@@ -80,8 +80,6 @@
 - [html - How to apply CSS and Styling to a React component - Stack Overflow](https://stackoverflow.com/questions/38545219/how-to-apply-css-and-styling-to-a-react-component)
 - [React.js cheatsheet](https://devhints.io/react)
 - [State and Lifecycle - React](https://reactjs.org/docs/state-and-lifecycle.html#state-updates-are-merged)
-- react router tutorial - Google Search
-- [ReactTraining/react-router: Declarative routing for React](https://github.com/ReactTraining/react-router)
 - [javascript - Where do I fetch initial data from server in a React Redux app? - Stack Overflow](https://stackoverflow.com/questions/36784139/where-do-i-fetch-initial-data-from-server-in-a-react-redux-app)
 - [javascript - What are differences between redux, react-redux, redux-thunk? - Stack Overflow](https://stackoverflow.com/questions/38405571/what-are-differences-between-redux-react-redux-redux-thunk)
 - [Usage | Yarn](https://yarnpkg.com/en/docs/usage)
@@ -112,3 +110,9 @@
 
 - [Everything You Should Know About React: The Basics You Need to Start Building](https://medium.freecodecamp.org/everything-you-need-to-know-about-react-eaedf53238c4)
 - [Vue.js vs. React: what happened in 2017 | Hacker News](https://news.ycombinator.com/item?id=15999688)
+- [Higher-Order Components - React](https://reactjs.org/docs/higher-order-components.html)
+- [`A-HA MOMENT` setState is not immediate](https://stackoverflow.com/a/42038724/4204843)
+    - все равно чет не сразу
+    - react setstate callback
+- [javascript - Reactjs: page refreshing upon `onClick` handle of Button? - Stack Overflow](https://stackoverflow.com/questions/38256256/reactjs-page-refreshing-upon-onclick-handle-of-button)
+    - or just use link?

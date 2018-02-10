@@ -19,3 +19,4 @@
 ## Raw Links
 - [What and where are the stack and heap? - Stack Overflow](http://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap)
 - [Memory Management Reference | Hacker News](https://news.ycombinator.com/item?id=16087689)
+- [Computer Architecture – ETH Zürich – Fall 2017 | Hacker News](https://news.ycombinator.com/item?id=16299063)

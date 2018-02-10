@@ -39,3 +39,4 @@
 - [A Neuroscientist Explores the “Sanskrit Effect” | Hacker News](https://news.ycombinator.com/item?id=16092475)
 - [Как читать техническую литературу: советы резидентов Quora, Reddit и Hacker News / Блог компании 1cloud.ru / Хабрахабр](https://habrahabr.ru/company/1cloud/blog/344332/)
 - [The Feynman Technique: The Best Way to Learn Anything | Hacker News](https://news.ycombinator.com/item?id=16244994)
+- [computers - Do bigger or more monitors increase productivity? - Skeptics Stack Exchange](https://skeptics.stackexchange.com/questions/1700/do-bigger-or-more-monitors-increase-productivity)

@@ -37,9 +37,11 @@ i'm learning this things:
     - AI
 
 ## ???
-- lil bit of C++
-- lil bit of Go
-- мб по devops загнаться?
+- lil bit of Go / No, не general, просто какая-то удачная узкая область
+- мб по devops загнаться? (нет, лучше именно software engineering)
+- grok CI / devops
+- grok writing tests
+- grok working with leacy code / refactoring
 
 ---
 

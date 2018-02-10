@@ -1,5 +1,6 @@
 # Machine Learning and Data Science
 ## Good Fundamentals
+- [Practical Deep Learning for Coders 2018 | Hacker News](https://news.ycombinator.com/item?id=16257893)
 - [Machine Learning 101 slidedeck: 2 years of headbanging, so you don't have to | Hacker News](https://news.ycombinator.com/item?id=15919115) `HOT`
 - [Deep Learning - Ian Goodfellow Book](http://www.deeplearningbook.org/)
 - [Kaggle: Your Home for Data Science](https://www.kaggle.com/)
@@ -10,6 +11,7 @@
 - andrej karpathy cs231n | [CS231n Winter 2016 - YouTube](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) | [Reddit/cs231n](https://www.reddit.com/r/cs231n/) | [CS231n, Spring 2017](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 
 ## Raw
+- [jupyter/jupyter: Jupyter metapackage for installation, docs and chat](https://github.com/jupyter/jupyter)
 - [Machine Learning Zero-to-Hero: Everything you need in order to compete on Kaggle for the first…](https://towardsdatascience.com/machine-learning-zero-to-hero-everything-you-need-in-order-to-compete-on-kaggle-for-the-first-time-18644e701cf1)
 - [Глубинное обучение: критическая оценка / Geektimes](https://geektimes.ru/post/297309/)
 - [10 Machine Learning Algorithms You need to Know – Towards Data Science](https://towardsdatascience.com/10-machine-learning-algorithms-you-need-to-know-77fb0055fe0)
@@ -101,7 +103,11 @@
 - [tensorflow/tensorflow: Computation using data flow graphs for scalable machine learning](https://github.com/tensorflow/tensorflow)
 - [deepmind/sonnet: TensorFlow-based neural network library](https://github.com/deepmind/sonnet)
 - [vahidk/EffectiveTensorflow: TensorFlow tutorials and best practices.](https://github.com/vahidk/EffectiveTensorflow)
+
+## Free online Jypiter notebooks
 - [Google Releases Colaboratory | Hacker News](https://news.ycombinator.com/item?id=15652549)
+- [Jupyter Notebook* Editor | Intel® Software](https://software.intel.com/en-us/dl-training-tool-devguide-jupyter-notebook-editor)
+- [Microsoft Azure Notebooks](https://notebooks.azure.com)
 
 ## CNN
 - [An Intuitive Explanation of Convolutional Neural Networks (2016) | Hacker News](https://news.ycombinator.com/item?id=15328516)

@@ -7,11 +7,17 @@
 - effective java - joshua bloch
 - [Java inner class and static nested class - Stack Overflow](https://stackoverflow.com/questions/70324/java-inner-class-and-static-nested-class)
 - [generics - What does `<>` (angle brackets) mean in Java? - Stack Overflow](https://stackoverflow.com/questions/6607550/what-does-angle-brackets-mean-in-java#6607641)
+- files, streams, buffers, all that shit
 
 ## Other
 - java logging
 - java unittesting
 - java multithreading (Google, HN, YT, thinking in java)
+- intellij idea debug remote server
+- intellij idea debug docker containers
+- intellij idea debugger tutorial / crash course
+- JDBC, JPA, Hibernate, Tomcat, Servlets
+- Java-Backend
 
 ## Performance
 - [Why are only a few video games written in Java? - Stack Overflow](https://stackoverflow.com/questions/1034458/why-are-only-a-few-video-games-written-in-java)
@@ -19,6 +25,7 @@
 - fast java, java performance tips
 - [Java and Performance: Biggest Mistakes - YouTube](https://www.youtube.com/watch?v=IBkxiWmjM-g)
 - тормозит в основном GC, пиши код где мало сборки мусора и будет fast
+- [Why is the execution time of C faster than Java? - Quora](https://www.quora.com/Why-is-the-execution-time-of-C-faster-than-Java)
 
 ## JVM, bytecode
 - jvm vs compiled languages

@@ -1,4 +1,7 @@
 # Computer Science
+- SICP SICP SICP SICP. ()
+- cs@wikipedia - полный треш. Russian wiki - треш. 
+- haskell, closure, erlang, prolog(as library for another lang), C  - enlightment langs. Lambda calculus. ASM - просто основные моменты. Ну чарльз петцольд - код - там в конце минималка асма. В операционки погружаться.
 - [programming paradigms - Google Search](https://www.google.ru/search?newwindow=1&dcr=0&tbs=imgo%3A1&tbm=isch&sa=1&ei=KmBgWp_ELpCW6QSS36WYDQ&q=programming+paradigms&oq=programming+par&gs_l=psy-ab.3.0.0l4j0i30k1l2j0i8i30k1l4.134376.137333.0.138156.15.10.4.0.0.0.200.1220.2j7j1.10.0....0...1c.1.64.psy-ab..2.9.968...0i67k1j0i13k1j0i13i30k1j0i8i13i30k1.0.vCBy6RnowcQ)
 - discrete math
 - [MIT OpenCourseWare - YouTube](https://www.youtube.com/user/MIT/videos?shelf_id=3&view=0&sort=p)

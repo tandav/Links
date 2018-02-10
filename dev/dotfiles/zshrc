@@ -2,6 +2,7 @@
 export TERM="xterm-256color"
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
+export PATH=${PATH}:/usr/local/mysql/bin
 
 # Path to your oh-my-zsh installation.
 export ZSH=/Users/tandav/.oh-my-zsh
@@ -143,10 +144,14 @@ alias ve='source env/bin/activate'
 alias sd='source deactivate'
 alias jn='jupyter notebook'
 alias jnt='jupyter notebook ~/Documents/temp.ipynb' # temporary python
-alias jt='open https://colab.research.google.com/notebook#fileId=1tMXb4IXryuenlUvIBkRgZlSQmrlp5mUr&scrollTo=gXzvGiMJD4rQ' # temp colab notebook 
+alias jnc='open https://colab.research.google.com/notebook#fileId=1tMXb4IXryuenlUvIBkRgZlSQmrlp5mUr&scrollTo=gXzvGiMJD4rQ' # temp colab notebook 
+alias jna='open https://temp-tandav.notebooks.azure.com/nb//notebooks/temp.ipynb' # azure notebook
 alias sz='source ~/.zshrc'
 alias mh='open ~/Google\ Drive/images/AI/brain-tools/map/my-head/index.html'
 alias bp='open -a Preview ~/Google\ Drive/images/big-pic'
+alias ms='cd ~/Documents/millionaire/spring'
+alias mr='cd ~/Documents/millionaire/millionaire-react'
+alias i='open -a IntelliJ\ IDEA\ CE'
 
 # websites
 alias wm='open https://www.youtube.com/playlist\?list\=PL4qBE1-4ZNC0Wam6r8MaZoUfZ8ektEVYe'

@@ -105,6 +105,7 @@
 - PyQt
 - [Craft your own GUIs with Python and Tkinter - YouTube](https://www.youtube.com/watch?v=Wb1YFgHqUZ8)
 - [I'm an indie dev and have been developing a cross-platform (Py)Qt app for the pa... | Hacker News](https://news.ycombinator.com/item?id=15870010)
+- [Show HN: Cross-platform desktop applications with PyQT | Hacker News](https://news.ycombinator.com/item?id=16318677)
 
 ## Networks
 - [Requests: HTTP for Humans — Requests 2.18.4 documentation](http://www.python-requests.org/en/master/) `ABSOLUTE MUST HAVE / MUST LEARN`

@@ -9,7 +9,7 @@
 ## News
 - ![](https://user-images.githubusercontent.com/5549677/35523807-c6564dbc-0530-11e8-8fa2-a7e454246149.png) [vc.ru](https://vc.ru/)
 - ![](https://user-images.githubusercontent.com/5549677/35523712-82d5a600-0530-11e8-8387-5743dc6eccc2.png) [TJournal.ru](https://tjournal.ru/)
-- ![](https://user-images.githubusercontent.com/5549677/35523115-20f4540a-052f-11e8-9db5-8e93906014aa.png) [The GitHub Blog](https://github.com/blog/category/all) | [GitHub Trending](https://github.com/trending) | [Starred gists](https://gist.github.com/starred)
+- ![](https://user-images.githubusercontent.com/5549677/35523115-20f4540a-052f-11e8-9db5-8e93906014aa.png) [GitHub](https://github.com/) | [Blog](https://github.com/blog/category/all) | [Trending](https://github.com/trending) | [Starred gists](https://gist.github.com/starred)
 - ![](https://user-images.githubusercontent.com/5549677/35523233-712cdb0e-052f-11e8-9a25-6bf717dee538.png) [Quora](https://www.quora.com/)
 - [Stack Exchange](http://stackexchange.com/sites) | [Hot Questions](https://stackexchange.com/questions?tab=hot)
 - [Product Hunt](https://www.producthunt.com/)
@@ -23,6 +23,7 @@
 - [Google News](https://news.google.com/news/sfy?ned=us&hl=en&gl=US)
 - [Slashdot: News for nerds, stuff that matters](https://slashdot.org/)
 - [Slate Star Codex](http://slatestarcodex.com/)
+- [LessWrong 2.0](https://www.lesserwrong.com/)
 - ![](https://user-images.githubusercontent.com/5549677/35523961-1d9a3ffc-0531-11e8-95ad-13912fbead36.png) [Pinterest](https://ru.pinterest.com/)
 
 ## Science and Tech
@@ -43,6 +44,7 @@
 - [Intel® Software](https://software.intel.com/en-us)
 
 ## Other
+- [Ask HN: What is your favorite YouTube channel for developers? | Hacker News](https://news.ycombinator.com/item?id=16224165&utm_source=hackernewsletter&utm_medium=email&utm_term=ask_hn)
 - [Popular Music Videos - YouTube](https://www.youtube.com/playlist?list=PLFgquLnL59alCl_2TQvOiD5Vgm1hCaGSI)
 - [VICE - Оригинальные репортажи и документальные фильмы о всём важном в мире.](https://www.vice.com/ru)
 - [Ask HN: What are some good technology blogs to follow? | Hacker News](https://news.ycombinator.com/item?id=13849430)
@@ -70,3 +72,8 @@ good content sometimes but too much noise
 - [Центр Архэ - YouTube](https://www.youtube.com/channel/UCY41Iz96tJZMEp1qyLH-LYQ)
 - [Оксфордский Университет - YouTube](https://www.youtube.com/user/rusoxford)
 - [nature video - YouTube](https://www.youtube.com/user/NatureVideoChannel)
+- [Massachusetts Institute of Technology (MIT) - YouTube](https://www.youtube.com/user/MITNewsOffice)
+- [DARPAtv - YouTube](https://www.youtube.com/user/DARPAtv)
+- [sentdex - YouTube](https://www.youtube.com/user/sentdex)
+- [Luke Smith - YouTube](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA)
+- [The Slow Mo Guys - YouTube](https://www.youtube.com/user/theslowmoguys)

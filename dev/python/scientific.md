@@ -53,6 +53,7 @@
 - [Jake VanderPlas on Twitter: "Jupyter notebook tip: use PIL to view an array as an image in a very fast, lightweight way: https://t.co/Cl52d6xqv3"](https://mobile.twitter.com/jakevdp/status/939887746134323201)
 - [Python JITs are coming | Hacker News](https://news.ycombinator.com/item?id=12344646)
 - [PyPy 4.0.0 Released – A Jit with SIMD Vectorization and More | Hacker News](https://news.ycombinator.com/item?id=10470428)
+- [Python’s Weak Performance Matters | Hacker News](https://news.ycombinator.com/item?id=16322277)
 
 ## Cython
 - cython, cython tutorial
