@@ -23,3 +23,8 @@
 - [Introduction to reverse engineering and assembly | Hacker News](https://news.ycombinator.com/item?id=16104958)
 - [How to JIT - an introduction - Eli Bendersky's website](https://eli.thegreenplace.net/2013/11/05/how-to-jit-an-introduction)
 - [How does just-in-time (JIT) compile being better than pre-compile everything? : compsci](https://www.reddit.com/r/compsci/comments/4lb2ts/how_does_justintime_jit_compile_being_better_than/)
+
+
+## CPU
+- [Как работает процессор, просто о сложном ✌ - YouTube](https://www.youtube.com/watch?v=gcAvhi9sOvA)
+- [Как работает процессор - YouTube](https://www.youtube.com/watch?v=kIrKeKiJt90)

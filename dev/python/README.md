@@ -116,3 +116,12 @@
 - [Asynchronous Python For The Complete Beginner - YouTube](https://www.youtube.com/watch?v=cYUr0BveIkY)
 - [I don't understand Python's Asyncio | Armin Ronacher's Thoughts and Writings](http://lucumr.pocoo.org/2016/10/30/i-dont-understand-asyncio/)
 - [c - socket connect() vs bind() - Stack Overflow](https://stackoverflow.com/questions/27014955/socket-connect-vs-bind)
+
+## Free online Jypiter notebooks
+- [Google Releases Colaboratory | Hacker News](https://news.ycombinator.com/item?id=15652549)
+- [Jupyter Notebook* Editor | Intel® Software](https://software.intel.com/en-us/dl-training-tool-devguide-jupyter-notebook-editor)
+- [Microsoft Azure Notebooks](https://notebooks.azure.com)
+- [Fast.ai Lesson 1 on Google Colab (Free GPU) – Towards Data Science](https://towardsdatascience.com/fast-ai-lesson-1-on-google-colab-free-gpu-d2af89f53604)
+- [Бесплатная GPU Tesla K80 для ваших экспериментов с нейросетями / Хабрахабр](https://habrahabr.ru/post/348058/)
+- [Kaggle: Your Home for Data Science](https://www.kaggle.com/getting-started/47096)
+- [Neural Networks with Google CoLaboratory | Artificial Intelligence Getting started](https://towardsdatascience.com/neural-networks-with-google-colaboratory-artificial-intelligence-getting-started-713b5eb07f14)

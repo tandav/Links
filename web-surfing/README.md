@@ -1,6 +1,6 @@
 # Surfing the web
 ## Basics
-- ![](https://cdn2.iconfinder.com/data/icons/social-flat-buttons-3/512/hacker_news-16.png) [`Hacker News`](https://news.ycombinator.com/) [`HN Search`](https://hn.algolia.com) `best website ever created`
+- ![](https://cdn2.iconfinder.com/data/icons/social-flat-buttons-3/512/hacker_news-16.png) [`Hacker News`](https://news.ycombinator.com/) [`HN Search`](https://hn.algolia.com)
 - ![](https://user-images.githubusercontent.com/5549677/35476729-c822ad14-03c5-11e8-8048-27546e3c1df5.png) [`YouTube`](https://www.youtube.com/) [`My Library`](https://www.youtube.com/channel/UCbgKryv4gdpJJ7_Rg5i2xyg/playlists?sort=dd&shelf_id=0&view=1) [`Subscriptions`](https://www.youtube.com/channel/UCbgKryv4gdpJJ7_Rg5i2xyg/channels?view=56&shelf_id=3) [`Popular`](https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA)
 - ![](https://user-images.githubusercontent.com/5549677/35476689-507ba248-03c5-11e8-9d70-4987c28fb98e.png) [`Twitter`](https://twitter.com) [`TweetDeck`](https://tweetdeck.twitter.com/) [`Who I follow`](https://twitter.com/tandavaya/following)
 - ![](https://user-images.githubusercontent.com/5549677/35523317-a52df49c-052f-11e8-9729-79834a60470b.png) [`TM Feed`](http://tmfeed.ru/)
@@ -26,21 +26,21 @@
 - ![](https://user-images.githubusercontent.com/5549677/35523961-1d9a3ffc-0531-11e8-95ad-13912fbead36.png) [`Pinterest`](https://ru.pinterest.com/)
 
 ## Science and Tech
-- [Scientific American](https://www.scientificamerican.com/)
-- [Quanta Magazine](https://www.quantamagazine.org/)
-- [Nautilus](http://nautil.us/)
-- [The Verge](http://www.theverge.com/)
-- [Motherboard](https://motherboard.vice.com/en_us)
-- [Элементы](http://elementy.ru/)
-- [N+1](https://nplus1.ru/)
-- [MIT Technology Review](https://www.technologyreview.com/)
-- [WIRED](https://www.wired.com/)
+- [`Scientific American`](https://www.scientificamerican.com/)
+- [`Quanta Magazine`](https://www.quantamagazine.org/)
+- [`Nautilus`](http://nautil.us/)
+- [`The Verge`](http://www.theverge.com/)
+- [`Motherboard`](https://motherboard.vice.com/en_us)
+- [`Элементы`](http://elementy.ru/)
+- [`N+1`](https://nplus1.ru/)
+- [`MIT Technology Review`](https://www.technologyreview.com/)
+- [`WIRED`](https://www.wired.com/)
 
 ## Blogs
-- [Google Blog](https://blog.google/)
-- [research.googleblog.com](https://research.googleblog.com/)
-- [Блог - Hexlet.io](https://ru.hexlet.io/blog)
-- [Intel® Software](https://software.intel.com/en-us)
+- [`Google Blog`](https://blog.google/)
+- [`research.googleblog.com`](https://research.googleblog.com/)
+- [`Hexlet`](https://ru.hexlet.io/blog)
+- [`Intel`](https://software.intel.com/en-us)
 
 ## Other
 - [Ask HN: What is your favorite YouTube channel for developers? | Hacker News](https://news.ycombinator.com/item?id=16224165&utm_source=hackernewsletter&utm_medium=email&utm_term=ask_hn)
@@ -53,26 +53,5 @@
 - [Readspike – Simple news aggregator | Hacker News](https://news.ycombinator.com/item?id=15532469)
 - [HackerNews Grid | Hacker News](https://news.ycombinator.com/item?id=15078605)
 - [Show HN: Reddit Grid – A better way to browse subreddits that are very visual | Hacker News](https://news.ycombinator.com/item?id=15337342)
+- [`Unsubscribed`](unsubscribed.md)
 
-## Unsubscribed 
-good content sometimes but too much noise
-- [Google Developers - YouTube](https://www.youtube.com/user/GoogleDevelopers)
-- [Science Magazine - YouTube](https://www.youtube.com/user/ScienceMag)
-- [Google Cloud - YouTube](https://www.youtube.com/user/googlecloudplatform)
-- [Intel Software - YouTube](https://www.youtube.com/user/intelswnetwork)
-- [Intel - YouTube](https://www.youtube.com/user/channelintel)
-- [Udacity - YouTube](https://www.youtube.com/user/Udacity)
-- [GoogleTechTalks - YouTube](https://www.youtube.com/user/GoogleTechTalks/videos?flow=grid&sort=p&view=0)
-- [Google - YouTube](https://www.youtube.com/user/Google)
-- [Vert Dider - YouTube](https://www.youtube.com/channel/UCY6zVRa3Km52bsBmpyQnk6A)
-- [freeCodeCamp - YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
-- [GitHub - YouTube](https://www.youtube.com/user/github)
-- [Techquickie - YouTube](https://www.youtube.com/user/Techquickie)
-- [Центр Архэ - YouTube](https://www.youtube.com/channel/UCY41Iz96tJZMEp1qyLH-LYQ)
-- [Оксфордский Университет - YouTube](https://www.youtube.com/user/rusoxford)
-- [nature video - YouTube](https://www.youtube.com/user/NatureVideoChannel)
-- [Massachusetts Institute of Technology (MIT) - YouTube](https://www.youtube.com/user/MITNewsOffice)
-- [DARPAtv - YouTube](https://www.youtube.com/user/DARPAtv)
-- [sentdex - YouTube](https://www.youtube.com/user/sentdex)
-- [Luke Smith - YouTube](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA)
-- [The Slow Mo Guys - YouTube](https://www.youtube.com/user/theslowmoguys)

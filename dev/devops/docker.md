@@ -26,3 +26,4 @@
 - [A Beginner-Friendly Introduction to Containers, VMs and Docker](https://medium.freecodecamp.org/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b)
 - [First Impressions: Docker for Mac with Kubernetes | Hacker News](https://news.ycombinator.com/item?id=16095425)
 - [Лучшая архитектура на базе Docker и Kubernetes — миф или реальность? / Хабрахабр](https://habrahabr.ru/post/321810/)
+- [Docker for Data Science | Hacker News](https://news.ycombinator.com/item?id=16354989)

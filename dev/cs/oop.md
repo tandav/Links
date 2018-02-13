@@ -23,4 +23,4 @@
 - прост: Класс нужен там, где есть "состояние" данных (некий state), которое нужно хранить, контролировать life-time, соблюдать инкапсуляцию.
 - how to replace inheritance to composition
 - virtual method table
-- 
+- fields = fields, properties = getters and setters

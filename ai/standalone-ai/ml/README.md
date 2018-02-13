@@ -104,11 +104,6 @@
 - [deepmind/sonnet: TensorFlow-based neural network library](https://github.com/deepmind/sonnet)
 - [vahidk/EffectiveTensorflow: TensorFlow tutorials and best practices.](https://github.com/vahidk/EffectiveTensorflow)
 
-## Free online Jypiter notebooks
-- [Google Releases Colaboratory | Hacker News](https://news.ycombinator.com/item?id=15652549)
-- [Jupyter Notebook* Editor | Intel® Software](https://software.intel.com/en-us/dl-training-tool-devguide-jupyter-notebook-editor)
-- [Microsoft Azure Notebooks](https://notebooks.azure.com)
-
 ## CNN
 - [An Intuitive Explanation of Convolutional Neural Networks (2016) | Hacker News](https://news.ycombinator.com/item?id=15328516)
 

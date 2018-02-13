@@ -16,8 +16,8 @@ my life is simple:
                                   ├── body-health ──────────────────┤
                                   ├── gtd ──────────────────────────┤
                                   ├── <a href="english">english</a> ──────────────────────┤
-                                  └── emotional ballance ───────────┘
+                                  └── emotions ─────────────────────┘
                                       ├── <a href="music">music</a> ────────┤
-                                      └── <a href="surfing.md">web-surfing</a> ──┘
+                                      └── <a href="web-surfing">web-surfing</a> ──┘
 <br><br>                                            <a href="big-pic">[big pic]</a>
 </pre>

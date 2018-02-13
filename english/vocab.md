@@ -12,3 +12,4 @@
 - it turns out - получается, что ... 
 - [Английские слова, которые хочется перевести неправильно / Блог компании EnglishDom / Geektimes](https://geektimes.ru/company/englishdom/blog/295431/)
 - oh my freakin' god
+- can, can't через е/э (!= cunt !!!!)

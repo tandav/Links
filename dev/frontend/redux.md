@@ -8,7 +8,7 @@
 - [why redux-thunk??? - How to dispatch a Redux action with a timeout? - Stack Overflow](https://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-a-timeout/35415559#35415559)
     - [thunk - fetch example - How to handle errors in fetch() responses with Redux Thunk? - Stack Overflow](https://stackoverflow.com/questions/37078215/how-to-handle-errors-in-fetch-responses-with-redux-thunk#37099629)
 - [reactjs - What is mapDispatchToProps? - Stack Overflow](https://stackoverflow.com/questions/39419237/what-is-mapdispatchtoprops#40068198)
-
+- Google Images: `redux` `redux-flow` `redux state diagram` `react-redux` 
 
 ---
 
