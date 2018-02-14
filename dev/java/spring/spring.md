@@ -30,6 +30,13 @@
 - [Путь запроса по внутренностям Spring Security / Хабрахабр](https://habrahabr.ru/post/346628/)
 
 
+---
+
+Суть DTO, как сказали пацаны. Типа когда в боди много параметров, их, прежде чем юзать, нужно куда-то промежуточно сохранить. А потом эту инфу юзать где нужно. Типа когда много параметров неудобно и лучше их куда-то сагрегировать в какую-то структуру.
+
+---
+
+
 ## tips
 `@Configuration` - this is a configuration class / not a simple class. Configuration class is 2nd way to do configuration. 1st is XML configuration.
 - [java - Converting spring XML file to spring @Configuration class - Stack Overflow](https://stackoverflow.com/questions/24014919/converting-spring-xml-file-to-spring-configuration-class)

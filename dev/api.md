@@ -33,3 +33,4 @@
 - [How Django REST Framework Changed My Life | nGen WorksnGen Works](http://ngenworks.com/technology/how-django-rest-framework-changed-my-life/)
 - [GraphQL критика в комментарииях JrGQL, a GraphQL alternative | Hacker News](https://news.ycombinator.com/item?id=15005130)
 - [GraphQL vs. REST – Apollo GraphQL](https://dev-blog.apollodata.com/graphql-vs-rest-5d425123e34b)
+- [Introduction and Quick Guide to GraphQL for BackEnd and FrontEnd | Hacker News](https://news.ycombinator.com/item?id=16374116)

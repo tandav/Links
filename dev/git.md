@@ -1,4 +1,5 @@
 # Git
+- git HEAD^ vs HEAD~
 - know everything about push, pull, fetch processes
 - Git Object Model
 - git hash tutorial

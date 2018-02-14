@@ -1,7 +1,7 @@
 # Surfing the web
 ## Basics
 - ![](https://cdn2.iconfinder.com/data/icons/social-flat-buttons-3/512/hacker_news-16.png) [`Hacker News`](https://news.ycombinator.com/) [`HN Search`](https://hn.algolia.com)
-- ![](https://user-images.githubusercontent.com/5549677/35476729-c822ad14-03c5-11e8-8048-27546e3c1df5.png) [`YouTube`](https://www.youtube.com/) [`My Library`](https://www.youtube.com/channel/UCbgKryv4gdpJJ7_Rg5i2xyg/playlists?sort=dd&shelf_id=0&view=1) [`Subscriptions`](https://www.youtube.com/channel/UCbgKryv4gdpJJ7_Rg5i2xyg/channels?view=56&shelf_id=3) [`Popular`](https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA)
+- ![](https://user-images.githubusercontent.com/5549677/35476729-c822ad14-03c5-11e8-8048-27546e3c1df5.png) [`YouTube`](https://www.youtube.com/) [`My Library`](https://www.youtube.com/channel/UCbgKryv4gdpJJ7_Rg5i2xyg/playlists?sort=dd&shelf_id=0&view=1) [`Subscriptions`](https://www.youtube.com/channel/UCbgKryv4gdpJJ7_Rg5i2xyg/channels?view=56&shelf_id=3) [`Trends.RU`](https://www.youtube.com/feed/trending) [`Popular`](https://www.youtube.com/channel/UCF0pVplsI8R5kcAqgtoRqoA)
 - ![](https://user-images.githubusercontent.com/5549677/35476689-507ba248-03c5-11e8-9d70-4987c28fb98e.png) [`Twitter`](https://twitter.com) [`TweetDeck`](https://tweetdeck.twitter.com/) [`Who I follow`](https://twitter.com/tandavaya/following)
 - ![](https://user-images.githubusercontent.com/5549677/35523317-a52df49c-052f-11e8-9729-79834a60470b.png) [`TM Feed`](http://tmfeed.ru/)
 - ![](https://cdn2.iconfinder.com/data/icons/social-flat-buttons-3/512/reddit-16.png) [`reddit`](https://www.reddit.com/)

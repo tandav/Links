@@ -19,6 +19,7 @@
 - [Highest Voted Questions - Cross Validated](https://stats.stackexchange.com/questions?sort=votes)
 - [ensemble - Bagging, boosting and stacking in machine learning - Cross Validated](https://stats.stackexchange.com/questions/18891/bagging-boosting-and-stacking-in-machine-learning)
 - [Linear Algebra for AI | Hacker News](https://news.ycombinator.com/item?id=15262218)
+- [Immersive Math](http://immersivemath.com/ila/index.html)
 
 ## Statistics and Probability
 - [Простое объяснение теоремы Байеса / Geektimes](https://geektimes.ru/post/296041/)
